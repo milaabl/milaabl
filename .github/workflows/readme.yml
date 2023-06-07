@@ -29,5 +29,6 @@ jobs:
           author_email: milaabl2405@gmail.com
           message: "Auto updating my readme"
           add: "*.svg"
+          github_token: ${{ secrets.GITHUB_token }}
         env:
-          GITHUB_TOKEN: ${{ secrets.TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
