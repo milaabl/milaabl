@@ -25,10 +25,11 @@ jobs:
       - name: Commit changes
         uses: EndBug/add-and-commit@v4
         with:
-          author_name: Ludmila Ablis
+          author_name: Ludmila
           author_email: milaabl2405@gmail.com
           message: "Auto updating my readme"
           add: "*.svg"
           github_token: ${{ secrets.GITHUB_token }}
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GITHUB_token }}
