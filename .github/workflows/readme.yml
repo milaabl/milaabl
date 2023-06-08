@@ -5,14 +5,19 @@ on:
     - cron: "0 4 * * *"
   workflow_dispatch:
 
+
+
 jobs:
   readme:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
 
     steps:
       - uses: actions/checkout@v3
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
+          ref: ${{ github.head_ref }}
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Use Node.js ${{ matrix.node-version }}
