@@ -114,44 +114,44 @@
     @keyframes msg-3 {
       0% {
         opacity: 0;
-        transform: translate(10px, 125px);
+        transform: translate(10px, 140px);
       }
       100% {
         opacity: 1;
-        transform: translate(10px, 120px);
+        transform: translate(10px, 135px);
       }
     }
 
     @keyframes msg-4 {
       0% {
         opacity: 0;
-        transform: translate(10px, 197px);
+        transform: translate(10px, 214px);
       }
       100% {
         opacity: 1;
-        transform: translate(10px, 192px);
+        transform: translate(10px, 209px);
       }
     }
 
     @keyframes msg-5 {
       0% {
         opacity: 0;
-        transform: translate(10px, 245px);
+        transform: translate(10px, 263px);
       }
       100% {
         opacity: 1;
-        transform: translate(10px, 240px);
+        transform: translate(10px, 257px);
       }
     }
 
     @keyframes msg-6 {
       0% {
         opacity: 0;
-        transform: translate(10px, 293px);
+        transform: translate(10px, 310px);
       }
       100% {
         opacity: 1;
-        transform: translate(10px, 288px);
+        transform: translate(10px, 305px);
       }
     }
 
@@ -248,10 +248,9 @@
 
   </g>
 
-  <!-- Hi, I'm Artem -->
   <g transform="translate(10, 0)" class="msg-1 bubble">
-    <rect width="133" height="42" rx="18.0355" />
-    <text x="15" y="27">Hi, I'm Artem.</text>
+    <rect width="163" height="42" rx="18.0355" />
+    <text x="15" y="27">Hi, I'm Ludmila.</text>
   </g>
 
   <!-- typing 2 -->
@@ -273,13 +272,14 @@
    
   <!-- Work ... -->
   <g transform="translate(10, 48)" class="msg-2">
-    <rect width="485" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">I’m a team lead/project manager.</text>
-    <text x="15" y="50">Certified KMP, PSPO I, ICP/ICP-ATF, Microsoft specialist.</text>
+    <rect width="440" height="80.1302" rx="18.0355" class="bubble" />
+    <text x="15" y="23">I’m a senior full-stack developer</text>
+    <text x="15" y="46">with 6+ years of experience and a strong FinTech,</text>
+    <text x="15" y="69">MedTech and Web3 background.</text>
   </g>
 
   <!-- typing 3 -->
- <g transform="translate(10, 120)" class="typing-3">
+ <g transform="translate(10, 135)" class="typing-3">
   <rect x="8.27246" width="69.7276" height="42" rx="20.9774" class="bubble" />
   <circle cx="13.591" cy="33.091" r="7.68185" class="bubble" />
   <circle cx="3.54547" cy="41.9547" r="3.54547" class="bubble" />
@@ -296,14 +296,14 @@
   </g>
 
   <!-- From Istanbul... -->
-  <g transform="translate(10, 120)" class="msg-3">
-    <rect width="445" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">Currently I live in Istanbul where it’s supposed to be</text>
-    <text x="15" y="50">{degC}° C and <tspan class="emoji">{weatherEmoji}</tspan> today.</text>
+  <g transform="translate(10, 135)" class="msg-3">
+    <rect width="406" height="66.1302" rx="18.0355" class="bubble" />
+    <text x="15" y="27">Currently I live in Tsarevo, Bulgaria</text>
+    <text x="15" y="50">where it’s supposed to be 23° C and <tspan class="emoji">☁️</tspan> today.</text>
   </g>
 
   <!-- typing 4 -->
-  <g transform="translate(10, 192)" class="typing-4">
+  <g transform="translate(10, 209)" class="typing-4">
     <rect x="8.27246" width="69.7276" height="42" rx="20.9774" class="bubble" />
     <circle cx="13.591" cy="33.091" r="7.68185" class="bubble" />
     <circle cx="3.54547" cy="41.9547" r="3.54547" class="bubble" />
@@ -321,15 +321,15 @@
   </g>
 
   <!-- LinkedIn -->
-  <g transform="translate(10, 192)" class="msg-4">
+  <g transform="translate(10, 209)" class="msg-4">
     <rect width="255" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27">
-      You can find me on <a xlink:href="https://www.linkedin.com/in/akulikov/">LinkedIn</a>.
+      You can find me on <a xlink:href="https://www.linkedin.com/in/ludmila-a-dev/">LinkedIn</a>.
     </text>
   </g>
 
   <!-- typing 5 -->
-  <g transform="translate(10, 240)" class="typing-5">
+  <g transform="translate(10, 257)" class="typing-5">
   <rect x="8.27246" width="69.7276" height="42" rx="20.9774" class="bubble" />
   <circle cx="13.591" cy="33.091" r="7.68185" class="bubble" />
   <circle cx="3.54547" cy="41.9547" r="3.54547" class="bubble" />
@@ -347,13 +347,13 @@
   </g>
 
   <!-- Thanks -->
-  <g transform="translate(10, 240)" class="msg-5">
+  <g transform="translate(10, 257)" class="msg-5">
     <rect width="225" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27">Thanks for stopping by.</text>
   </g>
 
   <!-- typing 6 -->
-  <g transform="translate(10, 288)" class="typing-6">
+  <g transform="translate(10, 305)" class="typing-6">
   <rect x="8.27246" width="69.7276" height="42" rx="20.9774" class="bubble" />
   <circle cx="13.591" cy="33.091" r="7.68185" class="bubble" />
   <circle cx="3.54547" cy="41.9547" r="3.54547" class="bubble" />
@@ -371,8 +371,8 @@
   </g>
 
   <!-- Have a great... -->
-  <g transform="translate(10, 288)" class="msg-6">
-    <rect width="{dayBubbleWidth}" height="42" rx="18.0355" class="bubble" />
-    <text x="15" y="27">Have a great {todayDay}! <tspan class="emoji">👋</tspan></text>  
+  <g transform="translate(10, 305)" class="msg-6">
+    <rect width="230" height="42" rx="18.0355" class="bubble" />
+    <text x="15" y="27">Have a great Sunday! <tspan class="emoji">👋</tspan></text>  
   </g>
 </svg>
