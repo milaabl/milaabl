@@ -39,4 +39,4 @@ jobs:
           commit_user_email: milaabl2405@gmail.com
           commit_author: Author <milaabl2405@gmail.com>
           commit_message: "Auto updating my readme"
-          file_pattern: "*.svg"
+          file_pattern: "*.svg README.md"
