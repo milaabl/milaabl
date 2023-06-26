@@ -28,6 +28,7 @@ jobs:
       - name: Generate readme
         env:
           WEATHER_API_KEY: ${{ secrets.WEATHER_API_KEY }}
+          UNSPLASH_API_KEY: ${{ secrets.UNSPLASH_API_KEY }}
         run: node build-svg.js
 
       - name: Commit changes
