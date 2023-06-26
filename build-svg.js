@@ -64,26 +64,7 @@ const psTime = formatDistance(new Date(2020, 12, 14), today, {
 const locationKey = '255'
 let url = `forecasts/v1/daily/1day/${locationKey}?apikey=${WEATHER_API_KEY}`
 console.log(url)
-const UNSPLASH_DOMAIN = `https://api.unsplash.com`;
-got(`photos/random?client_id=${UNSPLASH_API_KEY}&forest,nature,summer,spring,trees,plants,flowers,sky`, {prefixUrl: UNSPLASH_DOMAIN}).then((response) => {
-  const { urls : { regular : unsplashRandomImage } } = JSON.parse(response.body);
-  fs.readFile('README-template.md', 'utf-8', (error, data) => {
-      console.log(data);
-      if (error) {
-        console.log(error);
-        return
-      }
 
-      data = data.replace('{unsplashRandomImage}', unsplashRandomImage);
-
-      data = fs.writeFile('README.md', data, (err) => {
-        if (err) {
-          console.error(err)
-          return
-        }
-      })
-    });
-}).catch((err) => console.error(err));
 got(url, { prefixUrl: WEATHER_DOMAIN })
   .then((response) => {
     console.log(response.body)
