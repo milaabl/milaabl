@@ -1,4 +1,5 @@
-const WEATHER_API_KEY = process.env.WEATHER_API_KEY
+const WEATHER_API_KEY = process.env.WEATHER_API_KEY;
+const UNSPLASH_API_KEY = process.env.UNSPLASH_API_KEY;
 
 let fs = require('fs')
 let got = require('got')
@@ -63,6 +64,24 @@ const psTime = formatDistance(new Date(2020, 12, 14), today, {
 const locationKey = '255'
 let url = `forecasts/v1/daily/1day/${locationKey}?apikey=${WEATHER_API_KEY}`
 console.log(url)
+const UNSPLASH_DOMAIN = `https://api.unsplash.com`;
+got(`photos/random?client_id=${UNSPLASH_API_KEY}&nature`, {prefixUrl: UNSPLASH_DOMAIN}).then((response) => {
+  const { urls : { regular : unsplashRandomImage } } = JSON.parse(response.body);
+  fs.readFile('README-template.md', 'utf-8', (error, data) => {
+      if (error) {
+        return
+      }
+
+      data = data.replace('{unsplashRandomImage}', unsplashRandomImage);
+
+      data = fs.writeFile('README.md', data, (err) => {
+        if (err) {
+          console.error(err)
+          return
+        }
+      })
+    });
+});
 got(url, { prefixUrl: WEATHER_DOMAIN })
   .then((response) => {
     console.log(response.body)
