@@ -68,7 +68,9 @@ const UNSPLASH_DOMAIN = `https://api.unsplash.com`;
 got(`photos/random?client_id=${UNSPLASH_API_KEY}&nature`, {prefixUrl: UNSPLASH_DOMAIN}).then((response) => {
   const { urls : { regular : unsplashRandomImage } } = JSON.parse(response.body);
   fs.readFile('README-template.md', 'utf-8', (error, data) => {
+      console.log(data);
       if (error) {
+        console.log(error);
         return
       }
 
@@ -81,7 +83,7 @@ got(`photos/random?client_id=${UNSPLASH_API_KEY}&nature`, {prefixUrl: UNSPLASH_D
         }
       })
     });
-});
+}).catch((err) => console.error(err));
 got(url, { prefixUrl: WEATHER_DOMAIN })
   .then((response) => {
     console.log(response.body)
