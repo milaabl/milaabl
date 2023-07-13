@@ -4,7 +4,7 @@
 
 <details>
 <summary>
-  ⬇️ <strong>Dnieper in the morning, 1881 - Arkhyp Kuindzhi</strong>
+  ⬇️ <strong>"Dnieper in the morning", 1881 - Arkhyp Kuindzhi</strong>
 </summary>
 
 <img width="49%" src="https://raw.githubusercontent.com/milaabl/readme-mosaic/main/data/input.jpg" alt="Original picture"/>
