@@ -12,7 +12,7 @@
 <img width="70%" src="https://raw.githubusercontent.com/milaabl/readme-mosaic/main/data/output.gif" alt="Output GIF"/>
 </details>
 
-⭐ Star this and the [readme-mosaic](https://github.com/milaabl/readme-mosaic) repos for your avatar to be included in the next picture redrawing. The more users star the repo, the more realist the picture will look because the colors will get more diverse.
+⭐ Star this and the [readme-mosaic](https://github.com/milaabl/readme-mosaic) repos for your avatar to be included in the next picture redrawing. The more users star the repo, the more realistic the picture will look like because the colors will get more diverse.
 
 📊 See [statistics](https://github.com/milaabl/readme-mosaic/blob/main/STATISTICS.md) of how many time each stargazer's avatar was used to produce the result image
 
