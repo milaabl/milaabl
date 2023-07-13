@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/milaabl/milaabl-readme/preview/github-contribution-grid-snake.svg" />
 
-**Dnieper in the morning, 1881 - Arkhyp Kuindzhi**
+⬇️ **Dnieper in the morning, 1881 - Arkhyp Kuindzhi**
 
 <img width="49%" src="https://raw.githubusercontent.com/milaabl/readme-mosaic/main/data/input.jpg" alt="Original picture"/>
 <img width="49%" src="https://raw.githubusercontent.com/milaabl/readme-mosaic/main/data/output.jpg" alt="Output picture"/>
