@@ -12,4 +12,6 @@
 
 📊 See [statistics](https://github.com/milaabl/readme-mosaic/blob/main/STATISTICS.md) of how many time each stargazer's avatar was used to produce the result image
 
-♟️[Play open-source chess](https://github.com/milaabl/readme-chess)
+♟️If you have some time, you can [play this open-source chess](https://github.com/milaabl/readme-chess) game
+
+<a href="https://github.com/milaabl/readme-chess/blob/master/README.md"><img src="https://github.com/milaabl/milaabl/assets/86361434/c8736701-e4ea-4217-a0a7-9ecd987aca24" width="50%" alt="README chess game preview" /></a>
