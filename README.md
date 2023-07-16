@@ -1,8 +1,6 @@
 [![](https://raw.githubusercontent.com/milaabl/milaabl/main/chat.svg)](https://www.linkedin.com/in/ludmila-a-dev/)
 
-<img alt="Snake eating contributions" src="https://raw.githubusercontent.com/milaabl/milaabl-readme/preview/github-contribution-grid-snake.svg" />
-
-[comment]: <img src="https://raw.githubusercontent.com/milaabl/milaabl-readme/703bfa29eaa631ad12fcf9c11048968c1943f5c4/github-contribution-grid-snake.svg" alt="Snake" />
+<img alt="Snake eating my contributions for breakfast" src="https://raw.githubusercontent.com/milaabl/milaabl-readme/preview/github-contribution-grid-snake.svg" />
 
 <details>
 <summary>
