@@ -19,3 +19,10 @@
 ♟️If you have some time, you can [play this open-source chess](https://github.com/milaabl/readme-chess) game
 
 <a href="https://github.com/milaabl/readme-chess/blob/master/README.md"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/86361434/253328460-c8736701-e4ea-4217-a0a7-9ecd987aca24.png" alt="README chess game preview" width="50%" /></a>
+
+<details>
+  <summary>
+    ⬇️ This is me 🤫
+  </summary>
+  <img width="30%" src="https://github.com/milaabl/milaabl/assets/86361434/cf7800f1-4376-41e5-b157-d272210a27c0" alt="Mila A" />
+</details>
