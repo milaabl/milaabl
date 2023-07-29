@@ -18,9 +18,4 @@
 
 <a href="https://github.com/milaabl/readme-chess/blob/master/README.md"><img src="https://raw.githubusercontent.com/milaabl/readme-chess/master/chess.png" alt="README chess dynamic game preview" width="50%" /></a>
 
-<details>
-  <summary>
-    ⬇️ This is me 🤫
-  </summary>
-  <img width="30%" src="https://github.com/milaabl/milaabl/assets/86361434/cf7800f1-4376-41e5-b157-d272210a27c0" alt="Mila Ablis" />
-</details>
+✍️ Check out my <a href="https://medium.com/@milaabl2405">Medium</a>!
