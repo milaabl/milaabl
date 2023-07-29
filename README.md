@@ -14,15 +14,13 @@
 
 ⭐ Star this and the [readme-mosaic](https://github.com/milaabl/readme-mosaic) repos for your avatar to be included in the next picture redrawing. The more users star the repo, the more realistic the picture will look like because the colors will get more diverse.
 
-📊 See [statistics](https://github.com/milaabl/readme-mosaic/blob/main/STATISTICS.md) of how many time each stargazer's avatar was used to produce the result image
-
 ♟️If you have some time, you can [play this open-source chess](https://github.com/milaabl/readme-chess) game
 
-<a href="https://github.com/milaabl/readme-chess/blob/master/README.md"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/86361434/253328460-c8736701-e4ea-4217-a0a7-9ecd987aca24.png" alt="README chess game preview" width="50%" /></a>
+<a href="https://github.com/milaabl/readme-chess/blob/master/README.md"><img src="https://raw.githubusercontent.com/milaabl/readme-chess/master/chess.png" alt="README chess dynamic game preview" width="50%" /></a>
 
 <details>
   <summary>
     ⬇️ This is me 🤫
   </summary>
-  <img width="30%" src="https://github.com/milaabl/milaabl/assets/86361434/cf7800f1-4376-41e5-b157-d272210a27c0" alt="Mila A" />
+  <img width="30%" src="https://github.com/milaabl/milaabl/assets/86361434/cf7800f1-4376-41e5-b157-d272210a27c0" alt="Mila Ablis" />
 </details>
