@@ -18,4 +18,4 @@
 
 <a href="https://github.com/milaabl/readme-chess/blob/master/README.md"><img src="https://raw.githubusercontent.com/milaabl/readme-chess/master/chess.png" alt="README chess dynamic game preview" width="50%" /></a>
 
-✍️ Check out my <a href="https://medium.com/@milaabl2405">Medium</a> for Web3-related posts!
+✍️ Check out my <a href="https://medium.com/@milaabl2405">Medium</a> for Web3-related posts! 🐼🎍
