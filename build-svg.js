@@ -103,7 +103,7 @@ async function getPoem() {
 
   const currentReadmeContents = fs.readFileSync("./README.md").toString();
 
-fs.writeFileSync("./README.md", currentReadmeContents.replace(currentReadmeContents.split('[//]: Start poem')[1].split('[//]: End poem')[0], `
+fs.writeFileSync("./README.md", currentReadmeContents.replace(currentReadmeContents.split('<!-- Start poem -->')[1].split('<!-- End poem -->')[0], `
 # 💮 ${data.title} by *${data.author}*
 
 <p>
