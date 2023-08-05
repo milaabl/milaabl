@@ -97,3 +97,21 @@ got(url, { prefixUrl: WEATHER_DOMAIN })
     // TODO: something better
     console.log(err)
   })
+
+async function getPoem() {
+  const data = await fetch('https://poetrydb.org/random').then((res) => res.json()).then(poems => poems[0]);
+
+  const currentReadmeContents = fs.readFileSync("./README.md").toString();
+
+fs.writeFileSync("./README.md", currentReadmeContents.replace(currentReadmeContents.split('[//]: Start poem')[1].split('[//]: End poem')[0], `
+# 💮 ${data.title} by *${data.author}*
+
+<p>
+    ${data.lines.join('<br/>')}
+</p>
+
+***
+`));
+};
+
+getPoem();
