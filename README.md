@@ -8,9 +8,13 @@
   <summary>👇 Random poem ✍️</summary>
 
 <!-- Start poem -->
+# 💮 Winter by *Robert Southey*
 
-text
+<p>
+    A wrinkled crabbed man they picture thee,<br/>Old Winter, with a rugged beard as grey<br/>As the long moss upon the apple-tree;<br/>Blue-lipt, an icedrop at thy sharp blue nose,<br/>Close muffled up, and on thy dreary way<br/>Plodding alone through sleet and drifting snows.<br/>They should have drawn thee by the high-heapt hearth,<br/>Old Winter! seated in thy great armed chair,<br/>Watching the children at their Christmas mirth;<br/>Or circled by them as thy lips declare<br/>Some merry jest, or tale of murder dire,<br/>Or troubled spirit that disturbs the night,<br/>Pausing at times to rouse the mouldering fire,<br/>Or taste the old October brown and bright.
+</p>
 
+***
 <!-- End poem -->
 </details>
 
