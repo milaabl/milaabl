@@ -1,8 +1,18 @@
 [![](https://raw.githubusercontent.com/milaabl/milaabl/main/chat.svg)](https://www.linkedin.com/in/ludmila-a-dev/)
 
-![My job title cover](https://github.com/milaabl/milaabl/assets/86361434/c35b0e6f-acf0-435e-920d-b90faa4788ad)
+<!-- https://github.com/milaabl/milaabl/assets/86361434/c35b0e6f-acf0-435e-920d-b90faa4788ad -->
 
 <img alt="Snake eating my contributions for breakfast🧉" src="https://raw.githubusercontent.com/milaabl/milaabl-readme/preview/github-contribution-grid-snake.svg" />
+
+<details>
+  <summary>👇 Random poem ✍️</summary>
+
+<!-- Start poem -->
+
+text
+
+<!-- End poem -->
+</details>
 
 <details>
 <summary>
