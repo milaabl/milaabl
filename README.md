@@ -5,7 +5,7 @@
 <img alt="Snake eating my contributions for breakfast🧉" src="https://raw.githubusercontent.com/milaabl/milaabl-readme/preview/github-contribution-grid-snake.svg" />
 
 <details>
-  <summary>🎁 A poem for you: </summary>
+  <summary>🎁 <strong>A poem for you!</strong> 👇 </summary>
 
 <!-- Start poem -->
 # 💮 To A Friend Who Sent Me Some Roses by *John Keats*
@@ -34,11 +34,11 @@
 
 <a href="https://github.com/milaabl/readme-chess/blob/master/README.md"><img src="https://raw.githubusercontent.com/milaabl/readme-chess/master/chess.png" alt="README chess dynamic game preview" width="50%" /></a>
 
-✍️ Check out my <a href="https://medium.com/@milaabl2405">Medium</a> for Web3-related posts! 🐼🎍
+<strong>✍️ Check out my <a href="https://medium.com/@milaabl2405">Medium</a> for Web3-related posts! 🐼🎍</strong>
 
 <details>
   <summary>That's where I'm from: 🐑</summary>
 
-  ![West Ukrainian village](https://github.com/milaabl/milaabl/assets/86361434/75269a38-ecaf-4cf8-920b-6aa7fd89cf8e)
+  <img alt="West Ukrainian village" width="70%" src="https://github.com/milaabl/milaabl/assets/86361434/75269a38-ecaf-4cf8-920b-6aa7fd89cf8e" />
 
 </details>
