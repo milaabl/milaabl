@@ -5,7 +5,7 @@
 <img alt="Snake eating my contributions for breakfast🧉" src="https://raw.githubusercontent.com/milaabl/milaabl-readme/preview/github-contribution-grid-snake.svg" />
 
 <details>
-  <summary>👇 Random poem ✍️</summary>
+  <summary>🎁 A poem for you: </summary>
 
 <!-- Start poem -->
 # 💮 To A Friend Who Sent Me Some Roses by *John Keats*
@@ -30,8 +30,15 @@
 
 ⭐ Star the [readme-mosaic](https://github.com/milaabl/readme-mosaic) repo for your 🐈‍⬛ avatar to be included in the next picture redrawing. The more users star the repo, the more realistic the picture will look like because the colors will get more diverse. It's a Python workflow. The author of the painting above is Arkhip Kuindzhi — a Ukrainian painter 💙💛.
 
-♟️If you have some time, you can [join this open-source chess](https://github.com/milaabl/readme-chess) game and submit your move!
+♟️If you have some time, you can [join this open-source chess](https://github.com/milaabl/readme-chess) game and submit your move! It's built with GitHub workflows & Python, as well as it includes a NodeJS .md to image (.png) script. 👇
 
 <a href="https://github.com/milaabl/readme-chess/blob/master/README.md"><img src="https://raw.githubusercontent.com/milaabl/readme-chess/master/chess.png" alt="README chess dynamic game preview" width="50%" /></a>
 
 ✍️ Check out my <a href="https://medium.com/@milaabl2405">Medium</a> for Web3-related posts! 🐼🎍
+
+<details>
+  <summary>That's where I'm from: 🐑</summary>
+
+  ![West Ukrainian village](https://github.com/milaabl/milaabl/assets/86361434/75269a38-ecaf-4cf8-920b-6aa7fd89cf8e)
+
+</details>
