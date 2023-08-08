@@ -8,10 +8,10 @@
   <summary>🎁 <strong>A poem for you!</strong> 👇 </summary>
 
 <!-- Start poem -->
-# 💮 To A Friend Who Sent Me Some Roses by *John Keats*
+# 💮 Sonnet: I said I splendidly loved you; it's not true by *Rupert Brooke*
 
 <p>
-    As late I rambled in the happy fields,<br/>What time the skylark shakes the tremulous dew<br/>From his lush clover covert;—when anew<br/>Adventurous knights take up their dinted shields;<br/>I saw the sweetest flower wild nature yields,<br/>A fresh-blown musk-rose; 'twas the first that threw<br/>Its sweets upon the summer: graceful it grew<br/>As is the wand that Queen Titania wields.<br/>And, as I feasted on its fragrancy,<br/>I thought the garden-rose it far excelled;<br/>But when, O Wells! thy roses came to me,<br/>My sense with their deliciousness was spelled:<br/>Soft voices had they, that with tender plea<br/>Whispered of peace, and truth, and friendliness unquelled.
+    I said I splendidly loved you; it's not true.<br/>Such long swift tides stir not a land-locked sea.<br/>On gods or fools the high risk falls -- on you --<br/>The clean clear bitter-sweet that's not for me.<br/>Love soars from earth to ecstasies unwist.<br/>Love is flung Lucifer-like from Heaven to Hell.<br/>But -- there are wanderers in the middle mist,<br/>Who cry for shadows, clutch, and cannot tell<br/>Whether they love at all, or, loving, whom:<br/>An old song's lady, a fool in fancy dress,<br/>Or phantoms, or their own face on the gloom;<br/>For love of Love, or from heart's loneliness.<br/>Pleasure's not theirs, nor pain. They doubt, and sigh,<br/>And do not love at all. Of these am I.
 </p>
 
 ***
