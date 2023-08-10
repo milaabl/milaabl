@@ -6,16 +6,15 @@
 
 <strong>⭐ My recently starred repos </strong>
 <!-- Starred repos start -->
-
 | Name | Url | Stars | Description |
 | --- | --- |  --- |  --- |
 | cartesi/staking-pool|https://github.com/cartesi/staking-pool|7|PoS Staking Pools|
 | ajna-finance/ajna-core|https://github.com/ajna-finance/ajna-core|26|Ajna Protocol core contracts|
 | maticnetwork/contracts|https://github.com/maticnetwork/contracts|977|Smart contracts comprising the business logic of the Matic Network|
-| eclipse-theia/theia|https://github.com/eclipse-theia/theia|18263|Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.|
+| eclipse-theia/theia|https://github.com/eclipse-theia/theia|18264|Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.|
 | saltstack/salt|https://github.com/saltstack/salt|13413|Software to automate the management and configuration of any infrastructure or application at scale. Get access to the Salt software package repository here: |
 | projectdiscovery/nuclei|https://github.com/projectdiscovery/nuclei|14052|Fast and customizable vulnerability scanner based on simple YAML based DSL.|
-| huggingface/candle|https://github.com/huggingface/candle|3663|Minimalist ML framework for Rust|
+| huggingface/candle|https://github.com/huggingface/candle|3675|Minimalist ML framework for Rust|
 | TanStack/query|https://github.com/TanStack/query|35795|🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.|
 | francoismassart/eslint-plugin-tailwindcss|https://github.com/francoismassart/eslint-plugin-tailwindcss|986|ESLint plugin for Tailwind CSS usage|
 | OriginProtocol/nft-launchpad|https://github.com/OriginProtocol/nft-launchpad|10|Contracts for Origin's NFT platform|
@@ -36,10 +35,10 @@
   <summary>📚 <strong>A random poem from <em>https://poetrydb.org/random</em>!</strong> 👇 </summary>
 
 <!-- Start poem -->
-# 💮 On my Sister Joanna's Entrance into Her 33rd Year by *Major Henry Livingston, Jr.*
+# 💮 An Occasional Prologue, by *George Gordon, Lord Byron*
 
 <p>
-    On this thy natal day permit a friend -<br/>A brother - with thy joys his own to blend:<br/>In all gladness he would wish to share<br/>As willing in thy griefs a part to bear.<br/><br/>Meekly attend the ways of higher heav'n!<br/>Is much deny'd? Yet much my dear is giv'n.<br/>Thy health, thy reason unimpaired remain<br/>And while as new fal'n snows thy spotless fame<br/>The partner of thy life, attentive - kind -<br/>And blending e'en the interests of the mind.<br/><br/>What bliss is thine when fore thy glistring eye<br/>Thy lovely infant train pass jocund by!<br/>The ruddy cheek, the smiling morning face<br/>Denote a healthy undegenerate race:<br/>In them renew'd, you'll live and live again,<br/>And children's children's children lisp thy name.<br/>Bright be the skies where'er my sister goes<br/>Nor scowling tempests injure her repose -<br/>The field of life with roses thick be strow'd<br/>Nor one sharp thorn lie lurking in the road.<br/>Thy ev'ry path be still a path of peace<br/>And each revolving year thy joys increase;<br/>Till hours and years of time itself be o'er<br/>And one eternal day around thee pour.
+    Since the refinement of this polish'd age<br/>Has swept immoral raillery from the stage;<br/>Since taste has now expung'd licentious wit,<br/>Which stamp'd disgrace on all an author writ;<br/>Since, now, to please with purer scenes we seek,<br/>Nor dare to call the blush from Beauty's cheek;<br/>Oh! let the modest Muse some pity claim,<br/>And meet indulgence--though she find not fame.<br/>Still, not for _her_ alone, we wish respect,<br/>_Others_ appear more conscious of defect:<br/>To-night no _vet'ran Roscii_ you behold,<br/>In all the arts of scenic action old;<br/>No COOKE, no KEMBLE, can salute you here,<br/>No SIDDONS draw the sympathetic tear;<br/>To-night you throng to witness the _début_<br/>Of embryo Actors, to the Drama new:<br/>Here, then, our almost unfledg'd wings we try;<br/>Clip not our _pinions_, ere the _birds can fly_:<br/>Failing in this our first attempt to soar,<br/>Drooping, alas! we fall to rise no more.<br/>Not one poor trembler, only, fear betrays,<br/>Who hopes, yet almost dreads to meet your praise;<br/>But all our Dramatis Personæ wait,<br/>In fond suspense this crisis of their fate.<br/>No venal views our progress can retard,<br/>Your generous plaudits are our sole reward;<br/>For these, each _Hero_ all his power displays,<br/>Each timid _Heroine_ shrinks before your gaze:<br/>Surely the last will some protection find?<br/>None, to the softer sex, can prove unkind:<br/>While Youth and Beauty form the female shield,<br/>The sternest Censor to the fair must yield.<br/>Yet, should our feeble efforts nought avail,<br/>Should, _after all_, our best endeavours fail;<br/>Still, let some mercy in your bosoms live,<br/>And, if you can't applaud, at least _forgive_.
 </p>
 
 ***
