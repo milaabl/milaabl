@@ -5,7 +5,7 @@
 <img alt="Snake eating my contributions for breakfast🧉" src="https://raw.githubusercontent.com/milaabl/milaabl-readme/preview/github-contribution-grid-snake.svg" />
 
 <details>
-  <summary>📚 <strong>A random poem from *https://poetrydb.org/random*!</strong> 👇 </summary>
+  <summary>📚 <strong>A random poem from <em>https://poetrydb.org/random</em>!</strong> 👇 </summary>
 
 <!-- Start poem -->
 # 💮 On my Sister Joanna's Entrance into Her 33rd Year by *Major Henry Livingston, Jr.*
