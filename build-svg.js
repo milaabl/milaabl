@@ -65,6 +65,54 @@ const locationKey = '255'
 let url = `forecasts/v1/daily/1day/${locationKey}?apikey=${WEATHER_API_KEY}`
 console.log(url)
 
+async function getPoem() {
+  const data = await fetch('https://poetrydb.org/random').then((res) => res.json()).then(poems => poems[0]);
+
+  const currentReadmeContents = fs.readFileSync("./README.md").toString();
+
+fs.writeFileSync("./README.md", currentReadmeContents.replace(currentReadmeContents.split('<!-- Start poem -->')[1].split('<!-- End poem -->')[0], `
+# 💮 ${data.title} by *${data.author}*
+
+<p>
+    ${data.lines.join('<br/>')}
+</p>
+
+***
+`));
+};
+
+async function get20LatestStarredRepos() {
+    const starredRepos = await fetch('https://api.github.com/users/milaabl/starred').then(res => res.json());
+
+    return starredRepos.slice(0, 20).map((starredRepo) => ({
+        name: starredRepo.full_name,
+        url: starredRepo.html_url,
+        stargazers: starredRepo.stargazers_count,
+        description: starredRepo.description || "",
+    }));
+}
+
+async function displayLatestStarredRepos() {
+    const currentReadme = fs.readFileSync("./README.md").toString();
+
+    const toReplace = currentReadme.split("<!-- Starred repos start -->")[1].split("<!-- Starred repos end -->")[0];
+
+    console.log(toReplace)
+
+    const latest20StarredRepos = await get20LatestStarredRepos();
+
+    const starredReposTable = `
+| Name | Url | Stars | Description |
+| --- | --- |  --- |  --- |
+${latest20StarredRepos.map(
+(starredRepo) => `| ${Object.values(starredRepo).map((field) => field + "|").join("")}
+`
+).join("")}
+`;
+
+    fs.writeFileSync("./README.md", currentReadme.replace(toReplace, starredReposTable));
+}
+
 got(url, { prefixUrl: WEATHER_DOMAIN })
   .then((response) => {
     console.log(response.body)
@@ -91,27 +139,11 @@ got(url, { prefixUrl: WEATHER_DOMAIN })
           return
         }
       })
+
+      getPoem().then(() => getLatestStarredRepos());
     })
   })
   .catch((err) => {
     // TODO: something better
     console.log(err)
   })
-
-async function getPoem() {
-  const data = await fetch('https://poetrydb.org/random').then((res) => res.json()).then(poems => poems[0]);
-
-  const currentReadmeContents = fs.readFileSync("./README.md").toString();
-
-fs.writeFileSync("./README.md", currentReadmeContents.replace(currentReadmeContents.split('<!-- Start poem -->')[1].split('<!-- End poem -->')[0], `
-# 💮 ${data.title} by *${data.author}*
-
-<p>
-    ${data.lines.join('<br/>')}
-</p>
-
-***
-`));
-};
-
-getPoem();
