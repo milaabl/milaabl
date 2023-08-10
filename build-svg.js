@@ -140,7 +140,7 @@ got(url, { prefixUrl: WEATHER_DOMAIN })
         }
       })
 
-      getPoem().then(() => getLatestStarredRepos());
+      getPoem().then(() => displayLatestStarredRepos());
     })
   })
   .catch((err) => {
