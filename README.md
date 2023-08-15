@@ -4,9 +4,11 @@
 
 <img alt="Snake eating my contributions for breakfast🧉" src="https://raw.githubusercontent.com/milaabl/milaabl-readme/preview/github-contribution-grid-snake.svg" />
 
+<details>
 <summary>
-  <details><strong>⭐ My recently starred repos </strong>
-    </details>
+  <strong>⭐ My recently starred repos </strong>
+</summary>
+  
 <!-- Starred repos start -->
 | Name | Url | Stars | Description |
 | --- | --- |  --- |  --- |
@@ -42,7 +44,8 @@
 | eclipse-theia/theia|https://github.com/eclipse-theia/theia|18310|Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.|
 
 <!-- Starred repos end -->
-</summary>
+
+</details>
 
 <details>
   <summary>📚 <strong>A random poem from <em>https://poetrydb.org/random</em>!</strong> 👇 </summary>
