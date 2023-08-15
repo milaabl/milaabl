@@ -84,7 +84,7 @@ fs.writeFileSync("./README.md", currentReadmeContents.replace(currentReadmeConte
 async function get20LatestStarredRepos() {
     const starredRepos = await fetch('https://api.github.com/users/milaabl/starred').then(res => res.json());
 
-    return starredRepos.slice(0, 20).map((starredRepo) => ({
+    return starredRepos.slice(0, 30).map((starredRepo) => ({
         name: starredRepo.full_name,
         url: starredRepo.html_url,
         stargazers: starredRepo.stargazers_count,
