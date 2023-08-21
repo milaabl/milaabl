@@ -12,36 +12,36 @@
 <!-- Starred repos start -->
 | Name | Url | Stars | Description |
 | --- | --- |  --- |  --- |
+| pcaversaccio/erc20-permit-upgradeable|https://github.com/pcaversaccio/erc20-permit-upgradeable|10|Permit-enabled, upgradeable ERC20 smart contract template.|
+| Genza999/VotingOnSolana_smartcontract|https://github.com/Genza999/VotingOnSolana_smartcontract|3|Repo to showcase my version of voting for proposals on the solana blockchain|
+| CloudNativeEntrepreneur/web3auth-service|https://github.com/CloudNativeEntrepreneur/web3auth-service|7|Issues JWT tokens in response to completing challenges using metamask for performing actions against APIs|
+| ikluft/prefvote|https://github.com/ikluft/prefvote|4|PrefVote is to promote ranked-choice preference voting algorithms. It is descended from the Vote::STV software written by Ian Kluft in Perl originally in 1998 and used by multiple clubs and non-profit organizations over the years for polls and elections.|
+| shota-imoto/tohyo|https://github.com/shota-imoto/tohyo|1|voting cli tool|
+| AngleProtocol/angle-transmuter|https://github.com/AngleProtocol/angle-transmuter|18|⚗️ Smart contracts for Transmuter, an autonomous and modular price stability module for decentralized stablecoin protocols|
+| Picodes/4naly3er|https://github.com/Picodes/4naly3er|288|Static smart contract code 4naly3er|
+| AngleProtocol/boilerplate|https://github.com/AngleProtocol/boilerplate|15|👩‍💻 Angle Boilerplate for starting new web3 projects|
+| AngleProtocol/Uniswap-Incentives-Computer|https://github.com/AngleProtocol/Uniswap-Incentives-Computer|7|🦄 Uniswap Incentives Computer|
+| AngleProtocol/angle-router|https://github.com/AngleProtocol/angle-router|3|🛣 Routing contracts of the Angle Protocol|
+| AngleProtocol/angle-core|https://github.com/AngleProtocol/angle-core|79|🇪🇺 Smart contracts for the Core Module and the governance of the Angle Protocol|
+| exactly/protocol|https://github.com/exactly/protocol|47|exactly is a decentralized, non-custodial and autonomous marketplace for depositing and borrowing crypto assets at a variable or fixed interest rate.|
 | OlympusDAO/olympus-v3|https://github.com/OlympusDAO/olympus-v3|28|Olympus V3 smart contracts|
 | GuardianUI/GuardianTest|https://github.com/GuardianUI/GuardianTest|23|Web3 E2E Testing Framework|
 | OlympusDAO/olympus-frontend|https://github.com/OlympusDAO/olympus-frontend|281||
 | DoubleGremlin181/DoubleGremlin181|https://github.com/DoubleGremlin181/DoubleGremlin181|71|Come play TicTacToe on my profile's README|
-| pola-rs/polars|https://github.com/pola-rs/polars|19652|Fast multi-threaded, hybrid-out-of-core query engine focussing on DataFrame front-ends|
+| pola-rs/polars|https://github.com/pola-rs/polars|19674|Fast multi-threaded, hybrid-out-of-core query engine focussing on DataFrame front-ends|
 | ethereum/wiki|https://github.com/ethereum/wiki|14761|The Ethereum Wiki|
 | visualitypl/seedify|https://github.com/visualitypl/seedify|2|Let your seed code become a first-class member of the Rails app and put it into seed objects. Invoke them as rake tasks or from within the app/console, with or without the parameters. Progress logging included.|
-| mpiorowski/svelte-auth|https://github.com/mpiorowski/svelte-auth|1||
+| mpiorowski/svelte-auth|https://github.com/mpiorowski/svelte-auth|2||
 | mento-protocol/mento-deployment|https://github.com/mento-protocol/mento-deployment|2|This repository contains scripts necessary to deploy upgrades to the Mento protocol|
 | mdulin2/sushi_swap_expliot_2023|https://github.com/mdulin2/sushi_swap_expliot_2023|4||
 | sushiswap/v3-core|https://github.com/sushiswap/v3-core|3|This repository contains the core smart contracts for the SushiSwap V3 Protocol.|
 | sushiswap/v2-core|https://github.com/sushiswap/v2-core|4|This repository contains the core smart contracts for the SushiSwap V2 Protocol.|
-| cvnlab/knkutils|https://github.com/cvnlab/knkutils|45|MATLAB utility functions written by Kendrick Kay|
+| cvnlab/knkutils|https://github.com/cvnlab/knkutils|44|MATLAB utility functions written by Kendrick Kay|
 | QuadrataNetwork/passport-contracts|https://github.com/QuadrataNetwork/passport-contracts|5||
 | Seedifyfund/Seed-Staking-smart-contract|https://github.com/Seedifyfund/Seed-Staking-smart-contract|6||
 | MerlinEgalite/hack-smart-contract|https://github.com/MerlinEgalite/hack-smart-contract|3|Smart contracts to practice your (WH) hacking skills.|
-| rainbow-me/rainbowkit|https://github.com/rainbow-me/rainbowkit|1991|The best way to connect a wallet 🌈 🧰|
+| rainbow-me/rainbowkit|https://github.com/rainbow-me/rainbowkit|1993|The best way to connect a wallet 🌈 🧰|
 | Mean-Finance/aztec-connect-bridges|https://github.com/Mean-Finance/aztec-connect-bridges|1||
-| Mean-Finance/dca-fe|https://github.com/Mean-Finance/dca-fe|12|Mean Finance FE Code repository|
-| Mean-Finance/sdk|https://github.com/Mean-Finance/sdk|8|An SDK for all things Mean Finance (and more)|
-| yocashofficial/play|https://github.com/yocashofficial/play|1||
-| pyth-network/pyth-client-js|https://github.com/pyth-network/pyth-client-js|62|Javascript API for on-chain pyth account structure|
-| uniwhale-io/trustwallet-assets|https://github.com/uniwhale-io/trustwallet-assets|1|A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.|
-| uniwhale-io/uniwhale-v1-contracts|https://github.com/uniwhale-io/uniwhale-v1-contracts|5|Trade BTC, ETH, and more with up to 200x leverage directly from your wallet|
-| 0vm/0vm|https://github.com/0vm/0vm|15||
-| Layr-Labs/eigenlayer-contracts|https://github.com/Layr-Labs/eigenlayer-contracts|246||
-| Mean-Finance/dca-v2-core|https://github.com/Mean-Finance/dca-v2-core|40||
-| Kwenta/reward-distributor|https://github.com/Kwenta/reward-distributor|2|SNX reward 'Distributooor' for futures testnet competition.|
-| Uniswap/universal-router|https://github.com/Uniswap/universal-router|310|Uniswap's Universal Router for NFT and ERC20 swapping|
-| Uniswap/v3-periphery|https://github.com/Uniswap/v3-periphery|1019|🦄 🦄 🦄 Peripheral smart contracts for interacting with Uniswap v3|
 
 <!-- Starred repos end -->
 
@@ -51,10 +51,10 @@
   <summary>📚 <strong>A random poem from <em>https://poetrydb.org/random</em>!</strong> 👇 </summary>
 
 <!-- Start poem -->
-# 💮 The Barn by *Edward Thomas*
+# 💮 October by *Edward Thomas*
 
 <p>
-    THEY should never have built a barn there, at all--<br/>Drip, drip, drip!--under that elm tree,<br/>Though then it was young. Now it is old<br/>But good, not like the barn and me.<br/><br/>To-morrow they cut it down. They will leave<br/>The barn, as I shall be left, maybe.<br/>What holds it up? 'Twould not pay to pull down.<br/>Well, this place has no other antiquity.<br/><br/>No abbey or castle looks so old<br/>As this that Job Knight built in '54,<br/>Built to keep corn for rats and men.<br/>Now there's fowls in the roof, pigs on the floor.<br/><br/>What thatch survives is dung for the grass,<br/>The best grass on the farm. A pity the roof<br/>Will not bear a mower to mow it. But<br/>Only fowls have foothold enough.<br/><br/>Starlings used to sit there with bubbling throats<br/>Making a spiky beard as they chattered<br/>And whistled and kissed, with heads in air,<br/>Till they thought of something else that mattered.<br/><br/>But now they cannot find a place,<br/>Among all those holes, for a nest any more.<br/>It's the turn of lesser things, I suppose.<br/>Once I fancied 'twas starlings they built it for.
+    THE green elm with the one great bough of gold<br/>Lets leaves into the grass slip, one by one,--<br/>The short hill grass, the mushrooms small milk-white,<br/>Harebell and scabious and tormentil,<br/>That blackberry and gorse, in dew and sun,<br/>Bow down to; and the wind travels too light<br/>To shake the fallen birch leaves from the fern;<br/>The gossamers wander at their own will.<br/>At heavier steps than birds' the squirrels scold.<br/><br/>The rich scene has grown fresh again and new<br/>As Spring and to the touch is not more cool<br/>Than it is warm to the gaze; and now I might<br/>As happy be as earth is beautiful,<br/>Were I some other or with earth could turn<br/>In alternation of violet and rose,<br/>Harebell and snowdrop, at their season due,<br/>And gorse that has no time not to be gay.<br/>But if this be not happiness,--who knows?<br/>Some day I shall think this a happy day,<br/>And this mood by the name of melancholy<br/>Shall no more blackened and obscured be.
 </p>
 
 ***
