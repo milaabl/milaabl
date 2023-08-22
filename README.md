@@ -12,6 +12,20 @@
 <!-- Starred repos start -->
 | Name | Url | Stars | Description |
 | --- | --- |  --- |  --- |
+| manifoldfinance/defi-threat|https://github.com/manifoldfinance/defi-threat|437|a globally-accessible knowledge base of adversary tactics and techniques based on real-world observations on decentralized finance |
+| mstable/mStable-contracts|https://github.com/mstable/mStable-contracts|309|📃 Smart Contracts that make up the core of the mStable protocol|
+| yewstack/yew|https://github.com/yewstack/yew|28275|Rust / Wasm framework for building client web apps|
+| MartinKavik/voting-solana-moonzoon|https://github.com/MartinKavik/voting-solana-moonzoon|29|The Voting example based on MoonZoon and Solana.|
+| CitizenLabDotCo/citizenlab|https://github.com/CitizenLabDotCo/citizenlab|192|CitizenLab is a digital democracy platform that facilitates community participation and co-creation. Participants can post ideas, contribute to discussions, or choose to vote and prioritize community projects. |
+| 0xtekgrinder/warlord-autocompounder|https://github.com/0xtekgrinder/warlord-autocompounder|2|Auto compounder based on ERC4626 on top of Warlord from Paladin Vote|
+| zhazhalaila/MagpieBFT|https://github.com/zhazhalaila/MagpieBFT|1|Aynchronous Byzantine Tolerant Protocol|
+| Robin-and-friends/tCDP-frontend|https://github.com/Robin-and-friends/tCDP-frontend|7||
+| Robin-and-friends/tCDP|https://github.com/Robin-and-friends/tCDP|15|collateralized debt position, but fungible|
+| PartyDAO/party-protocol|https://github.com/PartyDAO/party-protocol|135|Party Protocol is an open protocol for on-chain group coordination.|
+| AladdinDAO/aladdin-v3-contracts|https://github.com/AladdinDAO/aladdin-v3-contracts|22||
+| hakkafinance/urban-giggle|https://github.com/hakkafinance/urban-giggle|1|Hakka Finance audit 2021-1|
+| hakkafinance/iGain|https://github.com/hakkafinance/iGain|3|The antiparticle of impermanent loss|
+| hakkafinance/HakkaFinance|https://github.com/hakkafinance/HakkaFinance|1||
 | pcaversaccio/erc20-permit-upgradeable|https://github.com/pcaversaccio/erc20-permit-upgradeable|10|Permit-enabled, upgradeable ERC20 smart contract template.|
 | Genza999/VotingOnSolana_smartcontract|https://github.com/Genza999/VotingOnSolana_smartcontract|3|Repo to showcase my version of voting for proposals on the solana blockchain|
 | CloudNativeEntrepreneur/web3auth-service|https://github.com/CloudNativeEntrepreneur/web3auth-service|7|Issues JWT tokens in response to completing challenges using metamask for performing actions against APIs|
@@ -26,22 +40,8 @@
 | exactly/protocol|https://github.com/exactly/protocol|47|exactly is a decentralized, non-custodial and autonomous marketplace for depositing and borrowing crypto assets at a variable or fixed interest rate.|
 | OlympusDAO/olympus-v3|https://github.com/OlympusDAO/olympus-v3|28|Olympus V3 smart contracts|
 | GuardianUI/GuardianTest|https://github.com/GuardianUI/GuardianTest|23|Web3 E2E Testing Framework|
-| OlympusDAO/olympus-frontend|https://github.com/OlympusDAO/olympus-frontend|281||
-| DoubleGremlin181/DoubleGremlin181|https://github.com/DoubleGremlin181/DoubleGremlin181|71|Come play TicTacToe on my profile's README|
-| pola-rs/polars|https://github.com/pola-rs/polars|19674|Fast multi-threaded, hybrid-out-of-core query engine focussing on DataFrame front-ends|
-| ethereum/wiki|https://github.com/ethereum/wiki|14761|The Ethereum Wiki|
-| visualitypl/seedify|https://github.com/visualitypl/seedify|2|Let your seed code become a first-class member of the Rails app and put it into seed objects. Invoke them as rake tasks or from within the app/console, with or without the parameters. Progress logging included.|
-| mpiorowski/svelte-auth|https://github.com/mpiorowski/svelte-auth|2||
-| mento-protocol/mento-deployment|https://github.com/mento-protocol/mento-deployment|2|This repository contains scripts necessary to deploy upgrades to the Mento protocol|
-| mdulin2/sushi_swap_expliot_2023|https://github.com/mdulin2/sushi_swap_expliot_2023|4||
-| sushiswap/v3-core|https://github.com/sushiswap/v3-core|3|This repository contains the core smart contracts for the SushiSwap V3 Protocol.|
-| sushiswap/v2-core|https://github.com/sushiswap/v2-core|4|This repository contains the core smart contracts for the SushiSwap V2 Protocol.|
-| cvnlab/knkutils|https://github.com/cvnlab/knkutils|44|MATLAB utility functions written by Kendrick Kay|
-| QuadrataNetwork/passport-contracts|https://github.com/QuadrataNetwork/passport-contracts|5||
-| Seedifyfund/Seed-Staking-smart-contract|https://github.com/Seedifyfund/Seed-Staking-smart-contract|6||
-| MerlinEgalite/hack-smart-contract|https://github.com/MerlinEgalite/hack-smart-contract|3|Smart contracts to practice your (WH) hacking skills.|
-| rainbow-me/rainbowkit|https://github.com/rainbow-me/rainbowkit|1993|The best way to connect a wallet 🌈 🧰|
-| Mean-Finance/aztec-connect-bridges|https://github.com/Mean-Finance/aztec-connect-bridges|1||
+| OlympusDAO/olympus-frontend|https://github.com/OlympusDAO/olympus-frontend|282||
+| DoubleGremlin181/DoubleGremlin181|https://github.com/DoubleGremlin181/DoubleGremlin181|72|Come play TicTacToe on my profile's README|
 
 <!-- Starred repos end -->
 
@@ -51,10 +51,10 @@
   <summary>📚 <strong>A random poem from <em>https://poetrydb.org/random</em>!</strong> 👇 </summary>
 
 <!-- Start poem -->
-# 💮 October by *Edward Thomas*
+# 💮 To Virgins, to Make Much of Time by *Robert Herrick*
 
 <p>
-    THE green elm with the one great bough of gold<br/>Lets leaves into the grass slip, one by one,--<br/>The short hill grass, the mushrooms small milk-white,<br/>Harebell and scabious and tormentil,<br/>That blackberry and gorse, in dew and sun,<br/>Bow down to; and the wind travels too light<br/>To shake the fallen birch leaves from the fern;<br/>The gossamers wander at their own will.<br/>At heavier steps than birds' the squirrels scold.<br/><br/>The rich scene has grown fresh again and new<br/>As Spring and to the touch is not more cool<br/>Than it is warm to the gaze; and now I might<br/>As happy be as earth is beautiful,<br/>Were I some other or with earth could turn<br/>In alternation of violet and rose,<br/>Harebell and snowdrop, at their season due,<br/>And gorse that has no time not to be gay.<br/>But if this be not happiness,--who knows?<br/>Some day I shall think this a happy day,<br/>And this mood by the name of melancholy<br/>Shall no more blackened and obscured be.
+    Gather ye rosebuds while ye may,<br/>Old time is still a-flying<br/>And this same flower that smiles today<br/>Tomorrow will be dying.<br/><br/>The glorious lamp of heaven, the sun,<br/>The higher he's a-getting,<br/>The sooner will his race be run,<br/>And nearer he's to setting.<br/><br/>That age is best which is the first,<br/>When youth and blood are warmer;<br/>But being spent, the worse, and worst<br/>Times still succeed the former.<br/><br/>Then be not coy, but use your time,<br/>And, while ye may, go marry;<br/>For, having lost but once your prime,<br/>You may forever tarry.
 </p>
 
 ***
