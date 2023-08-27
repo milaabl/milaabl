@@ -12,16 +12,17 @@
 <!-- Starred repos start -->
 | Name | Url | Stars | Description |
 | --- | --- |  --- |  --- |
+| PauloPortugal/gin-gonic-rest-mongodb|https://github.com/PauloPortugal/gin-gonic-rest-mongodb|8|A simple Gin Gonic REST API using MongoDB|
 | Seedifyfund/Launchpad-smart-contract|https://github.com/Seedifyfund/Launchpad-smart-contract|34||
 | duet-protocol/duet-bridge|https://github.com/duet-protocol/duet-bridge|1|Bridge duet token family between BSC(original chain) and some EVM compatible chains|
 | duet-protocol/duet-contracts|https://github.com/duet-protocol/duet-contracts|1||
-| trivago/prettier-plugin-sort-imports|https://github.com/trivago/prettier-plugin-sort-imports|2314|A prettier plugin to sort imports in typescript and javascript files by the provided RegEx order. |
+| trivago/prettier-plugin-sort-imports|https://github.com/trivago/prettier-plugin-sort-imports|2315|A prettier plugin to sort imports in typescript and javascript files by the provided RegEx order. |
 | orca-so/typescript-sdk|https://github.com/orca-so/typescript-sdk|144|The Orca SDK contains a set of simple to use APIs to allow developers to integrate with the Orca platform.|
 | onchainification/smartgarden|https://github.com/onchainification/smartgarden|4|🪴 Interoperable Safe modules installable and configurable through the existing Safe UI.|
 | bitcoinbook/bitcoinbook|https://github.com/bitcoinbook/bitcoinbook|21635|Mastering Bitcoin 2nd Edition - Programming the Open Blockchain|
 | manifoldfinance/defi-threat|https://github.com/manifoldfinance/defi-threat|440|a globally-accessible knowledge base of adversary tactics and techniques based on real-world observations on decentralized finance |
 | mstable/mStable-contracts|https://github.com/mstable/mStable-contracts|309|📃 Smart Contracts that make up the core of the mStable protocol|
-| yewstack/yew|https://github.com/yewstack/yew|28300|Rust / Wasm framework for building client web apps|
+| yewstack/yew|https://github.com/yewstack/yew|28307|Rust / Wasm framework for building client web apps|
 | MartinKavik/voting-solana-moonzoon|https://github.com/MartinKavik/voting-solana-moonzoon|29|The Voting example based on MoonZoon and Solana.|
 | CitizenLabDotCo/citizenlab|https://github.com/CitizenLabDotCo/citizenlab|192|CitizenLab is a digital democracy platform that facilitates community participation and co-creation. Participants can post ideas, contribute to discussions, or choose to vote and prioritize community projects. |
 | 0xtekgrinder/warlord-autocompounder|https://github.com/0xtekgrinder/warlord-autocompounder|2|Auto compounder based on ERC4626 on top of Warlord from Paladin Vote|
@@ -39,9 +40,8 @@
 | ikluft/prefvote|https://github.com/ikluft/prefvote|4|PrefVote is to promote ranked-choice preference voting algorithms. It is descended from the Vote::STV software written by Ian Kluft in Perl originally in 1998 and used by multiple clubs and non-profit organizations over the years for polls and elections.|
 | shota-imoto/tohyo|https://github.com/shota-imoto/tohyo|1|voting cli tool|
 | AngleProtocol/angle-transmuter|https://github.com/AngleProtocol/angle-transmuter|19|⚗️ Smart contracts for Transmuter, an autonomous and modular price stability module for decentralized stablecoin protocols|
-| Picodes/4naly3er|https://github.com/Picodes/4naly3er|291|Static smart contract code 4naly3er|
+| Picodes/4naly3er|https://github.com/Picodes/4naly3er|293|Static smart contract code 4naly3er|
 | AngleProtocol/boilerplate|https://github.com/AngleProtocol/boilerplate|15|👩‍💻 Angle Boilerplate for starting new web3 projects|
-| AngleProtocol/Uniswap-Incentives-Computer|https://github.com/AngleProtocol/Uniswap-Incentives-Computer|7|🦄 Uniswap Incentives Computer|
 
 <!-- Starred repos end -->
 
@@ -51,10 +51,10 @@
   <summary>📚 <strong>A random poem from <em>https://poetrydb.org/random</em>!</strong> 👇 </summary>
 
 <!-- Start poem -->
-# 💮 Old Man by *Edward Thomas*
+# 💮 "By the Waters of Babylon." by *George Gordon, Lord Byron*
 
 <p>
-    OLD Man, or Lad's-love,--in the name there's<br/>   nothing<br/>To one that knows not Lad's-love, or Old Man,<br/>The hoar-green feathery herb, almost a tree,<br/>Growing with rosemary and lavender.<br/>Even to one that knows it well, the names<br/>Half decorate, half perplex, the thing it is:<br/>At least, what that is clings not to the names<br/>In spite of time. And yet I like the names.<br/><br/>The herb itself I like not, but for certain<br/>I love it, as some day the child will love it<br/>Who plucks a feather from the door-side bush<br/>Whenever she goes in or out of the house.<br/>Often she waits there, snipping the tips and<br/>   shrivelling<br/>The shreds at last on to the path, perhaps<br/>Thinking, perhaps of nothing, till she sniffs<br/>Her fingers and runs off. The bush is still<br/>But half as tall as she, though it is as old;<br/>So well she clips it. Not a word she says;<br/>And I can only wonder how much hereafter<br/>She will remember, with that bitter scent,<br/>Of garden rows, and ancient damson-trees<br/>Topping a hedge, a bent path to a door,<br/>A low thick bush beside the door, and me<br/>Forbidding her to pick.<br/><br/>                      As for myself,<br/>Where first I met the bitter scent is lost.<br/>I, too, often shrivel the grey shreds,<br/>Sniff them and think and sniff again and try<br/>Once more to think what it is I am remembering,<br/>Always in vain. I cannot like the scent,<br/>Yet I would rather give up others more sweet,<br/>With no meaning, than this bitter one.<br/><br/>I have mislaid the key. I sniff the spray<br/>And think of nothing; I see and I hear nothing;<br/>Yet seem, too, to be listening, lying in wait<br/>For what I should, yet never can, remember:<br/>No garden appears, no path, no hoar-green bush<br/>Of Lad's-love, or Old Man, no child beside,<br/>Neither father nor mother, nor any playmate;<br/>Only an avenue, dark, nameless, without end.
+    In the valley of waters we wept on the day<br/>When the host of the Stranger made Salem his prey;<br/>And our heads on our bosoms all droopingly lay,<br/>And our hearts were so full of the land far away!<br/><br/>The song they demanded in vain--it lay still<br/>In our souls as the wind that hath died on the hill--<br/>They called for the harp--but our blood they shall spill<br/>Ere our right hands shall teach them one tone of their skill.<br/><br/>All stringlessly hung in the willow's sad tree,<br/>As dead as her dead-leaf, those mute harps must be:<br/>Our hands may be fettered--our tears still are free<br/>For our God--and our Glory--and Sion, Oh _Thee!_
 </p>
 
 ***
