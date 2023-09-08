@@ -14,33 +14,33 @@
 | --- | --- |  --- |  --- |
 | EduardoMeloDev/Token-ERC721-Eduardo|https://github.com/EduardoMeloDev/Token-ERC721-Eduardo|2||
 | sambernard/react-preload|https://github.com/sambernard/react-preload|151|Component to preload images before showing content|
-| pcaversaccio/xdeployer|https://github.com/pcaversaccio/xdeployer|337|Hardhat plugin to deploy your smart contracts across multiple EVM chains with the same deterministic address.|
+| pcaversaccio/xdeployer|https://github.com/pcaversaccio/xdeployer|338|Hardhat plugin to deploy your smart contracts across multiple EVM chains with the same deterministic address.|
 | code-423n4/2023-05-chainlink|https://github.com/code-423n4/2023-05-chainlink|9||
 | trustwallet/trust-web3-provider|https://github.com/trustwallet/trust-web3-provider|617|Web3 javascript wrapper provider for iOS and Android platforms.|
 | eqbtech/equilibria-contracts|https://github.com/eqbtech/equilibria-contracts|5||
-| feross/buffer|https://github.com/feross/buffer|1658|The buffer module from node.js, for the browser.|
+| feross/buffer|https://github.com/feross/buffer|1660|The buffer module from node.js, for the browser.|
 | jcsec-security/all-things-reentrancy|https://github.com/jcsec-security/all-things-reentrancy|92|Workshop about the different types of reentrancy attacks|
-| trustwallet/assets|https://github.com/trustwallet/assets|4050|A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.|
+| trustwallet/assets|https://github.com/trustwallet/assets|4051|A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.|
 | bestiejs/platform.js|https://github.com/bestiejs/platform.js|3174|A platform detection library.|
-| conventional-changelog/commitlint|https://github.com/conventional-changelog/commitlint|14300|📓 Lint commit messages|
-| import-js/eslint-plugin-import|https://github.com/import-js/eslint-plugin-import|4972|ESLint plugin with rules that help validate proper imports.|
-| lydell/eslint-plugin-simple-import-sort|https://github.com/lydell/eslint-plugin-simple-import-sort|1564|Easy autofixable import sorting.|
-| golang-jwt/jwt|https://github.com/golang-jwt/jwt|5274|Community maintained clone of https://github.com/dgrijalva/jwt-go|
-| go-playground/validator|https://github.com/go-playground/validator|13918|:100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving|
+| conventional-changelog/commitlint|https://github.com/conventional-changelog/commitlint|14307|📓 Lint commit messages|
+| import-js/eslint-plugin-import|https://github.com/import-js/eslint-plugin-import|4974|ESLint plugin with rules that help validate proper imports.|
+| lydell/eslint-plugin-simple-import-sort|https://github.com/lydell/eslint-plugin-simple-import-sort|1565|Easy autofixable import sorting.|
+| golang-jwt/jwt|https://github.com/golang-jwt/jwt|5279|Community maintained clone of https://github.com/dgrijalva/jwt-go|
+| go-playground/validator|https://github.com/go-playground/validator|13934|:100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving|
 | tailwindlabs/heroicons|https://github.com/tailwindlabs/heroicons|19255|A set of free MIT-licensed high-quality SVG icons for UI development.|
 | alpaca-finance/alpies-contract|https://github.com/alpaca-finance/alpies-contract|5|Alpies. Alpaca NFT.|
 | alpaca-finance/alperp-contract|https://github.com/alpaca-finance/alperp-contract|1||
 | alpaca-finance/alpaca-v2-money-market|https://github.com/alpaca-finance/alpaca-v2-money-market|8||
 | alpaca-finance/bsc-alpaca-contract|https://github.com/alpaca-finance/bsc-alpaca-contract|179|Smart Contracts for Alpaca Finance on Fantom & BNB Chain|
 | Badger-Finance/badger-multisig|https://github.com/Badger-Finance/badger-multisig|25|Badger DAO's EVM multisig operations.|
-| mongodb/mongo-go-driver|https://github.com/mongodb/mongo-go-driver|7605|The Official Golang driver for MongoDB|
+| mongodb/mongo-go-driver|https://github.com/mongodb/mongo-go-driver|7607|The Official Golang driver for MongoDB|
 | milaabl/proof-of-sloth-api|https://github.com/milaabl/proof-of-sloth-api|1||
 | zacscoding/gin-rest-api-example|https://github.com/zacscoding/gin-rest-api-example|70|Exemplary RESTFul API built with go, gin, gorm|
 | PauloPortugal/gin-gonic-rest-mongodb|https://github.com/PauloPortugal/gin-gonic-rest-mongodb|10|A simple Gin Gonic REST API using MongoDB|
 | Seedifyfund/Launchpad-smart-contract|https://github.com/Seedifyfund/Launchpad-smart-contract|35||
 | duet-protocol/duet-bridge|https://github.com/duet-protocol/duet-bridge|1|Bridge duet token family between BSC(original chain) and some EVM compatible chains|
 | duet-protocol/duet-contracts|https://github.com/duet-protocol/duet-contracts|1||
-| trivago/prettier-plugin-sort-imports|https://github.com/trivago/prettier-plugin-sort-imports|2341|A prettier plugin to sort imports in typescript and javascript files by the provided RegEx order. |
+| trivago/prettier-plugin-sort-imports|https://github.com/trivago/prettier-plugin-sort-imports|2344|A prettier plugin to sort imports in typescript and javascript files by the provided RegEx order. |
 | orca-so/typescript-sdk|https://github.com/orca-so/typescript-sdk|144|The Orca SDK contains a set of simple to use APIs to allow developers to integrate with the Orca platform.|
 
 <!-- Starred repos end -->
@@ -51,10 +51,10 @@
   <summary>📚 <strong>A random poem from <em>https://poetrydb.org/random</em>!</strong> 👇 </summary>
 
 <!-- Start poem -->
-# 💮 Sonnet LIII: Clear Anker by *Michael Drayton*
+# 💮 Epitaph. on Two Lovers Struck Dead by Lightning. by *Alexander Pope*
 
 <p>
-    Another to the River Anker<br/><br/>Clear Anker, on whose silver-sanded shore<br/>My soul-shrin'd saint, my fair Idea, lies,<br/>O blessed brook, whose milk-white swans adore<br/>The crystal stream refined by her eyes,<br/>Where sweet myrrh-breathing Zephyr in the Spring<br/>Gently distils his nectar-dropping showers,<br/>Where nightingales in Arden sit and sing<br/>Among the dainty dew-impearled flowers;<br/>Say thus, fair Brook, when thou shalt see thy Queen,<br/>"Lo, here thy shepherd spent his wand'ring years,<br/>And in these shades, dear nymph, he oft hath been,<br/>And here to thee he sacrific'd his tears."<br/>Fair Arden, thou my Tempe art alone,<br/>And thou, sweet Anker, art my Helicon.
+    When Eastern lovers feed the funeral fire,<br/>On the same pile the faithful pair expire.<br/>Here pitying Heaven that virtue mutual found,<br/>And blasted both, that it might neither wound.<br/>Hearts so sincere, the Almighty saw well pleased,<br/>Sent his own lightning, and the victims seized.<br/><br/>    NEAR THIS PLACE LIE THE BODIES OF<br/>      JOHN HEWET AND SARAH DREW,<br/>        AN INDUSTRIOUS YOUNG MAN,<br/>  AND VIRTUOUS MAIDEN OF THIS PARISH;<br/>        WHO, BEING AT HARVEST-WORK<br/>         (WITH SEVERAL OTHERS),<br/>WERE IN ONE INSTANT KILLED BY LIGHTNING,<br/>        THE LAST DAY OF JULY 1718.<br/><br/>Think not, by rigorous judgment seized,<br/>  A pair so faithful could expire;<br/>Victims so pure Heaven saw well pleased,<br/>  And snatch'd them in celestial fire.<br/><br/>Live well, and fear no sudden fate;<br/>  When God calls virtue to the grave,<br/>Alike 'tis justice soon or late,<br/>  Mercy alike to kill or save.<br/><br/>Virtue unmoved can hear the call,<br/>  And face the flash that melts the ball.
 </p>
 
 ***
