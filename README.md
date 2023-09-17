@@ -12,12 +12,13 @@
 <!-- Starred repos start -->
 | Name | Url | Stars | Description |
 | --- | --- |  --- |  --- |
+| glitch-txs/wagmi-test|https://github.com/glitch-txs/wagmi-test|1|minimal example of wagmi for testing purposes|
 | EveripediaNetwork/wagmi-magic-connector|https://github.com/EveripediaNetwork/wagmi-magic-connector|66|wagmi connector to connect with Magic SDK|
 | joshwcomeau/react-flip-move|https://github.com/joshwcomeau/react-flip-move|3973|Effortless animation between DOM changes (eg. list reordering) using the FLIP technique.|
-| tldraw/tldraw|https://github.com/tldraw/tldraw|19093|a very good whiteboard|
+| tldraw/tldraw|https://github.com/tldraw/tldraw|19485|a very good whiteboard|
 | airbnb/babel-plugin-inline-react-svg|https://github.com/airbnb/babel-plugin-inline-react-svg|474|A babel plugin that optimizes and inlines SVGs for your React Components.|
 | gilbarbara/react-inlinesvg|https://github.com/gilbarbara/react-inlinesvg|1191|An SVG loader component for ReactJS|
-| adoxography/tailwind-scrollbar|https://github.com/adoxography/tailwind-scrollbar|694|Scrollbar plugin for Tailwind CSS|
+| adoxography/tailwind-scrollbar|https://github.com/adoxography/tailwind-scrollbar|695|Scrollbar plugin for Tailwind CSS|
 | ChainSafe/web3-context|https://github.com/ChainSafe/web3-context|11|A React context implementation of Onboard.js & general utilities|
 | iamturns/eslint-config-airbnb-typescript|https://github.com/iamturns/eslint-config-airbnb-typescript|966|Airbnb's ESLint config with TypeScript support|
 | dustinspecker/awesome-eslint|https://github.com/dustinspecker/awesome-eslint|3823|A list of awesome ESLint plugins, configs, etc.|
@@ -34,14 +35,13 @@
 | eqbtech/equilibria-contracts|https://github.com/eqbtech/equilibria-contracts|5||
 | feross/buffer|https://github.com/feross/buffer|1661|The buffer module from node.js, for the browser.|
 | jcsec-security/all-things-reentrancy|https://github.com/jcsec-security/all-things-reentrancy|96|Workshop about the different types of reentrancy attacks|
-| trustwallet/assets|https://github.com/trustwallet/assets|4058|A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.|
-| bestiejs/platform.js|https://github.com/bestiejs/platform.js|3175|A platform detection library.|
+| trustwallet/assets|https://github.com/trustwallet/assets|4057|A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.|
+| bestiejs/platform.js|https://github.com/bestiejs/platform.js|3174|A platform detection library.|
 | conventional-changelog/commitlint|https://github.com/conventional-changelog/commitlint|14479|📓 Lint commit messages|
-| import-js/eslint-plugin-import|https://github.com/import-js/eslint-plugin-import|4990|ESLint plugin with rules that help validate proper imports.|
-| lydell/eslint-plugin-simple-import-sort|https://github.com/lydell/eslint-plugin-simple-import-sort|1575|Easy autofixable import sorting.|
-| golang-jwt/jwt|https://github.com/golang-jwt/jwt|5316|Community maintained clone of https://github.com/dgrijalva/jwt-go|
-| go-playground/validator|https://github.com/go-playground/validator|13981|:100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving|
-| tailwindlabs/heroicons|https://github.com/tailwindlabs/heroicons|19291|A set of free MIT-licensed high-quality SVG icons for UI development.|
+| import-js/eslint-plugin-import|https://github.com/import-js/eslint-plugin-import|4991|ESLint plugin with rules that help validate proper imports.|
+| lydell/eslint-plugin-simple-import-sort|https://github.com/lydell/eslint-plugin-simple-import-sort|1576|Easy autofixable import sorting.|
+| golang-jwt/jwt|https://github.com/golang-jwt/jwt|5320|Community maintained clone of https://github.com/dgrijalva/jwt-go|
+| go-playground/validator|https://github.com/go-playground/validator|13982|:100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving|
 
 <!-- Starred repos end -->
 
@@ -51,10 +51,10 @@
   <summary>📚 <strong>A random poem from <em>https://poetrydb.org/random</em>!</strong> 👇 </summary>
 
 <!-- Start poem -->
-# 💮 Ode On The Spring by *Thomas Gray*
+# 💮 Good-Children Street by *Eugene Field*
 
 <p>
-    Lo! where the rosy-bosomed Hours,<br/>Fair Venus' train, appear,<br/>Disclose the long-expecting flowers,<br/>And wake the purple year!<br/>The Attic warbler pours her throat,<br/>Responsive to the cuckoo's note,<br/>The untaught harmony of spring:<br/>While, whisp'ring pleasure as they fly,<br/>Cool Zephyrs thro' the clear blue sky<br/>Their gathered fragrance fling.<br/><br/>Where'er the oak's thick branches stretch<br/>A broader browner shade,<br/>Where'er the rude and moss-grown beech<br/>O'er-canopies the glade,<br/>Beside some water's rushy brink<br/>With me the Muse shall sit, and think<br/>(At ease reclined in rustic state)<br/>How vain the ardour of the Crowd,<br/>How low, how little are the Proud,<br/>How indigent the Great!<br/><br/>Still is the toiling hand of Care;<br/>The panting herds repose:<br/>Yet hark, how through the peopled air<br/>The busy murmur glows!<br/>The insect-youth are on the wing,<br/>Eager to taste the honied spring<br/>And float amid the liquid noon:<br/>Some lightly o'er the current skim,<br/>Some show their gayly-gilded trim<br/>Quick-glancing to the sun.<br/><br/>To Contemplation's sober eye<br/>Such is the race of Man:<br/>And they that creep, and they that fly,<br/>Shall end where they began.<br/>Alike the Busy and the Gay<br/>But flutter thro' life's little day,<br/>In Fortune's varying colours drest:<br/>Brushed by the hand of rough Mischance,<br/>Or chilled by Age, their airy dance<br/>They leave, in dust to rest.<br/><br/>Methinks I hear, in accents low,<br/>The sportive kind reply:<br/>Poor moralist! and what art thou?<br/>A solitary fly!<br/>Thy joys no glittering female meets,<br/>No hive hast thou of hoarded sweets,<br/>No painted plumage to display:<br/>On hasty wings thy youth is flown;<br/>Thy sun is set, thy spring is gone—<br/>We frolic while 'tis May.
+    There's a dear little home in Good-Children street -<br/>My heart turneth fondly to-day<br/>Where tinkle of tongues and patter of feet<br/>Make sweetest of music at play;<br/>Where the sunshine of love illumines each face<br/>And warms every heart in that old-fashioned place.<br/><br/>For dear little children go romping about<br/>With dollies and tin tops and drums,<br/>And, my! how they frolic and scamper and shout<br/>Till bedtime too speedily comes!<br/>Oh, days they are golden and days they are fleet<br/>With little folk living in Good-Children street.<br/><br/>See, here comes an army with guns painted red,<br/>And swords, caps, and plumes of all sorts;<br/>The captain rides gaily and proudly ahead<br/>On a stick-horse that prances and snorts!<br/>Oh, legions of soldiers you're certain to meet -<br/>Nice make-believe soldiers - in Good-Children street.<br/><br/>And yonder Odette wheels her dolly about -<br/>Poor dolly! I'm sure she is ill,<br/>For one of her blue china eyes has dropped out<br/>And her voice is asthmatic'ly shrill.<br/>Then, too, I observe she is minus her feet,<br/>Which causes much sorrow in Good-Children street.<br/><br/>'T is so the dear children go romping about<br/>With dollies and banners and drums,<br/>And I venture to say they are sadly put out<br/>When an end to their jubilee comes:<br/>Oh, days they are golden and days they are fleet<br/>With little folk living in Good-Children street!<br/><br/>But when falleth night over river and town,<br/>Those little folk vanish from sight,<br/>And an angel all white from the sky cometh down<br/>And guardeth the babes through the night,<br/>And singeth her lullabies tender and sweet<br/>To the dear little people in Good-Children Street.<br/><br/>Though elsewhere the world be o'erburdened with care,<br/>Though poverty fall to my lot,<br/>Though toil and vexation be always my share,<br/>What care I - they trouble me not!<br/>This thought maketh life ever joyous and Sweet:<br/>There's a dear little home in Good-Children street.
 </p>
 
 ***
