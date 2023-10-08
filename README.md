@@ -12,21 +12,22 @@
 <!-- Starred repos start -->
 | Name | Url | Stars | Description |
 | --- | --- |  --- |  --- |
+| OpenZeppelin/openzeppelin-contracts-upgradeable|https://github.com/OpenZeppelin/openzeppelin-contracts-upgradeable|875|Upgradeable variant of OpenZeppelin Contracts, meant for use in upgradeable contracts. |
 | dapphub/ds-test|https://github.com/dapphub/ds-test|186|Assertions, equality checks and other test helpers|
 | hbarcelos/forge-multi-version|https://github.com/hbarcelos/forge-multi-version|21|Using forge with multiple solc versions|
 | threshold-network/merkle-distribution|https://github.com/threshold-network/merkle-distribution|1|Threshold Network rewards generation and distribution|
 | nucypher/nucypher-contracts|https://github.com/nucypher/nucypher-contracts|13|Ethereum contracts supporting TACo applications on the Threshold Network.|
 | keep-network/tbtc-v2|https://github.com/keep-network/tbtc-v2|38|Trustlessly tokenized Bitcoin on Ethereum, version 2|
 | TotallyMaliciousCryptoBro/TotallyMaliciousCryptoBro|https://github.com/TotallyMaliciousCryptoBro/TotallyMaliciousCryptoBro|5||
-| ethereum/EIPs|https://github.com/ethereum/EIPs|12022|The Ethereum Improvement Proposal repository|
-| pcaversaccio/reentrancy-attacks|https://github.com/pcaversaccio/reentrancy-attacks|979|A chronological and (hopefully) complete list of reentrancy attacks to date.|
+| ethereum/EIPs|https://github.com/ethereum/EIPs|12023|The Ethereum Improvement Proposal repository|
+| pcaversaccio/reentrancy-attacks|https://github.com/pcaversaccio/reentrancy-attacks|981|A chronological and (hopefully) complete list of reentrancy attacks to date.|
 | StableLib/stablelib|https://github.com/StableLib/stablelib|148|A stable library of useful TypeScript/JavaScript code|
 | snappyjs/node-request-queue|https://github.com/snappyjs/node-request-queue|8|A utility to queue up a number requests to be executed in parallel batches with possible waitTime between them.|
 | TP-Lab/tp-js-sdk|https://github.com/TP-Lab/tp-js-sdk|178|TokenPocket JS API for Dapp of ETH, IOST, TRON, COSMOS, SOLANA, EOS etc. (mobile only)|
 | petr-hejda/solidity-merkle-airdrop|https://github.com/petr-hejda/solidity-merkle-airdrop|3|Example implementation of ERC20 token airdrop using merkle tree|
 | MetaMask/KeyringController|https://github.com/MetaMask/KeyringController|207|A module for managing groups of Ethereum accounts and using them.|
-| appwrite/appwrite|https://github.com/appwrite/appwrite|36413|Build like a team of hundreds_|
-| novuhq/novu|https://github.com/novuhq/novu|28758|🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀|
+| appwrite/appwrite|https://github.com/appwrite/appwrite|36545|Build like a team of hundreds_|
+| novuhq/novu|https://github.com/novuhq/novu|28879|🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀|
 | wagmi-dev/references|https://github.com/wagmi-dev/references|92|Collection of Chains & Connectors for wagmi|
 | pancakeswap/pancake-frontend|https://github.com/pancakeswap/pancake-frontend|2416|:pancakes: Pancake main features (farms, pools, IFO, lottery, profiles)|
 | paperxyz/js-sdk|https://github.com/paperxyz/js-sdk|5||
@@ -41,7 +42,6 @@
 | jviray/buidl-box|https://github.com/jviray/buidl-box|1|Development box (boilerplate) for building Ethereum apps|
 | Giveth/liquidpledging|https://github.com/Giveth/liquidpledging|66|Liquid Pledging|
 | crytic/slither|https://github.com/crytic/slither|4573|Static Analyzer for Solidity|
-| palmswap/palm-token|https://github.com/palmswap/palm-token|1|PALM token smart contracts|
 
 <!-- Starred repos end -->
 
@@ -51,10 +51,10 @@
   <summary>📚 <strong>A random poem from <em>https://poetrydb.org/random</em>!</strong> 👇 </summary>
 
 <!-- Start poem -->
-# 💮 The Chimney-Sweeper by *William Blake*
+# 💮 Fragment: 'My Head Is Wild With Weeping' by *Percy Bysshe Shelley*
 
 <p>
-    When my mother died I was very young,<br/>And my father sold me while yet my tongue<br/>Could scarcely cry "Weep! weep! weep! weep!"<br/>So your chimneys I sweep, and in soot I sleep.<br/><br/>There's little Tom Dacre, who cried when his head,<br/>That curled like a lamb's back, was shaved; so I said,<br/>"Hush, Tom! never mind it, for, when your head's bare,<br/>You know that the soot cannot spoil your white hair."<br/><br/>And so he was quiet, and that very night,<br/>As Tom was a-sleeping, he had such a sight!--<br/>That thousands of sweepers, Dick, Joe, Ned, and Jack,<br/>Were all of them locked up in coffins of black.<br/><br/>And by came an angel, who had a bright key,<br/>And he opened the coffins, and let them all free;<br/>Then down a green plain, leaping, laughing, they run,<br/>And wash in a river, and shine in the sun.<br/><br/>Then naked and white, all their bags left behind,<br/>They rise upon clouds, and sport in the wind;<br/>And the Angel told Tom, if he'd be a good boy,<br/>He'd have God for his father, and never want joy.<br/><br/>And so Tom awoke, and we rose in the dark,<br/>And got with our bags and our brushes to work.<br/>Though the morning was cold, Tom was happy and warm:<br/>So, if all do their duty, they need not fear harm.
+    My head is wild with weeping for a grief<br/>Which is the shadow of a gentle mind.<br/>I walk into the air (but no relief<br/>To seek,--or haply, if I sought, to find;<br/>It came unsought);--to wonder that a chief<br/>Among men's spirits should be cold and blind.
 </p>
 
 ***
