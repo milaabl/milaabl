@@ -12,7 +12,8 @@
 <!-- Starred repos start -->
 | Name | Url | Stars | Description |
 | --- | --- |  --- |  --- |
-| lightningdevkit/rust-lightning|https://github.com/lightningdevkit/rust-lightning|997|A highly modular Bitcoin Lightning library written in Rust. It's rust-lightning, not Rusty's Lightning!|
+| CoNarrative/mongo-immutable|https://github.com/CoNarrative/mongo-immutable|10|Immutable MongoDB.|
+| lightningdevkit/rust-lightning|https://github.com/lightningdevkit/rust-lightning|998|A highly modular Bitcoin Lightning library written in Rust. It's rust-lightning, not Rusty's Lightning!|
 | node-lightning/node-lightning|https://github.com/node-lightning/node-lightning|121|Bitcoin Lighting Network implemented in Node.js|
 | OpenZeppelin/openzeppelin-contracts-upgradeable|https://github.com/OpenZeppelin/openzeppelin-contracts-upgradeable|876|Upgradeable variant of OpenZeppelin Contracts, meant for use in upgradeable contracts. |
 | dapphub/ds-test|https://github.com/dapphub/ds-test|186|Assertions, equality checks and other test helpers|
@@ -20,16 +21,16 @@
 | threshold-network/merkle-distribution|https://github.com/threshold-network/merkle-distribution|1|Threshold Network rewards generation and distribution|
 | nucypher/nucypher-contracts|https://github.com/nucypher/nucypher-contracts|13|Ethereum contracts supporting TACo applications on the Threshold Network.|
 | keep-network/tbtc-v2|https://github.com/keep-network/tbtc-v2|38|Trustlessly tokenized Bitcoin on Ethereum, version 2|
-| TotallyMaliciousCryptoBro/TotallyMaliciousCryptoBro|https://github.com/TotallyMaliciousCryptoBro/TotallyMaliciousCryptoBro|5||
-| ethereum/EIPs|https://github.com/ethereum/EIPs|12022|The Ethereum Improvement Proposal repository|
+| TotallyMaliciousCryptoBro/TotallyMaliciousCryptoBro|https://github.com/TotallyMaliciousCryptoBro/TotallyMaliciousCryptoBro|4||
+| ethereum/EIPs|https://github.com/ethereum/EIPs|12025|The Ethereum Improvement Proposal repository|
 | pcaversaccio/reentrancy-attacks|https://github.com/pcaversaccio/reentrancy-attacks|982|A chronological and (hopefully) complete list of reentrancy attacks to date.|
 | StableLib/stablelib|https://github.com/StableLib/stablelib|148|A stable library of useful TypeScript/JavaScript code|
 | snappyjs/node-request-queue|https://github.com/snappyjs/node-request-queue|8|A utility to queue up a number requests to be executed in parallel batches with possible waitTime between them.|
 | TP-Lab/tp-js-sdk|https://github.com/TP-Lab/tp-js-sdk|178|TokenPocket JS API for Dapp of ETH, IOST, TRON, COSMOS, SOLANA, EOS etc. (mobile only)|
 | petr-hejda/solidity-merkle-airdrop|https://github.com/petr-hejda/solidity-merkle-airdrop|3|Example implementation of ERC20 token airdrop using merkle tree|
 | MetaMask/KeyringController|https://github.com/MetaMask/KeyringController|207|A module for managing groups of Ethereum accounts and using them.|
-| appwrite/appwrite|https://github.com/appwrite/appwrite|36641|Build like a team of hundreds_|
-| novuhq/novu|https://github.com/novuhq/novu|29018|🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀|
+| appwrite/appwrite|https://github.com/appwrite/appwrite|36716|Build like a team of hundreds_|
+| novuhq/novu|https://github.com/novuhq/novu|29193|🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀|
 | wagmi-dev/references|https://github.com/wagmi-dev/references|92|Collection of Chains & Connectors for wagmi|
 | pancakeswap/pancake-frontend|https://github.com/pancakeswap/pancake-frontend|2416|:pancakes: Pancake main features (farms, pools, IFO, lottery, profiles)|
 | paperxyz/js-sdk|https://github.com/paperxyz/js-sdk|5||
@@ -41,7 +42,6 @@
 | golang/crypto|https://github.com/golang/crypto|2807|[mirror] Go supplementary cryptography libraries|
 | cargo-eth/cargo-js|https://github.com/cargo-eth/cargo-js|24||
 | Theo6890/diamond-vaults|https://github.com/Theo6890/diamond-vaults|1|Implement Dimond pattern (EIP-2535) through DeFi vaults (EIP-4626) and many other must know EIPs|
-| jviray/buidl-box|https://github.com/jviray/buidl-box|1|Development box (boilerplate) for building Ethereum apps|
 
 <!-- Starred repos end -->
 
@@ -51,10 +51,10 @@
   <summary>📚 <strong>A random poem from <em>https://poetrydb.org/random</em>!</strong> 👇 </summary>
 
 <!-- Start poem -->
-# 💮 Lines Written in an Album, at Malta by *George Gordon, Lord Byron*
+# 💮 Fragment: Beauty's Halo by *Percy Bysshe Shelley*
 
 <p>
-    As o'er the cold sepulchral stone<br/>  Some _name_ arrests the passer-by;<br/>Thus, when thou view'st this page alone,<br/>  May _mine_ attract thy pensive eye!<br/><br/>And when by thee that name is read,<br/>  Perchance in some succeeding year,<br/>Reflect on _me_ as on the _dead_,<br/>  And think my _Heart_ is buried _here_.
+    Thy beauty hangs around thee like<br/>Splendour around the moon--<br/>Thy voice, as silver bells that strike<br/>Upon
 </p>
 
 ***
