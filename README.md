@@ -13,27 +13,27 @@
 | Name | Url | Stars | Description |
 | --- | --- |  --- |  --- |
 | LimeChain/mongoose-immutable-plugin|https://github.com/LimeChain/mongoose-immutable-plugin|2|Mongoose plugin guarding fields from modifications|
-| ankitects/anki|https://github.com/ankitects/anki|15364|Anki's shared backend and web components, and the Qt frontend|
-| lightningnetwork/lnd|https://github.com/lightningnetwork/lnd|7151|Lightning Network Daemon ⚡️|
+| ankitects/anki|https://github.com/ankitects/anki|15373|Anki's shared backend and web components, and the Qt frontend|
+| lightningnetwork/lnd|https://github.com/lightningnetwork/lnd|7152|Lightning Network Daemon ⚡️|
 | CoNarrative/mongo-immutable|https://github.com/CoNarrative/mongo-immutable|10|Immutable MongoDB.|
-| lightningdevkit/rust-lightning|https://github.com/lightningdevkit/rust-lightning|1002|A highly modular Bitcoin Lightning library written in Rust. It's rust-lightning, not Rusty's Lightning!|
+| lightningdevkit/rust-lightning|https://github.com/lightningdevkit/rust-lightning|1005|A highly modular Bitcoin Lightning library written in Rust. It's rust-lightning, not Rusty's Lightning!|
 | node-lightning/node-lightning|https://github.com/node-lightning/node-lightning|121|Bitcoin Lighting Network implemented in Node.js|
-| OpenZeppelin/openzeppelin-contracts-upgradeable|https://github.com/OpenZeppelin/openzeppelin-contracts-upgradeable|875|Upgradeable variant of OpenZeppelin Contracts, meant for use in upgradeable contracts. |
+| OpenZeppelin/openzeppelin-contracts-upgradeable|https://github.com/OpenZeppelin/openzeppelin-contracts-upgradeable|876|Upgradeable variant of OpenZeppelin Contracts, meant for use in upgradeable contracts. |
 | dapphub/ds-test|https://github.com/dapphub/ds-test|186|Assertions, equality checks and other test helpers|
 | hbarcelos/forge-multi-version|https://github.com/hbarcelos/forge-multi-version|21|Using forge with multiple solc versions|
 | threshold-network/merkle-distribution|https://github.com/threshold-network/merkle-distribution|1|Threshold Network rewards generation and distribution|
 | nucypher/nucypher-contracts|https://github.com/nucypher/nucypher-contracts|13|Ethereum contracts supporting TACo applications on the Threshold Network.|
 | keep-network/tbtc-v2|https://github.com/keep-network/tbtc-v2|38|Trustlessly tokenized Bitcoin on Ethereum, version 2|
 | TotallyMaliciousCryptoBro/TotallyMaliciousCryptoBro|https://github.com/TotallyMaliciousCryptoBro/TotallyMaliciousCryptoBro|4||
-| ethereum/EIPs|https://github.com/ethereum/EIPs|12035|The Ethereum Improvement Proposal repository|
+| ethereum/EIPs|https://github.com/ethereum/EIPs|12038|The Ethereum Improvement Proposal repository|
 | pcaversaccio/reentrancy-attacks|https://github.com/pcaversaccio/reentrancy-attacks|990|A chronological and (hopefully) complete list of reentrancy attacks to date.|
 | StableLib/stablelib|https://github.com/StableLib/stablelib|148|A stable library of useful TypeScript/JavaScript code|
 | snappyjs/node-request-queue|https://github.com/snappyjs/node-request-queue|8|A utility to queue up a number requests to be executed in parallel batches with possible waitTime between them.|
 | TP-Lab/tp-js-sdk|https://github.com/TP-Lab/tp-js-sdk|178|TokenPocket JS API for Dapp of ETH, IOST, TRON, COSMOS, SOLANA, EOS etc. (mobile only)|
 | petr-hejda/solidity-merkle-airdrop|https://github.com/petr-hejda/solidity-merkle-airdrop|3|Example implementation of ERC20 token airdrop using merkle tree|
 | MetaMask/KeyringController|https://github.com/MetaMask/KeyringController|207|A module for managing groups of Ethereum accounts and using them.|
-| appwrite/appwrite|https://github.com/appwrite/appwrite|37033|Build like a team of hundreds_|
-| novuhq/novu|https://github.com/novuhq/novu|29660|🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀|
+| appwrite/appwrite|https://github.com/appwrite/appwrite|37084|Build like a team of hundreds_|
+| novuhq/novu|https://github.com/novuhq/novu|29742|🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀|
 | wagmi-dev/references|https://github.com/wagmi-dev/references|92|Collection of Chains & Connectors for wagmi|
 | pancakeswap/pancake-frontend|https://github.com/pancakeswap/pancake-frontend|2417|:pancakes: Pancake main features (farms, pools, IFO, lottery, profiles)|
 | paperxyz/js-sdk|https://github.com/paperxyz/js-sdk|5||
@@ -51,10 +51,10 @@
   <summary>📚 <strong>A random poem from <em>https://poetrydb.org/random</em>!</strong> 👇 </summary>
 
 <!-- Start poem -->
-# 💮 Jehovah-Shalom. The Lord Send Peace by *William Cowper*
+# 💮 Freedom by *Ambrose Bierce*
 
 <p>
-    (Judges, vi.25)<br/><br/>Jesus! whose blood so freely stream'd<br/>To satisfy the law's demand;<br/>By Thee from guilt and wrath redeem'd,<br/>Before the Father's face I stand.<br/><br/>To reconcile offending man,<br/>Make Justice drop her angry rod;<br/>What creature could have form'd the plan,<br/>Or who fulfil it but a God?<br/><br/>No drop remains of all the curse,<br/>For wretches who deserved the whole;<br/>No arrows dipt in wrath to pierce<br/>The guilty, but returning soul.<br/><br/>Peace by such means so dearly bought,<br/>What rebel could have hoped to see?<br/>Peace by his injured Sovereign wrought,<br/>His Sovereign fasten'd to a tree.<br/><br/>Now, Lord, Thy feeble worm prepare!<br/>For strife with earth and hell begins;<br/>Conform and gird me for the war;<br/>They hate the soul that hates his sins.<br/><br/>Let them in horrid league agree!<br/>They may assault, they may distress;<br/>But cannot quench Thy love to me,<br/>Nor rob me of the Lord my peace.
+    Freedom, as every schoolboy knows,<br/>Once shrieked as Kosciusko fell;<br/>On every wind, indeed, that blows<br/>I hear her yell.<br/><br/>She screams whenever monarchs meet,<br/>And parliaments as well,<br/>To bind the chains about her feet<br/>And toll her knell.<br/><br/>And when the sovereign people cast<br/>The votes they cannot spell,<br/>Upon the pestilential blast<br/>Her clamors swell.<br/><br/>For all to whom the power's given<br/>To sway or to compel,<br/>Among themselves apportion Heaven<br/>And give her Hell.
 </p>
 
 ***
