@@ -12,13 +12,13 @@
 <!-- Starred repos start -->
 | Name | Url | Stars | Description |
 | --- | --- |  --- |  --- |
-| matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|970|zkSync era|
-| 0age/create2crunch|https://github.com/0age/create2crunch|362|A Rust program for finding salts that create gas-efficient Ethereum addresses via CREATE2.|
+| matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|975|zkSync era|
+| 0age/create2crunch|https://github.com/0age/create2crunch|363|A Rust program for finding salts that create gas-efficient Ethereum addresses via CREATE2.|
 | joshstevens19/ethereum-multicall|https://github.com/joshstevens19/ethereum-multicall|304|Ability to call many ethereum constant function calls in 1 JSONRPC request|
 | threshold-network/token-dashboard|https://github.com/threshold-network/token-dashboard|20||
 | LimeChain/mongoose-immutable-plugin|https://github.com/LimeChain/mongoose-immutable-plugin|2|Mongoose plugin guarding fields from modifications|
-| ankitects/anki|https://github.com/ankitects/anki|15464|Anki's shared backend and web components, and the Qt frontend|
-| lightningnetwork/lnd|https://github.com/lightningnetwork/lnd|7199|Lightning Network Daemon ⚡️|
+| ankitects/anki|https://github.com/ankitects/anki|15472|Anki's shared backend and web components, and the Qt frontend|
+| lightningnetwork/lnd|https://github.com/lightningnetwork/lnd|7202|Lightning Network Daemon ⚡️|
 | CoNarrative/mongo-immutable|https://github.com/CoNarrative/mongo-immutable|10|Immutable MongoDB.|
 | lightningdevkit/rust-lightning|https://github.com/lightningdevkit/rust-lightning|1006|A highly modular Bitcoin Lightning library written in Rust. It's rust-lightning, not Rusty's Lightning!|
 | node-lightning/node-lightning|https://github.com/node-lightning/node-lightning|122|Bitcoin Lighting Network implemented in Node.js|
@@ -29,17 +29,17 @@
 | nucypher/nucypher-contracts|https://github.com/nucypher/nucypher-contracts|13|Ethereum contracts supporting TACo applications on the Threshold Network.|
 | keep-network/tbtc-v2|https://github.com/keep-network/tbtc-v2|38|Trustlessly tokenized Bitcoin on Ethereum, version 2|
 | TotallyMaliciousCryptoBro/TotallyMaliciousCryptoBro|https://github.com/TotallyMaliciousCryptoBro/TotallyMaliciousCryptoBro|4||
-| ethereum/EIPs|https://github.com/ethereum/EIPs|12094|The Ethereum Improvement Proposal repository|
-| pcaversaccio/reentrancy-attacks|https://github.com/pcaversaccio/reentrancy-attacks|1001|A chronological and (hopefully) complete list of reentrancy attacks to date.|
+| ethereum/EIPs|https://github.com/ethereum/EIPs|12097|The Ethereum Improvement Proposal repository|
+| pcaversaccio/reentrancy-attacks|https://github.com/pcaversaccio/reentrancy-attacks|1002|A chronological and (hopefully) complete list of reentrancy attacks to date.|
 | StableLib/stablelib|https://github.com/StableLib/stablelib|149|A stable library of useful TypeScript/JavaScript code|
 | snappyjs/node-request-queue|https://github.com/snappyjs/node-request-queue|8|A utility to queue up a number requests to be executed in parallel batches with possible waitTime between them.|
 | TP-Lab/tp-js-sdk|https://github.com/TP-Lab/tp-js-sdk|178|TokenPocket JS API for Dapp of ETH, IOST, TRON, COSMOS, SOLANA, EOS etc. (mobile only)|
 | petr-hejda/solidity-merkle-airdrop|https://github.com/petr-hejda/solidity-merkle-airdrop|3|Example implementation of ERC20 token airdrop using merkle tree|
 | MetaMask/KeyringController|https://github.com/MetaMask/KeyringController|207|A module for managing groups of Ethereum accounts and using them.|
-| appwrite/appwrite|https://github.com/appwrite/appwrite|37443|Build like a team of hundreds_|
-| novuhq/novu|https://github.com/novuhq/novu|30381|🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀|
-| wagmi-dev/references|https://github.com/wagmi-dev/references|91|Collection of Chains & Connectors for wagmi|
-| pancakeswap/pancake-frontend|https://github.com/pancakeswap/pancake-frontend|2422|:pancakes: Pancake main features (farms, pools, IFO, lottery, profiles)|
+| appwrite/appwrite|https://github.com/appwrite/appwrite|37474|Build like a team of hundreds_|
+| novuhq/novu|https://github.com/novuhq/novu|30427|🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀|
+| wagmi-dev/references|https://github.com/wagmi-dev/references|92|Collection of Chains & Connectors for wagmi|
+| pancakeswap/pancake-frontend|https://github.com/pancakeswap/pancake-frontend|2421|:pancakes: Pancake main features (farms, pools, IFO, lottery, profiles)|
 | paperxyz/js-sdk|https://github.com/paperxyz/js-sdk|5||
 | Infrablok/login-with-metamask-using-node-js-express-js-react-js-postgresql|https://github.com/Infrablok/login-with-metamask-using-node-js-express-js-react-js-postgresql|2|Login with MetaMask using Node JS, Express Js , React Js& Postgresql|
 
@@ -51,10 +51,10 @@
   <summary>📚 <strong>A random poem from <em>https://poetrydb.org/random</em>!</strong> 👇 </summary>
 
 <!-- Start poem -->
-# 💮 Translation From Anacreon. Ode 3 by *George Gordon, Lord Byron*
+# 💮 Autumn: A Dirge by *Percy Bysshe Shelley*
 
 <p>
-    'Twas now the hour when Night had driven<br/>Her car half round yon sable heaven;<br/>Boötes, only, seem'd to roll<br/>His Arctic charge around the Pole;<br/>While mortals, lost in gentle sleep,<br/>Forgot to smile, or ceas'd to weep:<br/>At this lone hour the Paphian boy,<br/>Descending from the realms of joy,<br/>Quick to my gate directs his course,<br/>And knocks with all his little force;<br/>My visions fled, alarm'd I rose,--<br/>"What stranger breaks my blest repose?"<br/>"Alas!" replies the wily child<br/>In faltering accents sweetly mild;<br/>"A hapless Infant here I roam,<br/>Far from my dear maternal home.<br/>Oh! shield me from the wintry blast!<br/>The nightly storm is pouring fast.<br/>No prowling robber lingers here;<br/>A wandering baby who can fear?"<br/>I heard his seeming artless tale,<br/>I heard his sighs upon the gale:<br/>My breast was never pity's foe,<br/>But felt for all the baby's woe.<br/>I drew the bar, and by the light<br/>Young Love, the infant, met my sight;<br/>His bow across his shoulders flung,<br/>And thence his fatal quiver hung<br/>(Ah! little did I think the dart<br/>Would rankle soon within my heart).<br/>With care I tend my weary guest,<br/>His little fingers chill my breast;<br/>His glossy curls, his azure wing,<br/>Which droop with nightly showers, I wring;<br/>His shivering limbs the embers warm;<br/>And now reviving from the storm,<br/>Scarce had he felt his wonted glow,<br/>Than swift he seized his slender bow:--<br/>"I fain would know, my gentle host,"<br/>He cried, "if this its strength has lost;<br/>I fear, relax'd with midnight dews,<br/>The strings their former aid refuse."<br/>With poison tipt, his arrow flies,<br/>Deep in my tortur'd heart it lies:<br/>Then loud the joyous Urchin laugh'd:--<br/>"My bow can still impel the shaft:<br/>'Tis firmly fix'd, thy sighs reveal it;<br/>Say, courteous host, canst thou not feel it?"
+    The warm sun is failing, the bleak wind is wailing,<br/>The bare boughs are sighing, the pale flowers are dying,<br/>And the Year<br/>On the earth her death-bed, in a shroud of leaves dead,<br/>Is lying.<br/>Come, Months, come away,<br/>From November to May,<br/>In your saddest array;<br/>Follow the bier<br/>Of the dead cold Year,<br/>And like dim shadows watch by her sepulchre.<br/><br/>The chill rain is falling, the nipped worm is crawling,<br/>The rivers are swelling, the thunder is knelling<br/>For the Year;<br/>The blithe swallows are flown, and the lizards each gone<br/>To his dwelling;<br/>Come, Months, come away;<br/>Put on white, black, and gray;<br/>Let your light sisters play--<br/>Ye, follow the bier<br/>Of the dead cold Year,<br/>And make her grave green with tear on tear.
 </p>
 
 ***
