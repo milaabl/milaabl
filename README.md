@@ -12,34 +12,34 @@
 <!-- Starred repos start -->
 | Name | Url | Stars | Description |
 | --- | --- |  --- |  --- |
-| matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|975|zkSync era|
+| matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|979|zkSync era|
 | 0age/create2crunch|https://github.com/0age/create2crunch|363|A Rust program for finding salts that create gas-efficient Ethereum addresses via CREATE2.|
 | joshstevens19/ethereum-multicall|https://github.com/joshstevens19/ethereum-multicall|304|Ability to call many ethereum constant function calls in 1 JSONRPC request|
 | threshold-network/token-dashboard|https://github.com/threshold-network/token-dashboard|20||
 | LimeChain/mongoose-immutable-plugin|https://github.com/LimeChain/mongoose-immutable-plugin|2|Mongoose plugin guarding fields from modifications|
-| ankitects/anki|https://github.com/ankitects/anki|15472|Anki's shared backend and web components, and the Qt frontend|
-| lightningnetwork/lnd|https://github.com/lightningnetwork/lnd|7202|Lightning Network Daemon ⚡️|
+| ankitects/anki|https://github.com/ankitects/anki|15484|Anki's shared backend and web components, and the Qt frontend|
+| lightningnetwork/lnd|https://github.com/lightningnetwork/lnd|7203|Lightning Network Daemon ⚡️|
 | CoNarrative/mongo-immutable|https://github.com/CoNarrative/mongo-immutable|10|Immutable MongoDB.|
 | lightningdevkit/rust-lightning|https://github.com/lightningdevkit/rust-lightning|1006|A highly modular Bitcoin Lightning library written in Rust. It's rust-lightning, not Rusty's Lightning!|
 | node-lightning/node-lightning|https://github.com/node-lightning/node-lightning|122|Bitcoin Lighting Network implemented in Node.js|
-| OpenZeppelin/openzeppelin-contracts-upgradeable|https://github.com/OpenZeppelin/openzeppelin-contracts-upgradeable|879|Upgradeable variant of OpenZeppelin Contracts, meant for use in upgradeable contracts. |
+| OpenZeppelin/openzeppelin-contracts-upgradeable|https://github.com/OpenZeppelin/openzeppelin-contracts-upgradeable|881|Upgradeable variant of OpenZeppelin Contracts, meant for use in upgradeable contracts. |
 | dapphub/ds-test|https://github.com/dapphub/ds-test|187|Assertions, equality checks and other test helpers|
 | hbarcelos/forge-multi-version|https://github.com/hbarcelos/forge-multi-version|21|Using forge with multiple solc versions|
 | threshold-network/merkle-distribution|https://github.com/threshold-network/merkle-distribution|1|Threshold Network rewards generation and distribution|
 | nucypher/nucypher-contracts|https://github.com/nucypher/nucypher-contracts|13|Ethereum contracts supporting TACo applications on the Threshold Network.|
 | keep-network/tbtc-v2|https://github.com/keep-network/tbtc-v2|38|Trustlessly tokenized Bitcoin on Ethereum, version 2|
 | TotallyMaliciousCryptoBro/TotallyMaliciousCryptoBro|https://github.com/TotallyMaliciousCryptoBro/TotallyMaliciousCryptoBro|4||
-| ethereum/EIPs|https://github.com/ethereum/EIPs|12097|The Ethereum Improvement Proposal repository|
-| pcaversaccio/reentrancy-attacks|https://github.com/pcaversaccio/reentrancy-attacks|1002|A chronological and (hopefully) complete list of reentrancy attacks to date.|
+| ethereum/EIPs|https://github.com/ethereum/EIPs|12099|The Ethereum Improvement Proposal repository|
+| pcaversaccio/reentrancy-attacks|https://github.com/pcaversaccio/reentrancy-attacks|1003|A chronological and (hopefully) complete list of reentrancy attacks to date.|
 | StableLib/stablelib|https://github.com/StableLib/stablelib|149|A stable library of useful TypeScript/JavaScript code|
 | snappyjs/node-request-queue|https://github.com/snappyjs/node-request-queue|8|A utility to queue up a number requests to be executed in parallel batches with possible waitTime between them.|
 | TP-Lab/tp-js-sdk|https://github.com/TP-Lab/tp-js-sdk|178|TokenPocket JS API for Dapp of ETH, IOST, TRON, COSMOS, SOLANA, EOS etc. (mobile only)|
 | petr-hejda/solidity-merkle-airdrop|https://github.com/petr-hejda/solidity-merkle-airdrop|3|Example implementation of ERC20 token airdrop using merkle tree|
 | MetaMask/KeyringController|https://github.com/MetaMask/KeyringController|207|A module for managing groups of Ethereum accounts and using them.|
-| appwrite/appwrite|https://github.com/appwrite/appwrite|37474|Build like a team of hundreds_|
-| novuhq/novu|https://github.com/novuhq/novu|30427|🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀|
+| appwrite/appwrite|https://github.com/appwrite/appwrite|37497|Build like a team of hundreds_|
+| novuhq/novu|https://github.com/novuhq/novu|30471|🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀|
 | wagmi-dev/references|https://github.com/wagmi-dev/references|92|Collection of Chains & Connectors for wagmi|
-| pancakeswap/pancake-frontend|https://github.com/pancakeswap/pancake-frontend|2421|:pancakes: Pancake main features (farms, pools, IFO, lottery, profiles)|
+| pancakeswap/pancake-frontend|https://github.com/pancakeswap/pancake-frontend|2420|:pancakes: Pancake main features (farms, pools, IFO, lottery, profiles)|
 | paperxyz/js-sdk|https://github.com/paperxyz/js-sdk|5||
 | Infrablok/login-with-metamask-using-node-js-express-js-react-js-postgresql|https://github.com/Infrablok/login-with-metamask-using-node-js-express-js-react-js-postgresql|2|Login with MetaMask using Node JS, Express Js , React Js& Postgresql|
 
@@ -51,10 +51,10 @@
   <summary>📚 <strong>A random poem from <em>https://poetrydb.org/random</em>!</strong> 👇 </summary>
 
 <!-- Start poem -->
-# 💮 Autumn: A Dirge by *Percy Bysshe Shelley*
+# 💮 Substitute for an Epitaph by *George Gordon, Lord Byron*
 
 <p>
-    The warm sun is failing, the bleak wind is wailing,<br/>The bare boughs are sighing, the pale flowers are dying,<br/>And the Year<br/>On the earth her death-bed, in a shroud of leaves dead,<br/>Is lying.<br/>Come, Months, come away,<br/>From November to May,<br/>In your saddest array;<br/>Follow the bier<br/>Of the dead cold Year,<br/>And like dim shadows watch by her sepulchre.<br/><br/>The chill rain is falling, the nipped worm is crawling,<br/>The rivers are swelling, the thunder is knelling<br/>For the Year;<br/>The blithe swallows are flown, and the lizards each gone<br/>To his dwelling;<br/>Come, Months, come away;<br/>Put on white, black, and gray;<br/>Let your light sisters play--<br/>Ye, follow the bier<br/>Of the dead cold Year,<br/>And make her grave green with tear on tear.
+    KIND Reader! take your choice to cry or laugh;<br/>Here HAROLD lies--but where's his Epitaph?<br/>If such you seek, try Westminster, and view<br/>Ten thousand just as fit for him as you.
 </p>
 
 ***
