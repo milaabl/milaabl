@@ -13,18 +13,18 @@
 | Name | Url | Stars | Description |
 | --- | --- |  --- |  --- |
 | PiotrRut/elonmusk-twitter-notifier|https://github.com/PiotrRut/elonmusk-twitter-notifier|59|AI driven e-mail notifier for tweets mentioning stock from Elon Musk 📈|
-| Vendicated/Vencord|https://github.com/Vendicated/Vencord|4736|The cutest Discord client mod|
+| Vendicated/Vencord|https://github.com/Vendicated/Vencord|4755|The cutest Discord client mod|
 | yeoman/yo|https://github.com/yeoman/yo|3721|CLI tool for running Yeoman generators|
-| matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|996|zkSync era|
+| matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|1008|zkSync era|
 | 0age/create2crunch|https://github.com/0age/create2crunch|364|A Rust program for finding salts that create gas-efficient Ethereum addresses via CREATE2.|
 | joshstevens19/ethereum-multicall|https://github.com/joshstevens19/ethereum-multicall|305|Ability to call many ethereum constant function calls in 1 JSONRPC request|
 | threshold-network/token-dashboard|https://github.com/threshold-network/token-dashboard|20||
 | LimeChain/mongoose-immutable-plugin|https://github.com/LimeChain/mongoose-immutable-plugin|2|Mongoose plugin guarding fields from modifications|
-| ankitects/anki|https://github.com/ankitects/anki|15536|Anki's shared backend and web components, and the Qt frontend|
-| lightningnetwork/lnd|https://github.com/lightningnetwork/lnd|7218|Lightning Network Daemon ⚡️|
+| ankitects/anki|https://github.com/ankitects/anki|15550|Anki's shared backend and web components, and the Qt frontend|
+| lightningnetwork/lnd|https://github.com/lightningnetwork/lnd|7222|Lightning Network Daemon ⚡️|
 | CoNarrative/mongo-immutable|https://github.com/CoNarrative/mongo-immutable|10|Immutable MongoDB.|
-| lightningdevkit/rust-lightning|https://github.com/lightningdevkit/rust-lightning|1007|A highly modular Bitcoin Lightning library written in Rust. It's rust-lightning, not Rusty's Lightning!|
-| node-lightning/node-lightning|https://github.com/node-lightning/node-lightning|121|Bitcoin Lighting Network implemented in Node.js|
+| lightningdevkit/rust-lightning|https://github.com/lightningdevkit/rust-lightning|1009|A highly modular Bitcoin Lightning library written in Rust. It's rust-lightning, not Rusty's Lightning!|
+| node-lightning/node-lightning|https://github.com/node-lightning/node-lightning|122|Bitcoin Lighting Network implemented in Node.js|
 | OpenZeppelin/openzeppelin-contracts-upgradeable|https://github.com/OpenZeppelin/openzeppelin-contracts-upgradeable|882|Upgradeable variant of OpenZeppelin Contracts, meant for use in upgradeable contracts. |
 | dapphub/ds-test|https://github.com/dapphub/ds-test|188|Assertions, equality checks and other test helpers|
 | hbarcelos/forge-multi-version|https://github.com/hbarcelos/forge-multi-version|21|Using forge with multiple solc versions|
@@ -32,15 +32,15 @@
 | nucypher/nucypher-contracts|https://github.com/nucypher/nucypher-contracts|13|Ethereum contracts supporting TACo applications on the Threshold Network.|
 | keep-network/tbtc-v2|https://github.com/keep-network/tbtc-v2|38|Trustlessly tokenized Bitcoin on Ethereum, version 2|
 | TotallyMaliciousCryptoBro/TotallyMaliciousCryptoBro|https://github.com/TotallyMaliciousCryptoBro/TotallyMaliciousCryptoBro|4||
-| ethereum/EIPs|https://github.com/ethereum/EIPs|12124|The Ethereum Improvement Proposal repository|
-| pcaversaccio/reentrancy-attacks|https://github.com/pcaversaccio/reentrancy-attacks|1010|A chronological and (hopefully) complete list of reentrancy attacks to date.|
+| ethereum/EIPs|https://github.com/ethereum/EIPs|12129|The Ethereum Improvement Proposal repository|
+| pcaversaccio/reentrancy-attacks|https://github.com/pcaversaccio/reentrancy-attacks|1012|A chronological and (hopefully) complete list of reentrancy attacks to date.|
 | StableLib/stablelib|https://github.com/StableLib/stablelib|148|A stable library of useful TypeScript/JavaScript code|
 | snappyjs/node-request-queue|https://github.com/snappyjs/node-request-queue|8|A utility to queue up a number requests to be executed in parallel batches with possible waitTime between them.|
 | TP-Lab/tp-js-sdk|https://github.com/TP-Lab/tp-js-sdk|179|TokenPocket JS API for Dapp of ETH, IOST, TRON, COSMOS, SOLANA, EOS etc. (mobile only)|
 | petr-hejda/solidity-merkle-airdrop|https://github.com/petr-hejda/solidity-merkle-airdrop|3|Example implementation of ERC20 token airdrop using merkle tree|
 | MetaMask/KeyringController|https://github.com/MetaMask/KeyringController|211|A module for managing groups of Ethereum accounts and using them.|
-| appwrite/appwrite|https://github.com/appwrite/appwrite|37704|Build like a team of hundreds_|
-| novuhq/novu|https://github.com/novuhq/novu|30667|🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀|
+| appwrite/appwrite|https://github.com/appwrite/appwrite|37733|Build like a team of hundreds_|
+| novuhq/novu|https://github.com/novuhq/novu|30673|🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀|
 | wagmi-dev/references|https://github.com/wagmi-dev/references|91|Collection of Chains & Connectors for wagmi|
 
 <!-- Starred repos end -->
@@ -51,10 +51,10 @@
   <summary>📚 <strong>A random poem from <em>https://poetrydb.org/random</em>!</strong> 👇 </summary>
 
 <!-- Start poem -->
-# 💮 I Never Saw That Land Before by *Edward Thomas*
+# 💮 The Young Soldier by *Wilfred Owen*
 
 <p>
-    I NEVER saw that land before,<br/>And now can never see it again;<br/>Yet, as if by acquaintance hoar<br/>Endeared, by gladness and by pain,<br/>Great was the affection that I bore<br/><br/>To the valley and the river small,<br/>The cattle, the grass, the bare ash trees,<br/>The chickens from the farmsteads, all<br/>Elm-hidden, and the tributaries<br/>Descending at equal interval;<br/><br/>The blackthorns down along the brook<br/>With wounds yellow as crocuses<br/>Where yesterday the labourer's hook<br/>Had sliced them cleanly; and the breeze<br/>That hinted all and nothing spoke.<br/><br/>I neither expected anything<br/>Nor yet remembered: but some goal<br/>I touched then; and if I could sing<br/>What would not even whisper my soul<br/>As I went on my journeying,<br/><br/>I should use, as the trees and birds did,<br/>A language not to be betrayed;<br/>And what was hid should still be hid<br/>Excepting from those like me made<br/>Who answer when such whispers bid.
+    It is not death<br/>Without hereafter<br/>To one in dearth<br/>Of life and its laughter,<br/><br/>Nor the sweet murder<br/>Dealt slow and even<br/>Unto the martyr<br/>Smiling at heaven:<br/><br/>It is the smile<br/>Faint as a (waning) myth,<br/>Faint, and exceeding small<br/>On a boy's murdered mouth.
 </p>
 
 ***
