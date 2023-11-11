@@ -14,15 +14,15 @@
 | --- | --- |  --- |  --- |
 | TatevKaren/TatevKaren-data-science-portfolio|https://github.com/TatevKaren/TatevKaren-data-science-portfolio|48|Data Science Portfolio of Tatev Karen Aslanyan including Case Studies and Research Projects that I have completed that solve business problems or introduce new products. Case Study papers, codes, and additional resources are all included.|
 | PiotrRut/elonmusk-twitter-notifier|https://github.com/PiotrRut/elonmusk-twitter-notifier|59|AI driven e-mail notifier for tweets mentioning stock from Elon Musk 📈|
-| Vendicated/Vencord|https://github.com/Vendicated/Vencord|4882|The cutest Discord client mod|
+| Vendicated/Vencord|https://github.com/Vendicated/Vencord|4894|The cutest Discord client mod|
 | yeoman/yo|https://github.com/yeoman/yo|3726|CLI tool for running Yeoman generators|
-| matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|1050|zkSync era|
-| 0age/create2crunch|https://github.com/0age/create2crunch|374|A Rust program for finding salts that create gas-efficient Ethereum addresses via CREATE2.|
+| matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|1055|zkSync era|
+| 0age/create2crunch|https://github.com/0age/create2crunch|375|A Rust program for finding salts that create gas-efficient Ethereum addresses via CREATE2.|
 | joshstevens19/ethereum-multicall|https://github.com/joshstevens19/ethereum-multicall|305|Ability to call many ethereum constant function calls in 1 JSONRPC request|
 | threshold-network/token-dashboard|https://github.com/threshold-network/token-dashboard|20||
 | LimeChain/mongoose-immutable-plugin|https://github.com/LimeChain/mongoose-immutable-plugin|2|Mongoose plugin guarding fields from modifications|
-| ankitects/anki|https://github.com/ankitects/anki|15627|Anki's shared backend and web components, and the Qt frontend|
-| lightningnetwork/lnd|https://github.com/lightningnetwork/lnd|7228|Lightning Network Daemon ⚡️|
+| ankitects/anki|https://github.com/ankitects/anki|15637|Anki's shared backend and web components, and the Qt frontend|
+| lightningnetwork/lnd|https://github.com/lightningnetwork/lnd|7230|Lightning Network Daemon ⚡️|
 | CoNarrative/mongo-immutable|https://github.com/CoNarrative/mongo-immutable|10|Immutable MongoDB.|
 | lightningdevkit/rust-lightning|https://github.com/lightningdevkit/rust-lightning|1009|A highly modular Bitcoin Lightning library written in Rust. It's rust-lightning, not Rusty's Lightning!|
 | node-lightning/node-lightning|https://github.com/node-lightning/node-lightning|123|Bitcoin Lighting Network implemented in Node.js|
@@ -31,16 +31,16 @@
 | hbarcelos/forge-multi-version|https://github.com/hbarcelos/forge-multi-version|21|Using forge with multiple solc versions|
 | threshold-network/merkle-distribution|https://github.com/threshold-network/merkle-distribution|1|Threshold Network rewards generation and distribution|
 | nucypher/nucypher-contracts|https://github.com/nucypher/nucypher-contracts|13|Ethereum contracts supporting TACo applications on the Threshold Network.|
-| keep-network/tbtc-v2|https://github.com/keep-network/tbtc-v2|39|Trustlessly tokenized Bitcoin on Ethereum, version 2|
+| keep-network/tbtc-v2|https://github.com/keep-network/tbtc-v2|40|Trustlessly tokenized Bitcoin on Ethereum, version 2|
 | TotallyMaliciousCryptoBro/TotallyMaliciousCryptoBro|https://github.com/TotallyMaliciousCryptoBro/TotallyMaliciousCryptoBro|4||
-| ethereum/EIPs|https://github.com/ethereum/EIPs|12139|The Ethereum Improvement Proposal repository|
+| ethereum/EIPs|https://github.com/ethereum/EIPs|12141|The Ethereum Improvement Proposal repository|
 | pcaversaccio/reentrancy-attacks|https://github.com/pcaversaccio/reentrancy-attacks|1041|A chronological and (hopefully) complete list of reentrancy attacks to date.|
 | StableLib/stablelib|https://github.com/StableLib/stablelib|147|A stable library of useful TypeScript/JavaScript code|
 | snappyjs/node-request-queue|https://github.com/snappyjs/node-request-queue|8|A utility to queue up a number requests to be executed in parallel batches with possible waitTime between them.|
 | TP-Lab/tp-js-sdk|https://github.com/TP-Lab/tp-js-sdk|179|TokenPocket JS API for Dapp of ETH, IOST, TRON, COSMOS, SOLANA, EOS etc. (mobile only)|
 | petr-hejda/solidity-merkle-airdrop|https://github.com/petr-hejda/solidity-merkle-airdrop|3|Example implementation of ERC20 token airdrop using merkle tree|
-| MetaMask/KeyringController|https://github.com/MetaMask/KeyringController|212|A module for managing groups of Ethereum accounts and using them.|
-| appwrite/appwrite|https://github.com/appwrite/appwrite|37889|Build like a team of hundreds_|
+| MetaMask/KeyringController|https://github.com/MetaMask/KeyringController|211|A module for managing groups of Ethereum accounts and using them.|
+| appwrite/appwrite|https://github.com/appwrite/appwrite|37897|Build like a team of hundreds_|
 | novuhq/novu|https://github.com/novuhq/novu|30712|🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀|
 
 <!-- Starred repos end -->
@@ -51,10 +51,10 @@
   <summary>📚 <strong>A random poem from <em>https://poetrydb.org/random</em>!</strong> 👇 </summary>
 
 <!-- Start poem -->
-# 💮 Merry Maid by *John Clare*
+# 💮 To -- [Harriet] by *Percy Bysshe Shelley*
 
 <p>
-    Bonny and stout and brown, without a hat,<br/>She frowns offended when they call her fat--<br/>Yet fat she is, the merriest in the place,<br/>And all can know she wears a pretty face.<br/>But still she never heeds what praise can say,<br/>But does the work, and oft runs out to play,<br/>To run about the yard and ramp and noise<br/>And spring the mop upon the servant boys.<br/>When old hens noise and cackle every where<br/>She hurries eager if the eggs are dear,<br/>And runs to seek them when they lay away<br/>To get them ready for the market day.<br/>She gambols with the men and laughs aloud<br/>And only quarrels when they call her proud.
+    Stern, stern is the voice of fate's fearful command,<br/>When accents of horror it breathes in our ear,<br/>Or compels us for aye bid adieu to the land,<br/>Where exists that loved friend to our bosom so dear,<br/><br/>'Tis sterner than death o'er the shuddering wretch bending,<br/>And in skeleton grasp his fell sceptre extending,<br/>Like the heart-stricken deer to that loved covert wending,<br/>Which never again to his eyes may appear--<br/><br/>And ah! he may envy the heart-stricken quarry,<br/>Who bids to the friend of affection farewell,<br/>He may envy the bosom so bleeding and gory,<br/>He may envy the sound of the drear passing knell,<br/><br/>Not so deep is his grief on his death couch reposing,<br/>When on the last vision his dim eyes are closing!<br/>As the outcast whose love-raptured senses are losing,<br/>The last tones of thy voice on the wild breeze that swell!<br/><br/>Those tones were so soft, and so sad, that ah! never,<br/>Can the sound cease to vibrate on Memory's ear,<br/>In the stern wreck of Nature for ever and ever,<br/>The remembrance must live of a friend so sincere.
 </p>
 
 ***
