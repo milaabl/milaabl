@@ -14,15 +14,15 @@
 | --- | --- |  --- |  --- |
 | TatevKaren/TatevKaren-data-science-portfolio|https://github.com/TatevKaren/TatevKaren-data-science-portfolio|49|Data Science Portfolio of Tatev Karen Aslanyan including Case Studies and Research Projects that I have completed that solve business problems or introduce new products. Case Study papers, codes, and additional resources are all included.|
 | PiotrRut/elonmusk-twitter-notifier|https://github.com/PiotrRut/elonmusk-twitter-notifier|59|AI driven e-mail notifier for tweets mentioning stock from Elon Musk 📈|
-| Vendicated/Vencord|https://github.com/Vendicated/Vencord|4946|The cutest Discord client mod|
-| yeoman/yo|https://github.com/yeoman/yo|3728|CLI tool for running Yeoman generators|
-| matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|1072|zkSync era|
+| Vendicated/Vencord|https://github.com/Vendicated/Vencord|4958|The cutest Discord client mod|
+| yeoman/yo|https://github.com/yeoman/yo|3729|CLI tool for running Yeoman generators|
+| matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|1073|zkSync era|
 | 0age/create2crunch|https://github.com/0age/create2crunch|379|A Rust program for finding salts that create gas-efficient Ethereum addresses via CREATE2.|
-| joshstevens19/ethereum-multicall|https://github.com/joshstevens19/ethereum-multicall|306|Ability to call many ethereum constant function calls in 1 JSONRPC request|
+| joshstevens19/ethereum-multicall|https://github.com/joshstevens19/ethereum-multicall|307|Ability to call many ethereum constant function calls in 1 JSONRPC request|
 | threshold-network/token-dashboard|https://github.com/threshold-network/token-dashboard|20||
 | LimeChain/mongoose-immutable-plugin|https://github.com/LimeChain/mongoose-immutable-plugin|2|Mongoose plugin guarding fields from modifications|
-| ankitects/anki|https://github.com/ankitects/anki|15680|Anki's shared backend and web components, and the Qt frontend|
-| lightningnetwork/lnd|https://github.com/lightningnetwork/lnd|7237|Lightning Network Daemon ⚡️|
+| ankitects/anki|https://github.com/ankitects/anki|15689|Anki's shared backend and web components, and the Qt frontend|
+| lightningnetwork/lnd|https://github.com/lightningnetwork/lnd|7238|Lightning Network Daemon ⚡️|
 | CoNarrative/mongo-immutable|https://github.com/CoNarrative/mongo-immutable|10|Immutable MongoDB.|
 | lightningdevkit/rust-lightning|https://github.com/lightningdevkit/rust-lightning|1011|A highly modular Bitcoin Lightning library written in Rust. It's rust-lightning, not Rusty's Lightning!|
 | node-lightning/node-lightning|https://github.com/node-lightning/node-lightning|124|Bitcoin Lighting Network implemented in Node.js|
@@ -33,15 +33,15 @@
 | nucypher/nucypher-contracts|https://github.com/nucypher/nucypher-contracts|13|Ethereum contracts supporting TACo applications on the Threshold Network.|
 | keep-network/tbtc-v2|https://github.com/keep-network/tbtc-v2|40|Trustlessly tokenized Bitcoin on Ethereum, version 2|
 | TotallyMaliciousCryptoBro/TotallyMaliciousCryptoBro|https://github.com/TotallyMaliciousCryptoBro/TotallyMaliciousCryptoBro|4||
-| ethereum/EIPs|https://github.com/ethereum/EIPs|12142|The Ethereum Improvement Proposal repository|
-| pcaversaccio/reentrancy-attacks|https://github.com/pcaversaccio/reentrancy-attacks|1044|A chronological and (hopefully) complete list of reentrancy attacks to date.|
+| ethereum/EIPs|https://github.com/ethereum/EIPs|12145|The Ethereum Improvement Proposal repository|
+| pcaversaccio/reentrancy-attacks|https://github.com/pcaversaccio/reentrancy-attacks|1045|A chronological and (hopefully) complete list of reentrancy attacks to date.|
 | StableLib/stablelib|https://github.com/StableLib/stablelib|148|A stable library of useful TypeScript/JavaScript code|
 | snappyjs/node-request-queue|https://github.com/snappyjs/node-request-queue|8|A utility to queue up a number requests to be executed in parallel batches with possible waitTime between them.|
 | TP-Lab/tp-js-sdk|https://github.com/TP-Lab/tp-js-sdk|179|TokenPocket JS API for Dapp of ETH, IOST, TRON, COSMOS, SOLANA, EOS etc. (mobile only)|
 | petr-hejda/solidity-merkle-airdrop|https://github.com/petr-hejda/solidity-merkle-airdrop|3|Example implementation of ERC20 token airdrop using merkle tree|
 | MetaMask/KeyringController|https://github.com/MetaMask/KeyringController|211|A module for managing groups of Ethereum accounts and using them.|
-| appwrite/appwrite|https://github.com/appwrite/appwrite|37945|Build like a team of hundreds_|
-| novuhq/novu|https://github.com/novuhq/novu|30720|🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀|
+| appwrite/appwrite|https://github.com/appwrite/appwrite|37957|Build like a team of hundreds_|
+| novuhq/novu|https://github.com/novuhq/novu|30740|🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀|
 
 <!-- Starred repos end -->
 
@@ -51,10 +51,10 @@
   <summary>📚 <strong>A random poem from <em>https://poetrydb.org/random</em>!</strong> 👇 </summary>
 
 <!-- Start poem -->
-# 💮 The Sailor-Boy by *John Clare*
+# 💮 Madam Life's a Piece in Bloom by *William Ernest Henley*
 
 <p>
-    Tis three years and a quarter since I left my own fireside<br/>To go aboard a ship through love, and plough the ocean wide.<br/>I crossed my native fields, where the scarlet poppies grew,<br/>And the groundlark left his nest like a neighbour which I knew.<br/><br/>The pigeons from the dove cote cooed over the old lane,<br/>The crow flocks from the oakwood went flopping oer the grain;<br/>Like lots of dear old neighbours whom I shall see no more<br/>They greeted me that morning I left the English shore.<br/><br/>The sun was just a-rising above the heath of furze,<br/>And the shadows grow to giants; that bright ball never stirs:<br/>There the shepherds lay with their dogs by their side,<br/>And they started up and barked as my shadow they espied.<br/><br/>A maid of early morning twirled her mop upon the moor;<br/>I wished her my farewell before she closed the door.<br/>My friends I left behind me for other places new,<br/>Crows and pigeons all were strangers as oer my head they flew.<br/><br/>Trees and bushes were all strangers, the hedges and the lanes,<br/>The steeples and the houses and broad untrodden plains.<br/>I passed the pretty milkmaid with her red and rosy face;<br/>I knew not where I met her, I was strange to the place.<br/><br/>At last I saw the ocean, a pleasing sight to me:<br/>I stood upon the shore of a mighty glorious sea.<br/>The waves in easy motion went rolling on their way,<br/>English colours were a-flying where the British squadron lay.<br/><br/>I left my honest parents, the church clock and the village;<br/>I left the lads and lasses, the labour and the tillage;<br/>To plough the briny ocean, which soon became my joy--<br/>I sat and sang among the shrouds, a lonely sailor-boy.
+    Madam Life's a piece in bloom<br/>Death goes dogging everywhere:<br/>She's the tenant of the room,<br/>He's the ruffian on the stair.<br/><br/>You shall see her as a friend,<br/>You shall bilk him once or twice;<br/>But he'll trap you in the end,<br/>And he'll stick you for her price.<br/><br/>With his kneebones at your chest,<br/>And his knuckles in your throat,<br/>You would reason -- plead -- protest!<br/>Clutching at her petticoat;<br/><br/>But she's heard it all before,<br/>Well she knows you've had your fun,<br/>Gingerly she gains the door,<br/>And your little job is done.
 </p>
 
 ***
