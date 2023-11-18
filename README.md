@@ -14,17 +14,17 @@
 | --- | --- |  --- |  --- |
 | TatevKaren/TatevKaren-data-science-portfolio|https://github.com/TatevKaren/TatevKaren-data-science-portfolio|49|Data Science Portfolio of Tatev Karen Aslanyan including Case Studies and Research Projects that I have completed that solve business problems or introduce new products. Case Study papers, codes, and additional resources are all included.|
 | PiotrRut/elonmusk-twitter-notifier|https://github.com/PiotrRut/elonmusk-twitter-notifier|59|AI driven e-mail notifier for tweets mentioning stock from Elon Musk 📈|
-| Vendicated/Vencord|https://github.com/Vendicated/Vencord|4974|The cutest Discord client mod|
-| yeoman/yo|https://github.com/yeoman/yo|3729|CLI tool for running Yeoman generators|
-| matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|1074|zkSync era|
+| Vendicated/Vencord|https://github.com/Vendicated/Vencord|4983|The cutest Discord client mod|
+| yeoman/yo|https://github.com/yeoman/yo|3730|CLI tool for running Yeoman generators|
+| matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|1076|zkSync era|
 | 0age/create2crunch|https://github.com/0age/create2crunch|379|A Rust program for finding salts that create gas-efficient Ethereum addresses via CREATE2.|
-| joshstevens19/ethereum-multicall|https://github.com/joshstevens19/ethereum-multicall|307|Ability to call many ethereum constant function calls in 1 JSONRPC request|
+| joshstevens19/ethereum-multicall|https://github.com/joshstevens19/ethereum-multicall|308|Ability to call many ethereum constant function calls in 1 JSONRPC request|
 | threshold-network/token-dashboard|https://github.com/threshold-network/token-dashboard|20||
 | LimeChain/mongoose-immutable-plugin|https://github.com/LimeChain/mongoose-immutable-plugin|2|Mongoose plugin guarding fields from modifications|
-| ankitects/anki|https://github.com/ankitects/anki|15698|Anki's shared backend and web components, and the Qt frontend|
+| ankitects/anki|https://github.com/ankitects/anki|15710|Anki's shared backend and web components, and the Qt frontend|
 | lightningnetwork/lnd|https://github.com/lightningnetwork/lnd|7241|Lightning Network Daemon ⚡️|
 | CoNarrative/mongo-immutable|https://github.com/CoNarrative/mongo-immutable|10|Immutable MongoDB.|
-| lightningdevkit/rust-lightning|https://github.com/lightningdevkit/rust-lightning|1012|A highly modular Bitcoin Lightning library written in Rust. It's rust-lightning, not Rusty's Lightning!|
+| lightningdevkit/rust-lightning|https://github.com/lightningdevkit/rust-lightning|1011|A highly modular Bitcoin Lightning library written in Rust. It's rust-lightning, not Rusty's Lightning!|
 | node-lightning/node-lightning|https://github.com/node-lightning/node-lightning|124|Bitcoin Lighting Network implemented in Node.js|
 | OpenZeppelin/openzeppelin-contracts-upgradeable|https://github.com/OpenZeppelin/openzeppelin-contracts-upgradeable|895|Upgradeable variant of OpenZeppelin Contracts, meant for use in upgradeable contracts. |
 | dapphub/ds-test|https://github.com/dapphub/ds-test|190|Assertions, equality checks and other test helpers|
@@ -33,15 +33,15 @@
 | nucypher/nucypher-contracts|https://github.com/nucypher/nucypher-contracts|13|Ethereum contracts supporting TACo applications on the Threshold Network.|
 | keep-network/tbtc-v2|https://github.com/keep-network/tbtc-v2|40|Trustlessly tokenized Bitcoin on Ethereum, version 2|
 | TotallyMaliciousCryptoBro/TotallyMaliciousCryptoBro|https://github.com/TotallyMaliciousCryptoBro/TotallyMaliciousCryptoBro|4||
-| ethereum/EIPs|https://github.com/ethereum/EIPs|12148|The Ethereum Improvement Proposal repository|
-| pcaversaccio/reentrancy-attacks|https://github.com/pcaversaccio/reentrancy-attacks|1045|A chronological and (hopefully) complete list of reentrancy attacks to date.|
+| ethereum/EIPs|https://github.com/ethereum/EIPs|12150|The Ethereum Improvement Proposal repository|
+| pcaversaccio/reentrancy-attacks|https://github.com/pcaversaccio/reentrancy-attacks|1046|A chronological and (hopefully) complete list of reentrancy attacks to date.|
 | StableLib/stablelib|https://github.com/StableLib/stablelib|148|A stable library of useful TypeScript/JavaScript code|
 | snappyjs/node-request-queue|https://github.com/snappyjs/node-request-queue|8|A utility to queue up a number requests to be executed in parallel batches with possible waitTime between them.|
 | TP-Lab/tp-js-sdk|https://github.com/TP-Lab/tp-js-sdk|179|TokenPocket JS API for Dapp of ETH, IOST, TRON, COSMOS, SOLANA, EOS etc. (mobile only)|
 | petr-hejda/solidity-merkle-airdrop|https://github.com/petr-hejda/solidity-merkle-airdrop|3|Example implementation of ERC20 token airdrop using merkle tree|
 | MetaMask/KeyringController|https://github.com/MetaMask/KeyringController|211|A module for managing groups of Ethereum accounts and using them.|
-| appwrite/appwrite|https://github.com/appwrite/appwrite|37974|Build like a team of hundreds_|
-| novuhq/novu|https://github.com/novuhq/novu|30753|🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀|
+| appwrite/appwrite|https://github.com/appwrite/appwrite|37998|Build like a team of hundreds_|
+| novuhq/novu|https://github.com/novuhq/novu|30764|🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀|
 
 <!-- Starred repos end -->
 
@@ -51,10 +51,10 @@
   <summary>📚 <strong>A random poem from <em>https://poetrydb.org/random</em>!</strong> 👇 </summary>
 
 <!-- Start poem -->
-# 💮 Circumstance by *Percy Bysshe Shelley*
+# 💮 Sonnet 109: O! never say that I was false of heart by *William Shakespeare*
 
 <p>
-    FROM THE GREEK.<br/><br/>A man who was about to hang himself,<br/>Finding a purse, then threw away his rope;<br/>The owner, coming to reclaim his pelf,<br/>The halter found; and used it. So is Hope<br/>Changed for Despair--one laid upon the shelf,<br/>We take the other. Under Heaven's high cope<br/>Fortune is God--all you endure and do<br/>Depends on circumstance as much as you.
+    O! never say that I was false of heart,<br/>Though absence seem'd my flame to qualify,<br/>As easy might I from my self depart<br/>As from my soul which in thy breast doth lie:<br/>That is my home of love: if I have rang'd,<br/>Like him that travels, I return again;<br/>Just to the time, not with the time exchang'd,<br/>So that myself bring water for my stain.<br/>Never believe though in my nature reign'd,<br/>All frailties that besiege all kinds of blood,<br/>That it could so preposterously be stain'd,<br/>To leave for nothing all thy sum of good;<br/>  For nothing this wide universe I call,<br/>  Save thou, my rose, in it thou art my all.
 </p>
 
 ***
