@@ -14,34 +14,34 @@
 | --- | --- |  --- |  --- |
 | TatevKaren/TatevKaren-data-science-portfolio|https://github.com/TatevKaren/TatevKaren-data-science-portfolio|49|Data Science Portfolio of Tatev Karen Aslanyan including Case Studies and Research Projects that I have completed that solve business problems or introduce new products. Case Study papers, codes, and additional resources are all included.|
 | PiotrRut/elonmusk-twitter-notifier|https://github.com/PiotrRut/elonmusk-twitter-notifier|59|AI driven e-mail notifier for tweets mentioning stock from Elon Musk 📈|
-| Vendicated/Vencord|https://github.com/Vendicated/Vencord|5103|The cutest Discord client mod|
+| Vendicated/Vencord|https://github.com/Vendicated/Vencord|5113|The cutest Discord client mod|
 | yeoman/yo|https://github.com/yeoman/yo|3735|CLI tool for running Yeoman generators|
-| matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|1129|zkSync era|
-| 0age/create2crunch|https://github.com/0age/create2crunch|383|A Rust program for finding salts that create gas-efficient Ethereum addresses via CREATE2.|
+| matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|1133|zkSync era|
+| 0age/create2crunch|https://github.com/0age/create2crunch|382|A Rust program for finding salts that create gas-efficient Ethereum addresses via CREATE2.|
 | joshstevens19/ethereum-multicall|https://github.com/joshstevens19/ethereum-multicall|311|Ability to call many ethereum constant function calls in 1 JSONRPC request|
 | threshold-network/token-dashboard|https://github.com/threshold-network/token-dashboard|20||
 | LimeChain/mongoose-immutable-plugin|https://github.com/LimeChain/mongoose-immutable-plugin|2|Mongoose plugin guarding fields from modifications|
-| ankitects/anki|https://github.com/ankitects/anki|15833|Anki's shared backend and web components, and the Qt frontend|
-| lightningnetwork/lnd|https://github.com/lightningnetwork/lnd|7257|Lightning Network Daemon ⚡️|
+| ankitects/anki|https://github.com/ankitects/anki|15840|Anki's shared backend and web components, and the Qt frontend|
+| lightningnetwork/lnd|https://github.com/lightningnetwork/lnd|7264|Lightning Network Daemon ⚡️|
 | CoNarrative/mongo-immutable|https://github.com/CoNarrative/mongo-immutable|10|Immutable MongoDB.|
 | lightningdevkit/rust-lightning|https://github.com/lightningdevkit/rust-lightning|1025|A highly modular Bitcoin Lightning library written in Rust. It's rust-lightning, not Rusty's Lightning!|
 | node-lightning/node-lightning|https://github.com/node-lightning/node-lightning|126|Bitcoin Lighting Network implemented in Node.js|
-| OpenZeppelin/openzeppelin-contracts-upgradeable|https://github.com/OpenZeppelin/openzeppelin-contracts-upgradeable|898|Upgradeable variant of OpenZeppelin Contracts, meant for use in upgradeable contracts. |
+| OpenZeppelin/openzeppelin-contracts-upgradeable|https://github.com/OpenZeppelin/openzeppelin-contracts-upgradeable|900|Upgradeable variant of OpenZeppelin Contracts, meant for use in upgradeable contracts. |
 | dapphub/ds-test|https://github.com/dapphub/ds-test|192|Assertions, equality checks and other test helpers|
 | hbarcelos/forge-multi-version|https://github.com/hbarcelos/forge-multi-version|22|Using forge with multiple solc versions|
 | threshold-network/merkle-distribution|https://github.com/threshold-network/merkle-distribution|1|Threshold Network rewards generation and distribution|
 | nucypher/nucypher-contracts|https://github.com/nucypher/nucypher-contracts|13|Ethereum contracts supporting TACo applications on the Threshold Network.|
 | keep-network/tbtc-v2|https://github.com/keep-network/tbtc-v2|40|Trustlessly tokenized Bitcoin on Ethereum, version 2|
 | TotallyMaliciousCryptoBro/TotallyMaliciousCryptoBro|https://github.com/TotallyMaliciousCryptoBro/TotallyMaliciousCryptoBro|4||
-| ethereum/EIPs|https://github.com/ethereum/EIPs|12170|The Ethereum Improvement Proposal repository|
+| ethereum/EIPs|https://github.com/ethereum/EIPs|12174|The Ethereum Improvement Proposal repository|
 | pcaversaccio/reentrancy-attacks|https://github.com/pcaversaccio/reentrancy-attacks|1061|A chronological and (hopefully) complete list of reentrancy attacks to date.|
 | StableLib/stablelib|https://github.com/StableLib/stablelib|147|A stable library of useful TypeScript/JavaScript code|
 | snappyjs/node-request-queue|https://github.com/snappyjs/node-request-queue|8|A utility to queue up a number requests to be executed in parallel batches with possible waitTime between them.|
 | TP-Lab/tp-js-sdk|https://github.com/TP-Lab/tp-js-sdk|181|TokenPocket JS API for Dapp of ETH, IOST, TRON, COSMOS, SOLANA, EOS etc. (mobile only)|
 | petr-hejda/solidity-merkle-airdrop|https://github.com/petr-hejda/solidity-merkle-airdrop|3|Example implementation of ERC20 token airdrop using merkle tree|
 | MetaMask/KeyringController|https://github.com/MetaMask/KeyringController|213|A module for managing groups of Ethereum accounts and using them.|
-| appwrite/appwrite|https://github.com/appwrite/appwrite|38219|Build like a team of hundreds_|
-| novuhq/novu|https://github.com/novuhq/novu|31170|🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀|
+| appwrite/appwrite|https://github.com/appwrite/appwrite|38229|Build like a team of hundreds_|
+| novuhq/novu|https://github.com/novuhq/novu|31177|🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀|
 
 <!-- Starred repos end -->
 
@@ -51,10 +51,10 @@
   <summary>📚 <strong>A random poem from <em>https://poetrydb.org/random</em>!</strong> 👇 </summary>
 
 <!-- Start poem -->
-# 💮 To a Vain Lady by *George Gordon, Lord Byron*
+# 💮 Song. Translated From the Italian by *Percy Bysshe Shelley*
 
 <p>
-    Ah, heedless girl! why thus disclose<br/>  What ne'er was meant for other ears;<br/>Why thus destroy thine own repose,<br/>  And dig the source of future tears?<br/><br/>Oh, thou wilt weep, imprudent maid,<br/>While lurking envious foes will smile,<br/>For all the follies thou hast said<br/>Of those who spoke but to beguile.<br/><br/>Vain girl! thy lingering woes are nigh,<br/>If thou believ'st what striplings say:<br/>Oh, from the deep temptation fly,<br/>Nor fall the specious spoiler's prey.<br/><br/>Dost thou repeat, in childish boast,<br/>The words man utters to deceive?<br/>Thy peace, thy hope, thy all is lost,<br/>If thou canst venture to believe.<br/><br/>While now amongst thy female peers<br/>Thou tell'st again the soothing tale,<br/>Canst thou not mark the rising sneers<br/>Duplicity in vain would veil?<br/><br/>These tales in secret silence hush,<br/>Nor make thyself the public gaze:<br/>What modest maid without a blush<br/>Recounts a flattering coxcomb's praise?<br/><br/>Will not the laughing boy despise<br/>Her who relates each fond conceit--<br/>Who, thinking Heaven is in her eyes,<br/>Yet cannot see the slight deceit?<br/><br/>For she who takes a soft delight<br/>These amorous nothings in revealing,<br/>Must credit all we say or write,<br/>While vanity prevents concealing.<br/><br/>Cease, if you prize your Beauty's reign!<br/>No jealousy bids me reprove:<br/>One, who is thus from nature vain,<br/>I pity, but I cannot love.
+    Oh! what is the gain of restless care,<br/>And what is ambitious treasure?<br/>And what are the joys that the modish share,<br/>In their sickly haunts of pleasure?<br/><br/>My husband's repast with delight I spread,<br/>What though 'tis but rustic fare,<br/>May each guardian angel protect his shed,<br/>May contentment and quiet be there.<br/><br/>And may I support my husband's years,<br/>May I soothe his dying pain,<br/>And then may I dry my fast falling tears,<br/>And meet him in Heaven again.
 </p>
 
 ***
