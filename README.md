@@ -14,34 +14,34 @@
 | --- | --- |  --- |  --- |
 | TatevKaren/TatevKaren-data-science-portfolio|https://github.com/TatevKaren/TatevKaren-data-science-portfolio|49|Data Science Portfolio of Tatev Karen Aslanyan including Case Studies and Research Projects that I have completed that solve business problems or introduce new products. Case Study papers, codes, and additional resources are all included.|
 | PiotrRut/elonmusk-twitter-notifier|https://github.com/PiotrRut/elonmusk-twitter-notifier|59|AI driven e-mail notifier for tweets mentioning stock from Elon Musk 📈|
-| Vendicated/Vencord|https://github.com/Vendicated/Vencord|5141|The cutest Discord client mod|
-| yeoman/yo|https://github.com/yeoman/yo|3737|CLI tool for running Yeoman generators|
-| matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|1158|zkSync era|
+| Vendicated/Vencord|https://github.com/Vendicated/Vencord|5151|The cutest Discord client mod|
+| yeoman/yo|https://github.com/yeoman/yo|3740|CLI tool for running Yeoman generators|
+| matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|1162|zkSync era|
 | 0age/create2crunch|https://github.com/0age/create2crunch|383|A Rust program for finding salts that create gas-efficient Ethereum addresses via CREATE2.|
 | joshstevens19/ethereum-multicall|https://github.com/joshstevens19/ethereum-multicall|312|Ability to call many ethereum constant function calls in 1 JSONRPC request|
-| threshold-network/token-dashboard|https://github.com/threshold-network/token-dashboard|20||
+| threshold-network/token-dashboard|https://github.com/threshold-network/token-dashboard|21||
 | LimeChain/mongoose-immutable-plugin|https://github.com/LimeChain/mongoose-immutable-plugin|2|Mongoose plugin guarding fields from modifications|
-| ankitects/anki|https://github.com/ankitects/anki|15867|Anki's shared backend and web components, and the Qt frontend|
+| ankitects/anki|https://github.com/ankitects/anki|15874|Anki's shared backend and web components, and the Qt frontend|
 | lightningnetwork/lnd|https://github.com/lightningnetwork/lnd|7269|Lightning Network Daemon ⚡️|
 | CoNarrative/mongo-immutable|https://github.com/CoNarrative/mongo-immutable|10|Immutable MongoDB.|
-| lightningdevkit/rust-lightning|https://github.com/lightningdevkit/rust-lightning|1025|A highly modular Bitcoin Lightning library written in Rust. It's rust-lightning, not Rusty's Lightning!|
+| lightningdevkit/rust-lightning|https://github.com/lightningdevkit/rust-lightning|1026|A highly modular Bitcoin Lightning library written in Rust. It's rust-lightning, not Rusty's Lightning!|
 | node-lightning/node-lightning|https://github.com/node-lightning/node-lightning|126|Bitcoin Lighting Network implemented in Node.js|
-| OpenZeppelin/openzeppelin-contracts-upgradeable|https://github.com/OpenZeppelin/openzeppelin-contracts-upgradeable|900|Upgradeable variant of OpenZeppelin Contracts, meant for use in upgradeable contracts. |
+| OpenZeppelin/openzeppelin-contracts-upgradeable|https://github.com/OpenZeppelin/openzeppelin-contracts-upgradeable|901|Upgradeable variant of OpenZeppelin Contracts, meant for use in upgradeable contracts. |
 | dapphub/ds-test|https://github.com/dapphub/ds-test|193|Assertions, equality checks and other test helpers|
 | hbarcelos/forge-multi-version|https://github.com/hbarcelos/forge-multi-version|22|Using forge with multiple solc versions|
 | threshold-network/merkle-distribution|https://github.com/threshold-network/merkle-distribution|1|Threshold Network rewards generation and distribution|
 | nucypher/nucypher-contracts|https://github.com/nucypher/nucypher-contracts|13|Ethereum contracts supporting TACo applications on the Threshold Network.|
 | keep-network/tbtc-v2|https://github.com/keep-network/tbtc-v2|40|Trustlessly tokenized Bitcoin on Ethereum, version 2|
 | TotallyMaliciousCryptoBro/TotallyMaliciousCryptoBro|https://github.com/TotallyMaliciousCryptoBro/TotallyMaliciousCryptoBro|4||
-| ethereum/EIPs|https://github.com/ethereum/EIPs|12175|The Ethereum Improvement Proposal repository|
+| ethereum/EIPs|https://github.com/ethereum/EIPs|12176|The Ethereum Improvement Proposal repository|
 | pcaversaccio/reentrancy-attacks|https://github.com/pcaversaccio/reentrancy-attacks|1063|A chronological and (hopefully) complete list of reentrancy attacks to date.|
 | StableLib/stablelib|https://github.com/StableLib/stablelib|147|A stable library of useful TypeScript/JavaScript code|
 | snappyjs/node-request-queue|https://github.com/snappyjs/node-request-queue|8|A utility to queue up a number requests to be executed in parallel batches with possible waitTime between them.|
 | TP-Lab/tp-js-sdk|https://github.com/TP-Lab/tp-js-sdk|182|TokenPocket JS API for Dapp of ETH, IOST, TRON, COSMOS, SOLANA, EOS etc. (mobile only)|
 | petr-hejda/solidity-merkle-airdrop|https://github.com/petr-hejda/solidity-merkle-airdrop|3|Example implementation of ERC20 token airdrop using merkle tree|
 | MetaMask/KeyringController|https://github.com/MetaMask/KeyringController|213|A module for managing groups of Ethereum accounts and using them.|
-| appwrite/appwrite|https://github.com/appwrite/appwrite|38265|Build like a team of hundreds_|
-| novuhq/novu|https://github.com/novuhq/novu|31197|🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀|
+| appwrite/appwrite|https://github.com/appwrite/appwrite|38270|Build like a team of hundreds_|
+| novuhq/novu|https://github.com/novuhq/novu|31213|🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀|
 
 <!-- Starred repos end -->
 
@@ -51,10 +51,10 @@
   <summary>📚 <strong>A random poem from <em>https://poetrydb.org/random</em>!</strong> 👇 </summary>
 
 <!-- Start poem -->
-# 💮 Ballad. to the Tune of "Salley in Our Alley." by *George Gordon, Lord Byron*
+# 💮 Fragment: 'I Would Not Be a King' by *Percy Bysshe Shelley*
 
 <p>
-    OF all the twice ten thousand bards<br/>  That ever penned a canto,<br/>Whom Pudding or whom Praise rewards<br/>  For lining a portmanteau;<br/>Of all the poets ever known,<br/>  From Grub-street to Fop's Alley,<br/>The Muse may boast--the World must own<br/>  There's none like pretty Gally!<br/><br/>He writes as well as any Miss,<br/>  Has published many a poem;<br/>The shame is yours, the gain is his,<br/>  In case you should not know 'em:<br/>He has ten thousand pounds a year--<br/>  I do not mean to vally--<br/>His songs at sixpence would be dear,<br/>  So give them gratis, Gaily!<br/><br/>And if this statement should seem queer,<br/>  Or set down in a hurry,<br/>Go, ask (if he will be sincere)<br/>  His bookseller--John Murray.<br/>Come, say, how many have been sold,<br/>  And don't stand shilly-shally,<br/>Of bound and lettered, red and gold,<br/>  Well printed works of Gally.<br/><br/>For Astley's circus Upton writes,<br/>  And also for the Surry; (_sic_)<br/>Fitzgerald weekly still recites,<br/>  Though grinning Critics worry:<br/>Miss Holford's Peg, and Sotheby's Saul,<br/>  In fame exactly tally;<br/>From Stationer's Hall to Grocer's Stall<br/>  They go--and so does Gally.<br/><br/>He rode upon a Camel's hump<br/>  Through Araby the sandy,<br/>Which surely must have hurt the rump<br/>  Of this poetic dandy.<br/>His rhymes are of the costive kind,<br/>  And barren as each valley<br/>In deserts which he left behind<br/>  Has been the Muse of Gally.<br/><br/>He has a Seat in Parliament,<br/>  Is fat and passing wealthy;<br/>And surely he should be content<br/>  With these and being healthy:<br/>But Great Ambition will misrule<br/>  Men at all risks to sally,--<br/>Now makes a poet--now a fool,<br/>  And _we_ know _which_--of Gally.<br/><br/>Some in the playhouse like to row,<br/>  Some with the Watch to battle,<br/>Exchanging many a midnight blow<br/>  To Music of the Rattle.<br/>Some folks like rowing on the Thames,<br/>  Some rowing in an Alley,<br/>But all the Row my fancy claims<br/>  Is _rowing_--of my _Gally_.<br/><br/>  "Th' unloaded camel, pacing slow.<br/>Crops the rough herbage or the tamarisk spray."
+    I would not be a king--enough<br/>Of woe it is to love;<br/>The path to power is steep and rough,<br/>And tempests reign above.<br/>I would not climb the imperial throne;<br/>'Tis built on ice which fortune's sun<br/>Thaws in the height of noon.<br/>Then farewell, king, yet were I one,<br/>Care would not come so soon.<br/>Would he and I were far away<br/>Keeping flocks on Himalay!
 </p>
 
 ***
