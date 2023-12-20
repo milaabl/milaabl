@@ -14,34 +14,34 @@
 | --- | --- |  --- |  --- |
 | TatevKaren/TatevKaren-data-science-portfolio|https://github.com/TatevKaren/TatevKaren-data-science-portfolio|49|Data Science Portfolio of Tatev Karen Aslanyan including Case Studies and Research Projects that I have completed that solve business problems or introduce new products. Case Study papers, codes, and additional resources are all included.|
 | PiotrRut/elonmusk-twitter-notifier|https://github.com/PiotrRut/elonmusk-twitter-notifier|59|AI driven e-mail notifier for tweets mentioning stock from Elon Musk 📈|
-| Vendicated/Vencord|https://github.com/Vendicated/Vencord|5314|The cutest Discord client mod|
+| Vendicated/Vencord|https://github.com/Vendicated/Vencord|5322|The cutest Discord client mod|
 | yeoman/yo|https://github.com/yeoman/yo|3744|CLI tool for running Yeoman generators|
-| matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|1228|zkSync era|
+| matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|1231|zkSync era|
 | 0age/create2crunch|https://github.com/0age/create2crunch|384|A Rust program for finding salts that create gas-efficient Ethereum addresses via CREATE2.|
 | joshstevens19/ethereum-multicall|https://github.com/joshstevens19/ethereum-multicall|312|Ability to call many ethereum constant function calls in 1 JSONRPC request|
 | threshold-network/token-dashboard|https://github.com/threshold-network/token-dashboard|21||
 | LimeChain/mongoose-immutable-plugin|https://github.com/LimeChain/mongoose-immutable-plugin|2|Mongoose plugin guarding fields from modifications|
-| ankitects/anki|https://github.com/ankitects/anki|15991|Anki's shared backend and web components, and the Qt frontend|
-| lightningnetwork/lnd|https://github.com/lightningnetwork/lnd|7294|Lightning Network Daemon ⚡️|
+| ankitects/anki|https://github.com/ankitects/anki|16005|Anki's shared backend and web components, and the Qt frontend|
+| lightningnetwork/lnd|https://github.com/lightningnetwork/lnd|7295|Lightning Network Daemon ⚡️|
 | CoNarrative/mongo-immutable|https://github.com/CoNarrative/mongo-immutable|10|Immutable MongoDB.|
 | lightningdevkit/rust-lightning|https://github.com/lightningdevkit/rust-lightning|1037|A highly modular Bitcoin Lightning library written in Rust. It's rust-lightning, not Rusty's Lightning!|
 | node-lightning/node-lightning|https://github.com/node-lightning/node-lightning|128|Bitcoin Lighting Network implemented in Node.js|
-| OpenZeppelin/openzeppelin-contracts-upgradeable|https://github.com/OpenZeppelin/openzeppelin-contracts-upgradeable|905|Upgradeable variant of OpenZeppelin Contracts, meant for use in upgradeable contracts. |
+| OpenZeppelin/openzeppelin-contracts-upgradeable|https://github.com/OpenZeppelin/openzeppelin-contracts-upgradeable|907|Upgradeable variant of OpenZeppelin Contracts, meant for use in upgradeable contracts. |
 | dapphub/ds-test|https://github.com/dapphub/ds-test|193|Assertions, equality checks and other test helpers|
-| hbarcelos/forge-multi-version|https://github.com/hbarcelos/forge-multi-version|22|Using forge with multiple solc versions|
+| hbarcelos/forge-multi-version|https://github.com/hbarcelos/forge-multi-version|23|Using forge with multiple solc versions|
 | threshold-network/merkle-distribution|https://github.com/threshold-network/merkle-distribution|1|Threshold Network rewards generation and distribution|
 | nucypher/nucypher-contracts|https://github.com/nucypher/nucypher-contracts|14|Ethereum contracts supporting TACo applications on the Threshold Network.|
 | keep-network/tbtc-v2|https://github.com/keep-network/tbtc-v2|40|Trustlessly tokenized Bitcoin on Ethereum, version 2|
 | TotallyMaliciousCryptoBro/TotallyMaliciousCryptoBro|https://github.com/TotallyMaliciousCryptoBro/TotallyMaliciousCryptoBro|4||
-| ethereum/EIPs|https://github.com/ethereum/EIPs|12198|The Ethereum Improvement Proposal repository|
-| pcaversaccio/reentrancy-attacks|https://github.com/pcaversaccio/reentrancy-attacks|1070|A chronological and (hopefully) complete list of reentrancy attacks to date.|
+| ethereum/EIPs|https://github.com/ethereum/EIPs|12201|The Ethereum Improvement Proposal repository|
+| pcaversaccio/reentrancy-attacks|https://github.com/pcaversaccio/reentrancy-attacks|1071|A chronological and (hopefully) complete list of reentrancy attacks to date.|
 | StableLib/stablelib|https://github.com/StableLib/stablelib|148|A stable library of useful TypeScript/JavaScript code|
 | snappyjs/node-request-queue|https://github.com/snappyjs/node-request-queue|8|A utility to queue up a number requests to be executed in parallel batches with possible waitTime between them.|
 | TP-Lab/tp-js-sdk|https://github.com/TP-Lab/tp-js-sdk|182|TokenPocket JS API for Dapp of ETH, IOST, TRON, COSMOS, SOLANA, EOS etc. (mobile only)|
 | petr-hejda/solidity-merkle-airdrop|https://github.com/petr-hejda/solidity-merkle-airdrop|3|Example implementation of ERC20 token airdrop using merkle tree|
 | MetaMask/KeyringController|https://github.com/MetaMask/KeyringController|214|A module for managing groups of Ethereum accounts and using them.|
-| appwrite/appwrite|https://github.com/appwrite/appwrite|38480|Build like a team of hundreds_|
-| novuhq/novu|https://github.com/novuhq/novu|31331|🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀|
+| appwrite/appwrite|https://github.com/appwrite/appwrite|38494|Build like a team of hundreds_|
+| novuhq/novu|https://github.com/novuhq/novu|31337|🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀|
 
 <!-- Starred repos end -->
 
@@ -51,10 +51,10 @@
   <summary>📚 <strong>A random poem from <em>https://poetrydb.org/random</em>!</strong> 👇 </summary>
 
 <!-- Start poem -->
-# 💮 To Mr. Murray by *George Gordon, Lord Byron*
+# 💮 Aristomenes by *George Gordon, Lord Byron*
 
 <p>
-    FOR Orford and for Waldegrave<br/>You give much more than me you _gave_;<br/>Which is not fairly to behave,<br/>            My Murray!<br/><br/>Because if a live dog, 't is said,<br/>Be worth a lion fairly sped,<br/>A live lord must be worth _two_ dead,<br/>            My Murray!<br/><br/>And if, as the opinion goes,<br/>Verse hath a better sale than prose,--<br/>Certes, I should have more than those,<br/>            My Murray!<br/><br/>But now this sheet is nearly crammed,<br/>So, if _you will_, _I_ shan't be shammed,<br/>And if you _won't_,--_you_ may be damned,<br/>            My Murray!
+                               Canto First.<br/><br/>The Gods of old are silent on the shore.<br/>Since the great Pan expired, and through the roar<br/>Of the Ionian waters broke a dread<br/>Voice which proclaimed "the Mighty Pan is dead."<br/>How much died with him! false or true--the dream<br/>Was beautiful which peopled every stream<br/>With more than finny tenants, and adorned<br/>The woods and waters with coy nymphs that scorned<br/>Pursuing Deities, or in the embrace<br/>Of gods brought forth the high heroic race<br/>Whose names are on the hills and o'er the seas.
 </p>
 
 ***
