@@ -14,14 +14,14 @@
 | --- | --- |  --- |  --- |
 | TatevKaren/TatevKaren-data-science-portfolio|https://github.com/TatevKaren/TatevKaren-data-science-portfolio|50|Data Science Portfolio of Tatev Karen Aslanyan including Case Studies and Research Projects that I have completed that solve business problems or introduce new products. Case Study papers, codes, and additional resources are all included.|
 | PiotrRut/elonmusk-twitter-notifier|https://github.com/PiotrRut/elonmusk-twitter-notifier|59|AI driven e-mail notifier for tweets mentioning stock from Elon Musk 📈|
-| Vendicated/Vencord|https://github.com/Vendicated/Vencord|5352|The cutest Discord client mod|
+| Vendicated/Vencord|https://github.com/Vendicated/Vencord|5356|The cutest Discord client mod|
 | yeoman/yo|https://github.com/yeoman/yo|3745|CLI tool for running Yeoman generators|
-| matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|1236|zkSync era|
+| matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|1240|zkSync era|
 | 0age/create2crunch|https://github.com/0age/create2crunch|385|A Rust program for finding salts that create gas-efficient Ethereum addresses via CREATE2.|
 | joshstevens19/ethereum-multicall|https://github.com/joshstevens19/ethereum-multicall|313|Ability to call many ethereum constant function calls in 1 JSONRPC request|
 | threshold-network/token-dashboard|https://github.com/threshold-network/token-dashboard|21||
 | LimeChain/mongoose-immutable-plugin|https://github.com/LimeChain/mongoose-immutable-plugin|2|Mongoose plugin guarding fields from modifications|
-| ankitects/anki|https://github.com/ankitects/anki|16027|Anki's shared backend and web components, and the Qt frontend|
+| ankitects/anki|https://github.com/ankitects/anki|16033|Anki's shared backend and web components, and the Qt frontend|
 | lightningnetwork/lnd|https://github.com/lightningnetwork/lnd|7301|Lightning Network Daemon ⚡️|
 | CoNarrative/mongo-immutable|https://github.com/CoNarrative/mongo-immutable|10|Immutable MongoDB.|
 | lightningdevkit/rust-lightning|https://github.com/lightningdevkit/rust-lightning|1038|A highly modular Bitcoin Lightning library written in Rust. It's rust-lightning, not Rusty's Lightning!|
@@ -33,15 +33,15 @@
 | nucypher/nucypher-contracts|https://github.com/nucypher/nucypher-contracts|14|Ethereum contracts supporting TACo applications on the Threshold Network.|
 | keep-network/tbtc-v2|https://github.com/keep-network/tbtc-v2|40|Trustlessly tokenized Bitcoin on Ethereum, version 2|
 | TotallyMaliciousCryptoBro/TotallyMaliciousCryptoBro|https://github.com/TotallyMaliciousCryptoBro/TotallyMaliciousCryptoBro|4||
-| ethereum/EIPs|https://github.com/ethereum/EIPs|12212|The Ethereum Improvement Proposal repository|
-| pcaversaccio/reentrancy-attacks|https://github.com/pcaversaccio/reentrancy-attacks|1081|A chronological and (hopefully) complete list of reentrancy attacks to date.|
+| ethereum/EIPs|https://github.com/ethereum/EIPs|12216|The Ethereum Improvement Proposal repository|
+| pcaversaccio/reentrancy-attacks|https://github.com/pcaversaccio/reentrancy-attacks|1084|A chronological and (hopefully) complete list of reentrancy attacks to date.|
 | StableLib/stablelib|https://github.com/StableLib/stablelib|148|A stable library of useful TypeScript/JavaScript code|
 | snappyjs/node-request-queue|https://github.com/snappyjs/node-request-queue|8|A utility to queue up a number requests to be executed in parallel batches with possible waitTime between them.|
 | TP-Lab/tp-js-sdk|https://github.com/TP-Lab/tp-js-sdk|184|TokenPocket JS API for Dapp of ETH, IOST, TRON, COSMOS, SOLANA, EOS etc. (mobile only)|
 | petr-hejda/solidity-merkle-airdrop|https://github.com/petr-hejda/solidity-merkle-airdrop|3|Example implementation of ERC20 token airdrop using merkle tree|
 | MetaMask/KeyringController|https://github.com/MetaMask/KeyringController|215|A module for managing groups of Ethereum accounts and using them.|
-| appwrite/appwrite|https://github.com/appwrite/appwrite|38569|Build like a team of hundreds_|
-| novuhq/novu|https://github.com/novuhq/novu|31392|🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀|
+| appwrite/appwrite|https://github.com/appwrite/appwrite|38579|Build like a team of hundreds_|
+| novuhq/novu|https://github.com/novuhq/novu|31388|🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀|
 
 <!-- Starred repos end -->
 
@@ -51,10 +51,10 @@
   <summary>📚 <strong>A random poem from <em>https://poetrydb.org/random</em>!</strong> 👇 </summary>
 
 <!-- Start poem -->
-# 💮 Ship Starting, The. by *Walt Whitman*
+# 💮 Arethusa by *Percy Bysshe Shelley*
 
 <p>
-    LO! the unbounded sea!<br/>On its breast a Ship starting, spreading all her sails—an ample Ship,<br/>  carrying even her moonsails;<br/>The pennant is flying aloft, as she speeds, she speeds so stately—below,<br/>  emulous waves press forward,<br/>They surround the Ship, with shining curving motions, and foam.
+    Arethusa arose<br/>From her couch of snows<br/>In the Acroceraunian mountains,--<br/>From cloud and from crag,<br/>With many a jag,<br/>Shepherding her bright fountains.<br/>She leapt down the rocks,<br/>With her rainbow locks<br/>Streaming among the streams;--<br/>Her steps paved with green<br/>The downward ravine<br/>Which slopes to the western gleams;<br/>And gliding and springing<br/>She went, ever singing,<br/>In murmurs as soft as sleep;<br/>The Earth seemed to love her,<br/>And Heaven smiled above her,<br/>As she lingered towards the deep.<br/><br/>Then Alpheus bold,<br/>On his glacier cold,<br/>With his trident the mountains strook;<br/>And opened a chasm<br/>In the rocks--with the spasm<br/>All Erymanthus shook.<br/>And the black south wind<br/>It unsealed behind<br/>The urns of the silent snow,<br/>And earthquake and thunder<br/>Did rend in sunder<br/>The bars of the springs below.<br/>And the beard and the hair<br/>Of the River-god were<br/>Seen through the torrent's sweep,<br/>As he followed the light<br/>Of the fleet nymph's flight<br/>To the brink of the Dorian deep.<br/><br/>'Oh, save me! Oh, guide me!<br/>And bid the deep hide me,<br/>For he grasps me now by the hair!'<br/>The loud Ocean heard,<br/>To its blue depth stirred,<br/>And divided at her prayer;<br/>And under the water<br/>The Earth's white daughter<br/>Fled like a sunny beam;<br/>Behind her descended<br/>Her billows, unblended<br/>With the brackish Dorian stream:--<br/>Like a gloomy stain<br/>On the emerald main<br/>Alpheus rushed behind,--<br/>As an eagle pursuing<br/>A dove to its ruin<br/>Down the streams of the cloudy wind.<br/><br/>Under the bowers<br/>Where the Ocean Powers<br/>Sit on their pearled thrones;<br/>Through the coral woods<br/>Of the weltering floods,<br/>Over heaps of unvalued stones;<br/>Through the dim beams<br/>Which amid the streams<br/>Weave a network of coloured light;<br/>And under the caves,<br/>Where the shadowy waves<br/>Are as green as the forest's night:--<br/>Outspeeding the shark,<br/>And the sword-fish dark,<br/>Under the Ocean's foam,<br/>And up through the rifts<br/>Of the mountain clifts<br/>They passed to their Dorian home.<br/><br/>And now from their fountains<br/>In Enna's mountains,<br/>Down one vale where the morning basks,<br/>Like friends once parted<br/>Grown single-hearted,<br/>They ply their watery tasks.<br/>At sunrise they leap<br/>From their cradles steep<br/>In the cave of the shelving hill;<br/>At noontide they flow<br/>Through the woods below<br/>And the meadows of asphodel;<br/>And at night they sleep<br/>In the rocking deep<br/>Beneath the Ortygian shore;--<br/>Like spirits that lie<br/>In the azure sky<br/>When they love but live no more.
 </p>
 
 ***
