@@ -14,19 +14,19 @@
 | --- | --- |  --- |  --- |
 | b-hristov/b-hristov|https://github.com/b-hristov/b-hristov|1||
 | CloverGit/CloverGit|https://github.com/CloverGit/CloverGit|5||
-| TatevKaren/TatevKaren-data-science-portfolio|https://github.com/TatevKaren/TatevKaren-data-science-portfolio|50|Data Science Portfolio of Tatev Karen Aslanyan including Case Studies and Research Projects that I have completed that solve business problems or introduce new products. Case Study papers, codes, and additional resources are all included.|
+| TatevKaren/TatevKaren-data-science-portfolio|https://github.com/TatevKaren/TatevKaren-data-science-portfolio|51|Data Science Portfolio of Tatev Karen Aslanyan including Case Studies and Research Projects that I have completed that solve business problems or introduce new products. Case Study papers, codes, and additional resources are all included.|
 | PiotrRut/elonmusk-twitter-notifier|https://github.com/PiotrRut/elonmusk-twitter-notifier|59|AI driven e-mail notifier for tweets mentioning stock from Elon Musk 📈|
-| Vendicated/Vencord|https://github.com/Vendicated/Vencord|5409|The cutest Discord client mod|
+| Vendicated/Vencord|https://github.com/Vendicated/Vencord|5423|The cutest Discord client mod|
 | yeoman/yo|https://github.com/yeoman/yo|3748|CLI tool for running Yeoman generators|
-| matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|1263|zkSync era|
-| 0age/create2crunch|https://github.com/0age/create2crunch|388|A Rust program for finding salts that create gas-efficient Ethereum addresses via CREATE2.|
+| matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|1270|zkSync era|
+| 0age/create2crunch|https://github.com/0age/create2crunch|390|A Rust program for finding salts that create gas-efficient Ethereum addresses via CREATE2.|
 | joshstevens19/ethereum-multicall|https://github.com/joshstevens19/ethereum-multicall|313|Ability to call many ethereum constant function calls in 1 JSONRPC request|
 | threshold-network/token-dashboard|https://github.com/threshold-network/token-dashboard|21||
 | LimeChain/mongoose-immutable-plugin|https://github.com/LimeChain/mongoose-immutable-plugin|2|Mongoose plugin guarding fields from modifications|
-| ankitects/anki|https://github.com/ankitects/anki|16117|Anki's shared backend and web components, and the Qt frontend|
-| lightningnetwork/lnd|https://github.com/lightningnetwork/lnd|7312|Lightning Network Daemon ⚡️|
+| ankitects/anki|https://github.com/ankitects/anki|16134|Anki's shared backend and web components, and the Qt frontend|
+| lightningnetwork/lnd|https://github.com/lightningnetwork/lnd|7313|Lightning Network Daemon ⚡️|
 | CoNarrative/mongo-immutable|https://github.com/CoNarrative/mongo-immutable|10|Immutable MongoDB.|
-| lightningdevkit/rust-lightning|https://github.com/lightningdevkit/rust-lightning|1038|A highly modular Bitcoin Lightning library written in Rust. It's rust-lightning, not Rusty's Lightning!|
+| lightningdevkit/rust-lightning|https://github.com/lightningdevkit/rust-lightning|1039|A highly modular Bitcoin Lightning library written in Rust. It's rust-lightning, not Rusty's Lightning!|
 | node-lightning/node-lightning|https://github.com/node-lightning/node-lightning|128|Bitcoin Lighting Network implemented in Node.js|
 | OpenZeppelin/openzeppelin-contracts-upgradeable|https://github.com/OpenZeppelin/openzeppelin-contracts-upgradeable|908|Upgradeable variant of OpenZeppelin Contracts, meant for use in upgradeable contracts. |
 | dapphub/ds-test|https://github.com/dapphub/ds-test|194|Assertions, equality checks and other test helpers|
@@ -51,10 +51,10 @@
   <summary>📚 <strong>A random poem from <em>https://poetrydb.org/random</em>!</strong> 👇 </summary>
 
 <!-- Start poem -->
-# 💮 Sonnet 144: Two loves I have of comfort and despair by *William Shakespeare*
+# 💮 To Ianthe by *Percy Bysshe Shelley*
 
 <p>
-    Two loves I have of comfort and despair,<br/>Which like two spirits do suggest me still:<br/>The better angel is a man right fair,<br/>The worser spirit a woman colour'd ill.<br/>To win me soon to hell, my female evil,<br/>Tempteth my better angel from my side,<br/>And would corrupt my saint to be a devil,<br/>Wooing his purity with her foul pride.<br/>And whether that my angel be turn'd fiend,<br/>Suspect I may, yet not directly tell;<br/>But being both from me, both to each friend,<br/>I guess one angel in another's hell:<br/>  Yet this shall I ne'er know, but live in doubt,<br/>  Till my bad angel fire my good one out.
+    I love thee, Baby! for thine own sweet sake;<br/>Those azure eyes, that faintly dimpled cheek,<br/>Thy tender frame, so eloquently weak,<br/>Love in the sternest heart of hate might wake;<br/>But more when o'er thy fitful slumber bending<br/>Thy mother folds thee to her wakeful heart,<br/>Whilst love and pity, in her glances blending,<br/>All that thy passive eyes can feel impart:<br/>More, when some feeble lineaments of her,<br/>Who bore thy weight beneath her spotless bosom,<br/>As with deep love I read thy face, recur,--<br/>More dear art thou, O fair and fragile blossom;<br/>Dearest when most thy tender traits express<br/>The image of thy mother's loveliness.
 </p>
 
 ***
