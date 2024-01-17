@@ -18,27 +18,27 @@
 | CloverGit/CloverGit|https://github.com/CloverGit/CloverGit|5||
 | TatevKaren/TatevKaren-data-science-portfolio|https://github.com/TatevKaren/TatevKaren-data-science-portfolio|52|Data Science Portfolio of Tatev Karen Aslanyan including Case Studies and Research Projects that I have completed that solve business problems or introduce new products. Case Study papers, codes, and additional resources are all included.|
 | PiotrRut/elonmusk-twitter-notifier|https://github.com/PiotrRut/elonmusk-twitter-notifier|59|AI driven e-mail notifier for tweets mentioning stock from Elon Musk 📈|
-| Vendicated/Vencord|https://github.com/Vendicated/Vencord|5582|The cutest Discord client mod|
+| Vendicated/Vencord|https://github.com/Vendicated/Vencord|5591|The cutest Discord client mod|
 | yeoman/yo|https://github.com/yeoman/yo|3754|CLI tool for running Yeoman generators|
-| matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|1298|zkSync era|
+| matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|1297|zkSync era|
 | 0age/create2crunch|https://github.com/0age/create2crunch|392|A Rust program for finding salts that create gas-efficient Ethereum addresses via CREATE2.|
 | joshstevens19/ethereum-multicall|https://github.com/joshstevens19/ethereum-multicall|314|Ability to call many ethereum constant function calls in 1 JSONRPC request|
 | threshold-network/token-dashboard|https://github.com/threshold-network/token-dashboard|21||
 | LimeChain/mongoose-immutable-plugin|https://github.com/LimeChain/mongoose-immutable-plugin|2|Mongoose plugin guarding fields from modifications|
-| ankitects/anki|https://github.com/ankitects/anki|16261|Anki's shared backend and web components, and the Qt frontend|
-| lightningnetwork/lnd|https://github.com/lightningnetwork/lnd|7324|Lightning Network Daemon ⚡️|
+| ankitects/anki|https://github.com/ankitects/anki|16276|Anki's shared backend and web components, and the Qt frontend|
+| lightningnetwork/lnd|https://github.com/lightningnetwork/lnd|7327|Lightning Network Daemon ⚡️|
 | CoNarrative/mongo-immutable|https://github.com/CoNarrative/mongo-immutable|10|Immutable MongoDB.|
-| lightningdevkit/rust-lightning|https://github.com/lightningdevkit/rust-lightning|1043|A highly modular Bitcoin Lightning library written in Rust. It's rust-lightning, not Rusty's Lightning!|
+| lightningdevkit/rust-lightning|https://github.com/lightningdevkit/rust-lightning|1042|A highly modular Bitcoin Lightning library written in Rust. It's rust-lightning, not Rusty's Lightning!|
 | node-lightning/node-lightning|https://github.com/node-lightning/node-lightning|128|Bitcoin Lighting Network implemented in Node.js|
-| OpenZeppelin/openzeppelin-contracts-upgradeable|https://github.com/OpenZeppelin/openzeppelin-contracts-upgradeable|911|Upgradeable variant of OpenZeppelin Contracts, meant for use in upgradeable contracts. |
+| OpenZeppelin/openzeppelin-contracts-upgradeable|https://github.com/OpenZeppelin/openzeppelin-contracts-upgradeable|912|Upgradeable variant of OpenZeppelin Contracts, meant for use in upgradeable contracts. |
 | dapphub/ds-test|https://github.com/dapphub/ds-test|195|Assertions, equality checks and other test helpers|
 | hbarcelos/forge-multi-version|https://github.com/hbarcelos/forge-multi-version|23|Using forge with multiple solc versions|
 | threshold-network/merkle-distribution|https://github.com/threshold-network/merkle-distribution|1|Threshold Network rewards generation and distribution|
 | nucypher/nucypher-contracts|https://github.com/nucypher/nucypher-contracts|14|Ethereum contracts supporting TACo applications on the Threshold Network.|
 | keep-network/tbtc-v2|https://github.com/keep-network/tbtc-v2|42|Trustlessly tokenized Bitcoin on Ethereum, version 2|
 | TotallyMaliciousCryptoBro/TotallyMaliciousCryptoBro|https://github.com/TotallyMaliciousCryptoBro/TotallyMaliciousCryptoBro|4||
-| ethereum/EIPs|https://github.com/ethereum/EIPs|12257|The Ethereum Improvement Proposal repository|
-| pcaversaccio/reentrancy-attacks|https://github.com/pcaversaccio/reentrancy-attacks|1119|A chronological and (hopefully) complete list of reentrancy attacks to date.|
+| ethereum/EIPs|https://github.com/ethereum/EIPs|12256|The Ethereum Improvement Proposal repository|
+| pcaversaccio/reentrancy-attacks|https://github.com/pcaversaccio/reentrancy-attacks|1120|A chronological and (hopefully) complete list of reentrancy attacks to date.|
 | StableLib/stablelib|https://github.com/StableLib/stablelib|148|A stable library of useful TypeScript/JavaScript code|
 | snappyjs/node-request-queue|https://github.com/snappyjs/node-request-queue|8|A utility to queue up a number requests to be executed in parallel batches with possible waitTime between them.|
 | TP-Lab/tp-js-sdk|https://github.com/TP-Lab/tp-js-sdk|186|TokenPocket JS API for Dapp of ETH, IOST, TRON, COSMOS, SOLANA, EOS etc. (mobile only)|
@@ -51,10 +51,10 @@
   <summary>📚 <strong>A random poem from <em>https://poetrydb.org/random</em>!</strong> 👇 </summary>
 
 <!-- Start poem -->
-# 💮 The Spell Is Broke, the Charm Is Flown! by *George Gordon, Lord Byron*
+# 💮 Stanzas to Jessy by *George Gordon, Lord Byron*
 
 <p>
-    The spell is broke, the charm is flown!<br/>  Thus is it with Life's fitful fever:<br/>We madly smile when we should groan;<br/>  Delirium is our best deceiver.<br/>Each lucid interval of thought<br/>  Recalls the woes of Nature's charter;<br/>And _He_ that acts as _wise men ought_,<br/>  But _lives_--as Saints have died--a martyr.
+    There is a mystic thread of life<br/>  So dearly wreath'd with mine alone,<br/>That Destiny's relentless knife<br/>  At once must sever both, or none.<br/><br/>There is a Form on which these eyes<br/>  Have fondly gazed with such delight--<br/>By day, that Form their joy supplies,<br/>  And Dreams restore it, through the night.<br/><br/>There is a Voice whose tones inspire<br/>  Such softened feelings in my breast, -<br/>I would not hear a Seraph Choir,<br/>  Unless that voice could join the rest.<br/><br/>There is a Face whose Blushes tell<br/>  Affection's tale upon the cheek,<br/>But pallid at our fond farewell,<br/>  Proclaims more love than words can speak.<br/><br/>There is a Lip, which mine has prest,<br/>  But none had ever prest before;<br/>It vowed to make me sweetly blest,<br/>  That mine alone should press it more.<br/><br/>There is a Bosom all my own,<br/>  Has pillow'd oft this aching head,<br/>A Mouth which smiles on me alone,<br/>  An Eye, whose tears with mine are shed.<br/><br/>There are two Hearts whose movements thrill,<br/>  In unison so closely sweet,<br/>That Pulse to Pulse responsive still<br/>  They Both must heave, or cease to beat.<br/><br/>There are two Souls, whose equal flow<br/>  In gentle stream so calmly run,<br/>That when they part--they part?--ah no!<br/>  They cannot part--those Souls are One.
 </p>
 
 ***
