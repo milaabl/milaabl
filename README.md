@@ -23,15 +23,15 @@
 | CloverGit/CloverGit|https://github.com/CloverGit/CloverGit|5||
 | TatevKaren/TatevKaren-data-science-portfolio|https://github.com/TatevKaren/TatevKaren-data-science-portfolio|53|Data Science Portfolio of Tatev Karen Aslanyan including Case Studies and Research Projects that I have completed that solve business problems or introduce new products. Case Study papers, codes, and additional resources are all included.|
 | PiotrRut/elonmusk-twitter-notifier|https://github.com/PiotrRut/elonmusk-twitter-notifier|59|AI driven e-mail notifier for tweets mentioning stock from Elon Musk 📈|
-| Vendicated/Vencord|https://github.com/Vendicated/Vencord|5747|The cutest Discord client mod|
+| Vendicated/Vencord|https://github.com/Vendicated/Vencord|5765|The cutest Discord client mod|
 | yeoman/yo|https://github.com/yeoman/yo|3758|CLI tool for running Yeoman generators|
-| matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|1458|zkSync era|
+| matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|1464|zkSync era|
 | 0age/create2crunch|https://github.com/0age/create2crunch|399|A Rust program for finding salts that create gas-efficient Ethereum addresses via CREATE2.|
 | joshstevens19/ethereum-multicall|https://github.com/joshstevens19/ethereum-multicall|318|Ability to call many ethereum constant function calls in 1 JSONRPC request|
 | threshold-network/token-dashboard|https://github.com/threshold-network/token-dashboard|21||
 | LimeChain/mongoose-immutable-plugin|https://github.com/LimeChain/mongoose-immutable-plugin|2|Mongoose plugin guarding fields from modifications|
-| ankitects/anki|https://github.com/ankitects/anki|16477|Anki's shared backend and web components, and the Qt frontend|
-| lightningnetwork/lnd|https://github.com/lightningnetwork/lnd|7361|Lightning Network Daemon ⚡️|
+| ankitects/anki|https://github.com/ankitects/anki|16486|Anki's shared backend and web components, and the Qt frontend|
+| lightningnetwork/lnd|https://github.com/lightningnetwork/lnd|7365|Lightning Network Daemon ⚡️|
 | CoNarrative/mongo-immutable|https://github.com/CoNarrative/mongo-immutable|10|Immutable MongoDB.|
 | lightningdevkit/rust-lightning|https://github.com/lightningdevkit/rust-lightning|1050|A highly modular Bitcoin Lightning library written in Rust. It's rust-lightning, not Rusty's Lightning!|
 | node-lightning/node-lightning|https://github.com/node-lightning/node-lightning|128|Bitcoin Lighting Network implemented in Node.js|
@@ -51,10 +51,10 @@
   <summary>📚 <strong>A random poem from <em>https://poetrydb.org/random</em>!</strong> 👇 </summary>
 
 <!-- Start poem -->
-# 💮 To Caroline by *George Gordon, Lord Byron*
+# 💮 Fragment: The Vine-Shroud by *Percy Bysshe Shelley*
 
 <p>
-    Oh! when shall the grave hide for ever my sorrow?<br/>Oh! when shall my soul wing her flight from this clay?<br/>The present is hell! and the coming to-morrow<br/>  But brings, with new torture, the curse of to-day.<br/><br/>From my eye flows no tear, from my lips flow no curses,<br/>  I blast not the fiends who have hurl'd me from bliss;<br/>For poor is the soul which, bewailing, rehearses<br/>  Its querulous grief, when in anguish like this--<br/><br/>Was my eye, 'stead of tears, with red fury flakes bright'ning,<br/>  Would my lips breathe a flame which no stream could assuage,<br/>On our foes should my glance launch in vengeance its lightning,<br/>  With transport my tongue give a loose to its rage.<br/><br/>But now tears and curses, alike unavailing,<br/>  Would add to the souls of our tyrants delight;<br/>Could they view us our sad separation bewailing,<br/>  Their merciless hearts would rejoice at the sight.<br/><br/>Yet, still, though we bend with a feign'd resignation,<br/>  Life beams not for us with one ray that can cheer;<br/>Love and Hope upon earth bring no more consolation,<br/>  In the grave is our hope, for in life is our fear.<br/><br/>Oh! when, my ador'd, in the tomb will they place me,<br/>  Since, in life, love and friendship for ever are fled?<br/>If again in the mansion of death I embrace thee,<br/>  Perhaps they will leave unmolested--the dead.
+    Flourishing vine, whose kindling clusters glow<br/>Beneath the autumnal sun, none taste of thee;<br/>For thou dost shroud a ruin, and below<br/>The rotting bones of dead antiquity.
 </p>
 
 ***
