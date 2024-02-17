@@ -23,15 +23,15 @@
 | CloverGit/CloverGit|https://github.com/CloverGit/CloverGit|5||
 | TatevKaren/TatevKaren-data-science-portfolio|https://github.com/TatevKaren/TatevKaren-data-science-portfolio|54|Data Science Portfolio of Tatev Karen Aslanyan including Case Studies and Research Projects that I have completed that solve business problems or introduce new products. Case Study papers, codes, and additional resources are all included.|
 | PiotrRut/elonmusk-twitter-notifier|https://github.com/PiotrRut/elonmusk-twitter-notifier|59|AI driven e-mail notifier for tweets mentioning stock from Elon Musk 📈|
-| Vendicated/Vencord|https://github.com/Vendicated/Vencord|5868|The cutest Discord client mod|
+| Vendicated/Vencord|https://github.com/Vendicated/Vencord|5877|The cutest Discord client mod|
 | yeoman/yo|https://github.com/yeoman/yo|3760|CLI tool for running Yeoman generators|
-| matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|1676|zkSync era|
+| matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|1727|zkSync era|
 | 0age/create2crunch|https://github.com/0age/create2crunch|399|A Rust program for finding salts that create gas-efficient Ethereum addresses via CREATE2.|
 | joshstevens19/ethereum-multicall|https://github.com/joshstevens19/ethereum-multicall|318|Ability to call many ethereum constant function calls in 1 JSONRPC request|
 | threshold-network/token-dashboard|https://github.com/threshold-network/token-dashboard|21||
 | LimeChain/mongoose-immutable-plugin|https://github.com/LimeChain/mongoose-immutable-plugin|2|Mongoose plugin guarding fields from modifications|
-| ankitects/anki|https://github.com/ankitects/anki|16554|Anki's shared backend and web components, and the Qt frontend|
-| lightningnetwork/lnd|https://github.com/lightningnetwork/lnd|7375|Lightning Network Daemon ⚡️|
+| ankitects/anki|https://github.com/ankitects/anki|16560|Anki's shared backend and web components, and the Qt frontend|
+| lightningnetwork/lnd|https://github.com/lightningnetwork/lnd|7377|Lightning Network Daemon ⚡️|
 | CoNarrative/mongo-immutable|https://github.com/CoNarrative/mongo-immutable|10|Immutable MongoDB.|
 | lightningdevkit/rust-lightning|https://github.com/lightningdevkit/rust-lightning|1052|A highly modular Bitcoin Lightning library written in Rust. It's rust-lightning, not Rusty's Lightning!|
 | node-lightning/node-lightning|https://github.com/node-lightning/node-lightning|128|Bitcoin Lighting Network implemented in Node.js|
@@ -51,10 +51,10 @@
   <summary>📚 <strong>A random poem from <em>https://poetrydb.org/random</em>!</strong> 👇 </summary>
 
 <!-- Start poem -->
-# 💮 The Dance by *Major Henry Livingston, Jr.*
+# 💮 On This Day I Complete My Thirty-Sixth Year by *George Gordon, Lord Byron*
 
 <p>
-    Take the name of the swain, a forlorn witless elf<br/>Who was chang'd to a flow'r for admiring himself.<br/>A part deem'd essential in each lady's dress<br/>With what maidens cry when they wish to say yes.<br/>A lullabye carriage, soft, cozy and light<br/>With the name of the Poet who sang on the night.<br/><br/>The queen of Cairo, all lovely and winning<br/>Whose blandishments ever kept Antony grinning.<br/>The flow'r whose odors unremittingly please:<br/>With the glory of forests, the king of the trees.<br/>To the prince of the fairies, a jealous old knave,<br/>Put the name of the tree that undid Mother Eve.<br/>To finish the whole, add that period of day<br/>When the linnet and thrush to repose hie away.<br/><br/>The initials of these, if adjusted with care.<br/>Will show you the fairest where thousands are fair.<br/>The sweet, pretty graces still hover about her<br/>And Cupid would die with vexation without her.<br/>When she swims in the dance or wherever she goes<br/>She's crowded by witlings, plain-fellows, and beaux<br/>Who throng at her elbow and tread on her toes.<br/><br/>If a pin or a hankerchief happen to fall<br/>To seize on the prise fills with uproar the ball;<br/>Such pulling and hawling & shoving & pushing<br/>As rivals the racket of 'key and the cushion;'<br/>And happy- thrice happy! too happy! the swain<br/>Who can replace the pin or bandana again.<br/><br/>Tho the fellows surround & so humbly adore her<br/>The girls on the contrary cannot endure her;<br/>Her beauty their beauty forever disgraces<br/>And her sweeter face still eclipses their faces-<br/>For no lov'ly girl can a lov'ly girl bear<br/>And fair ones are ever at war with the fair.<br/><br/><br/>(Nancy Crooke)
+    'T IS time this heart should be unmoved,<br/>  Since others it hath ceased to move:<br/>Yet, though I cannot be beloved,<br/>            Still let me love!<br/><br/>My days are in the yellow leaf;<br/>  The flowers and fruits of Love are gone;<br/>The worm, the canker, and the grief<br/>  Are mine alone!<br/><br/>The fire that on my bosom preys<br/>  Is lone as some Volcanic isle;<br/>No torch is kindled at its blaze--<br/>  A funeral pile.<br/><br/>The hope, the fear, the jealous care,<br/>  The exalted portion of the pain<br/>And power of love, I cannot share,<br/>  But wear the chain.<br/><br/>But 't is not _thus_--and 't is not _here_--<br/>  Such thoughts should shake my soul, nor now<br/>Where Glory decks the hero's bier,<br/>  Or binds his brow.<br/><br/>The Sword, the Banner, and the Field,<br/>  Glory and Greece, around me see!<br/>The Spartan, borne upon his shield,<br/>  Was not more free.<br/><br/>Awake! (not Greece--she _is_ awake!)<br/>  Awake, my spirit! Think through _whom_<br/>Thy life-blood tracks its parent lake,<br/>  And then strike home!<br/><br/>Tread those reviving passions down,<br/>  Unworthy manhood!--unto thee<br/>Indifferent should the smile or frown<br/>  Of Beauty be.<br/><br/>If thou regret'st thy youth, _why live_?<br/>  The land of honourable death<br/>Is here:--up to the Field, and give<br/>  Away thy breath!<br/><br/>Seek out--less often sought than found--<br/>  A soldier's grave, for thee the best;<br/>Then look around, and choose thy ground,<br/>  And take thy Rest.
 </p>
 
 ***
