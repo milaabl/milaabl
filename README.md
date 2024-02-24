@@ -24,19 +24,19 @@
 | CloverGit/CloverGit|https://github.com/CloverGit/CloverGit|5||
 | TatevKaren/TatevKaren-data-science-portfolio|https://github.com/TatevKaren/TatevKaren-data-science-portfolio|54|Data Science Portfolio of Tatev Karen Aslanyan including Case Studies and Research Projects that I have completed that solve business problems or introduce new products. Case Study papers, codes, and additional resources are all included.|
 | PiotrRut/elonmusk-twitter-notifier|https://github.com/PiotrRut/elonmusk-twitter-notifier|60|AI driven e-mail notifier for tweets mentioning stock from Elon Musk 📈|
-| Vendicated/Vencord|https://github.com/Vendicated/Vencord|5939|The cutest Discord client mod|
+| Vendicated/Vencord|https://github.com/Vendicated/Vencord|5946|The cutest Discord client mod|
 | yeoman/yo|https://github.com/yeoman/yo|3764|CLI tool for running Yeoman generators|
-| matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|2046|zkSync era|
-| 0age/create2crunch|https://github.com/0age/create2crunch|403|A Rust program for finding salts that create gas-efficient Ethereum addresses via CREATE2.|
+| matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|2060|zkSync era|
+| 0age/create2crunch|https://github.com/0age/create2crunch|404|A Rust program for finding salts that create gas-efficient Ethereum addresses via CREATE2.|
 | joshstevens19/ethereum-multicall|https://github.com/joshstevens19/ethereum-multicall|319|Ability to call many ethereum constant function calls in 1 JSONRPC request|
 | threshold-network/token-dashboard|https://github.com/threshold-network/token-dashboard|21||
 | LimeChain/mongoose-immutable-plugin|https://github.com/LimeChain/mongoose-immutable-plugin|2|Mongoose plugin guarding fields from modifications|
-| ankitects/anki|https://github.com/ankitects/anki|16624|Anki's shared backend and web components, and the Qt frontend|
-| lightningnetwork/lnd|https://github.com/lightningnetwork/lnd|7387|Lightning Network Daemon ⚡️|
+| ankitects/anki|https://github.com/ankitects/anki|16636|Anki's shared backend and web components, and the Qt frontend|
+| lightningnetwork/lnd|https://github.com/lightningnetwork/lnd|7391|Lightning Network Daemon ⚡️|
 | CoNarrative/mongo-immutable|https://github.com/CoNarrative/mongo-immutable|10|Immutable MongoDB.|
 | lightningdevkit/rust-lightning|https://github.com/lightningdevkit/rust-lightning|1054|A highly modular Bitcoin Lightning library written in Rust. It's rust-lightning, not Rusty's Lightning!|
 | node-lightning/node-lightning|https://github.com/node-lightning/node-lightning|128|Bitcoin Lighting Network implemented in Node.js|
-| OpenZeppelin/openzeppelin-contracts-upgradeable|https://github.com/OpenZeppelin/openzeppelin-contracts-upgradeable|917|Upgradeable variant of OpenZeppelin Contracts, meant for use in upgradeable contracts. |
+| OpenZeppelin/openzeppelin-contracts-upgradeable|https://github.com/OpenZeppelin/openzeppelin-contracts-upgradeable|919|Upgradeable variant of OpenZeppelin Contracts, meant for use in upgradeable contracts. |
 | dapphub/ds-test|https://github.com/dapphub/ds-test|196|Assertions, equality checks and other test helpers|
 | hbarcelos/forge-multi-version|https://github.com/hbarcelos/forge-multi-version|24|Using forge with multiple solc versions|
 | threshold-network/merkle-distribution|https://github.com/threshold-network/merkle-distribution|1|Threshold Network rewards generation and distribution|
@@ -51,10 +51,10 @@
   <summary>📚 <strong>A random poem from <em>https://poetrydb.org/random</em>!</strong> 👇 </summary>
 
 <!-- Start poem -->
-# 💮 Ay, workman, make me a dream, by *Stephen Crane*
+# 💮 Words by *Edward Thomas*
 
 <p>
-    Ay, workman, make me a dream,<br/>A dream for my love.<br/>Cunningly weave sunlight,<br/>Breezes, and flowers.<br/>Let it be of the cloth of meadows.<br/>And -- good workman --<br/>And let there be a man walking thereon.
+    OUT of us all<br/>That make rhymes,<br/>Will you choose<br/>Sometimes--<br/>As the winds use<br/>A crack in a wall<br/>Or a drain,<br/>Their joy or their pain<br/>To whistle through--<br/>Choose me,<br/>You English words?<br/><br/>I know you:<br/>You are light as dreams,<br/>Tough as oak,<br/>Precious as gold,<br/>As poppies and corn,<br/>Or an old cloak:<br/>Sweet as our birds<br/>To the ear,<br/>As the burnet rose<br/>In the heat<br/>Of Midsummer:<br/>Strange as the races<br/>Of dead and unborn:<br/>Strange and sweet<br/>Equally,<br/>And familiar,<br/>To the eye,<br/>As the dearest faces<br/>That a man knows,<br/>And as lost homes are:<br/>But though older far<br/>Than oldest yew,--<br/>As our hills are, old.--<br/>Worn new<br/>Again and again:<br/>Young as our streams<br/>After rain:<br/>And as dear<br/>As the earth which you prove<br/>That we love.<br/><br/>Make me content<br/>With some sweetness<br/>From Wales<br/>Whose nightingales<br/>Have no wings,--<br/>From Wiltshire and Kent<br/>And Herefordshire,<br/>And the villages there,--<br/>From the names, and the things<br/>No less.<br/><br/>Let me sometimes dance<br/>With you,<br/>Or climb<br/>Or stand perchance<br/>In ecstasy,<br/>Fixed and free<br/>In a rhyme,<br/>As poets do.
 </p>
 
 ***
