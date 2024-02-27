@@ -24,19 +24,19 @@
 | CloverGit/CloverGit|https://github.com/CloverGit/CloverGit|5||
 | TatevKaren/TatevKaren-data-science-portfolio|https://github.com/TatevKaren/TatevKaren-data-science-portfolio|54|Data Science Portfolio of Tatev Karen Aslanyan including Case Studies and Research Projects that I have completed that solve business problems or introduce new products. Case Study papers, codes, and additional resources are all included.|
 | PiotrRut/elonmusk-twitter-notifier|https://github.com/PiotrRut/elonmusk-twitter-notifier|60|AI driven e-mail notifier for tweets mentioning stock from Elon Musk 📈|
-| Vendicated/Vencord|https://github.com/Vendicated/Vencord|5966|The cutest Discord client mod|
-| yeoman/yo|https://github.com/yeoman/yo|3765|CLI tool for running Yeoman generators|
-| matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|2097|zkSync era|
-| 0age/create2crunch|https://github.com/0age/create2crunch|405|A Rust program for finding salts that create gas-efficient Ethereum addresses via CREATE2.|
-| joshstevens19/ethereum-multicall|https://github.com/joshstevens19/ethereum-multicall|322|Ability to call many ethereum constant function calls in 1 JSONRPC request|
+| Vendicated/Vencord|https://github.com/Vendicated/Vencord|5978|The cutest Discord client mod|
+| yeoman/yo|https://github.com/yeoman/yo|3766|CLI tool for running Yeoman generators|
+| matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|2109|zkSync era|
+| 0age/create2crunch|https://github.com/0age/create2crunch|404|A Rust program for finding salts that create gas-efficient Ethereum addresses via CREATE2.|
+| joshstevens19/ethereum-multicall|https://github.com/joshstevens19/ethereum-multicall|321|Ability to call many ethereum constant function calls in 1 JSONRPC request|
 | threshold-network/token-dashboard|https://github.com/threshold-network/token-dashboard|21||
 | LimeChain/mongoose-immutable-plugin|https://github.com/LimeChain/mongoose-immutable-plugin|2|Mongoose plugin guarding fields from modifications|
-| ankitects/anki|https://github.com/ankitects/anki|16675|Anki's shared backend and web components, and the Qt frontend|
-| lightningnetwork/lnd|https://github.com/lightningnetwork/lnd|7393|Lightning Network Daemon ⚡️|
+| ankitects/anki|https://github.com/ankitects/anki|16687|Anki's shared backend and web components, and the Qt frontend|
+| lightningnetwork/lnd|https://github.com/lightningnetwork/lnd|7394|Lightning Network Daemon ⚡️|
 | CoNarrative/mongo-immutable|https://github.com/CoNarrative/mongo-immutable|10|Immutable MongoDB.|
 | lightningdevkit/rust-lightning|https://github.com/lightningdevkit/rust-lightning|1056|A highly modular Bitcoin Lightning library written in Rust. It's rust-lightning, not Rusty's Lightning!|
 | node-lightning/node-lightning|https://github.com/node-lightning/node-lightning|128|Bitcoin Lighting Network implemented in Node.js|
-| OpenZeppelin/openzeppelin-contracts-upgradeable|https://github.com/OpenZeppelin/openzeppelin-contracts-upgradeable|918|Upgradeable variant of OpenZeppelin Contracts, meant for use in upgradeable contracts. |
+| OpenZeppelin/openzeppelin-contracts-upgradeable|https://github.com/OpenZeppelin/openzeppelin-contracts-upgradeable|921|Upgradeable variant of OpenZeppelin Contracts, meant for use in upgradeable contracts. |
 | dapphub/ds-test|https://github.com/dapphub/ds-test|196|Assertions, equality checks and other test helpers|
 | hbarcelos/forge-multi-version|https://github.com/hbarcelos/forge-multi-version|24|Using forge with multiple solc versions|
 | threshold-network/merkle-distribution|https://github.com/threshold-network/merkle-distribution|1|Threshold Network rewards generation and distribution|
@@ -51,10 +51,10 @@
   <summary>📚 <strong>A random poem from <em>https://poetrydb.org/random</em>!</strong> 👇 </summary>
 
 <!-- Start poem -->
-# 💮 The Wandering Jew's Soliloquy by *Percy Bysshe Shelley*
+# 💮 73. Song—Farewell to Ballochmyle by *Robert Burns*
 
 <p>
-    Is it the Eternal Triune, is it He<br/>Who dares arrest the wheels of destiny<br/>And plunge me in the lowest Hell of Hells?<br/>Will not the lightning's blast destroy my frame?<br/>Will not steel drink the blood-life where it swells?<br/>No--let me hie where dark Destruction dwells,<br/>To rouse her from her deeply caverned lair,<br/>And, taunting her cursed sluggishness to ire,<br/>Light long Oblivion's death-torch at its flame<br/>And calmly mount Annihilation's pyre.<br/>Tyrant of Earth! pale Misery's jackal Thou!<br/>Are there no stores of vengeful violent fate<br/>Within the magazines of Thy fierce hate?<br/>No poison in the clouds to bathe a brow<br/>That lowers on Thee with desperate contempt?<br/>Where is the noonday Pestilence that slew<br/>The myriad sons of Israel's favoured nation?<br/>Where the destroying Minister that flew<br/>Pouring the fiery tide of desolation<br/>Upon the leagued Assyrian's attempt?<br/>Where the dark Earthquake-daemon who engorged<br/>At the dread word Korah's unconscious crew?<br/>Or the Angel's two-edged sword of fire that urged<br/>Our primal parents from their bower of bliss<br/>(Reared by Thine hand) for errors not their own<br/>By Thine omniscient mind foredoomed, foreknown?<br/>Yes! I would court a ruin such as this,<br/>Almighty Tyrant! and give thanks to Thee--<br/>Drink deeply--drain the cup of hate; remit this--I may die.
+    THE CATRINE woods were yellow seen,<br/>  The flowers decay’d on Catrine lee,<br/>Nae lav’rock sang on hillock green,<br/>  But nature sicken’d on the e’e.<br/>Thro’ faded groves Maria sang,<br/>  Hersel’ in beauty’s bloom the while;<br/>And aye the wild-wood ehoes rang,<br/>  Fareweel the braes o’ Ballochmyle!<br/><br/><br/>Low in your wintry beds, ye flowers,<br/>  Again ye’ll flourish fresh and fair;<br/>Ye birdies dumb, in with’ring bowers,<br/>  Again ye’ll charm the vocal air.<br/>But here, alas! for me nae mair<br/>  Shall birdie charm, or floweret smile;<br/>Fareweel the bonie banks of Ayr,<br/>  Fareweel, fareweel! sweet Ballochmyle!
 </p>
 
 ***
