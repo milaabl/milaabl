@@ -24,15 +24,15 @@
 | CloverGit/CloverGit|https://github.com/CloverGit/CloverGit|5||
 | TatevKaren/TatevKaren-data-science-portfolio|https://github.com/TatevKaren/TatevKaren-data-science-portfolio|54|Data Science Portfolio of Tatev Karen Aslanyan including Case Studies and Research Projects that I have completed that solve business problems or introduce new products. Case Study papers, codes, and additional resources are all included.|
 | PiotrRut/elonmusk-twitter-notifier|https://github.com/PiotrRut/elonmusk-twitter-notifier|60|AI driven e-mail notifier for tweets mentioning stock from Elon Musk 📈|
-| Vendicated/Vencord|https://github.com/Vendicated/Vencord|5978|The cutest Discord client mod|
-| yeoman/yo|https://github.com/yeoman/yo|3766|CLI tool for running Yeoman generators|
-| matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|2109|zkSync era|
-| 0age/create2crunch|https://github.com/0age/create2crunch|404|A Rust program for finding salts that create gas-efficient Ethereum addresses via CREATE2.|
+| Vendicated/Vencord|https://github.com/Vendicated/Vencord|5984|The cutest Discord client mod|
+| yeoman/yo|https://github.com/yeoman/yo|3767|CLI tool for running Yeoman generators|
+| matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|2179|zkSync era|
+| 0age/create2crunch|https://github.com/0age/create2crunch|405|A Rust program for finding salts that create gas-efficient Ethereum addresses via CREATE2.|
 | joshstevens19/ethereum-multicall|https://github.com/joshstevens19/ethereum-multicall|321|Ability to call many ethereum constant function calls in 1 JSONRPC request|
 | threshold-network/token-dashboard|https://github.com/threshold-network/token-dashboard|21||
 | LimeChain/mongoose-immutable-plugin|https://github.com/LimeChain/mongoose-immutable-plugin|2|Mongoose plugin guarding fields from modifications|
-| ankitects/anki|https://github.com/ankitects/anki|16687|Anki's shared backend and web components, and the Qt frontend|
-| lightningnetwork/lnd|https://github.com/lightningnetwork/lnd|7394|Lightning Network Daemon ⚡️|
+| ankitects/anki|https://github.com/ankitects/anki|16695|Anki's shared backend and web components, and the Qt frontend|
+| lightningnetwork/lnd|https://github.com/lightningnetwork/lnd|7397|Lightning Network Daemon ⚡️|
 | CoNarrative/mongo-immutable|https://github.com/CoNarrative/mongo-immutable|10|Immutable MongoDB.|
 | lightningdevkit/rust-lightning|https://github.com/lightningdevkit/rust-lightning|1056|A highly modular Bitcoin Lightning library written in Rust. It's rust-lightning, not Rusty's Lightning!|
 | node-lightning/node-lightning|https://github.com/node-lightning/node-lightning|128|Bitcoin Lighting Network implemented in Node.js|
@@ -41,7 +41,7 @@
 | hbarcelos/forge-multi-version|https://github.com/hbarcelos/forge-multi-version|24|Using forge with multiple solc versions|
 | threshold-network/merkle-distribution|https://github.com/threshold-network/merkle-distribution|1|Threshold Network rewards generation and distribution|
 | nucypher/nucypher-contracts|https://github.com/nucypher/nucypher-contracts|15|Ethereum contracts supporting TACo applications on the Threshold Network.|
-| keep-network/tbtc-v2|https://github.com/keep-network/tbtc-v2|44|Trustlessly tokenized Bitcoin everywhere, version 2|
+| keep-network/tbtc-v2|https://github.com/keep-network/tbtc-v2|45|Trustlessly tokenized Bitcoin everywhere, version 2|
 
 <!-- Starred repos end -->
 
@@ -51,10 +51,10 @@
   <summary>📚 <strong>A random poem from <em>https://poetrydb.org/random</em>!</strong> 👇 </summary>
 
 <!-- Start poem -->
-# 💮 73. Song—Farewell to Ballochmyle by *Robert Burns*
+# 💮 The Spell Is Broke, the Charm Is Flown! by *George Gordon, Lord Byron*
 
 <p>
-    THE CATRINE woods were yellow seen,<br/>  The flowers decay’d on Catrine lee,<br/>Nae lav’rock sang on hillock green,<br/>  But nature sicken’d on the e’e.<br/>Thro’ faded groves Maria sang,<br/>  Hersel’ in beauty’s bloom the while;<br/>And aye the wild-wood ehoes rang,<br/>  Fareweel the braes o’ Ballochmyle!<br/><br/><br/>Low in your wintry beds, ye flowers,<br/>  Again ye’ll flourish fresh and fair;<br/>Ye birdies dumb, in with’ring bowers,<br/>  Again ye’ll charm the vocal air.<br/>But here, alas! for me nae mair<br/>  Shall birdie charm, or floweret smile;<br/>Fareweel the bonie banks of Ayr,<br/>  Fareweel, fareweel! sweet Ballochmyle!
+    The spell is broke, the charm is flown!<br/>  Thus is it with Life's fitful fever:<br/>We madly smile when we should groan;<br/>  Delirium is our best deceiver.<br/>Each lucid interval of thought<br/>  Recalls the woes of Nature's charter;<br/>And _He_ that acts as _wise men ought_,<br/>  But _lives_--as Saints have died--a martyr.
 </p>
 
 ***
