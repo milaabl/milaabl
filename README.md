@@ -31,17 +31,17 @@
 | CloverGit/CloverGit|https://github.com/CloverGit/CloverGit|5||
 | TatevKaren/TatevKaren-data-science-portfolio|https://github.com/TatevKaren/TatevKaren-data-science-portfolio|55|Data Science Portfolio of Tatev Karen Aslanyan including Case Studies and Research Projects that I have completed that solve business problems or introduce new products. Case Study papers, codes, and additional resources are all included.|
 | PiotrRut/elonmusk-twitter-notifier|https://github.com/PiotrRut/elonmusk-twitter-notifier|61|AI driven e-mail notifier for tweets mentioning stock from Elon Musk 📈|
-| Vendicated/Vencord|https://github.com/Vendicated/Vencord|6190|The cutest Discord client mod|
+| Vendicated/Vencord|https://github.com/Vendicated/Vencord|6202|The cutest Discord client mod|
 | yeoman/yo|https://github.com/yeoman/yo|3779|CLI tool for running Yeoman generators|
-| matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|2601|zkSync era|
-| 0age/create2crunch|https://github.com/0age/create2crunch|412|A Rust program for finding salts that create gas-efficient Ethereum addresses via CREATE2.|
+| matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|2631|zkSync era|
+| 0age/create2crunch|https://github.com/0age/create2crunch|413|A Rust program for finding salts that create gas-efficient Ethereum addresses via CREATE2.|
 | joshstevens19/ethereum-multicall|https://github.com/joshstevens19/ethereum-multicall|327|Ability to call many ethereum constant function calls in 1 JSONRPC request|
 | threshold-network/token-dashboard|https://github.com/threshold-network/token-dashboard|21||
 | LimeChain/mongoose-immutable-plugin|https://github.com/LimeChain/mongoose-immutable-plugin|2|Mongoose plugin guarding fields from modifications|
-| ankitects/anki|https://github.com/ankitects/anki|16905|Anki's shared backend and web components, and the Qt frontend|
-| lightningnetwork/lnd|https://github.com/lightningnetwork/lnd|7424|Lightning Network Daemon ⚡️|
+| ankitects/anki|https://github.com/ankitects/anki|16915|Anki's shared backend and web components, and the Qt frontend|
+| lightningnetwork/lnd|https://github.com/lightningnetwork/lnd|7427|Lightning Network Daemon ⚡️|
 | CoNarrative/mongo-immutable|https://github.com/CoNarrative/mongo-immutable|10|Immutable MongoDB.|
-| lightningdevkit/rust-lightning|https://github.com/lightningdevkit/rust-lightning|1068|A highly modular Bitcoin Lightning library written in Rust. It's rust-lightning, not Rusty's Lightning!|
+| lightningdevkit/rust-lightning|https://github.com/lightningdevkit/rust-lightning|1069|A highly modular Bitcoin Lightning library written in Rust. It's rust-lightning, not Rusty's Lightning!|
 
 <!-- Starred repos end -->
 
@@ -51,10 +51,10 @@
   <summary>📚 <strong>A random poem from <em>https://poetrydb.org/random</em>!</strong> 👇 </summary>
 
 <!-- Start poem -->
-# 💮 At A Solemn Musick by *John Milton*
+# 💮 Sympathy by *Emily Bronte*
 
 <p>
-    Blest pair of Sirens, pledges of Heav'ns joy,<br/>Sphear-born harmonious Sisters, Voice, and Vers,<br/>Wed your divine sounds, and mixt power employ<br/>Dead things with inbreath'd sense able to pierce,<br/>And to our high-rais'd phantasie present,<br/>That undisturbed Song of pure content,<br/>Ay sung before the saphire-colour'd throne<br/>To him that sits theron<br/>With Saintly shout, and solemn Jubily,<br/>Where the bright Seraphim in burning row<br/>Their loud up-lifted Angel trumpets blow,<br/>And the Cherubick host in thousand quires<br/>Touch their immortal Harps of golden wires,<br/>With those just Spirits that wear victorious Palms,<br/>Hymns devout and holy Psalms<br/>Singing everlastingly;<br/>That we on Earth with undiscording voice<br/>May rightly answer that melodious noise;<br/>As  once we did, till disproportion'd sin<br/>Jarr'd against natures chime, and with harsh din<br/>The fair musick that all creatures made<br/>To their great Lord, whose love their motion sway'd<br/>In perfect Diapason, whilst they stood<br/>In first obedience, and their state of good.<br/>O may we soon again renew that Song,<br/>And keep in tune with Heav'n, till God ere long<br/>To his celestial consort us unite,<br/>To live with him, and sing in endles morn of light.<br/><br/>Note: 6 content]  Manuscript reads concent as does the Second<br/>Edition; so that content is probably a misprint.
+    There should be no despair for you<br/>While nightly stars are burning,<br/>While evening pours its silent dew<br/>And sunshine gilds the morning.<br/>There should be no despair - though tears<br/>May flow down like a river:<br/>Are not the best beloved of years<br/>Around your heart forever?<br/><br/>They weep - you weep - it must be so;<br/>Winds sigh as you are sighing,<br/>And Winter sheds his grief in snow<br/>Where Autumn's leaves are lying:<br/>Yet these revive, and from their fate<br/>Your fate cannot be parted,<br/>Then journey on, if not elate,<br/>Still, never broken-hearted!
 </p>
 
 ***
