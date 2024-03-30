@@ -31,17 +31,17 @@
 | CloverGit/CloverGit|https://github.com/CloverGit/CloverGit|7||
 | TatevKaren/TatevKaren-data-science-portfolio|https://github.com/TatevKaren/TatevKaren-data-science-portfolio|55|Data Science Portfolio of Tatev Karen Aslanyan including Case Studies and Research Projects that I have completed that solve business problems or introduce new products. Case Study papers, codes, and additional resources are all included.|
 | PiotrRut/elonmusk-twitter-notifier|https://github.com/PiotrRut/elonmusk-twitter-notifier|61|AI driven e-mail notifier for tweets mentioning stock from Elon Musk 📈|
-| Vendicated/Vencord|https://github.com/Vendicated/Vencord|6289|The cutest Discord client mod|
-| yeoman/yo|https://github.com/yeoman/yo|3781|CLI tool for running Yeoman generators|
-| matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|2787|zkSync era|
+| Vendicated/Vencord|https://github.com/Vendicated/Vencord|6303|The cutest Discord client mod|
+| yeoman/yo|https://github.com/yeoman/yo|3782|CLI tool for running Yeoman generators|
+| matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|2793|zkSync era|
 | 0age/create2crunch|https://github.com/0age/create2crunch|414|A Rust program for finding salts that create gas-efficient Ethereum addresses via CREATE2.|
 | joshstevens19/ethereum-multicall|https://github.com/joshstevens19/ethereum-multicall|328|Ability to call many ethereum constant function calls in 1 JSONRPC request|
 | threshold-network/token-dashboard|https://github.com/threshold-network/token-dashboard|21||
 | LimeChain/mongoose-immutable-plugin|https://github.com/LimeChain/mongoose-immutable-plugin|2|Mongoose plugin guarding fields from modifications|
-| ankitects/anki|https://github.com/ankitects/anki|16953|Anki's shared backend and web components, and the Qt frontend|
-| lightningnetwork/lnd|https://github.com/lightningnetwork/lnd|7438|Lightning Network Daemon ⚡️|
+| ankitects/anki|https://github.com/ankitects/anki|16963|Anki's shared backend and web components, and the Qt frontend|
+| lightningnetwork/lnd|https://github.com/lightningnetwork/lnd|7436|Lightning Network Daemon ⚡️|
 | CoNarrative/mongo-immutable|https://github.com/CoNarrative/mongo-immutable|10|Immutable MongoDB.|
-| lightningdevkit/rust-lightning|https://github.com/lightningdevkit/rust-lightning|1072|A highly modular Bitcoin Lightning library written in Rust. It's rust-lightning, not Rusty's Lightning!|
+| lightningdevkit/rust-lightning|https://github.com/lightningdevkit/rust-lightning|1071|A highly modular Bitcoin Lightning library written in Rust. It's rust-lightning, not Rusty's Lightning!|
 
 <!-- Starred repos end -->
 
@@ -51,10 +51,10 @@
   <summary>📚 <strong>A random poem from <em>https://poetrydb.org/random</em>!</strong> 👇 </summary>
 
 <!-- Start poem -->
-# 💮 TO THE VIRGINS, TO MAKE MUCH OF TIME by *Robert Herrick*
+# 💮 To Mr Thomas Southern, on His Birthday, 1742. by *Alexander Pope*
 
 <p>
-    Gather ye rose-buds while ye may:<br/>Old Time is still a-flying;<br/>And this same flower that smiles to-day,<br/>To-morrow will be dying.<br/><br/>The glorious lamp of heaven, the Sun,<br/>The higher he's a-getting,<br/>The sooner will his race be run,<br/>And nearer he's to setting.<br/><br/>That age is best, which is the first,<br/>When youth and blood are warmer;<br/>But being spent, the worse, and worst<br/>Times, still succeed the former.<br/><br/>--Then be not coy, but use your time,<br/>And while ye may, go marry;<br/>For having lost but once your prime,<br/>You may for ever tarry.
+    Resign'd to live, prepared to die,<br/>With not one sin, but poetry,<br/>This day Tom's fair account has run<br/>(Without a blot) to eighty-one.<br/>Kind Boyle, before his poet lays<br/>A table, with a cloth of bays;<br/>And Ireland, mother of sweet singers,<br/>Presents her harp still to his fingers.<br/>The feast, his towering genius marks<br/>In yonder wild goose and the larks;<br/>The mushrooms show his wit was sudden;<br/>And for his judgment, lo, a pudden!<br/>Roast beef, though old, proclaims him stout,<br/>And grace, although a bard, devout.<br/>May Tom, whom Heaven sent down to raise<br/>The price of prologues and of plays,<br/>Be every birthday more a winner,<br/>Digest his thirty-thousandth dinner;<br/>Walk to his grave without reproach,<br/>And scorn a rascal and a coach.
 </p>
 
 ***
