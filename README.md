@@ -31,17 +31,17 @@
 | CloverGit/CloverGit|https://github.com/CloverGit/CloverGit|7||
 | TatevKaren/TatevKaren-data-science-portfolio|https://github.com/TatevKaren/TatevKaren-data-science-portfolio|56|Data Science Portfolio of Tatev Karen Aslanyan including Case Studies and Research Projects that I have completed that solve business problems or introduce new products. Case Study papers, codes, and additional resources are all included.|
 | PiotrRut/elonmusk-twitter-notifier|https://github.com/PiotrRut/elonmusk-twitter-notifier|61|AI driven e-mail notifier for tweets mentioning stock from Elon Musk 📈|
-| Vendicated/Vencord|https://github.com/Vendicated/Vencord|6505|The cutest Discord client mod|
+| Vendicated/Vencord|https://github.com/Vendicated/Vencord|6522|The cutest Discord client mod|
 | yeoman/yo|https://github.com/yeoman/yo|3788|CLI tool for running Yeoman generators|
 | matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|2841|zkSync era|
 | 0age/create2crunch|https://github.com/0age/create2crunch|419|A Rust program for finding salts that create gas-efficient Ethereum addresses via CREATE2.|
 | joshstevens19/ethereum-multicall|https://github.com/joshstevens19/ethereum-multicall|332|Ability to call many ethereum constant function calls in 1 JSONRPC request|
 | threshold-network/token-dashboard|https://github.com/threshold-network/token-dashboard|21||
 | LimeChain/mongoose-immutable-plugin|https://github.com/LimeChain/mongoose-immutable-plugin|2|Mongoose plugin guarding fields from modifications|
-| ankitects/anki|https://github.com/ankitects/anki|17100|Anki's shared backend and web components, and the Qt frontend|
-| lightningnetwork/lnd|https://github.com/lightningnetwork/lnd|7470|Lightning Network Daemon ⚡️|
+| ankitects/anki|https://github.com/ankitects/anki|17108|Anki's shared backend and web components, and the Qt frontend|
+| lightningnetwork/lnd|https://github.com/lightningnetwork/lnd|7472|Lightning Network Daemon ⚡️|
 | CoNarrative/mongo-immutable|https://github.com/CoNarrative/mongo-immutable|10|Immutable MongoDB.|
-| lightningdevkit/rust-lightning|https://github.com/lightningdevkit/rust-lightning|1078|A highly modular Bitcoin Lightning library written in Rust. It's rust-lightning, not Rusty's Lightning!|
+| lightningdevkit/rust-lightning|https://github.com/lightningdevkit/rust-lightning|1079|A highly modular Bitcoin Lightning library written in Rust. It's rust-lightning, not Rusty's Lightning!|
 
 <!-- Starred repos end -->
 
@@ -51,10 +51,10 @@
   <summary>📚 <strong>A random poem from <em>https://poetrydb.org/random</em>!</strong> 👇 </summary>
 
 <!-- Start poem -->
-# 💮 To Harriet by *Percy Bysshe Shelley*
+# 💮 Beautiful Monikie by *William Topaz McGonagall*
 
 <p>
-    Thy look of love has power to calm<br/>The stormiest passion of my soul;<br/>Thy gentle words are drops of balm<br/>In life's too bitter bowl;<br/>No grief is mine, but that alone<br/>These choicest blessings I have known.<br/><br/>Harriet! if all who long to live<br/>In the warm sunshine of thine eye,<br/>That price beyond all pain must give,--<br/>Beneath thy scorn to die;<br/>Then hear thy chosen own too late<br/>His heart most worthy of thy hate.<br/><br/>Be thou, then, one among mankind<br/>Whose heart is harder not for state,<br/>Thou only virtuous, gentle, kind,<br/>Amid a world of hate;<br/>And by a slight endurance seal<br/>A fellow-being's lasting weal.<br/><br/>For pale with anguish is his cheek,<br/>His breath comes fast, his eyes are dim,<br/>Thy name is struggling ere he speak,<br/>Weak is each trembling limb;<br/>In mercy let him not endure<br/>The misery of a fatal cure.<br/><br/>Oh, trust for once no erring guide!<br/>Bid the remorseless feeling flee;<br/>'Tis malice, 'tis revenge, 'tis pride,<br/>'Tis anything but thee;<br/>Oh, deign a nobler pride to prove,<br/>And pity if thou canst not love.
+    Beautiful Monikie! with your trees and shrubberies green<br/>And your beautiful walks, most charming to be seen:<br/>'Tis a beautiful place for pleasure-seekers to resort,<br/>Because there they can have innocent sport,<br/>taking a leisure walk all round about,<br/>And see the ang1ers fishing in the pand for trout.<br/><br/>Besides, there's lovely white swans swimming on the pond,<br/>And Panmure Monument can be seen a little distance beyond;<br/>And the scenery all round is enchanting I declare,<br/>While sweet-scented fragrance fills the air.<br/><br/>Then away, pleasure-seekers of bonnie Dundee,<br/>And have a day's outing around Monikie,<br/>And inhale the pure air, on a fine summer day,<br/>Which will help to drive dull care away;<br/>As ye gaze on the beautiful scenery there,<br/>Your spirits will feel o'erjoyed and free frozen care.<br/><br/>Then near to the pond there's a beautiful green sward,<br/>Where excursionists can dance until fatigue does them retard;<br/>And if they feel thirsty, the Monikie water's near by,<br/>Where they can quench their thirst if very dry.<br/><br/>Then, after that, they can have a walk at their ease,<br/>Amongst the green shrubbery and tall pine trees;<br/>And in the centre of the pand they can see<br/>Three beautiful little islets dressed in green livery.<br/><br/>Monikie is as bonnie a place as ye could wish to see,<br/>And about eleven or twelve miles from bonnie Dundee;<br/>It's the only place I know of to enjoy a holiday,<br/>Because there's a hall of shelter there to keep the rain away.<br/><br/>Then there's a large park, a very suitable place,<br/>For the old and the young, if they wish to try a race;<br/>It's there they can enjoy themselves during the live-long summmer day,<br/>Near to the little purling burn, meandering on its way,<br/>And emptying itself into the pond of Monikie,<br/>Which supplies the people with water belonging to Dundee.
 </p>
 
 ***
