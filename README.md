@@ -31,17 +31,17 @@
 | CloverGit/CloverGit|https://github.com/CloverGit/CloverGit|7||
 | TatevKaren/TatevKaren-data-science-portfolio|https://github.com/TatevKaren/TatevKaren-data-science-portfolio|56|Data Science Portfolio of Tatev Karen Aslanyan including Case Studies and Research Projects that I have completed that solve business problems or introduce new products. Case Study papers, codes, and additional resources are all included.|
 | PiotrRut/elonmusk-twitter-notifier|https://github.com/PiotrRut/elonmusk-twitter-notifier|62|AI driven e-mail notifier for tweets mentioning stock from Elon Musk 📈|
-| Vendicated/Vencord|https://github.com/Vendicated/Vencord|6559|The cutest Discord client mod|
+| Vendicated/Vencord|https://github.com/Vendicated/Vencord|6581|The cutest Discord client mod|
 | yeoman/yo|https://github.com/yeoman/yo|3789|CLI tool for running Yeoman generators|
-| matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|2854|zkSync era|
+| matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|2865|zkSync era|
 | 0age/create2crunch|https://github.com/0age/create2crunch|419|A Rust program for finding salts that create gas-efficient Ethereum addresses via CREATE2.|
-| joshstevens19/ethereum-multicall|https://github.com/joshstevens19/ethereum-multicall|332|Ability to call many ethereum constant function calls in 1 JSONRPC request|
+| joshstevens19/ethereum-multicall|https://github.com/joshstevens19/ethereum-multicall|334|Ability to call many ethereum constant function calls in 1 JSONRPC request|
 | threshold-network/token-dashboard|https://github.com/threshold-network/token-dashboard|21||
 | LimeChain/mongoose-immutable-plugin|https://github.com/LimeChain/mongoose-immutable-plugin|2|Mongoose plugin guarding fields from modifications|
-| ankitects/anki|https://github.com/ankitects/anki|17129|Anki's shared backend and web components, and the Qt frontend|
-| lightningnetwork/lnd|https://github.com/lightningnetwork/lnd|7476|Lightning Network Daemon ⚡️|
+| ankitects/anki|https://github.com/ankitects/anki|17138|Anki's shared backend and web components, and the Qt frontend|
+| lightningnetwork/lnd|https://github.com/lightningnetwork/lnd|7478|Lightning Network Daemon ⚡️|
 | CoNarrative/mongo-immutable|https://github.com/CoNarrative/mongo-immutable|10|Immutable MongoDB.|
-| lightningdevkit/rust-lightning|https://github.com/lightningdevkit/rust-lightning|1078|A highly modular Bitcoin Lightning library written in Rust. It's rust-lightning, not Rusty's Lightning!|
+| lightningdevkit/rust-lightning|https://github.com/lightningdevkit/rust-lightning|1080|A highly modular Bitcoin Lightning library written in Rust. It's rust-lightning, not Rusty's Lightning!|
 
 <!-- Starred repos end -->
 
@@ -51,10 +51,10 @@
   <summary>📚 <strong>A random poem from <em>https://poetrydb.org/random</em>!</strong> 👇 </summary>
 
 <!-- Start poem -->
-# 💮 Epigram by *George Gordon, Lord Byron*
+# 💮 To an Oak at Newstead by *George Gordon, Lord Byron*
 
 <p>
-    The world is a bundle of hay,<br/>  Mankind are the asses who pull;<br/>Each tugs it a different way,--<br/>  And the greatest of all is John Bull!
+    Young Oak! when I planted thee deep in the ground,<br/>  I hoped that thy days would be longer than mine;<br/>That thy dark-waving branches would flourish around,<br/>  And ivy thy trunk with its mantle entwine.<br/><br/>Such, such was my hope, when in Infancy's years,<br/>  On the land of my Fathers I rear'd thee with pride;<br/>They are past, and I water thy stem with my tears,--<br/>  Thy decay, not the _weeds_ that surround thee can hide.<br/><br/>I left thee, my Oak, and, since that fatal hour,<br/>  A stranger has dwelt in the hall of my Sire;<br/>Till Manhood shall crown me, not mine is the power,<br/>  But his, whose neglect may have bade thee expire.<br/><br/>Oh! hardy thou wert--even now little care<br/>  Might revive thy young head, and thy wounds gently<br/>    heal:<br/>But thou wert not fated affection to share--<br/>  For who could suppose that a Stranger would feel?<br/><br/>Ah, droop not, my Oak! lift thy head for a while;<br/>  Ere twice round yon Glory this planet shall run,<br/>The hand of thy Master will teach thee to smile,<br/>  When Infancy's years of probation are done.<br/><br/>Oh, live then, my Oak! tow'r aloft from the weeds,<br/>  That clog thy young growth, and assist thy decay,<br/>For still in thy bosom are Life's early seeds,<br/>  And still may thy branches their beauty display.<br/><br/>Oh! yet, if Maturity's years may be thine,<br/>  Though _I_ shall lie low in the cavern of Death,<br/>On thy leaves yet the day-beam of ages may shine,<br/>  Uninjured by Time, or the rude Winter's breath.<br/><br/>For centuries still may thy boughs lightly wave<br/>  O'er the corse of thy Lord in thy canopy laid;<br/>While the branches thus gratefully shelter his grave,<br/>  The Chief who survives may recline in thy shade.<br/><br/>And as he, with his boys, shall revisit this spot,<br/>  He will tell them in whispers more softly to tread.<br/>Oh! surely, by these I shall ne'er be forgot;<br/>  Remembrance still hallows the dust of the dead.<br/><br/>And here, will they say, when in Life's glowing prime,<br/>  Perhaps he has pour'd forth his young simple lay,<br/>And here must he sleep, till the moments of Time<br/>  Are lost in the hours of Eternity's day.
 </p>
 
 ***
