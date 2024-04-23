@@ -31,15 +31,15 @@
 | CloverGit/CloverGit|https://github.com/CloverGit/CloverGit|7||
 | TatevKaren/TatevKaren-data-science-portfolio|https://github.com/TatevKaren/TatevKaren-data-science-portfolio|57|Data Science Portfolio of Tatev Karen Aslanyan including Case Studies and Research Projects that I have completed that solve business problems or introduce new products. Case Study papers, codes, and additional resources are all included.|
 | PiotrRut/elonmusk-twitter-notifier|https://github.com/PiotrRut/elonmusk-twitter-notifier|62|AI driven e-mail notifier for tweets mentioning stock from Elon Musk 📈|
-| Vendicated/Vencord|https://github.com/Vendicated/Vencord|6614|The cutest Discord client mod|
+| Vendicated/Vencord|https://github.com/Vendicated/Vencord|6618|The cutest Discord client mod|
 | yeoman/yo|https://github.com/yeoman/yo|3790|CLI tool for running Yeoman generators|
-| matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|2876|zkSync era|
-| 0age/create2crunch|https://github.com/0age/create2crunch|419|A Rust program for finding salts that create gas-efficient Ethereum addresses via CREATE2.|
+| matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|2884|zkSync era|
+| 0age/create2crunch|https://github.com/0age/create2crunch|421|A Rust program for finding salts that create gas-efficient Ethereum addresses via CREATE2.|
 | joshstevens19/ethereum-multicall|https://github.com/joshstevens19/ethereum-multicall|334|Ability to call many ethereum constant function calls in 1 JSONRPC request|
 | threshold-network/token-dashboard|https://github.com/threshold-network/token-dashboard|21||
 | LimeChain/mongoose-immutable-plugin|https://github.com/LimeChain/mongoose-immutable-plugin|2|Mongoose plugin guarding fields from modifications|
-| ankitects/anki|https://github.com/ankitects/anki|17154|Anki's shared backend and web components, and the Qt frontend|
-| lightningnetwork/lnd|https://github.com/lightningnetwork/lnd|7481|Lightning Network Daemon ⚡️|
+| ankitects/anki|https://github.com/ankitects/anki|17168|Anki's shared backend and web components, and the Qt frontend|
+| lightningnetwork/lnd|https://github.com/lightningnetwork/lnd|7484|Lightning Network Daemon ⚡️|
 | CoNarrative/mongo-immutable|https://github.com/CoNarrative/mongo-immutable|10|Immutable MongoDB.|
 | lightningdevkit/rust-lightning|https://github.com/lightningdevkit/rust-lightning|1081|A highly modular Bitcoin Lightning library written in Rust. It's rust-lightning, not Rusty's Lightning!|
 
@@ -51,10 +51,10 @@
   <summary>📚 <strong>A random poem from <em>https://poetrydb.org/random</em>!</strong> 👇 </summary>
 
 <!-- Start poem -->
-# 💮 That Music Always Round Me. by *Walt Whitman*
+# 💮 Lines Written Beneath a Picture by *George Gordon, Lord Byron*
 
 <p>
-    THAT music always round me, unceasing, unbeginning—yet long untaught I did not hear;<br/>But now the chorus I hear, and am elated;<br/>A tenor, strong, ascending, with power and health, with glad notes of day-break I hear,<br/>A soprano, at intervals, sailing buoyantly over the tops of immense waves,<br/>A transparent bass, shuddering lusciously under and through the universe,<br/>The triumphant tutti—the funeral wailings, with sweet flutes and violins—all<br/>    these I<br/>  fill myself with;<br/>I hear not the volumes of sound merely—I am moved by the exquisite meanings,<br/>I listen to the different voices winding in and out, striving, contending with fiery<br/>    vehemence<br/>  to excel each other in emotion;<br/>I do not think the performers know themselves—but now I think I begin to know them.
+    Dear object of defeated care!<br/>  Though now of Love and thee bereft,<br/>To reconcile me with despair<br/>  Thine image and my tears are left.<br/><br/>'Tis said with Sorrow Time can cope;<br/>  But this I feel can ne'er be true:<br/>For by the death-blow of my Hope<br/>  My Memory immortal grew.
 </p>
 
 ***
