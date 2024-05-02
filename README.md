@@ -31,17 +31,17 @@
 | CloverGit/CloverGit|https://github.com/CloverGit/CloverGit|7||
 | TatevKaren/TatevKaren-data-science-portfolio|https://github.com/TatevKaren/TatevKaren-data-science-portfolio|57|Data Science Portfolio of Tatev Karen Aslanyan including Case Studies and Research Projects that I have completed that solve business problems or introduce new products. Case Study papers, codes, and additional resources are all included.|
 | PiotrRut/elonmusk-twitter-notifier|https://github.com/PiotrRut/elonmusk-twitter-notifier|62|AI driven e-mail notifier for tweets mentioning stock from Elon Musk 📈|
-| Vendicated/Vencord|https://github.com/Vendicated/Vencord|6720|The cutest Discord client mod|
-| yeoman/yo|https://github.com/yeoman/yo|3795|CLI tool for running Yeoman generators|
-| matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|2909|zkSync era|
+| Vendicated/Vencord|https://github.com/Vendicated/Vencord|6737|The cutest Discord client mod|
+| yeoman/yo|https://github.com/yeoman/yo|3797|CLI tool for running Yeoman generators|
+| matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|2910|zkSync era|
 | 0age/create2crunch|https://github.com/0age/create2crunch|425|A Rust program for finding salts that create gas-efficient Ethereum addresses via CREATE2.|
 | joshstevens19/ethereum-multicall|https://github.com/joshstevens19/ethereum-multicall|335|Ability to call many ethereum constant function calls in 1 JSONRPC request|
 | threshold-network/token-dashboard|https://github.com/threshold-network/token-dashboard|21||
 | LimeChain/mongoose-immutable-plugin|https://github.com/LimeChain/mongoose-immutable-plugin|2|Mongoose plugin guarding fields from modifications|
-| ankitects/anki|https://github.com/ankitects/anki|17265|Anki's shared backend and web components, and the Qt frontend|
-| lightningnetwork/lnd|https://github.com/lightningnetwork/lnd|7496|Lightning Network Daemon ⚡️|
+| ankitects/anki|https://github.com/ankitects/anki|17272|Anki's shared backend and web components, and the Qt frontend|
+| lightningnetwork/lnd|https://github.com/lightningnetwork/lnd|7495|Lightning Network Daemon ⚡️|
 | CoNarrative/mongo-immutable|https://github.com/CoNarrative/mongo-immutable|10|Immutable MongoDB.|
-| lightningdevkit/rust-lightning|https://github.com/lightningdevkit/rust-lightning|1083|A highly modular Bitcoin Lightning library written in Rust. It's rust-lightning, not Rusty's Lightning!|
+| lightningdevkit/rust-lightning|https://github.com/lightningdevkit/rust-lightning|1084|A highly modular Bitcoin Lightning library written in Rust. It's rust-lightning, not Rusty's Lightning!|
 
 <!-- Starred repos end -->
 
@@ -51,10 +51,10 @@
   <summary>📚 <strong>A random poem from <em>https://poetrydb.org/random</em>!</strong> 👇 </summary>
 
 <!-- Start poem -->
-# 💮 Stanzas Written in Passing the Ambracian Gulf by *George Gordon, Lord Byron*
+# 💮 The Dream Called Life by *Edward Fitzgerald*
 
 <p>
-    Through cloudless skies, in silvery sheen,<br/>  Full beams the moon on Actium's coast:<br/>And on these waves, for Egypt's queen,<br/>  The ancient world was won and lost.<br/><br/>And now upon the scene I look,<br/>  The azure grave of many a Roman;<br/>Where stern Ambition once forsook<br/>  His wavering crown to follow _Woman_.<br/><br/>Florence! whom I will love as well<br/>  (As ever yet was said or sung,<br/>Since Orpheus sang his spouse from Hell)<br/>  Whilst _thou_ art _fair_ and _I_ am _young_;<br/><br/>Sweet Florence! those were pleasant times,<br/>  When worlds were staked for Ladies' eyes:<br/>Had bards as many realms as rhymes,<br/>  Thy charms might raise new Antonies.<br/><br/>Though Fate forbids such things to be,<br/>  Yet, by thine eyes and ringlets curled!<br/>I cannot _lose_ a _world_ for thee,<br/>  But would not lose _thee_ for a _World_.
+    From the Spanish of Pedro Calderon de la Barca<br/><br/><br/>A dream it was in which I found myself.<br/>And you that hail me now, then hailed me king,<br/>In a brave palace that was all my own,<br/>Within, and all without it, mine; until,<br/>Drunk with excess of majesty and pride,<br/>Methought I towered so big and swelled so wide<br/>That of myself I burst the glittering bubble<br/>Which my ambition had about me blown,<br/>And all again was darkness. Such a dream<br/>As this, in which I may be walking now,<br/>Dispensing solemn justice to you shadows,<br/>Who make believe to listen; but anon<br/>Kings, princes, captains, warriors, plume and steel,<br/>Aye, even with all your airy theatre,<br/>May flit into the air you seem to rend<br/>With acclamations, leaving me to wake<br/>In the dark tower; or dreaming that I wake<br/>From this that waking is; or this and that,<br/>Both waking and both dreaming; such a doubt<br/>Confounds and clouds our moral life about.<br/>But whether wake or dreaming, this I know,<br/>How dreamwise human glories come and go;<br/>Whose momentary tenure not to break,<br/>Walking as one who knows he soon may wake,<br/>So fairly carry the full cup, so well<br/>Disordered insolence and passion quell,<br/>That there be nothing after to upbraid<br/>Dreamer or doer in the part he played;<br/>Whether tomorrow's dawn shall break the spell,<br/>Or the last trumpet of the Eternal Day,<br/>When dreaming, with the night, shall pass away.
 </p>
 
 ***
