@@ -31,15 +31,15 @@
 | CloverGit/CloverGit|https://github.com/CloverGit/CloverGit|7||
 | TatevKaren/TatevKaren-data-science-portfolio|https://github.com/TatevKaren/TatevKaren-data-science-portfolio|57|Data Science Portfolio of Tatev Karen Aslanyan including Case Studies and Research Projects that I have completed that solve business problems or introduce new products. Case Study papers, codes, and additional resources are all included.|
 | PiotrRut/elonmusk-twitter-notifier|https://github.com/PiotrRut/elonmusk-twitter-notifier|62|AI driven e-mail notifier for tweets mentioning stock from Elon Musk 📈|
-| Vendicated/Vencord|https://github.com/Vendicated/Vencord|6763|The cutest Discord client mod|
+| Vendicated/Vencord|https://github.com/Vendicated/Vencord|6799|The cutest Discord client mod|
 | yeoman/yo|https://github.com/yeoman/yo|3798|CLI tool for running Yeoman generators|
-| matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|2914|zkSync era|
+| matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|2918|zkSync era|
 | 0age/create2crunch|https://github.com/0age/create2crunch|425|A Rust program for finding salts that create gas-efficient Ethereum addresses via CREATE2.|
 | joshstevens19/ethereum-multicall|https://github.com/joshstevens19/ethereum-multicall|335|Ability to call many ethereum constant function calls in 1 JSONRPC request|
 | threshold-network/token-dashboard|https://github.com/threshold-network/token-dashboard|21||
 | LimeChain/mongoose-immutable-plugin|https://github.com/LimeChain/mongoose-immutable-plugin|2|Mongoose plugin guarding fields from modifications|
-| ankitects/anki|https://github.com/ankitects/anki|17286|Anki's shared backend and web components, and the Qt frontend|
-| lightningnetwork/lnd|https://github.com/lightningnetwork/lnd|7498|Lightning Network Daemon ⚡️|
+| ankitects/anki|https://github.com/ankitects/anki|17296|Anki's shared backend and web components, and the Qt frontend|
+| lightningnetwork/lnd|https://github.com/lightningnetwork/lnd|7502|Lightning Network Daemon ⚡️|
 | CoNarrative/mongo-immutable|https://github.com/CoNarrative/mongo-immutable|10|Immutable MongoDB.|
 | lightningdevkit/rust-lightning|https://github.com/lightningdevkit/rust-lightning|1086|A highly modular Bitcoin Lightning library written in Rust. It's rust-lightning, not Rusty's Lightning!|
 
@@ -51,10 +51,10 @@
   <summary>📚 <strong>A random poem from <em>https://poetrydb.org/random</em>!</strong> 👇 </summary>
 
 <!-- Start poem -->
-# 💮 Out of the Rolling Ocean, the Crowd. by *Walt Whitman*
+# 💮 Fragments Written for Hellas by *Percy Bysshe Shelley*
 
 <p>
-    1<br/>OUT of the rolling ocean, the crowd, came a drop gently to me,<br/>Whispering, I love you, before long I die,<br/>I have travel’d a long way, merely to look on you, to touch you,<br/>For I could not die till I once look’d on you,<br/>For I fear’d I might afterward lose you.<br/><br/>2<br/>(Now we have met, we have look’d, we are safe;<br/>Return in peace to the ocean, my love;<br/>I too am part of that ocean, my love—we are not so much separated;<br/>Behold the great rondure—the cohesion of all, how perfect!<br/>But as for me, for you, the irresistible sea is to separate us,<br/>As for an hour, carrying us diverse—yet cannot carry us diverse for ever;<br/>Be not impatient—a little space—Know you, I salute the air, the ocean and the<br/>  land,<br/>Every day, at sundown, for your dear sake, my love.)
+    Fairest of the Destinies,<br/>Disarray thy dazzling eyes:<br/>Keener far thy lightnings are<br/>Than the winged  thou bearest,<br/>And the smile thou wearest<br/>Wraps thee as a star<br/>Is wrapped in light.<br/><br/>Could Arethuse to her forsaken urn<br/>From Alpheus and the bitter Doris run,<br/>Or could the morning shafts of purest light<br/>Again into the quivers of the Sun<br/>Be gathered--could one thought from its wild flight<br/>Return into the temple of the brain<br/>Without a change, without a stain,--<br/>Could aught that is, ever again<br/>Be what it once has ceased to be,<br/>Greece might again be free!<br/><br/>A star has fallen upon the earth<br/>Mid the benighted nations,<br/>A quenchless atom of immortal light,<br/>A living spark of Night,<br/>A cresset shaken from the constellations.<br/>Swifter than the thunder fell<br/>To the heart of Earth, the well<br/>Where its pulses flow and beat,<br/>And unextinct in that cold source<br/>Burns, and on ... course<br/>Guides the sphere which is its prison,<br/>Like an angelic spirit pent<br/>In a form of mortal birth,<br/>Till, as a spirit half-arisen<br/>Shatters its charnel, it has rent,<br/>In the rapture of its mirth,<br/>The thin and painted garment of the Earth,<br/>Ruining its chaos--a fierce breath<br/>Consuming all its forms of living death.
 </p>
 
 ***
