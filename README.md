@@ -31,14 +31,14 @@
 | CloverGit/CloverGit|https://github.com/CloverGit/CloverGit|7||
 | TatevKaren/TatevKaren-data-science-portfolio|https://github.com/TatevKaren/TatevKaren-data-science-portfolio|57|Data Science Portfolio of Tatev Karen Aslanyan including Case Studies and Research Projects that I have completed that solve business problems or introduce new products. Case Study papers, codes, and additional resources are all included.|
 | PiotrRut/elonmusk-twitter-notifier|https://github.com/PiotrRut/elonmusk-twitter-notifier|62|AI driven e-mail notifier for tweets mentioning stock from Elon Musk 📈|
-| Vendicated/Vencord|https://github.com/Vendicated/Vencord|6973|The cutest Discord client mod|
+| Vendicated/Vencord|https://github.com/Vendicated/Vencord|6987|The cutest Discord client mod|
 | yeoman/yo|https://github.com/yeoman/yo|3801|CLI tool for running Yeoman generators|
-| matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|2942|zkSync era|
-| 0age/create2crunch|https://github.com/0age/create2crunch|426|A Rust program for finding salts that create gas-efficient Ethereum addresses via CREATE2.|
+| matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|2946|zkSync era|
+| 0age/create2crunch|https://github.com/0age/create2crunch|427|A Rust program for finding salts that create gas-efficient Ethereum addresses via CREATE2.|
 | joshstevens19/ethereum-multicall|https://github.com/joshstevens19/ethereum-multicall|336|Ability to call many ethereum constant function calls in 1 JSONRPC request|
 | threshold-network/token-dashboard|https://github.com/threshold-network/token-dashboard|21||
 | LimeChain/mongoose-immutable-plugin|https://github.com/LimeChain/mongoose-immutable-plugin|2|Mongoose plugin guarding fields from modifications|
-| ankitects/anki|https://github.com/ankitects/anki|17341|Anki's shared backend and web components, and the Qt frontend|
+| ankitects/anki|https://github.com/ankitects/anki|17355|Anki's shared backend and web components, and the Qt frontend|
 | lightningnetwork/lnd|https://github.com/lightningnetwork/lnd|7507|Lightning Network Daemon ⚡️|
 | CoNarrative/mongo-immutable|https://github.com/CoNarrative/mongo-immutable|10|Immutable MongoDB.|
 | lightningdevkit/rust-lightning|https://github.com/lightningdevkit/rust-lightning|1091|A highly modular Bitcoin Lightning library written in Rust. It's rust-lightning, not Rusty's Lightning!|
@@ -51,10 +51,10 @@
   <summary>📚 <strong>A random poem from <em>https://poetrydb.org/random</em>!</strong> 👇 </summary>
 
 <!-- Start poem -->
-# 💮 Men Are Heaven's Piers by *Robert Louis Stevenson*
+# 💮 To Ianthe by *Percy Bysshe Shelley*
 
 <p>
-    MEN are Heaven's piers; they evermore<br/>Unwearying bear the skyey floor;<br/>Man's theatre they bear with ease,<br/>Unfrowning cariatides!<br/>I, for my wife, the sun uphold,<br/>Or, dozing, strike the seasons cold.<br/>She, on her side, in fairy-wise<br/>Deals in diviner mysteries,<br/>By spells to make the fuel burn<br/>And keep the parlour warm, to turn<br/>Water to wine, and stones to bread,<br/>By her unconquered hero-head.<br/>A naked Adam, naked Eve,<br/>Alone the primal bower we weave;<br/>Sequestered in the seas of life,<br/>A Crusoe couple, man and wife,<br/>With all our good, with all our will,<br/>Our unfrequented isle we fill;<br/>And victor in day's petty wars,<br/>Each for the other lights the stars.<br/>Come then, my Eve, and to and fro<br/>Let us about our garden go;<br/>And, grateful-hearted, hand in hand<br/>Revisit all our tillage land,<br/>And marvel at our strange estate,<br/>For hooded ruin at the gate<br/>Sits watchful, and the angels fear<br/>To see us tread so boldly here.<br/>Meanwhile, my Eve, with flower and grass<br/>Our perishable days we pass;<br/>Far more the thorn observe - and see<br/>How our enormous sins go free -<br/>Nor less admire, beside the rose,<br/>How far a little virtue goes.
+    I love thee, Baby! for thine own sweet sake;<br/>Those azure eyes, that faintly dimpled cheek,<br/>Thy tender frame, so eloquently weak,<br/>Love in the sternest heart of hate might wake;<br/>But more when o'er thy fitful slumber bending<br/>Thy mother folds thee to her wakeful heart,<br/>Whilst love and pity, in her glances blending,<br/>All that thy passive eyes can feel impart:<br/>More, when some feeble lineaments of her,<br/>Who bore thy weight beneath her spotless bosom,<br/>As with deep love I read thy face, recur,--<br/>More dear art thou, O fair and fragile blossom;<br/>Dearest when most thy tender traits express<br/>The image of thy mother's loveliness.
 </p>
 
 ***
