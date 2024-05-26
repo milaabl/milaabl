@@ -20,7 +20,7 @@
 | glitch-txs/walletconnect-cafe|https://github.com/glitch-txs/walletconnect-cafe|2|Ethereum-provider implementation with Cafe (global state manager)|
 | glitch-txs/metamask-csp-firefox|https://github.com/glitch-txs/metamask-csp-firefox|4|MetaMask is blocked by Firefox when using CSP|
 | glitch-txs/next-auth|https://github.com/glitch-txs/next-auth|1|Authentication for the Web.|
-| michaelsbradleyjr/nim-notcurses|https://github.com/michaelsbradleyjr/nim-notcurses|26|Nim wrapper for Notcurses: blingful TUIs and character graphics|
+| michaelsbradleyjr/nim-notcurses|https://github.com/michaelsbradleyjr/nim-notcurses|27|Nim wrapper for Notcurses: blingful TUIs and character graphics|
 | arianXdev/hardhat-jest|https://github.com/arianXdev/hardhat-jest|10|A Hardhat plugin that allows you to use Jest easily!|
 | przemek890/Gender_prediction|https://github.com/przemek890/Gender_prediction|4|An application that utilizes camera input to predict a person's gender using a convolutional layer in PyTorch.|
 | pieralukasz/pixel-recruitment-task|https://github.com/pieralukasz/pixel-recruitment-task|1|Zadanie rekrutacyjne Pixel Technology|
@@ -31,17 +31,17 @@
 | CloverGit/CloverGit|https://github.com/CloverGit/CloverGit|7||
 | TatevKaren/TatevKaren-data-science-portfolio|https://github.com/TatevKaren/TatevKaren-data-science-portfolio|57|Data Science Portfolio of Tatev Karen Aslanyan including Case Studies and Research Projects that I have completed that solve business problems or introduce new products. Case Study papers, codes, and additional resources are all included.|
 | PiotrRut/elonmusk-twitter-notifier|https://github.com/PiotrRut/elonmusk-twitter-notifier|62|AI driven e-mail notifier for tweets mentioning stock from Elon Musk 📈|
-| Vendicated/Vencord|https://github.com/Vendicated/Vencord|7117|The cutest Discord client mod|
+| Vendicated/Vencord|https://github.com/Vendicated/Vencord|7123|The cutest Discord client mod|
 | yeoman/yo|https://github.com/yeoman/yo|3802|CLI tool for running Yeoman generators|
-| matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|2959|zkSync era|
-| 0age/create2crunch|https://github.com/0age/create2crunch|430|A Rust program for finding salts that create gas-efficient Ethereum addresses via CREATE2.|
+| matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|2960|zkSync era|
+| 0age/create2crunch|https://github.com/0age/create2crunch|431|A Rust program for finding salts that create gas-efficient Ethereum addresses via CREATE2.|
 | joshstevens19/ethereum-multicall|https://github.com/joshstevens19/ethereum-multicall|338|Ability to call many ethereum constant function calls in 1 JSONRPC request|
 | threshold-network/token-dashboard|https://github.com/threshold-network/token-dashboard|21||
 | LimeChain/mongoose-immutable-plugin|https://github.com/LimeChain/mongoose-immutable-plugin|2|Mongoose plugin guarding fields from modifications|
-| ankitects/anki|https://github.com/ankitects/anki|17440|Anki's shared backend and web components, and the Qt frontend|
+| ankitects/anki|https://github.com/ankitects/anki|17449|Anki's shared backend and web components, and the Qt frontend|
 | lightningnetwork/lnd|https://github.com/lightningnetwork/lnd|7521|Lightning Network Daemon ⚡️|
 | CoNarrative/mongo-immutable|https://github.com/CoNarrative/mongo-immutable|10|Immutable MongoDB.|
-| lightningdevkit/rust-lightning|https://github.com/lightningdevkit/rust-lightning|1098|A highly modular Bitcoin Lightning library written in Rust. It's rust-lightning, not Rusty's Lightning!|
+| lightningdevkit/rust-lightning|https://github.com/lightningdevkit/rust-lightning|1099|A highly modular Bitcoin Lightning library written in Rust. It's rust-lightning, not Rusty's Lightning!|
 
 <!-- Starred repos end -->
 
@@ -51,10 +51,10 @@
   <summary>📚 <strong>A random poem from <em>https://poetrydb.org/random</em>!</strong> 👇 </summary>
 
 <!-- Start poem -->
-# 💮 Stanzas Written on the Road between Florence and Pisa by *George Gordon, Lord Byron*
+# 💮 Weeping. by *Alexander Pope*
 
 <p>
-    Oh, talk not to me of a name great in story--<br/>The days of our Youth are the days of our glory;<br/>And the myrtle and ivy of sweet two-and-twenty<br/>Are worth all your laurels, though ever so plenty.<br/><br/>What are garlands and crowns to the brow that is wrinkled?<br/>Tis but as a dead flower with May-dew besprinkled:<br/>Then away with all such from the head that is hoary,<br/>What care I for the wreaths that can _only_ give glory?<br/><br/>Oh Fame!--if I e'er took delight in thy praises,<br/>'Twas less for the sake of thy high-sounding phrases,<br/>Than to see the bright eyes of the dear One discover,<br/>She thought that I was not unworthy to love her.<br/><br/>_There_ chiefly I sought thee, _there_ only I found thee;<br/>Her Glance was the best of the rays that surround thee,<br/>When it sparkled o'er aught that was bright in my story,<br/>I knew it was Love, and I felt it was Glory.
+    IMMITATION OF ENGLISH POETS. COWLEY<br/><br/>  While Celia's tears make sorrow bright,<br/>    Proud grief sits swelling in her eyes;<br/>  The sun, next those the fairest light,<br/>    Thus from the ocean first did rise:<br/>  And thus through mists we see the sun,<br/>  Which, else we durst not gaze upon.<br/><br/>  These silver drops, like morning dew,<br/>    Foretell the fervour of the day:<br/>  So from one cloud soft showers we view,<br/>    And blasting lightnings burst away.<br/>  The stars that fall from Celia's eye,<br/>  Declare our doom in drawing nigh.<br/><br/>  The baby in that sunny sphere<br/>    So like a Phaëton appears,<br/>  That Heaven, the threaten'd world to spare,<br/>    Thought fit to drown him in her tears:<br/>  Else might the ambitious nymph aspire,<br/>  To set, like him, Heaven too on fire.
 </p>
 
 ***
