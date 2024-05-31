@@ -31,17 +31,17 @@
 | CloverGit/CloverGit|https://github.com/CloverGit/CloverGit|7||
 | TatevKaren/TatevKaren-data-science-portfolio|https://github.com/TatevKaren/TatevKaren-data-science-portfolio|57|Data Science Portfolio of Tatev Karen Aslanyan including Case Studies and Research Projects that I have completed that solve business problems or introduce new products. Case Study papers, codes, and additional resources are all included.|
 | PiotrRut/elonmusk-twitter-notifier|https://github.com/PiotrRut/elonmusk-twitter-notifier|62|AI driven e-mail notifier for tweets mentioning stock from Elon Musk 📈|
-| Vendicated/Vencord|https://github.com/Vendicated/Vencord|7255|The cutest Discord client mod|
+| Vendicated/Vencord|https://github.com/Vendicated/Vencord|7270|The cutest Discord client mod|
 | yeoman/yo|https://github.com/yeoman/yo|3802|CLI tool for running Yeoman generators|
-| matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|2971|zkSync era|
+| matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|2974|zkSync era|
 | 0age/create2crunch|https://github.com/0age/create2crunch|431|A Rust program for finding salts that create gas-efficient Ethereum addresses via CREATE2.|
 | joshstevens19/ethereum-multicall|https://github.com/joshstevens19/ethereum-multicall|340|Ability to call many ethereum constant function calls in 1 JSONRPC request|
 | threshold-network/token-dashboard|https://github.com/threshold-network/token-dashboard|21||
 | LimeChain/mongoose-immutable-plugin|https://github.com/LimeChain/mongoose-immutable-plugin|2|Mongoose plugin guarding fields from modifications|
-| ankitects/anki|https://github.com/ankitects/anki|17496|Anki's shared backend and web components, and the Qt frontend|
-| lightningnetwork/lnd|https://github.com/lightningnetwork/lnd|7525|Lightning Network Daemon ⚡️|
+| ankitects/anki|https://github.com/ankitects/anki|17510|Anki's shared backend and web components, and the Qt frontend|
+| lightningnetwork/lnd|https://github.com/lightningnetwork/lnd|7523|Lightning Network Daemon ⚡️|
 | CoNarrative/mongo-immutable|https://github.com/CoNarrative/mongo-immutable|10|Immutable MongoDB.|
-| lightningdevkit/rust-lightning|https://github.com/lightningdevkit/rust-lightning|1099|A highly modular Bitcoin Lightning library written in Rust. It's rust-lightning, not Rusty's Lightning!|
+| lightningdevkit/rust-lightning|https://github.com/lightningdevkit/rust-lightning|1102|A highly modular Bitcoin Lightning library written in Rust. It's rust-lightning, not Rusty's Lightning!|
 
 <!-- Starred repos end -->
 
@@ -51,10 +51,10 @@
   <summary>📚 <strong>A random poem from <em>https://poetrydb.org/random</em>!</strong> 👇 </summary>
 
 <!-- Start poem -->
-# 💮 Stanzas to a Lady, on Leaving England by *George Gordon, Lord Byron*
+# 💮 ENDYMION (For music) by *Oscar Wilde*
 
 <p>
-    Tis done--and shivering in the gale<br/>The bark unfurls her snowy sail;<br/>And whistling o'er the bending mast,<br/>Loud sings on high the fresh'ning blast;<br/>And I must from this land be gone,<br/>Because I cannot love but one.<br/><br/>But could I be what I have been,<br/>And could I see what I have seen--<br/>Could I repose upon the breast<br/>Which once my warmest wishes blest--<br/>I should not seek another zone,<br/>Because I cannot love but one.<br/><br/>'Tis long since I beheld that eye<br/>Which gave me bliss or misery;<br/>And I have striven, but in vain,<br/>Never to think of it again:<br/>For though I fly from Albion,<br/>I still can only love but one.<br/><br/>As some lone bird, without a mate,<br/>My weary heart is desolate;<br/>I look around, and cannot trace<br/>One friendly smile or welcome face,<br/>And ev'n in crowds am still alone,<br/>Because I cannot love but one.<br/><br/>And I will cross the whitening foam,<br/>And I will seek a foreign home;<br/>Till I forget a false fair face,<br/>I ne'er shall find a resting-place;<br/>My own dark thoughts I cannot shun,<br/>But ever love, and love but one.<br/><br/>The poorest, veriest wretch on earth<br/>Still finds some hospitable hearth,<br/>Where Friendship's or Love's softer glow<br/>May smile in joy or soothe in woe;<br/>But friend or leman I have none,<br/>Because I cannot love but one.<br/><br/>I go--but wheresoe'er I flee<br/>There's not an eye will weep for me;<br/>There's not a kind congenial heart,<br/>Where I can claim the meanest part;<br/>Nor thou, who hast my hopes undone,<br/>Wilt sigh, although I love but one.<br/><br/>To think of every early scene,<br/>Of what we are, and what we've been,<br/>Would whelm some softer hearts with woe--<br/>But mine, alas! has stood the blow;<br/>Yet still beats on as it begun,<br/>And never truly loves but one.<br/><br/>And who that dear lov'd one may be,<br/>Is not for vulgar eyes to see;<br/>And why that early love was cross'd,<br/>Thou know'st the best, I feel the most;<br/>But few that dwell beneath the sun<br/>Have loved so long, and loved but one.<br/><br/>I've tried another's fetters too,<br/>With charms perchance as fair to view;<br/>And I would fain have loved as well,<br/>But some unconquerable spell<br/>Forbade my bleeding breast to own<br/>A kindred care for aught but one.<br/><br/>'Twould soothe to take one lingering view,<br/>And bless thee in my last adieu;<br/>Yet wish I not those eyes to weep<br/>For him that wanders o'er the deep;<br/>His home, his hope, his youth are gone,<br/>Yet still he loves, and loves but one.<br/><br/>'To----on Leaving England.'<br/><br/>'The land recedes his Bark is gone,<br/>Yet still he loves and laves but one.'
+    The apple trees are hung with gold,<br/>And birds are loud in Arcady,<br/>The sheep lie bleating in the fold,<br/>The wild goat runs across the wold,<br/>But yesterday his love he told,<br/>I know he will come back to me.<br/>O rising moon! O Lady moon!<br/>Be you my lover's sentinel,<br/>You cannot choose but know him well,<br/>For he is shod with purple shoon,<br/>You cannot choose but know my love,<br/>For he a shepherd's crook doth bear,<br/>And he is soft as any dove,<br/>And brown and curly is his hair.<br/><br/>The turtle now has ceased to call<br/>Upon her crimson-footed groom,<br/>The grey wolf prowls about the stall,<br/>The lily's singing seneschal<br/>Sleeps in the lily-bell, and all<br/>The violet hills are lost in gloom.<br/>O risen moon! O holy moon!<br/>Stand on the top of Helice,<br/>And if my own true love you see,<br/>Ah! if you see the purple shoon,<br/>The hazel crook, the lad's brown hair,<br/>The goat-skin wrapped about his arm,<br/>Tell him that I am waiting where<br/>The rushlight glimmers in the Farm.<br/><br/>The falling dew is cold and chill,<br/>And no bird sings in Arcady,<br/>The little fauns have left the hill,<br/>Even the tired daffodil<br/>Has closed its gilded doors, and still<br/>My lover comes not back to me.<br/>False moon! False moon! O waning moon!<br/>Where is my own true lover gone,<br/>Where are the lips vermilion,<br/>The shepherd's crook, the purple shoon?<br/>Why spread that silver pavilion,<br/>Why wear that veil of drifting mist?<br/>Ah! thou hast young Endymion<br/>Thou hast the lips that should be kissed!
 </p>
 
 ***
