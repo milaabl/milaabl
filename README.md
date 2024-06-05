@@ -32,14 +32,14 @@
 | CloverGit/CloverGit|https://github.com/CloverGit/CloverGit|7||
 | TatevKaren/TatevKaren-data-science-portfolio|https://github.com/TatevKaren/TatevKaren-data-science-portfolio|57|Data Science Portfolio of Tatev Karen Aslanyan including Case Studies and Research Projects that I have completed that solve business problems or introduce new products. Case Study papers, codes, and additional resources are all included.|
 | PiotrRut/elonmusk-twitter-notifier|https://github.com/PiotrRut/elonmusk-twitter-notifier|62|AI driven e-mail notifier for tweets mentioning stock from Elon Musk 📈|
-| Vendicated/Vencord|https://github.com/Vendicated/Vencord|7316|The cutest Discord client mod|
+| Vendicated/Vencord|https://github.com/Vendicated/Vencord|7327|The cutest Discord client mod|
 | yeoman/yo|https://github.com/yeoman/yo|3802|CLI tool for running Yeoman generators|
-| matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|2989|zkSync era|
+| matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|2991|zkSync era|
 | 0age/create2crunch|https://github.com/0age/create2crunch|432|A Rust program for finding salts that create gas-efficient Ethereum addresses via CREATE2.|
 | joshstevens19/ethereum-multicall|https://github.com/joshstevens19/ethereum-multicall|340|Ability to call many ethereum constant function calls in 1 JSONRPC request|
 | threshold-network/token-dashboard|https://github.com/threshold-network/token-dashboard|21||
 | LimeChain/mongoose-immutable-plugin|https://github.com/LimeChain/mongoose-immutable-plugin|2|Mongoose plugin guarding fields from modifications|
-| ankitects/anki|https://github.com/ankitects/anki|17546|Anki's shared backend and web components, and the Qt frontend|
+| ankitects/anki|https://github.com/ankitects/anki|17555|Anki's shared backend and web components, and the Qt frontend|
 | lightningnetwork/lnd|https://github.com/lightningnetwork/lnd|7523|Lightning Network Daemon ⚡️|
 | CoNarrative/mongo-immutable|https://github.com/CoNarrative/mongo-immutable|10|Immutable MongoDB.|
 
@@ -51,10 +51,10 @@
   <summary>📚 <strong>A random poem from <em>https://poetrydb.org/random</em>!</strong> 👇 </summary>
 
 <!-- Start poem -->
-# 💮 Evening: Ponte Al Mare, Pisa by *Percy Bysshe Shelley*
+# 💮 Lenore by *Edgar Allan Poe*
 
 <p>
-    The sun is set; the swallows are asleep;<br/>The bats are flitting fast in the gray air;<br/>The slow soft toads out of damp corners creep,<br/>And evening's breath, wandering here and there<br/>Over the quivering surface of the stream,<br/>Wakes not one ripple from its summer dream.<br/><br/>There is no dew on the dry grass to-night,<br/>Nor damp within the shadow of the trees;<br/>The wind is intermitting, dry, and light;<br/>And in the inconstant motion of the breeze<br/>The dust and straws are driven up and down,<br/>And whirled about the pavement of the town.<br/><br/>Within the surface of the fleeting river<br/>The wrinkled image of the city lay,<br/>Immovably unquiet, and forever<br/>It trembles, but it never fades away;<br/>Go to the...<br/>You, being changed, will find it then as now.<br/><br/>The chasm in which the sun has sunk is shut<br/>By darkest barriers of cinereous cloud,<br/>Like mountain over mountain huddled--but<br/>Growing and moving upwards in a crowd,<br/>And over it a space of watery blue,<br/>Which the keen evening star is shining through..
+    Ah, broken is the golden bowl! the spirit flown forever!<br/>Let the bell toll!--a saintly soul floats on the Stygian river.<br/>And, Guy de Vere, hast _thou_ no tear?--weep now or never more!<br/>See! on yon drear and rigid bier low lies thy love, Lenore!<br/>Come! let the burial rite be read--the funeral song be sung!--<br/>An anthem for the queenliest dead that ever died so young--<br/>A dirge for her, the doubly dead in that she died so young.<br/><br/>"Wretches! ye loved her for her wealth and hated her for her pride,<br/>And when she fell in feeble health, ye blessed her--that she died!<br/>How _shall_ the ritual, then, be read?--the requiem how be sung<br/>By you--by yours, the evil eye,--by yours, the slanderous tongue<br/>That did to death the innocence that died, and died so young?"<br/><br/>_Peccavimus;_ but rave not thus! and let a Sabbath song<br/>Go up to God so solemnly the dead may feel no wrong!<br/>The sweet Lenore hath "gone before," with Hope, that flew beside,<br/>Leaving thee wild for the dear child that should have been thy bride--<br/>For her, the fair and _débonnaire_, that now so lowly lies,<br/>The life upon her yellow hair but not within her eyes--<br/>The life still there, upon her hair--the death upon her eyes.<br/><br/>"Avaunt! to-night my heart is light. No dirge will I upraise,<br/>But waft the angel on her flight with a pæan of old days!<br/>Let _no_ bell toll!--lest her sweet soul, amid its hallowed mirth,<br/>Should catch the note, as it doth float up from the damned Earth.<br/>To friends above, from fiends below, the indignant ghost is riven--<br/>From Hell unto a high estate far up within the Heaven--<br/>From grief and groan to a golden throne beside the King of Heaven."
 </p>
 
 ***
