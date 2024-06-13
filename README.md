@@ -32,15 +32,15 @@
 | CloverGit/CloverGit|https://github.com/CloverGit/CloverGit|7||
 | TatevKaren/TatevKaren-data-science-portfolio|https://github.com/TatevKaren/TatevKaren-data-science-portfolio|57|Data Science Portfolio of Tatev Karen Aslanyan including Case Studies and Research Projects that I have completed that solve business problems or introduce new products. Case Study papers, codes, and additional resources are all included.|
 | PiotrRut/elonmusk-twitter-notifier|https://github.com/PiotrRut/elonmusk-twitter-notifier|62|AI driven e-mail notifier for tweets mentioning stock from Elon Musk 📈|
-| Vendicated/Vencord|https://github.com/Vendicated/Vencord|7424|The cutest Discord client mod|
+| Vendicated/Vencord|https://github.com/Vendicated/Vencord|7440|The cutest Discord client mod|
 | yeoman/yo|https://github.com/yeoman/yo|3805|CLI tool for running Yeoman generators|
-| matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|3054|zkSync era|
+| matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|3062|zkSync era|
 | 0age/create2crunch|https://github.com/0age/create2crunch|433|A Rust program for finding salts that create gas-efficient Ethereum addresses via CREATE2.|
 | joshstevens19/ethereum-multicall|https://github.com/joshstevens19/ethereum-multicall|341|Ability to call many ethereum constant function calls in 1 JSONRPC request|
 | threshold-network/token-dashboard|https://github.com/threshold-network/token-dashboard|21||
 | LimeChain/mongoose-immutable-plugin|https://github.com/LimeChain/mongoose-immutable-plugin|2|Mongoose plugin guarding fields from modifications|
-| ankitects/anki|https://github.com/ankitects/anki|17578|Anki's shared backend and web components, and the Qt frontend|
-| lightningnetwork/lnd|https://github.com/lightningnetwork/lnd|7529|Lightning Network Daemon ⚡️|
+| ankitects/anki|https://github.com/ankitects/anki|17593|Anki's shared backend and web components, and the Qt frontend|
+| lightningnetwork/lnd|https://github.com/lightningnetwork/lnd|7530|Lightning Network Daemon ⚡️|
 | CoNarrative/mongo-immutable|https://github.com/CoNarrative/mongo-immutable|10|Immutable MongoDB.|
 
 <!-- Starred repos end -->
@@ -51,10 +51,10 @@
   <summary>📚 <strong>A random poem from <em>https://poetrydb.org/random</em>!</strong> 👇 </summary>
 
 <!-- Start poem -->
-# 💮 Stanzas Written in Passing the Ambracian Gulf by *George Gordon, Lord Byron*
+# 💮 Now is Past by *John Clare*
 
 <p>
-    Through cloudless skies, in silvery sheen,<br/>  Full beams the moon on Actium's coast:<br/>And on these waves, for Egypt's queen,<br/>  The ancient world was won and lost.<br/><br/>And now upon the scene I look,<br/>  The azure grave of many a Roman;<br/>Where stern Ambition once forsook<br/>  His wavering crown to follow _Woman_.<br/><br/>Florence! whom I will love as well<br/>  (As ever yet was said or sung,<br/>Since Orpheus sang his spouse from Hell)<br/>  Whilst _thou_ art _fair_ and _I_ am _young_;<br/><br/>Sweet Florence! those were pleasant times,<br/>  When worlds were staked for Ladies' eyes:<br/>Had bards as many realms as rhymes,<br/>  Thy charms might raise new Antonies.<br/><br/>Though Fate forbids such things to be,<br/>  Yet, by thine eyes and ringlets curled!<br/>I cannot _lose_ a _world_ for thee,<br/>  But would not lose _thee_ for a _World_.
+    Now_ is past--the happynow<br/>  When we together roved<br/>Beneath the wildwood's oak-tree bough<br/>  And Nature said we loved.<br/>       Winter's blast<br/>Thenow_ since then has crept between,<br/>  And left us both apart.<br/>Winters that withered all the green<br/>  Have froze the beating heart.<br/>        Now is past.<br/><br/>Now_ is past since last we met<br/>  Beneath the hazel bough;<br/>Before the evening sun was set<br/>  Her shadow stretched below.<br/>       Autumn's blast<br/>Has stained and blighted every bough;<br/>  Wild strawberries like her lips<br/>Have left the mosses green below,<br/>  Her bloom's upon the hips.<br/>        Now is past.<br/><br/>Now_ is past, is changed agen,<br/>  The woods and fields are painted new.<br/>Wild strawberries which both gathered then,<br/>  None know now where they grew.<br/>        The skys oercast.<br/>Wood strawberries faded from wood sides,<br/>  Green leaves have all turned yellow;<br/>No Adelaide walks the wood rides,<br/>  True love has no bed-fellow.<br/>        Now is past.
 </p>
 
 ***
