@@ -32,15 +32,15 @@
 | CloverGit/CloverGit|https://github.com/CloverGit/CloverGit|7||
 | TatevKaren/TatevKaren-data-science-portfolio|https://github.com/TatevKaren/TatevKaren-data-science-portfolio|57|Data Science Portfolio of Tatev Karen Aslanyan including Case Studies and Research Projects that I have completed that solve business problems or introduce new products. Case Study papers, codes, and additional resources are all included.|
 | PiotrRut/elonmusk-twitter-notifier|https://github.com/PiotrRut/elonmusk-twitter-notifier|62|AI driven e-mail notifier for tweets mentioning stock from Elon Musk 📈|
-| Vendicated/Vencord|https://github.com/Vendicated/Vencord|7440|The cutest Discord client mod|
-| yeoman/yo|https://github.com/yeoman/yo|3805|CLI tool for running Yeoman generators|
-| matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|3062|zkSync era|
-| 0age/create2crunch|https://github.com/0age/create2crunch|433|A Rust program for finding salts that create gas-efficient Ethereum addresses via CREATE2.|
+| Vendicated/Vencord|https://github.com/Vendicated/Vencord|7448|The cutest Discord client mod|
+| yeoman/yo|https://github.com/yeoman/yo|3806|CLI tool for running Yeoman generators|
+| matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|3061|zkSync era|
+| 0age/create2crunch|https://github.com/0age/create2crunch|434|A Rust program for finding salts that create gas-efficient Ethereum addresses via CREATE2.|
 | joshstevens19/ethereum-multicall|https://github.com/joshstevens19/ethereum-multicall|341|Ability to call many ethereum constant function calls in 1 JSONRPC request|
-| threshold-network/token-dashboard|https://github.com/threshold-network/token-dashboard|21||
+| threshold-network/token-dashboard|https://github.com/threshold-network/token-dashboard|22||
 | LimeChain/mongoose-immutable-plugin|https://github.com/LimeChain/mongoose-immutable-plugin|2|Mongoose plugin guarding fields from modifications|
-| ankitects/anki|https://github.com/ankitects/anki|17593|Anki's shared backend and web components, and the Qt frontend|
-| lightningnetwork/lnd|https://github.com/lightningnetwork/lnd|7530|Lightning Network Daemon ⚡️|
+| ankitects/anki|https://github.com/ankitects/anki|17601|Anki's shared backend and web components, and the Qt frontend|
+| lightningnetwork/lnd|https://github.com/lightningnetwork/lnd|7532|Lightning Network Daemon ⚡️|
 | CoNarrative/mongo-immutable|https://github.com/CoNarrative/mongo-immutable|10|Immutable MongoDB.|
 
 <!-- Starred repos end -->
@@ -51,10 +51,10 @@
   <summary>📚 <strong>A random poem from <em>https://poetrydb.org/random</em>!</strong> 👇 </summary>
 
 <!-- Start poem -->
-# 💮 Now is Past by *John Clare*
+# 💮 Where She Told Her Love by *John Clare*
 
 <p>
-    Now_ is past--the happynow<br/>  When we together roved<br/>Beneath the wildwood's oak-tree bough<br/>  And Nature said we loved.<br/>       Winter's blast<br/>Thenow_ since then has crept between,<br/>  And left us both apart.<br/>Winters that withered all the green<br/>  Have froze the beating heart.<br/>        Now is past.<br/><br/>Now_ is past since last we met<br/>  Beneath the hazel bough;<br/>Before the evening sun was set<br/>  Her shadow stretched below.<br/>       Autumn's blast<br/>Has stained and blighted every bough;<br/>  Wild strawberries like her lips<br/>Have left the mosses green below,<br/>  Her bloom's upon the hips.<br/>        Now is past.<br/><br/>Now_ is past, is changed agen,<br/>  The woods and fields are painted new.<br/>Wild strawberries which both gathered then,<br/>  None know now where they grew.<br/>        The skys oercast.<br/>Wood strawberries faded from wood sides,<br/>  Green leaves have all turned yellow;<br/>No Adelaide walks the wood rides,<br/>  True love has no bed-fellow.<br/>        Now is past.
+             I saw her crop a rose<br/>           Right early in the day,<br/>         And I went to kiss the place<br/>           Where she broke the rose away<br/>         And I saw the patten rings<br/>           Where she oer the stile had gone,<br/>         And I love all other things<br/>           Her bright eyes look upon.<br/>If she looks upon the hedge or up the leafing tree,<br/>The whitethorn or the brown oak are made dearer things to me.<br/><br/>         I have a pleasant hill<br/>           Which I sit upon for hours,<br/>         Where she cropt some sprigs of thyme<br/>           And other little flowers;<br/>         And she muttered as she did it<br/>           As does beauty in a dream,<br/>         And I loved her when she hid it<br/>           On her breast, so like to cream,<br/>Near the brown mole on her neck that to me a diamond shone<br/>Then my eye was like to fire, and my heart was like to stone.<br/><br/>         There is a small green place<br/>           Where cowslips early curled,<br/>         Which on Sabbath day I trace,<br/>           The dearest in the world.<br/>         A little oak spreads oer it,<br/>           And throws a shadow round,<br/>         A green sward close before it,<br/>           The greenest ever found:<br/>There is not a woodland nigh nor is there a green grove,<br/>Yet stood the fair maid nigh me and told me all her love.
 </p>
 
 ***
