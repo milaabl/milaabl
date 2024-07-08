@@ -32,15 +32,15 @@
 | CloverGit/CloverGit|https://github.com/CloverGit/CloverGit|7||
 | TatevKaren/TatevKaren-data-science-portfolio|https://github.com/TatevKaren/TatevKaren-data-science-portfolio|58|Data Science Portfolio of Tatev Karen Aslanyan including Case Studies and Research Projects that I have completed that solve business problems or introduce new products. Case Study papers, codes, and additional resources are all included.|
 | PiotrRut/elonmusk-twitter-notifier|https://github.com/PiotrRut/elonmusk-twitter-notifier|62|AI driven e-mail notifier for tweets mentioning stock from Elon Musk 📈|
-| Vendicated/Vencord|https://github.com/Vendicated/Vencord|7775|The cutest Discord client mod|
+| Vendicated/Vencord|https://github.com/Vendicated/Vencord|7792|The cutest Discord client mod|
 | yeoman/yo|https://github.com/yeoman/yo|3810|CLI tool for running Yeoman generators|
 | matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|3074|zkSync era|
 | 0age/create2crunch|https://github.com/0age/create2crunch|453|A Rust program for finding salts that create gas-efficient Ethereum addresses via CREATE2.|
 | joshstevens19/ethereum-multicall|https://github.com/joshstevens19/ethereum-multicall|348|Ability to call many ethereum constant function calls in 1 JSONRPC request|
 | threshold-network/token-dashboard|https://github.com/threshold-network/token-dashboard|22||
 | LimeChain/mongoose-immutable-plugin|https://github.com/LimeChain/mongoose-immutable-plugin|2|Mongoose plugin guarding fields from modifications|
-| ankitects/anki|https://github.com/ankitects/anki|17758|Anki's shared backend and web components, and the Qt frontend|
-| lightningnetwork/lnd|https://github.com/lightningnetwork/lnd|7556|Lightning Network Daemon ⚡️|
+| ankitects/anki|https://github.com/ankitects/anki|17766|Anki's shared backend and web components, and the Qt frontend|
+| lightningnetwork/lnd|https://github.com/lightningnetwork/lnd|7555|Lightning Network Daemon ⚡️|
 | CoNarrative/mongo-immutable|https://github.com/CoNarrative/mongo-immutable|10|Immutable MongoDB.|
 
 <!-- Starred repos end -->
@@ -51,10 +51,10 @@
   <summary>📚 <strong>A random poem from <em>https://poetrydb.org/random</em>!</strong> 👇 </summary>
 
 <!-- Start poem -->
-# 💮 To Jane: 'The Keen Stars Were Twinkling' by *Percy Bysshe Shelley*
+# 💮 The Winters are so short by *Emily Dickinson*
 
 <p>
-    The keen stars were twinkling,<br/>And the fair moon was rising among them,<br/>Dear Jane!<br/>The guitar was tinkling,<br/>But the notes were not sweet till you sung them<br/>Again.<br/><br/>As the moon's soft splendour<br/>O'er the faint cold starlight of Heaven<br/>Is thrown,<br/>So your voice most tender<br/>To the strings without soul had then given<br/>Its own.<br/><br/>The stars will awaken,<br/>Though the moon sleep a full hour later,<br/>To-night;<br/>No leaf will be shaken<br/>Whilst the dews of your melody scatter<br/>Delight.<br/><br/>Though the sound overpowers,<br/>Sing again, with your dear voice revealing<br/>A tone<br/>Of some world far from ours,<br/>Where music and moonlight and feeling<br/>Are one.
+    The Winters are so short --<br/>I'm hardly justified<br/>In sending all the Birds away --<br/>And moving into Pod --<br/><br/>Myself -- for scarcely settled --<br/>The Phoebes have begun --<br/>And then -- it's time to strike my Tent --<br/>And open House -- again --<br/><br/>It's mostly, interruptions --<br/>My Summer -- is despoiled --<br/>Because there was a Winter -- once --<br/>And al the Cattle -- starved --<br/><br/>And so there was a Deluge --<br/>And swept the World away --<br/>But Ararat's a Legend -- now --<br/>And no one credits Noah --
 </p>
 
 ***
