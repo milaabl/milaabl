@@ -22,7 +22,7 @@
 | glitch-txs/walletconnect-cafe|https://github.com/glitch-txs/walletconnect-cafe|2|Ethereum-provider implementation with Cafe (global state manager)|
 | glitch-txs/metamask-csp-firefox|https://github.com/glitch-txs/metamask-csp-firefox|4|MetaMask is blocked by Firefox when using CSP|
 | glitch-txs/next-auth|https://github.com/glitch-txs/next-auth|1|Authentication for the Web.|
-| michaelsbradleyjr/nim-notcurses|https://github.com/michaelsbradleyjr/nim-notcurses|29|Nim wrapper for Notcurses: blingful TUIs and character graphics|
+| michaelsbradleyjr/nim-notcurses|https://github.com/michaelsbradleyjr/nim-notcurses|28|Nim wrapper for Notcurses: blingful TUIs and character graphics|
 | arianXdev/hardhat-jest|https://github.com/arianXdev/hardhat-jest|9|A Hardhat plugin that allows you to use Jest easily!|
 | przemek890/Gender_prediction|https://github.com/przemek890/Gender_prediction|4|An application that utilizes camera input to predict a person's gender using a convolutional layer in PyTorch.|
 | pieralukasz/pixel-recruitment-task|https://github.com/pieralukasz/pixel-recruitment-task|1|Zadanie rekrutacyjne Pixel Technology|
@@ -33,15 +33,15 @@
 | CloverGit/CloverGit|https://github.com/CloverGit/CloverGit|7||
 | TatevKaren/TatevKaren-data-science-portfolio|https://github.com/TatevKaren/TatevKaren-data-science-portfolio|58|Data Science Portfolio of Tatev Karen Aslanyan including Case Studies and Research Projects that I have completed that solve business problems or introduce new products. Case Study papers, codes, and additional resources are all included.|
 | PiotrRut/elonmusk-twitter-notifier|https://github.com/PiotrRut/elonmusk-twitter-notifier|62|AI driven e-mail notifier for tweets mentioning stock from Elon Musk 📈|
-| Vendicated/Vencord|https://github.com/Vendicated/Vencord|7938|The cutest Discord client mod|
+| Vendicated/Vencord|https://github.com/Vendicated/Vencord|7947|The cutest Discord client mod|
 | yeoman/yo|https://github.com/yeoman/yo|3816|CLI tool for running Yeoman generators|
 | matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|3073|zkSync era|
 | 0age/create2crunch|https://github.com/0age/create2crunch|454|A Rust program for finding salts that create gas-efficient Ethereum addresses via CREATE2.|
 | joshstevens19/ethereum-multicall|https://github.com/joshstevens19/ethereum-multicall|354|Ability to call many ethereum constant function calls in 1 JSONRPC request|
 | threshold-network/token-dashboard|https://github.com/threshold-network/token-dashboard|22||
 | LimeChain/mongoose-immutable-plugin|https://github.com/LimeChain/mongoose-immutable-plugin|2|Mongoose plugin guarding fields from modifications|
-| ankitects/anki|https://github.com/ankitects/anki|17881|Anki's shared backend and web components, and the Qt frontend|
-| lightningnetwork/lnd|https://github.com/lightningnetwork/lnd|7569|Lightning Network Daemon ⚡️|
+| ankitects/anki|https://github.com/ankitects/anki|17888|Anki's shared backend and web components, and the Qt frontend|
+| lightningnetwork/lnd|https://github.com/lightningnetwork/lnd|7570|Lightning Network Daemon ⚡️|
 
 <!-- Starred repos end -->
 
@@ -51,10 +51,10 @@
   <summary>📚 <strong>A random poem from <em>https://poetrydb.org/random</em>!</strong> 👇 </summary>
 
 <!-- Start poem -->
-# 💮 To One In Paradise by *Edgar Allan Poe*
+# 💮 Song of the Universal. by *Walt Whitman*
 
 <p>
-    Thou wast that all to me, love,<br/>  For which my soul did pine--<br/>A green isle in the sea, love,<br/>  A fountain and a shrine,<br/>All wreathed with fairy fruits and flowers,<br/>And all the flowers were mine.<br/><br/>Ah, dream too bright to last!<br/>  Ah, starry Hope! that didst arise<br/>But to be overcast!<br/>  A voice from out the Future cries,<br/>"On! on!"--but o'er the Past<br/>  (Dim gulf!) my spirit hovering lies<br/>Mute, motionless, aghast!<br/><br/>For, alas! alas! with me<br/>  The light of Life is o'er!<br/>"No more--no more--no more"--<br/>(Such language holds the solemn sea<br/>  To the sands upon the shore)<br/>Shall bloom the thunder-blasted tree,<br/>  Or the stricken eagle soar!<br/><br/>And all my days are trances,<br/>  And all my nightly dreams<br/>Are where thy dark eye glances,<br/>  And where thy footstep gleams--<br/>In what ethereal dances,<br/>  By what eternal streams!<br/><br/>Alas! for that accursed time<br/>  They bore thee o'er the billow,<br/>From love to titled age and crime,<br/>  And an unholy pillow!<br/>From me, and from our misty clime,<br/>  Where weeps the silver willow!
+    1<br/>COME, said the Muse,<br/>Sing me a song no poet yet has chanted,<br/>Sing me the Universal.<br/><br/>In this broad Earth of ours,<br/>Amid the measureless grossness and the slag,<br/>Enclosed and safe within its central heart,<br/>Nestles the seed Perfection.<br/><br/>By every life a share, or more or less,<br/>None born but it is born—conceal’d or unconceal’d, the seed is waiting.<br/><br/>2<br/>Lo! keen-eyed, towering Science!<br/>As from tall peaks the Modern overlooking,<br/>Successive, absolute fiats issuing.<br/><br/>Yet again, lo! the Soul—above all science;<br/>For it, has History gather’d like a husk around the globe;<br/>For it, the entire star-myriads roll through the sky.<br/><br/>In spiral roads, by long detours,<br/>(As a much-tacking ship upon the sea,)<br/>For it, the partial to the permanent flowing,<br/>For it, the Real to the Ideal tends.<br/><br/>For it, the mystic evolution;<br/>Not the right only justified—what we call evil also justified.<br/><br/>Forth from their masks, no matter what,<br/>From the huge, festering trunk—from craft and guile and tears,<br/>Health to emerge, and joy—joy universal.<br/><br/>Out of the bulk, the morbid and the shallow,<br/>Out of the bad majority—the varied, countless frauds of men and States,<br/><br/>Electric, antiseptic yet—cleaving, suffusing all,<br/>Only the good is universal.<br/><br/>3<br/>Over the mountain growths, disease and sorrow,<br/>An uncaught bird is ever hovering, hovering,<br/>High in the purer, happier air.<br/><br/>From imperfection’s murkiest cloud,<br/>Darts always forth one ray of perfect light,<br/>One flash of Heaven’s glory.<br/><br/>To fashion’s, custom’s discord,<br/>To the mad Babel-din, the deafening orgies,<br/>Soothing each lull, a strain is heard, just heard,<br/>From some far shore, the final chorus sounding.<br/><br/>4<br/>O the blest eyes! the happy hearts!<br/>That see—that know the guiding thread so fine,<br/>Along the mighty labyrinth!<br/><br/>5<br/>And thou, America!<br/>For the Scheme’s culmination—its Thought, and its Reality,<br/>For these, (not for thyself,) Thou hast arrived.<br/><br/>Thou too surroundest all;<br/>Embracing, carrying, welcoming all, Thou too, by pathways broad and new,<br/>To the Ideal tendest.<br/><br/>The measur’d faiths of other lands—the grandeurs of the past,<br/>Are not for Thee—but grandeurs of Thine own;<br/>Deific faiths and amplitudes, absorbing, comprehending all,<br/>All eligible to all.<br/><br/>All, all for Immortality!<br/>Love, like the light, silently wrapping all!<br/>Nature’s amelioration blessing all!<br/>The blossoms, fruits of ages—orchards divine and certain;<br/>Forms, objects, growths, humanities, to spiritual Images ripening.<br/><br/>6<br/>Give me, O God, to sing that thought!<br/>Give me—give him or her I love, this quenchless faith<br/>In Thy ensemble. Whatever else withheld, withhold not from us,<br/>Belief in plan of Thee enclosed in Time and Space;<br/>Health, peace, salvation universal.<br/><br/>Is it a dream?<br/>Nay, but the lack of it the dream,<br/>And, failing it, life’s lore and wealth a dream,<br/>And all the world a dream.
 </p>
 
 ***
