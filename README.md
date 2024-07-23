@@ -12,6 +12,7 @@
 <!-- Starred repos start -->
 | Name | Url | Stars | Description |
 | --- | --- |  --- |  --- |
+| MatthiasGN/SnAkE-gAmE|https://github.com/MatthiasGN/SnAkE-gAmE|4||
 | EnsoFinance/temper|https://github.com/EnsoFinance/temper|339|Temper your expectations - Ethereum Transaction Simulator |
 | the-coder-o/a-bd.me|https://github.com/the-coder-o/a-bd.me|8|My personal website made with Next.js 14 (App Router). Features blog posts, gear list, dark theme and more. Tailwind CSS,  Radix, Framer Motion, and Vercel.|
 | Xunzhuo/Xunzhuo|https://github.com/Xunzhuo/Xunzhuo|35|About me|
@@ -33,15 +34,14 @@
 | CloverGit/CloverGit|https://github.com/CloverGit/CloverGit|7||
 | TatevKaren/TatevKaren-data-science-portfolio|https://github.com/TatevKaren/TatevKaren-data-science-portfolio|58|Data Science Portfolio of Tatev Karen Aslanyan including Case Studies and Research Projects that I have completed that solve business problems or introduce new products. Case Study papers, codes, and additional resources are all included.|
 | PiotrRut/elonmusk-twitter-notifier|https://github.com/PiotrRut/elonmusk-twitter-notifier|62|AI driven e-mail notifier for tweets mentioning stock from Elon Musk 📈|
-| Vendicated/Vencord|https://github.com/Vendicated/Vencord|7947|The cutest Discord client mod|
+| Vendicated/Vencord|https://github.com/Vendicated/Vencord|7960|The cutest Discord client mod|
 | yeoman/yo|https://github.com/yeoman/yo|3816|CLI tool for running Yeoman generators|
-| matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|3073|zkSync era|
+| matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|3072|zkSync era|
 | 0age/create2crunch|https://github.com/0age/create2crunch|454|A Rust program for finding salts that create gas-efficient Ethereum addresses via CREATE2.|
 | joshstevens19/ethereum-multicall|https://github.com/joshstevens19/ethereum-multicall|354|Ability to call many ethereum constant function calls in 1 JSONRPC request|
 | threshold-network/token-dashboard|https://github.com/threshold-network/token-dashboard|22||
 | LimeChain/mongoose-immutable-plugin|https://github.com/LimeChain/mongoose-immutable-plugin|2|Mongoose plugin guarding fields from modifications|
-| ankitects/anki|https://github.com/ankitects/anki|17888|Anki's shared backend and web components, and the Qt frontend|
-| lightningnetwork/lnd|https://github.com/lightningnetwork/lnd|7570|Lightning Network Daemon ⚡️|
+| ankitects/anki|https://github.com/ankitects/anki|17891|Anki's shared backend and web components, and the Qt frontend|
 
 <!-- Starred repos end -->
 
@@ -51,10 +51,10 @@
   <summary>📚 <strong>A random poem from <em>https://poetrydb.org/random</em>!</strong> 👇 </summary>
 
 <!-- Start poem -->
-# 💮 Song of the Universal. by *Walt Whitman*
+# 💮 Sonnet 127: In the old age black was not counted fair by *William Shakespeare*
 
 <p>
-    1<br/>COME, said the Muse,<br/>Sing me a song no poet yet has chanted,<br/>Sing me the Universal.<br/><br/>In this broad Earth of ours,<br/>Amid the measureless grossness and the slag,<br/>Enclosed and safe within its central heart,<br/>Nestles the seed Perfection.<br/><br/>By every life a share, or more or less,<br/>None born but it is born—conceal’d or unconceal’d, the seed is waiting.<br/><br/>2<br/>Lo! keen-eyed, towering Science!<br/>As from tall peaks the Modern overlooking,<br/>Successive, absolute fiats issuing.<br/><br/>Yet again, lo! the Soul—above all science;<br/>For it, has History gather’d like a husk around the globe;<br/>For it, the entire star-myriads roll through the sky.<br/><br/>In spiral roads, by long detours,<br/>(As a much-tacking ship upon the sea,)<br/>For it, the partial to the permanent flowing,<br/>For it, the Real to the Ideal tends.<br/><br/>For it, the mystic evolution;<br/>Not the right only justified—what we call evil also justified.<br/><br/>Forth from their masks, no matter what,<br/>From the huge, festering trunk—from craft and guile and tears,<br/>Health to emerge, and joy—joy universal.<br/><br/>Out of the bulk, the morbid and the shallow,<br/>Out of the bad majority—the varied, countless frauds of men and States,<br/><br/>Electric, antiseptic yet—cleaving, suffusing all,<br/>Only the good is universal.<br/><br/>3<br/>Over the mountain growths, disease and sorrow,<br/>An uncaught bird is ever hovering, hovering,<br/>High in the purer, happier air.<br/><br/>From imperfection’s murkiest cloud,<br/>Darts always forth one ray of perfect light,<br/>One flash of Heaven’s glory.<br/><br/>To fashion’s, custom’s discord,<br/>To the mad Babel-din, the deafening orgies,<br/>Soothing each lull, a strain is heard, just heard,<br/>From some far shore, the final chorus sounding.<br/><br/>4<br/>O the blest eyes! the happy hearts!<br/>That see—that know the guiding thread so fine,<br/>Along the mighty labyrinth!<br/><br/>5<br/>And thou, America!<br/>For the Scheme’s culmination—its Thought, and its Reality,<br/>For these, (not for thyself,) Thou hast arrived.<br/><br/>Thou too surroundest all;<br/>Embracing, carrying, welcoming all, Thou too, by pathways broad and new,<br/>To the Ideal tendest.<br/><br/>The measur’d faiths of other lands—the grandeurs of the past,<br/>Are not for Thee—but grandeurs of Thine own;<br/>Deific faiths and amplitudes, absorbing, comprehending all,<br/>All eligible to all.<br/><br/>All, all for Immortality!<br/>Love, like the light, silently wrapping all!<br/>Nature’s amelioration blessing all!<br/>The blossoms, fruits of ages—orchards divine and certain;<br/>Forms, objects, growths, humanities, to spiritual Images ripening.<br/><br/>6<br/>Give me, O God, to sing that thought!<br/>Give me—give him or her I love, this quenchless faith<br/>In Thy ensemble. Whatever else withheld, withhold not from us,<br/>Belief in plan of Thee enclosed in Time and Space;<br/>Health, peace, salvation universal.<br/><br/>Is it a dream?<br/>Nay, but the lack of it the dream,<br/>And, failing it, life’s lore and wealth a dream,<br/>And all the world a dream.
+    In the old age black was not counted fair,<br/>Or if it were, it bore not beauty's name;<br/>But now is black beauty's successive heir,<br/>And beauty slander'd with a bastard shame:<br/>For since each hand hath put on Nature's power,<br/>Fairing the foul with Art's false borrowed face,<br/>Sweet beauty hath no name, no holy bower,<br/>But is profan'd, if not lives in disgrace.<br/>Therefore my mistress' eyes are raven black,<br/>Her eyes so suited, and they mourners seem<br/>At such who, not born fair, no beauty lack,<br/>Sland'ring creation with a false esteem:<br/>  Yet so they mourn becoming of their woe,<br/>  That every tongue says beauty should look so.
 </p>
 
 ***
