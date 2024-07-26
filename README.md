@@ -34,14 +34,14 @@
 | CloverGit/CloverGit|https://github.com/CloverGit/CloverGit|7||
 | TatevKaren/TatevKaren-data-science-portfolio|https://github.com/TatevKaren/TatevKaren-data-science-portfolio|58|Data Science Portfolio of Tatev Karen Aslanyan including Case Studies and Research Projects that I have completed that solve business problems or introduce new products. Case Study papers, codes, and additional resources are all included.|
 | PiotrRut/elonmusk-twitter-notifier|https://github.com/PiotrRut/elonmusk-twitter-notifier|62|AI driven e-mail notifier for tweets mentioning stock from Elon Musk 📈|
-| Vendicated/Vencord|https://github.com/Vendicated/Vencord|7973|The cutest Discord client mod|
-| yeoman/yo|https://github.com/yeoman/yo|3816|CLI tool for running Yeoman generators|
-| matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|3076|zkSync era|
-| 0age/create2crunch|https://github.com/0age/create2crunch|454|A Rust program for finding salts that create gas-efficient Ethereum addresses via CREATE2.|
+| Vendicated/Vencord|https://github.com/Vendicated/Vencord|7982|The cutest Discord client mod|
+| yeoman/yo|https://github.com/yeoman/yo|3817|CLI tool for running Yeoman generators|
+| matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|3078|zkSync era|
+| 0age/create2crunch|https://github.com/0age/create2crunch|455|A Rust program for finding salts that create gas-efficient Ethereum addresses via CREATE2.|
 | joshstevens19/ethereum-multicall|https://github.com/joshstevens19/ethereum-multicall|354|Ability to call many ethereum constant function calls in 1 JSONRPC request|
 | threshold-network/token-dashboard|https://github.com/threshold-network/token-dashboard|22||
 | LimeChain/mongoose-immutable-plugin|https://github.com/LimeChain/mongoose-immutable-plugin|2|Mongoose plugin guarding fields from modifications|
-| ankitects/anki|https://github.com/ankitects/anki|17904|Anki's shared backend and web components, and the Qt frontend|
+| ankitects/anki|https://github.com/ankitects/anki|17906|Anki's shared backend and web components, and the Qt frontend|
 
 <!-- Starred repos end -->
 
@@ -51,10 +51,10 @@
   <summary>📚 <strong>A random poem from <em>https://poetrydb.org/random</em>!</strong> 👇 </summary>
 
 <!-- Start poem -->
-# 💮 The Path by *Edward Thomas*
+# 💮 To My Son by *George Gordon, Lord Byron*
 
 <p>
-    RUNNING along a bank, a parapet<br/>That saves from the precipitous wood below<br/>The level road, there is a path. It serves<br/>Children for looking down the long smooth steep,<br/>Between the legs of beech and yew, to where<br/>A fallen tree checks the sight: while men and women<br/>Content themselves with the road and what they see<br/>Over the bank, and what the children tell.<br/>The path, winding like silver, trickles on,<br/>Bordered and even invaded by thinnest moss<br/>That tries to cover roots and crumbling chalk<br/>With gold, olive, and emerald, but in vain.<br/>The children wear it. They have flattened the bank<br/>On top, and silvered it between the moss<br/>With the current of their feet, year after year.<br/>But the road is houseless, and leads not to school.<br/>To see a child is rare there, and the eye<br/>Has but the road, the wood that overhangs<br/>And underyawns it, and the path that looks<br/>As if it led on to some legendary<br/>Or fancied place where men have wished to go<br/>And stay; till, sudden, it ends where the wood ends.
+    Those flaxen locks, those eyes of blue<br/>Bright as thy mother's in their hue;<br/>Those rosy lips, whose dimples play<br/>And smile to steal the heart away,<br/>Recall a scene of former joy,<br/>And touch thy father's heart, my Boy!<br/><br/>And thou canst lisp a father's name--<br/>Ah, William, were thine own the same,--<br/>No self-reproach--but, let me cease--<br/>My care for thee shall purchase peace;<br/>Thy mother's shade shall smile in joy,<br/>And pardon all the past, my Boy!<br/><br/>Her lowly grave the turf has prest,<br/>And thou hast known a stranger's breast;<br/>Derision sneers upon thy birth,<br/>And yields thee scarce a name on earth;<br/>Yet shall not these one hope destroy,--<br/>A Father's heart is thine, my Boy!<br/><br/>Why, let the world unfeeling frown,<br/>Must I fond Nature's claims disown?<br/>Ah, no--though moralists reprove,<br/>I hail thee, dearest child of Love,<br/>Fair cherub, pledge of youth and joy--<br/>A Father guards thy birth, my Boy!<br/><br/>Oh,'twill be sweet in thee to trace,<br/>Ere Age has wrinkled o'er my face,<br/>Ere half my glass of life is run,<br/>At once a brother and a son;<br/>And all my wane of years employ<br/>In justice done to thee, my Boy!<br/><br/>Although so young thy heedless sire,<br/>Youth will not damp parental fire;<br/>And, wert thou still less dear to me,<br/>While Helen's form revives in thee,<br/>The breast, which beat to former joy,<br/>Will ne'er desert its pledge, my Boy!
 </p>
 
 ***
