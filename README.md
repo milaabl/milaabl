@@ -34,14 +34,14 @@
 | CloverGit/CloverGit|https://github.com/CloverGit/CloverGit|7||
 | TatevKaren/TatevKaren-data-science-portfolio|https://github.com/TatevKaren/TatevKaren-data-science-portfolio|58|Data Science Portfolio of Tatev Karen Aslanyan including Case Studies and Research Projects that I have completed that solve business problems or introduce new products. Case Study papers, codes, and additional resources are all included.|
 | PiotrRut/elonmusk-twitter-notifier|https://github.com/PiotrRut/elonmusk-twitter-notifier|62|AI driven e-mail notifier for tweets mentioning stock from Elon Musk 📈|
-| Vendicated/Vencord|https://github.com/Vendicated/Vencord|7989|The cutest Discord client mod|
+| Vendicated/Vencord|https://github.com/Vendicated/Vencord|7995|The cutest Discord client mod|
 | yeoman/yo|https://github.com/yeoman/yo|3817|CLI tool for running Yeoman generators|
 | matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|3078|zkSync era|
 | 0age/create2crunch|https://github.com/0age/create2crunch|455|A Rust program for finding salts that create gas-efficient Ethereum addresses via CREATE2.|
-| joshstevens19/ethereum-multicall|https://github.com/joshstevens19/ethereum-multicall|356|Ability to call many ethereum constant function calls in 1 JSONRPC request|
+| joshstevens19/ethereum-multicall|https://github.com/joshstevens19/ethereum-multicall|357|Ability to call many ethereum constant function calls in 1 JSONRPC request|
 | threshold-network/token-dashboard|https://github.com/threshold-network/token-dashboard|22||
 | LimeChain/mongoose-immutable-plugin|https://github.com/LimeChain/mongoose-immutable-plugin|2|Mongoose plugin guarding fields from modifications|
-| ankitects/anki|https://github.com/ankitects/anki|17912|Anki's shared backend and web components, and the Qt frontend|
+| ankitects/anki|https://github.com/ankitects/anki|17918|Anki's shared backend and web components, and the Qt frontend|
 
 <!-- Starred repos end -->
 
@@ -51,10 +51,10 @@
   <summary>📚 <strong>A random poem from <em>https://poetrydb.org/random</em>!</strong> 👇 </summary>
 
 <!-- Start poem -->
-# 💮 The Cloud by *Percy Bysshe Shelley*
+# 💮 From the Portuguese. "Tu MI Chamas" by *George Gordon, Lord Byron*
 
 <p>
-    I bring fresh showers for the thirsting flowers,<br/>From the seas and the streams;<br/>I bear light shade for the leaves when laid<br/>In their noonday dreams.<br/>From my wings are shaken the dews that waken<br/>The sweet buds every one,<br/>When rocked to rest on their mother's breast,<br/>As she dances about the sun.<br/>I wield the flail of the lashing hail,<br/>And whiten the green plains under,<br/>And then again I dissolve it in rain,<br/>And laugh as I pass in thunder.<br/><br/>I sift the snow on the mountains below,<br/>And their great pines groan aghast;<br/>And all the night 'tis my pillow white,<br/>While I sleep in the arms of the blast.<br/>Sublime on the towers of my skiey bowers,<br/>Lightning my pilot sits;<br/>In a cavern under is fettered the thunder,<br/>It struggles and howls at fits;<br/>Over earth and ocean, with gentle motion,<br/>This pilot is guiding me,<br/>Lured by the love of the genii that move<br/>In the depths of the purple sea;<br/>Over the rills, and the crags, and the hills.<br/>Over the lakes and the plains,<br/>Wherever he dream, under mountain or stream,<br/>The Spirit he loves remains;<br/>And I all the while bask in Heaven's blue smile,<br/>Whilst he is dissolving in rains.<br/><br/>The sanguine Sunrise, with his meteor eyes,<br/>And his burning plumes outspread,<br/>Leaps on the back of my sailing rack,<br/>When the morning star shines dead;<br/>As on the jag of a mountain crag,<br/>Which an earthquake rocks and swings,<br/>An eagle alit one moment may sit<br/>In the light of its golden wings.<br/>And when Sunset may breathe, from the lit sea beneath,<br/>Its ardours of rest and of love,<br/>And the crimson pall of eve may fall<br/>From the depth of Heaven above.<br/>With wings folded I rest, on mine aery nest,<br/>As still as a brooding dove.<br/><br/>That orbed maiden with white fire laden,<br/>Whom mortals call the Moon,<br/>Glides glimmering o'er my fleece-like floor,<br/>By the midnight breezes strewn;<br/>And wherever the beat of her unseen feet,<br/>Which only the angels hear,<br/>May have broken the woof of my tent's thin roof.<br/>The stars peep behind her and peer;<br/>And I laugh to see them whirl and flee,<br/>Like a swarm of golden bees.<br/>When I widen the rent in my wind-built tent,<br/>Till the calm rivers, lakes, and seas,<br/>Like strips of the sky fallen through me on high,<br/>Are each paved with the moon and these.<br/><br/>I bind the Sun's throne with a burning zone,<br/>And the Moon's with a girdle of pearl;<br/>The volcanoes are dim, and the stars reel and swim,<br/>When the whirlwinds my banner unfurl.<br/>From cape to cape, with a bridge-like shape,<br/>Over a torrent sea,<br/>Sunbeam-proof, I hand like a roof,--<br/>The mountains its columns be.<br/>The triumphal arch through which I march<br/>With hurricane, fire, and snow,<br/>When the Powers of the air are chained to my chair,<br/>Is the million-coloured bow;<br/>The sphere-fire above its soft colours wove,<br/>While the moist Earth was laughing below.<br/><br/>I am the daughter of Earth and Water,<br/>And the nursling of the Sky;<br/>I pass through the pores of the ocean and shores;<br/>I change, but I cannot die.<br/>For after the rain when with never a stain<br/>The pavilion of Heaven is bare,<br/>And the winds and sunbeams with their convex gleams<br/>Build up the blue dome of air,<br/>I silently laugh at my own cenotaph,<br/>And out of the caverns of rain,<br/>Like a child from the womb, like a ghost from the tomb,<br/>I arise and unbuild it again.
+    In moments to delight devoted,<br/>  "My Life!" with tenderest tone, you cry;<br/>Dear words! on which my heart had doted,<br/>  If Youth could neither fade nor die.<br/><br/>To Death even hours like these must roll,<br/>  Ah! then repeat those accents never;<br/>Or change "my Life!" into "my Soul!"<br/>  Which, like my Love, exists for ever.
 </p>
 
 ***
