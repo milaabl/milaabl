@@ -27,21 +27,21 @@
 | arianXdev/hardhat-jest|https://github.com/arianXdev/hardhat-jest|9|A Hardhat plugin that allows you to use Jest easily!|
 | przemek890/Gender_prediction|https://github.com/przemek890/Gender_prediction|4|An application that utilizes camera input to predict a person's gender using a convolutional layer in PyTorch.|
 | pieralukasz/pixel-recruitment-task|https://github.com/pieralukasz/pixel-recruitment-task|1|Zadanie rekrutacyjne Pixel Technology|
-| SaraRasoulian/oop-solid-patterns|https://github.com/SaraRasoulian/oop-solid-patterns|15|💎  An educational repository for OOP, SOLID and Design Patterns|
+| SaraRasoulian/oop-solid-patterns|https://github.com/SaraRasoulian/oop-solid-patterns|16|💎  An educational repository for OOP, SOLID and Design Patterns|
 | BogdanMFometescu/resume-builder|https://github.com/BogdanMFometescu/resume-builder|12|Django-based web application that allows users to create, update, and export professional resumes.|
 | 0xMimir/Advance-CNN-LSTM-Model-for-Cryptocurrency-Forecasting|https://github.com/0xMimir/Advance-CNN-LSTM-Model-for-Cryptocurrency-Forecasting|8|CNN LSTM model used for predicting cryptocurrencies|
 | b-hristov/b-hristov|https://github.com/b-hristov/b-hristov|1||
 | CloverGit/CloverGit|https://github.com/CloverGit/CloverGit|7||
 | TatevKaren/TatevKaren-data-science-portfolio|https://github.com/TatevKaren/TatevKaren-data-science-portfolio|58|Data Science Portfolio of Tatev Karen Aslanyan including Case Studies and Research Projects that I have completed that solve business problems or introduce new products. Case Study papers, codes, and additional resources are all included.|
 | PiotrRut/elonmusk-twitter-notifier|https://github.com/PiotrRut/elonmusk-twitter-notifier|62|AI driven e-mail notifier for tweets mentioning stock from Elon Musk 📈|
-| Vendicated/Vencord|https://github.com/Vendicated/Vencord|8020|The cutest Discord client mod|
+| Vendicated/Vencord|https://github.com/Vendicated/Vencord|8025|The cutest Discord client mod|
 | yeoman/yo|https://github.com/yeoman/yo|3816|CLI tool for running Yeoman generators|
-| matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|3077|zkSync era|
-| 0age/create2crunch|https://github.com/0age/create2crunch|455|A Rust program for finding salts that create gas-efficient Ethereum addresses via CREATE2.|
+| matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|3076|zkSync era|
+| 0age/create2crunch|https://github.com/0age/create2crunch|456|A Rust program for finding salts that create gas-efficient Ethereum addresses via CREATE2.|
 | joshstevens19/ethereum-multicall|https://github.com/joshstevens19/ethereum-multicall|357|Ability to call many ethereum constant function calls in 1 JSONRPC request|
 | threshold-network/token-dashboard|https://github.com/threshold-network/token-dashboard|22||
 | LimeChain/mongoose-immutable-plugin|https://github.com/LimeChain/mongoose-immutable-plugin|2|Mongoose plugin guarding fields from modifications|
-| ankitects/anki|https://github.com/ankitects/anki|17933|Anki's shared backend and web components, and the Qt frontend|
+| ankitects/anki|https://github.com/ankitects/anki|17943|Anki's shared backend and web components, and the Qt frontend|
 
 <!-- Starred repos end -->
 
@@ -51,10 +51,10 @@
   <summary>📚 <strong>A random poem from <em>https://poetrydb.org/random</em>!</strong> 👇 </summary>
 
 <!-- Start poem -->
-# 💮 Psalm XLVI: God Is the Refuge by *Isaac Watts*
+# 💮 Against Scoffing and Calling Names by *Isaac Watts*
 
 <p>
-    God is the refuge of his saints,<br/>When storms of sharp distress invade;<br/>Ere we can offer our complaints,<br/>Behold him present with his aid!<br/><br/>Let mountains from their seats be hurled<br/>Down to the deep, and buried there,<br/>Convulsions shake the solid world,<br/>Our faith shall never yield to fear.<br/><br/>Loud may the troubled ocean roar;<br/>In sacred peace our souls abide;<br/>While every nation, every shore,<br/>Trembles, and dreads the swelling tide.<br/><br/>There is a stream, whose gentle flow<br/>Supplies the city of our God,<br/>Life, love, and joy still gliding through,<br/>And watering our divine abode.<br/><br/>Zion enjoys her monarch's love,<br/>Secure against the threatening hour;<br/>Nor can her firm foundation move,<br/>Built on his faithfulness and power.<br/><br/>Let Zion in her King rejoice,<br/>Though Satan rage, and kingdoms rise:<br/>He utters his almighty voice,<br/>The nations melt, the tumult dies.<br/><br/>The Lord of old for Jacob fought;<br/>And Jacob's God is still our aid:<br/>Behold the works his hand hath wrought!<br/>What desolations he hath made!<br/><br/>From sea to sea, through all their shores,<br/>He makes the noise of battle cease;<br/>When from on high his thunder roars,<br/>He awes the trembling world to peace.<br/><br/>He breaks the bow, he cuts the spear;<br/>Chariots he burns with heavenly flame:<br/>Keep silence, all the earth, and hear<br/>The sound and glory of his name:<br/><br/>"Be still, and learn that I am God,<br/>Exalted over all the lands;<br/>I will be known and feared abroad;<br/>For still my throne in Zion stands."<br/><br/>O Lord of hosts, almighty King!<br/>While we so near thy presence dwell,<br/>Our faith shall rest secure, and sing<br/>Defiance to the gates of hell.
+    Our tongues were made to bless the Lord,<br/>And not speak ill of men:<br/>When others give a railing word,<br/>We must not rail again.<br/><br/>Cross words and angry names require<br/>To be chastised at school;<br/>And he's in danger of hell-fire<br/>That calls his brother fool.<br/><br/>But lips that dare be so profane<br/>To mock, and jeer, and scoff<br/>At holy things, or holy men,<br/>The Lord shall cut them off.<br/><br/>When children, in their wanton play,<br/>Served old Elisha so,<br/>And bade the prophet go his way,<br/>"Go up, thou bald head, go!"<br/><br/>God quickly stopped their wicked breath;<br/>And sent two raging bears,<br/>That tore them limb from limb to death,<br/>With blood, and groans, and tears.<br/><br/>Great God! How terrible art thou<br/>To sinners e'er so young:<br/>Grant me thy grace, and teach me how<br/>To tame and rule my tongue.
 </p>
 
 ***
