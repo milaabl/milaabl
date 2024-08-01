@@ -34,14 +34,14 @@
 | CloverGit/CloverGit|https://github.com/CloverGit/CloverGit|7||
 | TatevKaren/TatevKaren-data-science-portfolio|https://github.com/TatevKaren/TatevKaren-data-science-portfolio|58|Data Science Portfolio of Tatev Karen Aslanyan including Case Studies and Research Projects that I have completed that solve business problems or introduce new products. Case Study papers, codes, and additional resources are all included.|
 | PiotrRut/elonmusk-twitter-notifier|https://github.com/PiotrRut/elonmusk-twitter-notifier|62|AI driven e-mail notifier for tweets mentioning stock from Elon Musk 📈|
-| Vendicated/Vencord|https://github.com/Vendicated/Vencord|8025|The cutest Discord client mod|
-| yeoman/yo|https://github.com/yeoman/yo|3816|CLI tool for running Yeoman generators|
-| matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|3076|zkSync era|
+| Vendicated/Vencord|https://github.com/Vendicated/Vencord|8034|The cutest Discord client mod|
+| yeoman/yo|https://github.com/yeoman/yo|3815|CLI tool for running Yeoman generators|
+| matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|3075|zkSync era|
 | 0age/create2crunch|https://github.com/0age/create2crunch|456|A Rust program for finding salts that create gas-efficient Ethereum addresses via CREATE2.|
 | joshstevens19/ethereum-multicall|https://github.com/joshstevens19/ethereum-multicall|357|Ability to call many ethereum constant function calls in 1 JSONRPC request|
 | threshold-network/token-dashboard|https://github.com/threshold-network/token-dashboard|22||
 | LimeChain/mongoose-immutable-plugin|https://github.com/LimeChain/mongoose-immutable-plugin|2|Mongoose plugin guarding fields from modifications|
-| ankitects/anki|https://github.com/ankitects/anki|17943|Anki's shared backend and web components, and the Qt frontend|
+| ankitects/anki|https://github.com/ankitects/anki|17950|Anki's shared backend and web components, and the Qt frontend|
 
 <!-- Starred repos end -->
 
@@ -51,10 +51,10 @@
   <summary>📚 <strong>A random poem from <em>https://poetrydb.org/random</em>!</strong> 👇 </summary>
 
 <!-- Start poem -->
-# 💮 Against Scoffing and Calling Names by *Isaac Watts*
+# 💮 In Memoriam A. H. H.: 82. I wage not any feud with death by *Lord Alfred Tennyson*
 
 <p>
-    Our tongues were made to bless the Lord,<br/>And not speak ill of men:<br/>When others give a railing word,<br/>We must not rail again.<br/><br/>Cross words and angry names require<br/>To be chastised at school;<br/>And he's in danger of hell-fire<br/>That calls his brother fool.<br/><br/>But lips that dare be so profane<br/>To mock, and jeer, and scoff<br/>At holy things, or holy men,<br/>The Lord shall cut them off.<br/><br/>When children, in their wanton play,<br/>Served old Elisha so,<br/>And bade the prophet go his way,<br/>"Go up, thou bald head, go!"<br/><br/>God quickly stopped their wicked breath;<br/>And sent two raging bears,<br/>That tore them limb from limb to death,<br/>With blood, and groans, and tears.<br/><br/>Great God! How terrible art thou<br/>To sinners e'er so young:<br/>Grant me thy grace, and teach me how<br/>To tame and rule my tongue.
+    I wage not any feud with Death<br/>For changes wrought on form and face;<br/>No lower life that earth's embrace<br/>May breed with him, can fright my faith.<br/>Eternal process moving on,<br/>From state to state the spirit walks;<br/>And these are but the shatter'd stalks,<br/>Or ruin'd chrysalis of one.<br/>Nor blame I Death, because he bare<br/>The use of virtue out of earth:<br/>I know transplanted human worth<br/>Will bloom to profit, otherwhere.<br/><br/>For this alone on Death I wreak<br/>The wrath that garners in my heart;<br/>He put our lives so far apart<br/>We cannot hear each other speak.
 </p>
 
 ***
