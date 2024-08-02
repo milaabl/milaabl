@@ -34,14 +34,14 @@
 | CloverGit/CloverGit|https://github.com/CloverGit/CloverGit|7||
 | TatevKaren/TatevKaren-data-science-portfolio|https://github.com/TatevKaren/TatevKaren-data-science-portfolio|58|Data Science Portfolio of Tatev Karen Aslanyan including Case Studies and Research Projects that I have completed that solve business problems or introduce new products. Case Study papers, codes, and additional resources are all included.|
 | PiotrRut/elonmusk-twitter-notifier|https://github.com/PiotrRut/elonmusk-twitter-notifier|62|AI driven e-mail notifier for tweets mentioning stock from Elon Musk 📈|
-| Vendicated/Vencord|https://github.com/Vendicated/Vencord|8034|The cutest Discord client mod|
-| yeoman/yo|https://github.com/yeoman/yo|3815|CLI tool for running Yeoman generators|
+| Vendicated/Vencord|https://github.com/Vendicated/Vencord|8048|The cutest Discord client mod|
+| yeoman/yo|https://github.com/yeoman/yo|3814|CLI tool for running Yeoman generators|
 | matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|3075|zkSync era|
 | 0age/create2crunch|https://github.com/0age/create2crunch|456|A Rust program for finding salts that create gas-efficient Ethereum addresses via CREATE2.|
 | joshstevens19/ethereum-multicall|https://github.com/joshstevens19/ethereum-multicall|357|Ability to call many ethereum constant function calls in 1 JSONRPC request|
 | threshold-network/token-dashboard|https://github.com/threshold-network/token-dashboard|22||
 | LimeChain/mongoose-immutable-plugin|https://github.com/LimeChain/mongoose-immutable-plugin|2|Mongoose plugin guarding fields from modifications|
-| ankitects/anki|https://github.com/ankitects/anki|17950|Anki's shared backend and web components, and the Qt frontend|
+| ankitects/anki|https://github.com/ankitects/anki|17954|Anki's shared backend and web components, and the Qt frontend|
 
 <!-- Starred repos end -->
 
@@ -51,10 +51,10 @@
   <summary>📚 <strong>A random poem from <em>https://poetrydb.org/random</em>!</strong> 👇 </summary>
 
 <!-- Start poem -->
-# 💮 In Memoriam A. H. H.: 82. I wage not any feud with death by *Lord Alfred Tennyson*
+# 💮 An Old Song by *Edward Thomas*
 
 <p>
-    I wage not any feud with Death<br/>For changes wrought on form and face;<br/>No lower life that earth's embrace<br/>May breed with him, can fright my faith.<br/>Eternal process moving on,<br/>From state to state the spirit walks;<br/>And these are but the shatter'd stalks,<br/>Or ruin'd chrysalis of one.<br/>Nor blame I Death, because he bare<br/>The use of virtue out of earth:<br/>I know transplanted human worth<br/>Will bloom to profit, otherwhere.<br/><br/>For this alone on Death I wreak<br/>The wrath that garners in my heart;<br/>He put our lives so far apart<br/>We cannot hear each other speak.
+    I WAS not apprenticed nor ever dwelt in famous<br/>     Lincolnshire;<br/>I've served one master ill and well much more than<br/>     seven year;<br/>And never took up to poaching as you shall quickly<br/>     find;<br/>  But 'tis my delight of a shiny night in the season<br/>     of the year.<br/><br/>I roamed where nobody had a right but keepers and<br/>     squires, and there<br/>I sought for nests, wild flowers, oak sticks, and<br/>     moles, both far and near.<br/>And had to run from farmers, and learnt the<br/>     Lincolnshire song:<br/>    "Oh, 'tis my delight of a shiny night in the<br/>     season of the year."<br/><br/>I took those walks years after, talking with friend<br/>     or dear,<br/>Or solitary musing; but when the moon shone clear<br/>I had no joy or sorrow that could not be expressed<br/>By "'Tis my delight of a shiny night in the<br/>     season of the year."<br/><br/>Since then I've thrown away a chance to fight a<br/>     gamekeeper;<br/>And I less often trespass, and what I see or hear<br/>Is mostly from the road or path by day: yet still<br/>     I sing:<br/>    "Oh, 'tis my delight of a shiny night in the<br/>     season of the year."<br/><br/>For if I am contented, at home or anywhere,<br/>Or if I sigh for I know not what, or my heart<br/>     beats with some fear,<br/>It is a strange kind of delight to sing or whistle just:<br/>    "Oh, 'tis my delight of a shiny night in the<br/>     season of the year."<br/><br/>And with this melody on my lips and no one by to<br/>     care,<br/>Indoors, or out on shiny nights or dark in open air,<br/>I am for a moment made a man that sings out of<br/>     his heart:<br/>    "Oh, 'tis my delight of a shiny night in the<br/>     season of the year."
 </p>
 
 ***
