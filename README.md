@@ -12,11 +12,11 @@
 <!-- Starred repos start -->
 | Name | Url | Stars | Description |
 | --- | --- |  --- |  --- |
-| regolith-labs/ore-cli|https://github.com/regolith-labs/ore-cli|1448|Command line interface for ORE cryptocurrency mining.|
-| phoboslab/high_impact|https://github.com/phoboslab/high_impact|982|A 2d game engine written in C|
+| regolith-labs/ore-cli|https://github.com/regolith-labs/ore-cli|1452|Command line interface for ORE cryptocurrency mining.|
+| phoboslab/high_impact|https://github.com/phoboslab/high_impact|986|A 2d game engine written in C|
 | Xe/praise-me|https://github.com/Xe/praise-me|134|Praise my GitHub profile!|
-| OfficialCodeVoyage/GitHub_Follower_Bot_Automated|https://github.com/OfficialCodeVoyage/GitHub_Follower_Bot_Automated|10|Automated GitHub Follower Bot - You Follow Me ---> My Bot Follows you Back! Let's growth! Learn how you can set it up also!|
-| OfficialCodeVoyage/leetcode|https://github.com/OfficialCodeVoyage/leetcode|6|LeetCode practice|
+| OfficialCodeVoyage/GitHub_Follower_Bot_Automated|https://github.com/OfficialCodeVoyage/GitHub_Follower_Bot_Automated|9|Automated GitHub Follower Bot - You Follow Me ---> My Bot Follows you Back! Let's growth! Learn how you can set it up also!|
+| OfficialCodeVoyage/leetcode|https://github.com/OfficialCodeVoyage/leetcode|5|LeetCode practice|
 | MatthiasGN/SnAkE-gAmE|https://github.com/MatthiasGN/SnAkE-gAmE|4|Classic snake game built in Python|
 | EnsoFinance/temper|https://github.com/EnsoFinance/temper|341|Temper your expectations - Ethereum Transaction Simulator |
 | the-coder-o/a-bd.me|https://github.com/the-coder-o/a-bd.me|8|My personal website made with Next.js 14 (App Router). Features blog posts, gear list, dark theme and more. Tailwind CSS,  Radix, Framer Motion, and Vercel.|
@@ -32,16 +32,16 @@
 | arianXdev/hardhat-jest|https://github.com/arianXdev/hardhat-jest|9|A Hardhat plugin that allows you to use Jest easily!|
 | przemek890/Gender_prediction|https://github.com/przemek890/Gender_prediction|4|An application that utilizes camera input to predict a person's gender using a convolutional layer in PyTorch.|
 | pieralukasz/pixel-recruitment-task|https://github.com/pieralukasz/pixel-recruitment-task|1|Zadanie rekrutacyjne Pixel Technology|
-| SaraRasoulian/oop-solid-patterns|https://github.com/SaraRasoulian/oop-solid-patterns|17|💎  An educational repository for OOP, SOLID and Design Patterns|
+| SaraRasoulian/oop-solid-patterns|https://github.com/SaraRasoulian/oop-solid-patterns|16|💎  An educational repository for OOP, SOLID and Design Patterns|
 | BogdanMFometescu/resume-builder|https://github.com/BogdanMFometescu/resume-builder|12|Django-based web application that allows users to create, update, and export professional resumes.|
 | 0xMimir/Advance-CNN-LSTM-Model-for-Cryptocurrency-Forecasting|https://github.com/0xMimir/Advance-CNN-LSTM-Model-for-Cryptocurrency-Forecasting|8|CNN LSTM model used for predicting cryptocurrencies|
 | b-hristov/b-hristov|https://github.com/b-hristov/b-hristov|1||
 | CloverGit/CloverGit|https://github.com/CloverGit/CloverGit|7||
 | TatevKaren/TatevKaren-data-science-portfolio|https://github.com/TatevKaren/TatevKaren-data-science-portfolio|58|Data Science Portfolio of Tatev Karen Aslanyan including Case Studies and Research Projects that I have completed that solve business problems or introduce new products. Case Study papers, codes, and additional resources are all included.|
 | PiotrRut/elonmusk-twitter-notifier|https://github.com/PiotrRut/elonmusk-twitter-notifier|62|AI driven e-mail notifier for tweets mentioning stock from Elon Musk 📈|
-| Vendicated/Vencord|https://github.com/Vendicated/Vencord|8131|The cutest Discord client mod|
-| yeoman/yo|https://github.com/yeoman/yo|3822|CLI tool for running Yeoman generators|
-| matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|3067|zkSync era|
+| Vendicated/Vencord|https://github.com/Vendicated/Vencord|8141|The cutest Discord client mod|
+| yeoman/yo|https://github.com/yeoman/yo|3823|CLI tool for running Yeoman generators|
+| matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|3068|zkSync era|
 
 <!-- Starred repos end -->
 
@@ -51,10 +51,10 @@
   <summary>📚 <strong>A random poem from <em>https://poetrydb.org/random</em>!</strong> 👇 </summary>
 
 <!-- Start poem -->
-# 💮 The Young Soldier by *Wilfred Owen*
+# 💮 Song by *George Gordon, Lord Byron*
 
 <p>
-    It is not death<br/>Without hereafter<br/>To one in dearth<br/>Of life and its laughter,<br/><br/>Nor the sweet murder<br/>Dealt slow and even<br/>Unto the martyr<br/>Smiling at heaven:<br/><br/>It is the smile<br/>Faint as a (waning) myth,<br/>Faint, and exceeding small<br/>On a boy's murdered mouth.
+    Breeze of the night in gentler sighs<br/>  More softly murmur o'er the pillow;<br/>For Slumber seals my Fanny's eyes,<br/>  And Peace must never shun her pillow.<br/><br/>Or breathe those sweet Æolian strains<br/>  Stolen from celestial spheres above,<br/>To charm her ear while some remains,<br/>  And soothe her soul to dreams of love.<br/><br/>But Breeze of night again forbear,<br/>  In softest murmurs only sigh:<br/>Let not a Zephyr's pinion dare<br/>  To lift those auburn locks on high.<br/><br/>Chill is thy Breath, thou breeze of night!<br/>  Oh! ruffle not those lids of Snow;<br/>For only Morning's cheering light<br/>  May wake the beam that lurks below.<br/><br/>Blest be that lip and azure eye!<br/>  Sweet Fanny, hallowed be thy Sleep!<br/>Those lips shall never vent a sigh,<br/>  Those eyes may never wake to weep.
 </p>
 
 ***
