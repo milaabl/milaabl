@@ -61,7 +61,7 @@
 <!-- End poem -->
 </details>
 
-<details>
+<details open>
 <summary>
   ⬇️ <strong>"Dnieper in the morning", 1881 - Arkhyp Kuindzhi (recreated with stargazer's profile avatars & a Python mozaic script)</strong> 🖼️
 </summary>
