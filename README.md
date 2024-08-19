@@ -13,7 +13,7 @@
 | Name | Url | Stars | Description |
 | --- | --- |  --- |  --- |
 | regolith-labs/ore-cli|https://github.com/regolith-labs/ore-cli|1459|Command line interface for ORE cryptocurrency mining.|
-| phoboslab/high_impact|https://github.com/phoboslab/high_impact|1007|A 2d game engine written in C|
+| phoboslab/high_impact|https://github.com/phoboslab/high_impact|1008|A 2d game engine written in C|
 | Xe/praise-me|https://github.com/Xe/praise-me|136|Praise my GitHub profile!|
 | OfficialCodeVoyage/GitHub_Follower_Bot_Automated|https://github.com/OfficialCodeVoyage/GitHub_Follower_Bot_Automated|11|Automated GitHub Follower Bot - You Follow Me ---> My Bot Follows you Back! Let's growth! Learn how you can set it up also!|
 | OfficialCodeVoyage/leetcode|https://github.com/OfficialCodeVoyage/leetcode|6|LeetCode practice|
@@ -39,7 +39,7 @@
 | CloverGit/CloverGit|https://github.com/CloverGit/CloverGit|7||
 | TatevKaren/TatevKaren-data-science-portfolio|https://github.com/TatevKaren/TatevKaren-data-science-portfolio|58|Data Science Portfolio of Tatev Karen Aslanyan including Case Studies and Research Projects that I have completed that solve business problems or introduce new products. Case Study papers, codes, and additional resources are all included.|
 | PiotrRut/elonmusk-twitter-notifier|https://github.com/PiotrRut/elonmusk-twitter-notifier|62|AI driven e-mail notifier for tweets mentioning stock from Elon Musk 📈|
-| Vendicated/Vencord|https://github.com/Vendicated/Vencord|8199|The cutest Discord client mod|
+| Vendicated/Vencord|https://github.com/Vendicated/Vencord|8208|The cutest Discord client mod|
 | yeoman/yo|https://github.com/yeoman/yo|3823|CLI tool for running Yeoman generators|
 | matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|3070|zkSync era|
 
@@ -51,10 +51,10 @@
   <summary>📚 <strong>A random poem from <em>https://poetrydb.org/random</em>!</strong> 👇 </summary>
 
 <!-- Start poem -->
-# 💮 Roads by *Edward Thomas*
+# 💮 Jephtha's Daughter by *George Gordon, Lord Byron*
 
 <p>
-    I LOVE roads:<br/>The goddesses that dwell<br/>Far along invisible<br/>Are my favourite gods.<br/><br/>Roads go on<br/>While we forget, and are<br/>Forgotten like a star<br/>That shoots and is gone.<br/><br/>On this earth 'tis sure<br/>We men have not made<br/>Anything that doth fade<br/>So soon, so long endure:<br/><br/>The hill road wet with rain<br/>In the sun would not gleam<br/>Like a winding stream<br/>If we trod it not again.<br/><br/>They are lonely<br/>While we sleep, lonelier<br/>For lack of the traveller<br/>Who is now a dream only.<br/><br/>From dawn's twilight<br/>And all the clouds like sheep<br/>On the mountains of sleep<br/>They wind into the night.<br/><br/>The next turn may reveal<br/>Heaven: upon the crest<br/>The close pine clump, at rest<br/>And black, may Hell conceal.<br/><br/>Often footsore, never<br/>Yet of the road I weary,<br/>Though long and steep and dreary<br/>As it winds on for ever.<br/><br/>Helen of the roads,<br/>The mountain ways of Wales<br/>And the Mabinogion tales,<br/>Is one of the true gods,<br/><br/>Abiding in the trees,<br/>The threes and fours so wise,<br/>The larger companies,<br/>That by the roadside be,<br/><br/>And beneath the rafter<br/>Else uninhabited<br/>Excepting by the dead;<br/>And it is her laughter<br/><br/>At morn and night I hear<br/>When the thrush cock sings<br/>Bright irrelevant things,<br/>And when the chanticleer<br/><br/>Calls back to their own night<br/>Troops that make loneliness<br/>With their light footsteps' press,<br/>As Helen's own are light.<br/><br/>Now all roads lead to France<br/>And heavy is the tread<br/>Of the living; but the dead<br/>Returning lightly dance:<br/><br/>Whatever the road bring<br/>To me or take from me,<br/>They keep me company<br/>With their pattering,<br/><br/>Crowding the solitude<br/>Of the loops over the downs,<br/>Hushing the roar of towns<br/>And their brief multitude.
+    Since our Country, our God--Oh, my Sire!<br/>Demand that thy Daughter expire;<br/>Since thy triumph was bought by thy vow--<br/>Strike the bosom that's bared for thee now!<br/><br/>And the voice of my mourning is o'er,<br/>And the mountains behold me no more:<br/>If the hand that I love lay me low,<br/>There cannot be pain in the blow!<br/><br/>And of this, oh, my Father! be sure--<br/>That the blood of thy child is as pure<br/>As the blessing I beg ere it flow,<br/>And the last thought that soothes me below.<br/><br/>Though the virgins of Salem lament,<br/>Be the judge and the hero unbent!<br/>I have won the great battle for thee,<br/>And my Father and Country are free!<br/><br/>When this blood of thy giving hath gushed,<br/>When the voice that thou lovest is hushed,<br/>Let my memory still be thy pride,<br/>And forget not I smiled as I died!
 </p>
 
 ***
