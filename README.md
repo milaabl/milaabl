@@ -12,15 +12,15 @@
 <!-- Starred repos start -->
 | Name | Url | Stars | Description |
 | --- | --- |  --- |  --- |
-| regolith-labs/ore-cli|https://github.com/regolith-labs/ore-cli|1460|Command line interface for ORE cryptocurrency mining.|
+| regolith-labs/ore-cli|https://github.com/regolith-labs/ore-cli|1459|Command line interface for ORE cryptocurrency mining.|
 | phoboslab/high_impact|https://github.com/phoboslab/high_impact|1027|A 2d game engine written in C|
 | Xe/praise-me|https://github.com/Xe/praise-me|144|Praise my GitHub profile!|
 | OfficialCodeVoyage/GitHub_Follower_Bot_Automated|https://github.com/OfficialCodeVoyage/GitHub_Follower_Bot_Automated|19|Automated GitHub Follower Bot - You Follow Me ---> My Bot Follows you Back! Let's growth! Learn how you can set it up also!|
 | OfficialCodeVoyage/leetcode|https://github.com/OfficialCodeVoyage/leetcode|8|LeetCode practice|
 | MatthiasGN/SnAkE-gAmE|https://github.com/MatthiasGN/SnAkE-gAmE|4|Classic snake game built in Python|
-| EnsoFinance/temper|https://github.com/EnsoFinance/temper|343|Temper your expectations - Ethereum Transaction Simulator |
+| EnsoFinance/temper|https://github.com/EnsoFinance/temper|344|Temper your expectations - Ethereum Transaction Simulator |
 | the-coder-o/a-bd.me|https://github.com/the-coder-o/a-bd.me|8|My personal website made with Next.js 14 (App Router). Features blog posts, gear list, dark theme and more. Tailwind CSS,  Radix, Framer Motion, and Vercel.|
-| Xunzhuo/Xunzhuo|https://github.com/Xunzhuo/Xunzhuo|40|About me|
+| Xunzhuo/Xunzhuo|https://github.com/Xunzhuo/Xunzhuo|41|About me|
 | zcaceres/interview-prep|https://github.com/zcaceres/interview-prep|1|algos, data structures etc.|
 | zcaceres/snoop|https://github.com/zcaceres/snoop|3|Like grep or ack... for the DOM|
 | zcaceres/zcaceres|https://github.com/zcaceres/zcaceres|2|Super secret Github profile README thing|
@@ -39,7 +39,7 @@
 | CloverGit/CloverGit|https://github.com/CloverGit/CloverGit|7||
 | TatevKaren/TatevKaren-data-science-portfolio|https://github.com/TatevKaren/TatevKaren-data-science-portfolio|59|Data Science Portfolio of Tatev Karen Aslanyan including Case Studies and Research Projects that I have completed that solve business problems or introduce new products. Case Study papers, codes, and additional resources are all included.|
 | PiotrRut/elonmusk-twitter-notifier|https://github.com/PiotrRut/elonmusk-twitter-notifier|62|AI driven e-mail notifier for tweets mentioning stock from Elon Musk 📈|
-| Vendicated/Vencord|https://github.com/Vendicated/Vencord|8504|The cutest Discord client mod|
+| Vendicated/Vencord|https://github.com/Vendicated/Vencord|8515|The cutest Discord client mod|
 | yeoman/yo|https://github.com/yeoman/yo|3831|CLI tool for running Yeoman generators|
 | matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|3074|zkSync era|
 
@@ -51,10 +51,10 @@
   <summary>📚 <strong>A random poem from <em>https://poetrydb.org/random</em>!</strong> 👇 </summary>
 
 <!-- Start poem -->
-# 💮 'Twas later when the summer went by *Emily Dickinson*
+# 💮 In Memory of Rupert Brooke by *Joyce Kilmer*
 
 <p>
-    'Twas later when the summer went<br/>Than when the Cricket came --<br/>And yet we knew that gentle Clock<br/>Meant nought but Going Home --<br/>'Twas sooner when the Cricket went<br/>Than when the Winter came<br/>Yet that pathetic Pendulum<br/>Keeps esoteric Time.
+    In alien earth, across a troubled sea,<br/>His body lies that was so fair and young.<br/>His mouth is stopped, with half his songs unsung;<br/>His arm is still, that struck to make men free.<br/>But let no cloud of lamentation be<br/>Where, on a warrior's grave, a lyre is hung.<br/>We keep the echoes of his golden tongue,<br/>We keep the vision of his chivalry.<br/>So Israel's joy, the loveliest of kings,<br/>Smote now his harp, and now the hostile horde.<br/>To-day the starry roof of Heaven rings<br/>With psalms a soldier made to praise his Lord;<br/>And David rests beneath Eternal wings,<br/>Song on his lips, and in his hand a sword.
 </p>
 
 ***
