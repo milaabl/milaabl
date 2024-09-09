@@ -12,11 +12,11 @@
 <!-- Starred repos start -->
 | Name | Url | Stars | Description |
 | --- | --- |  --- |  --- |
-| regolith-labs/ore-cli|https://github.com/regolith-labs/ore-cli|1459|Command line interface for ORE cryptocurrency mining.|
-| phoboslab/high_impact|https://github.com/phoboslab/high_impact|1027|A 2d game engine written in C|
+| regolith-labs/ore-cli|https://github.com/regolith-labs/ore-cli|1458|Command line interface for ORE cryptocurrency mining.|
+| phoboslab/high_impact|https://github.com/phoboslab/high_impact|1028|A 2d game engine written in C|
 | Xe/praise-me|https://github.com/Xe/praise-me|144|Praise my GitHub profile!|
-| OfficialCodeVoyage/GitHub_Follower_Bot_Automated|https://github.com/OfficialCodeVoyage/GitHub_Follower_Bot_Automated|19|Automated GitHub Follower Bot - You Follow Me ---> My Bot Follows you Back! Let's growth! Learn how you can set it up also!|
-| OfficialCodeVoyage/leetcode|https://github.com/OfficialCodeVoyage/leetcode|8|LeetCode practice|
+| OfficialCodeVoyage/GitHub_Follower_Bot_Automated|https://github.com/OfficialCodeVoyage/GitHub_Follower_Bot_Automated|18|Automated GitHub Follower Bot - You Follow Me ---> My Bot Follows you Back! Let's growth! Learn how you can set it up also!|
+| OfficialCodeVoyage/leetcode|https://github.com/OfficialCodeVoyage/leetcode|7|LeetCode practice|
 | MatthiasGN/SnAkE-gAmE|https://github.com/MatthiasGN/SnAkE-gAmE|4|Classic snake game built in Python|
 | EnsoFinance/temper|https://github.com/EnsoFinance/temper|344|Temper your expectations - Ethereum Transaction Simulator |
 | the-coder-o/a-bd.me|https://github.com/the-coder-o/a-bd.me|8|My personal website made with Next.js 14 (App Router). Features blog posts, gear list, dark theme and more. Tailwind CSS,  Radix, Framer Motion, and Vercel.|
@@ -39,9 +39,9 @@
 | CloverGit/CloverGit|https://github.com/CloverGit/CloverGit|7||
 | TatevKaren/TatevKaren-data-science-portfolio|https://github.com/TatevKaren/TatevKaren-data-science-portfolio|59|Data Science Portfolio of Tatev Karen Aslanyan including Case Studies and Research Projects that I have completed that solve business problems or introduce new products. Case Study papers, codes, and additional resources are all included.|
 | PiotrRut/elonmusk-twitter-notifier|https://github.com/PiotrRut/elonmusk-twitter-notifier|62|AI driven e-mail notifier for tweets mentioning stock from Elon Musk 📈|
-| Vendicated/Vencord|https://github.com/Vendicated/Vencord|8515|The cutest Discord client mod|
+| Vendicated/Vencord|https://github.com/Vendicated/Vencord|8534|The cutest Discord client mod|
 | yeoman/yo|https://github.com/yeoman/yo|3831|CLI tool for running Yeoman generators|
-| matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|3074|zkSync era|
+| matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|3075|zkSync era|
 
 <!-- Starred repos end -->
 
@@ -51,10 +51,10 @@
   <summary>📚 <strong>A random poem from <em>https://poetrydb.org/random</em>!</strong> 👇 </summary>
 
 <!-- Start poem -->
-# 💮 In Memory of Rupert Brooke by *Joyce Kilmer*
+# 💮 She Dotes by *Edward Thomas*
 
 <p>
-    In alien earth, across a troubled sea,<br/>His body lies that was so fair and young.<br/>His mouth is stopped, with half his songs unsung;<br/>His arm is still, that struck to make men free.<br/>But let no cloud of lamentation be<br/>Where, on a warrior's grave, a lyre is hung.<br/>We keep the echoes of his golden tongue,<br/>We keep the vision of his chivalry.<br/>So Israel's joy, the loveliest of kings,<br/>Smote now his harp, and now the hostile horde.<br/>To-day the starry roof of Heaven rings<br/>With psalms a soldier made to praise his Lord;<br/>And David rests beneath Eternal wings,<br/>Song on his lips, and in his hand a sword.
+    SHE dotes on what the wild birds say<br/>Or hint or mock at, night and day,--<br/>Thrush, blackbird, all that sing in May,<br/>      And songless plover,<br/>Hawk, heron, owl, and woodpecker.<br/>They never say a word to her<br/>      About her lover.<br/><br/>She laughs at them for childishness,<br/>She cries at them for carelessness<br/>Who see her going loverless<br/>      Yet sing and chatter<br/>Just as when he was not a ghost,<br/>Nor ever ask her what she has lost<br/>      Or what is the matter.<br/><br/>Yet she has fancied blackbirds hide<br/>A secret, and that thrushes chide<br/>Because she thinks death can divide<br/>      Her from her lover;<br/>And she has slept, trying to translate<br/>The word the cuckoo cries to his mate<br/>      Over and over.
 </p>
 
 ***
