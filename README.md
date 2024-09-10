@@ -14,8 +14,8 @@
 | --- | --- |  --- |  --- |
 | regolith-labs/ore-cli|https://github.com/regolith-labs/ore-cli|1458|Command line interface for ORE cryptocurrency mining.|
 | phoboslab/high_impact|https://github.com/phoboslab/high_impact|1028|A 2d game engine written in C|
-| Xe/praise-me|https://github.com/Xe/praise-me|144|Praise my GitHub profile!|
-| OfficialCodeVoyage/GitHub_Follower_Bot_Automated|https://github.com/OfficialCodeVoyage/GitHub_Follower_Bot_Automated|18|Automated GitHub Follower Bot - You Follow Me ---> My Bot Follows you Back! Let's growth! Learn how you can set it up also!|
+| Xe/praise-me|https://github.com/Xe/praise-me|143|Praise my GitHub profile!|
+| OfficialCodeVoyage/GitHub_Follower_Bot_Automated|https://github.com/OfficialCodeVoyage/GitHub_Follower_Bot_Automated|19|Automated GitHub Follower Bot - You Follow Me ---> My Bot Follows you Back! Let's growth! Learn how you can set it up also!|
 | OfficialCodeVoyage/leetcode|https://github.com/OfficialCodeVoyage/leetcode|7|LeetCode practice|
 | MatthiasGN/SnAkE-gAmE|https://github.com/MatthiasGN/SnAkE-gAmE|4|Classic snake game built in Python|
 | EnsoFinance/temper|https://github.com/EnsoFinance/temper|344|Temper your expectations - Ethereum Transaction Simulator |
@@ -39,9 +39,9 @@
 | CloverGit/CloverGit|https://github.com/CloverGit/CloverGit|7||
 | TatevKaren/TatevKaren-data-science-portfolio|https://github.com/TatevKaren/TatevKaren-data-science-portfolio|59|Data Science Portfolio of Tatev Karen Aslanyan including Case Studies and Research Projects that I have completed that solve business problems or introduce new products. Case Study papers, codes, and additional resources are all included.|
 | PiotrRut/elonmusk-twitter-notifier|https://github.com/PiotrRut/elonmusk-twitter-notifier|62|AI driven e-mail notifier for tweets mentioning stock from Elon Musk 📈|
-| Vendicated/Vencord|https://github.com/Vendicated/Vencord|8534|The cutest Discord client mod|
-| yeoman/yo|https://github.com/yeoman/yo|3831|CLI tool for running Yeoman generators|
-| matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|3075|zkSync era|
+| Vendicated/Vencord|https://github.com/Vendicated/Vencord|8560|The cutest Discord client mod|
+| yeoman/yo|https://github.com/yeoman/yo|3832|CLI tool for running Yeoman generators|
+| matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|3072|zkSync era|
 
 <!-- Starred repos end -->
 
@@ -51,10 +51,10 @@
   <summary>📚 <strong>A random poem from <em>https://poetrydb.org/random</em>!</strong> 👇 </summary>
 
 <!-- Start poem -->
-# 💮 She Dotes by *Edward Thomas*
+# 💮 278. On the late Captain Grose’s Peregrinations by *Robert Burns*
 
 <p>
-    SHE dotes on what the wild birds say<br/>Or hint or mock at, night and day,--<br/>Thrush, blackbird, all that sing in May,<br/>      And songless plover,<br/>Hawk, heron, owl, and woodpecker.<br/>They never say a word to her<br/>      About her lover.<br/><br/>She laughs at them for childishness,<br/>She cries at them for carelessness<br/>Who see her going loverless<br/>      Yet sing and chatter<br/>Just as when he was not a ghost,<br/>Nor ever ask her what she has lost<br/>      Or what is the matter.<br/><br/>Yet she has fancied blackbirds hide<br/>A secret, and that thrushes chide<br/>Because she thinks death can divide<br/>      Her from her lover;<br/>And she has slept, trying to translate<br/>The word the cuckoo cries to his mate<br/>      Over and over.
+    HEAR, Land o’ Cakes, and brither Scots,<br/>Frae Maidenkirk to Johnie Groat’s;—<br/>If there’s a hole in a’ your coats,<br/>                  I rede you tent it:<br/>A chield’s amang you takin notes,<br/>                  And, faith, he’ll prent it:<br/><br/><br/>If in your bounds ye chance to light<br/>Upon a fine, fat fodgel wight,<br/>O’ stature short, but genius bright,<br/>                  That’s he, mark weel;<br/>And wow! he has an unco sleight<br/>                  O’ cauk and keel.<br/><br/><br/>By some auld, houlet-haunted biggin,<br/>Or kirk deserted by its riggin,<br/>It’s ten to ane ye’ll find him snug in<br/>                  Some eldritch part,<br/>Wi’ deils, they say, L—d save’s! colleaguin<br/>                  At some black art.<br/><br/><br/>Ilk ghaist that haunts auld ha’ or chaumer,<br/>Ye gipsy-gang that deal in glamour,<br/>And you, deep-read in hell’s black grammar,<br/>                  Warlocks and witches,<br/>Ye’ll quake at his conjuring hammer,<br/>                  Ye midnight bitches.<br/><br/><br/>It’s tauld he was a sodger bred,<br/>And ane wad rather fa’n than fled;<br/>But now he’s quat the spurtle-blade,<br/>                  And dog-skin wallet,<br/>And taen the—Antiquarian trade,<br/>                  I think they call it.<br/><br/><br/>He has a fouth o’ auld nick-nackets:<br/>Rusty airn caps and jinglin jackets,<br/>Wad haud the Lothians three in tackets,<br/>                  A towmont gude;<br/>And parritch-pats and auld saut-backets,<br/>                  Before the flood.<br/><br/><br/>Of Eve’s first fire he has a cinder;<br/>Auld Tubalcain’s fire-shool and fender;<br/>That which distinguished the gender<br/>                  O’ Balaam’s ass:<br/>A broomstick o’ the witch of Endor,<br/>                  Weel shod wi’ brass.<br/><br/><br/>Forbye, he’ll shape you aff fu’ gleg<br/>The cut of Adam’s philibeg;<br/>The knife that nickit Abel’s craig<br/>                  He’ll prove you fully,<br/>It was a faulding jocteleg,<br/>                  Or lang-kail gullie.<br/><br/><br/>But wad ye see him in his glee,<br/>For meikle glee and fun has he,<br/>Then set him down, and twa or three<br/>                  Gude fellows wi’ him:<br/>And port, O port! shine thou a wee,<br/>                  And THEN ye’ll see him!<br/><br/><br/>Now, by the Pow’rs o’ verse and prose!<br/>Thou art a dainty chield, O Grose!—<br/>Whae’er o’ thee shall ill suppose,<br/>                  They sair misca’ thee;<br/>I’d take the rascal by the nose,<br/>                  Wad say, “Shame fa’ thee!”
 </p>
 
 ***
