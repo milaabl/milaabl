@@ -19,7 +19,7 @@
 | OfficialCodeVoyage/leetcode|https://github.com/OfficialCodeVoyage/leetcode|9|LeetCode practice|
 | MatthiasGN/SnAkE-gAmE|https://github.com/MatthiasGN/SnAkE-gAmE|4|Classic snake game built in Python|
 | EnsoFinance/temper|https://github.com/EnsoFinance/temper|345|Temper your expectations - Ethereum Transaction Simulator |
-| the-coder-o/a-bd.me|https://github.com/the-coder-o/a-bd.me|10|My personal website made with Next.js 14 (App Router). Features blog posts, gear list, dark theme and more. Tailwind CSS,  Radix, Framer Motion, and Vercel.|
+| the-coder-o/a-bd.me|https://github.com/the-coder-o/a-bd.me|9|My personal website made with Next.js 14 (App Router). Features blog posts, gear list, dark theme and more. Tailwind CSS,  Radix, Framer Motion, and Vercel.|
 | Xunzhuo/Xunzhuo|https://github.com/Xunzhuo/Xunzhuo|41|About me|
 | zcaceres/interview-prep|https://github.com/zcaceres/interview-prep|1|algos, data structures etc.|
 | zcaceres/snoop|https://github.com/zcaceres/snoop|3|Like grep or ack... for the DOM|
@@ -39,7 +39,7 @@
 | CloverGit/CloverGit|https://github.com/CloverGit/CloverGit|7||
 | TatevKaren/TatevKaren-data-science-portfolio|https://github.com/TatevKaren/TatevKaren-data-science-portfolio|60|Data Science Portfolio of Tatev Karen Aslanyan including Case Studies and Research Projects that I have completed that solve business problems or introduce new products. Case Study papers, codes, and additional resources are all included.|
 | PiotrRut/elonmusk-twitter-notifier|https://github.com/PiotrRut/elonmusk-twitter-notifier|62|AI driven e-mail notifier for tweets mentioning stock from Elon Musk 📈|
-| Vendicated/Vencord|https://github.com/Vendicated/Vencord|8641|The cutest Discord client mod|
+| Vendicated/Vencord|https://github.com/Vendicated/Vencord|8647|The cutest Discord client mod|
 | yeoman/yo|https://github.com/yeoman/yo|3835|CLI tool for running Yeoman generators|
 | matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|3076|zkSync era|
 
@@ -51,10 +51,10 @@
   <summary>📚 <strong>A random poem from <em>https://poetrydb.org/random</em>!</strong> 👇 </summary>
 
 <!-- Start poem -->
-# 💮 Cancelled Passage of Mont Blanc by *Percy Bysshe Shelley*
+# 💮 Sonnet 126: O thou, my lovely boy, who in thy power by *William Shakespeare*
 
 <p>
-    There is a voice, not understood by all,<br/>Sent from these desert-caves. It is the roar<br/>Of the rent ice-cliff which the sunbeams call,<br/>Plunging into the vale--it is the blast<br/>Descending on the pines--the torrents pour...
+    O thou, my lovely boy, who in thy power<br/>Dost hold Time's fickle glass, his fickle hour;<br/>Who hast by waning grown, and therein show'st<br/>Thy lovers withering, as thy sweet self grow'st.<br/>If Nature, sovereign mistress over wrack,<br/>As thou goest onwards, still will pluck thee back,<br/>She keeps thee to this purpose, that her skill<br/>May time disgrace and wretched minutes kill.<br/>Yet fear her, O thou minion of her pleasure!<br/>She may detain, but not still keep, her treasure:<br/>  Her audit (though delayed) answered must be,<br/>  And her quietus is to render thee.
 </p>
 
 ***
