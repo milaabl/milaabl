@@ -13,7 +13,7 @@
 | Name | Url | Stars | Description |
 | --- | --- |  --- |  --- |
 | regolith-labs/ore-cli|https://github.com/regolith-labs/ore-cli|1456|Command line interface for ORE miners.|
-| phoboslab/high_impact|https://github.com/phoboslab/high_impact|1033|A 2d game engine written in C|
+| phoboslab/high_impact|https://github.com/phoboslab/high_impact|1032|A 2d game engine written in C|
 | Xe/praise-me|https://github.com/Xe/praise-me|143|Praise my GitHub profile!|
 | OfficialCodeVoyage/GitHub_Follower_Bot_Automated|https://github.com/OfficialCodeVoyage/GitHub_Follower_Bot_Automated|31|Automated GitHub Follower Bot - You Follow Me ---> My Bot Follows you Back! Let's growth! Learn how you can set it up also!|
 | OfficialCodeVoyage/leetcode|https://github.com/OfficialCodeVoyage/leetcode|12|LeetCode practice|
@@ -39,7 +39,7 @@
 | CloverGit/CloverGit|https://github.com/CloverGit/CloverGit|7||
 | TatevKaren/TatevKaren-data-science-portfolio|https://github.com/TatevKaren/TatevKaren-data-science-portfolio|60|Data Science Portfolio of Tatev Karen Aslanyan including Case Studies and Research Projects that I have completed that solve business problems or introduce new products. Case Study papers, codes, and additional resources are all included.|
 | PiotrRut/elonmusk-twitter-notifier|https://github.com/PiotrRut/elonmusk-twitter-notifier|61|AI driven e-mail notifier for tweets mentioning stock from Elon Musk 📈|
-| Vendicated/Vencord|https://github.com/Vendicated/Vencord|8694|The cutest Discord client mod|
+| Vendicated/Vencord|https://github.com/Vendicated/Vencord|8701|The cutest Discord client mod|
 | yeoman/yo|https://github.com/yeoman/yo|3835|CLI tool for running Yeoman generators|
 | matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|3079|zkSync era|
 
@@ -51,10 +51,10 @@
   <summary>📚 <strong>A random poem from <em>https://poetrydb.org/random</em>!</strong> 👇 </summary>
 
 <!-- Start poem -->
-# 💮 An Evening Thought: Salvation by Christ, with Penetential Cries by *Jupiter Hammon*
+# 💮 To Thomas Moore by *George Gordon, Lord Byron*
 
 <p>
-    Salvation comes by Christ alone,<br/>The only Son of God;<br/>Redemption now to every one,<br/>That love his holy Word.<br/><br/>Dear Jesus, we would fly to Thee,<br/>And leave off every Sin,<br/>Thy tender Mercy well agree;<br/>Salvation from our King.<br/><br/>Salvation comes now from the Lord,<br/>Our victorious King.<br/>His holy Name be well ador'd,<br/>Salvation surely bring.<br/><br/>Dear Jesus, give thy Spirit now,<br/>Thy Grace to every Nation,<br/>That han't the Lord to whom we bow,<br/>The Author of Salvation.<br/><br/>Dear Jesus, unto Thee we cry,<br/>Give us the Preparation;<br/>Turn not away thy tender Eye;<br/>We seek thy true Salvation.<br/><br/>Salvation comes from God we know,<br/>The true and only One;<br/>It's well agreed and certain true,<br/>He gave his only Son.<br/><br/>Lord, hear our penetential Cry:<br/>Salvation from above;<br/>It is the Lord that doth supply,<br/>With his Redeeming Love.<br/><br/>Dear Jesus, by thy precious Blood,<br/>The World Redemption have:<br/>Salvation now comes from the Lord,<br/>He being thy captive slave.<br/><br/>Dear Jesus, let the Nations cry,<br/>And all the People say,<br/>Salvation comes from Christ on high,<br/>Haste on Tribunal Day.<br/><br/>We cry as Sinners to the Lord,<br/>Salvation to obtain;<br/>It is firmly fixed, his holy Word,<br/>Ye shall not cry in vain.<br/><br/>Dear Jesus, unto Thee we cry,<br/>And make our Lamentation:<br/>O let our Prayers ascend on high;<br/>We felt thy Salvation.<br/><br/>Lord, turn our dark benighted Souls;<br/>Give us a true Motion,<br/>And let the Hearts of all the World,<br/>Make Christ their Salvation.<br/><br/>Ten Thousand Angels cry to Thee,<br/>Yea, louder than the Ocean.<br/>Thou art the Lord, we plainly see;<br/>Thou art the true Salvation.<br/><br/>Now is the Day, excepted Time;<br/>The Day of the Salvation;<br/>Increase your Faith, do not repine:<br/>Awake ye, every Nation.<br/><br/>Lord, unto whom now shall we go,<br/>Or seek a safe abode?<br/>Thou has the Word Salvation Too,<br/>The only Son of God.<br/><br/>Ho! every one that hunger hath,<br/>Or pineth after me,<br/>Salvation be thy leading Staff,<br/>To set the Sinner free.<br/><br/>Dear Jesus, unto Thee we fly;<br/>Depart, depart from Sin,<br/>Salvation doth at length supply,<br/>The Glory of our King.<br/><br/>Come, ye Blessed of the Lord,<br/>Salvation greatly given;<br/>O turn your Hearts, accept the Word,<br/>Your Souls are fit for Heaven.<br/><br/>Dear Jesus, we now turn to Thee,<br/>Salvation to obtain;<br/>Our Hearts and Souls do meet again,<br/>To magnify thy Name.<br/><br/>Come, Holy Spirit, Heavenly Dove,<br/>The Object of our Care;<br/>Salvation doth increase our Love;<br/>Our Hearts hath felt they fear.<br/><br/>Now Glory be to God on High,<br/>Salvation high and low;<br/>And thus the Soul on Christ rely,<br/>To Heaven surely go.<br/><br/>Come, Blessed Jesus, Heavenly Dove,<br/>Accept Repentance here;<br/>Salvation give, with tender Love;<br/>Let us with Angels share.Finis.
+    What are you doing now,<br/>  Oh Thomas Moore?<br/>What are you doing now,<br/>  Oh Thomas Moore?<br/>Sighing or suing now,<br/>Rhyming or wooing now,<br/>Billing or cooing now,<br/>  Which, Thomas Moore?<br/><br/>But the Carnival's coming,<br/>  Oh Thomas Moore!<br/>The Carnival's coming,<br/>  Oh Thomas Moore!<br/>Masking and humming,<br/>Fifing and drumming,<br/>Guitarring and strumming,<br/>  Oh Thomas Moore!
 </p>
 
 ***
