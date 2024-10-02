@@ -15,10 +15,10 @@
 | regolith-labs/ore-cli|https://github.com/regolith-labs/ore-cli|1459|Command line interface for ORE miners.|
 | phoboslab/high_impact|https://github.com/phoboslab/high_impact|1032|A 2d game engine written in C|
 | Xe/praise-me|https://github.com/Xe/praise-me|143|Praise my GitHub profile!|
-| OfficialCodeVoyage/GitHub_Follower_Bot_Automated|https://github.com/OfficialCodeVoyage/GitHub_Follower_Bot_Automated|30|Automated GitHub Follower Bot - You Follow Me ---> My Bot Follows you Back! Let's growth! Learn how you can set it up also!|
+| OfficialCodeVoyage/GitHub_Follower_Bot_Automated|https://github.com/OfficialCodeVoyage/GitHub_Follower_Bot_Automated|31|Automated GitHub Follower Bot - You Follow Me ---> My Bot Follows you Back! Let's growth! Learn how you can set it up also!|
 | OfficialCodeVoyage/leetcode|https://github.com/OfficialCodeVoyage/leetcode|11|LeetCode practice|
 | MatthiasGN/SnAkE-gAmE|https://github.com/MatthiasGN/SnAkE-gAmE|4|Classic snake game built in Python|
-| EnsoFinance/temper|https://github.com/EnsoFinance/temper|344|Temper your expectations - Ethereum Transaction Simulator |
+| EnsoFinance/temper|https://github.com/EnsoFinance/temper|345|Temper your expectations - Ethereum Transaction Simulator |
 | the-coder-o/a-bd.me|https://github.com/the-coder-o/a-bd.me|8|My personal website made with Next.js 14 (App Router). Features blog posts, gear list, dark theme and more. Tailwind CSS,  Radix, Framer Motion, and Vercel.|
 | Xunzhuo/Xunzhuo|https://github.com/Xunzhuo/Xunzhuo|44|About me|
 | zcaceres/interview-prep|https://github.com/zcaceres/interview-prep|1|algos, data structures etc.|
@@ -39,9 +39,9 @@
 | CloverGit/CloverGit|https://github.com/CloverGit/CloverGit|7||
 | TatevKaren/TatevKaren-data-science-portfolio|https://github.com/TatevKaren/TatevKaren-data-science-portfolio|60|Data Science Portfolio of Tatev Karen Aslanyan including Case Studies and Research Projects that I have completed that solve business problems or introduce new products. Case Study papers, codes, and additional resources are all included.|
 | PiotrRut/elonmusk-twitter-notifier|https://github.com/PiotrRut/elonmusk-twitter-notifier|61|AI driven e-mail notifier for tweets mentioning stock from Elon Musk 📈|
-| Vendicated/Vencord|https://github.com/Vendicated/Vencord|8696|The cutest Discord client mod|
+| Vendicated/Vencord|https://github.com/Vendicated/Vencord|8707|The cutest Discord client mod|
 | yeoman/yo|https://github.com/yeoman/yo|3836|CLI tool for running Yeoman generators|
-| matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|3080|zkSync era|
+| matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|3081|zkSync era|
 
 <!-- Starred repos end -->
 
@@ -51,10 +51,10 @@
   <summary>📚 <strong>A random poem from <em>https://poetrydb.org/random</em>!</strong> 👇 </summary>
 
 <!-- Start poem -->
-# 💮 Out of the Rolling Ocean, the Crowd. by *Walt Whitman*
+# 💮 Written After Swimming From Sestos to Abydos by *George Gordon, Lord Byron*
 
 <p>
-    1<br/>OUT of the rolling ocean, the crowd, came a drop gently to me,<br/>Whispering, I love you, before long I die,<br/>I have travel’d a long way, merely to look on you, to touch you,<br/>For I could not die till I once look’d on you,<br/>For I fear’d I might afterward lose you.<br/><br/>2<br/>(Now we have met, we have look’d, we are safe;<br/>Return in peace to the ocean, my love;<br/>I too am part of that ocean, my love—we are not so much separated;<br/>Behold the great rondure—the cohesion of all, how perfect!<br/>But as for me, for you, the irresistible sea is to separate us,<br/>As for an hour, carrying us diverse—yet cannot carry us diverse for ever;<br/>Be not impatient—a little space—Know you, I salute the air, the ocean and the<br/>  land,<br/>Every day, at sundown, for your dear sake, my love.)
+    If, in the month of dark December,<br/>  Leander, who was nightly wont<br/>(What maid will not the tale remember?)<br/>  To cross thy stream, broad Hellespont!<br/><br/>If, when the wintry tempest roared,<br/>  He sped to Hero, nothing loth,<br/>And thus of old thy current poured,<br/>  Fair Venus! how I pity both!<br/><br/>For _me_, degenerate modern wretch,<br/>  Though in the genial month of May,<br/>My dripping limbs I faintly stretch,<br/>  And think I've done a feat to-day.<br/><br/>But since he crossed the rapid tide,<br/>  According to the doubtful story,<br/>To woo,--and--Lord knows what beside,<br/>  And swam for Love, as I for Glory;<br/><br/>'Twere hard to say who fared the best:<br/>  Sad mortals! thus the Gods still plague you!<br/>He lost his labour, I my jest:<br/>  For he was drowned, and I've the ague.
 </p>
 
 ***
