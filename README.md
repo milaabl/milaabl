@@ -12,13 +12,13 @@
 <!-- Starred repos start -->
 | Name | Url | Stars | Description |
 | --- | --- |  --- |  --- |
-| regolith-labs/ore-cli|https://github.com/regolith-labs/ore-cli|1461|Command line interface for ORE miners.|
-| phoboslab/high_impact|https://github.com/phoboslab/high_impact|1033|A 2d game engine written in C|
+| regolith-labs/ore-cli|https://github.com/regolith-labs/ore-cli|1460|Command line interface for ORE miners.|
+| phoboslab/high_impact|https://github.com/phoboslab/high_impact|1032|A 2d game engine written in C|
 | Xe/praise-me|https://github.com/Xe/praise-me|143|Praise my GitHub profile!|
-| OfficialCodeVoyage/GitHub_Follower_Bot_Automated|https://github.com/OfficialCodeVoyage/GitHub_Follower_Bot_Automated|37|Automated GitHub Follower Bot - You Follow Me ---> My Bot Follows you Back! Let's growth! Learn how you can set it up also!|
+| OfficialCodeVoyage/GitHub_Follower_Bot_Automated|https://github.com/OfficialCodeVoyage/GitHub_Follower_Bot_Automated|40|Automated GitHub Follower Bot - You Follow Me ---> My Bot Follows you Back! Let's growth! Learn how you can set it up also!|
 | OfficialCodeVoyage/leetcode|https://github.com/OfficialCodeVoyage/leetcode|12|LeetCode practice|
 | MatthiasGN/SnAkE-gAmE|https://github.com/MatthiasGN/SnAkE-gAmE|4|Classic snake game built in Python|
-| EnsoFinance/temper|https://github.com/EnsoFinance/temper|347|Temper your expectations - Ethereum Transaction Simulator |
+| EnsoFinance/temper|https://github.com/EnsoFinance/temper|348|Temper your expectations - Ethereum Transaction Simulator |
 | the-coder-o/a-bd.me|https://github.com/the-coder-o/a-bd.me|8|My personal website made with Next.js 14 (App Router). Features blog posts, gear list, dark theme and more. Tailwind CSS,  Radix, Framer Motion, and Vercel.|
 | Xunzhuo/Xunzhuo|https://github.com/Xunzhuo/Xunzhuo|44|About me|
 | zcaceres/interview-prep|https://github.com/zcaceres/interview-prep|1|algos, data structures etc.|
@@ -39,9 +39,9 @@
 | CloverGit/CloverGit|https://github.com/CloverGit/CloverGit|7||
 | TatevKaren/TatevKaren-data-science-portfolio|https://github.com/TatevKaren/TatevKaren-data-science-portfolio|60|Data Science Portfolio of Tatev Karen Aslanyan including Case Studies and Research Projects that I have completed that solve business problems or introduce new products. Case Study papers, codes, and additional resources are all included.|
 | PiotrRut/elonmusk-twitter-notifier|https://github.com/PiotrRut/elonmusk-twitter-notifier|61|AI driven e-mail notifier for tweets mentioning stock from Elon Musk 📈|
-| Vendicated/Vencord|https://github.com/Vendicated/Vencord|8713|The cutest Discord client mod|
-| yeoman/yo|https://github.com/yeoman/yo|3838|CLI tool for running Yeoman generators|
-| matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|3081|zkSync era|
+| Vendicated/Vencord|https://github.com/Vendicated/Vencord|8719|The cutest Discord client mod|
+| yeoman/yo|https://github.com/yeoman/yo|3839|CLI tool for running Yeoman generators|
+| matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|3082|zkSync era|
 
 <!-- Starred repos end -->
 
@@ -51,10 +51,10 @@
   <summary>📚 <strong>A random poem from <em>https://poetrydb.org/random</em>!</strong> 👇 </summary>
 
 <!-- Start poem -->
-# 💮 The First Kiss of Love by *George Gordon, Lord Byron*
+# 💮 Sonnet 104: To me, fair friend, you never can be old by *William Shakespeare*
 
 <p>
-      Ha barbitos de chordais<br/>  Er_ota mounon aechei.  - Anacreon<br/><br/>Away with your fictions of flimsy romance,<br/>  Those tissues of falsehood which Folly has wove;<br/>Give me the mild beam of the soul-breathing glance,<br/>  Or the rapture which dwells on the first kiss of love.<br/><br/>Ye rhymers, whose bosoms with fantasy glow, <br/>  Whose pastoral passions are made for the grove;<br/>From what blest inspiration your sonnets would flow, <br/>  Could you ever have tasted the first kiss of love.<br/><br/>If Apollo should e'er his assistance refuse,<br/>  Or the Nine be dispos'd from your service to rove,<br/>Invoke them no more, bid adieu to the Muse,<br/>  And try the effect, of the first kiss of love.<br/><br/>I hate you, ye cold compositions of art,<br/>  Though prudes may condemn me, and bigots reprove;<br/>I court the effusions that spring from the heart,<br/>  Which throbs, with delight, to the first kiss of love. <br/><br/>Your shepherds, your flocks, those fantastical themes, <br/>  Perhaps may amuse, yet they never can move:<br/>Arcadia displays but a region of dreams; <br/>  What are visions like these, to the first kiss of love?<br/><br/>Oh! cease to affirm that man, since his birth, <br/>  From Adam, till now, has with wretchedness strove;<br/>Some portion of Paradise still is on earth,<br/>  And Eden revives, in the first kiss of love.<br/><br/>When age chills the blood, when our pleasures are past--<br/>For years fleet away with the wings of the dove--<br/>The dearest remembrance will still be the last,<br/>Our sweetest memorial, the first kiss of love.
+    To me, fair friend, you never can be old,<br/>For as you were when first your eye I ey'd,<br/>Such seems your beauty still. Three winters cold,<br/>Have from the forests shook three summers' pride,<br/>Three beauteous springs to yellow autumn turn'd,<br/>In process of the seasons have I seen,<br/>Three April perfumes in three hot Junes burn'd,<br/>Since first I saw you fresh, which yet are green.<br/>Ah! yet doth beauty like a dial-hand,<br/>Steal from his figure, and no pace perceiv'd;<br/>So your sweet hue, which methinks still doth stand,<br/>Hath motion, and mine eye may be deceiv'd:<br/>  For fear of which, hear this thou age unbred:<br/>  Ere you were born was beauty's summer dead.
 </p>
 
 ***
