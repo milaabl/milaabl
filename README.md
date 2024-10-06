@@ -15,7 +15,7 @@
 | regolith-labs/ore-cli|https://github.com/regolith-labs/ore-cli|1460|Command line interface for ORE miners.|
 | phoboslab/high_impact|https://github.com/phoboslab/high_impact|1032|A 2d game engine written in C|
 | Xe/praise-me|https://github.com/Xe/praise-me|143|Praise my GitHub profile!|
-| OfficialCodeVoyage/GitHub_Follower_Bot_Automated|https://github.com/OfficialCodeVoyage/GitHub_Follower_Bot_Automated|40|Automated GitHub Follower Bot - You Follow Me ---> My Bot Follows you Back! Let's growth! Learn how you can set it up also!|
+| OfficialCodeVoyage/GitHub_Follower_Bot_Automated|https://github.com/OfficialCodeVoyage/GitHub_Follower_Bot_Automated|41|Automated GitHub Follower Bot - You Follow Me ---> My Bot Follows you Back! Let's growth! Learn how you can set it up also!|
 | OfficialCodeVoyage/leetcode|https://github.com/OfficialCodeVoyage/leetcode|12|LeetCode practice|
 | MatthiasGN/SnAkE-gAmE|https://github.com/MatthiasGN/SnAkE-gAmE|4|Classic snake game built in Python|
 | EnsoFinance/temper|https://github.com/EnsoFinance/temper|348|Temper your expectations - Ethereum Transaction Simulator |
@@ -38,10 +38,10 @@
 | b-hristov/b-hristov|https://github.com/b-hristov/b-hristov|1||
 | CloverGit/CloverGit|https://github.com/CloverGit/CloverGit|7||
 | TatevKaren/TatevKaren-data-science-portfolio|https://github.com/TatevKaren/TatevKaren-data-science-portfolio|60|Data Science Portfolio of Tatev Karen Aslanyan including Case Studies and Research Projects that I have completed that solve business problems or introduce new products. Case Study papers, codes, and additional resources are all included.|
-| PiotrRut/elonmusk-twitter-notifier|https://github.com/PiotrRut/elonmusk-twitter-notifier|61|AI driven e-mail notifier for tweets mentioning stock from Elon Musk 📈|
-| Vendicated/Vencord|https://github.com/Vendicated/Vencord|8719|The cutest Discord client mod|
-| yeoman/yo|https://github.com/yeoman/yo|3839|CLI tool for running Yeoman generators|
-| matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|3082|zkSync era|
+| PiotrRut/elonmusk-twitter-notifier|https://github.com/PiotrRut/elonmusk-twitter-notifier|60|AI driven e-mail notifier for tweets mentioning stock from Elon Musk 📈|
+| Vendicated/Vencord|https://github.com/Vendicated/Vencord|8734|The cutest Discord client mod|
+| yeoman/yo|https://github.com/yeoman/yo|3840|CLI tool for running Yeoman generators|
+| matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|3084|zkSync era|
 
 <!-- Starred repos end -->
 
@@ -51,10 +51,10 @@
   <summary>📚 <strong>A random poem from <em>https://poetrydb.org/random</em>!</strong> 👇 </summary>
 
 <!-- Start poem -->
-# 💮 Sonnet 104: To me, fair friend, you never can be old by *William Shakespeare*
+# 💮 Bright Star, Would I Were Steadfast As Thou Art by *John Keats*
 
 <p>
-    To me, fair friend, you never can be old,<br/>For as you were when first your eye I ey'd,<br/>Such seems your beauty still. Three winters cold,<br/>Have from the forests shook three summers' pride,<br/>Three beauteous springs to yellow autumn turn'd,<br/>In process of the seasons have I seen,<br/>Three April perfumes in three hot Junes burn'd,<br/>Since first I saw you fresh, which yet are green.<br/>Ah! yet doth beauty like a dial-hand,<br/>Steal from his figure, and no pace perceiv'd;<br/>So your sweet hue, which methinks still doth stand,<br/>Hath motion, and mine eye may be deceiv'd:<br/>  For fear of which, hear this thou age unbred:<br/>  Ere you were born was beauty's summer dead.
+    Bright star, would I were steadfast as thou art—<br/>    Not in lone splendour hung aloft the night<br/>And watching, with eternal lids apart,<br/>    Like nature's patient, sleepless Eremite,<br/>The moving waters at their priestlike task<br/>    Of pure ablution round earth's human shores,<br/>Or gazing on the new soft-fallen mask<br/>    Of snow upon the mountains and the moors—<br/>No—yet still steadfast, still unchangeable,<br/>    Pillow'd upon my fair love's ripening breast,<br/>To feel for ever its soft fall and swell,<br/>    Awake for ever in a sweet unrest,<br/>Still, still to hear her tender-taken breath,<br/>And so live ever—or else swoon to death.
 </p>
 
 ***
