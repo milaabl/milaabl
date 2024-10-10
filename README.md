@@ -13,7 +13,7 @@
 | Name | Url | Stars | Description |
 | --- | --- |  --- |  --- |
 | regolith-labs/ore-cli|https://github.com/regolith-labs/ore-cli|1462|Command line interface for ORE miners.|
-| phoboslab/high_impact|https://github.com/phoboslab/high_impact|1031|A 2d game engine written in C|
+| phoboslab/high_impact|https://github.com/phoboslab/high_impact|1032|A 2d game engine written in C|
 | Xe/praise-me|https://github.com/Xe/praise-me|143|Praise my GitHub profile!|
 | OfficialCodeVoyage/GitHub_Follower_Bot_Automated|https://github.com/OfficialCodeVoyage/GitHub_Follower_Bot_Automated|41|Automated GitHub Follower Bot - You Follow Me ---> My Bot Follows you Back! Let's growth! Learn how you can set it up also!|
 | OfficialCodeVoyage/leetcode|https://github.com/OfficialCodeVoyage/leetcode|12|LeetCode practice|
@@ -38,8 +38,8 @@
 | CloverGit/CloverGit|https://github.com/CloverGit/CloverGit|7||
 | TatevKaren/TatevKaren-data-science-portfolio|https://github.com/TatevKaren/TatevKaren-data-science-portfolio|60|Data Science Portfolio of Tatev Karen Aslanyan including Case Studies and Research Projects that I have completed that solve business problems or introduce new products. Case Study papers, codes, and additional resources are all included.|
 | PiotrRut/elonmusk-twitter-notifier|https://github.com/PiotrRut/elonmusk-twitter-notifier|60|AI driven e-mail notifier for tweets mentioning stock from Elon Musk 📈|
-| Vendicated/Vencord|https://github.com/Vendicated/Vencord|8777|The cutest Discord client mod|
-| yeoman/yo|https://github.com/yeoman/yo|3840|CLI tool for running Yeoman generators|
+| Vendicated/Vencord|https://github.com/Vendicated/Vencord|8793|The cutest Discord client mod|
+| yeoman/yo|https://github.com/yeoman/yo|3839|CLI tool for running Yeoman generators|
 | matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|3083|zkSync era|
 | 0age/create2crunch|https://github.com/0age/create2crunch|474|A Rust program for finding salts that create gas-efficient Ethereum addresses via CREATE2.|
 
@@ -51,10 +51,10 @@
   <summary>📚 <strong>A random poem from <em>https://poetrydb.org/random</em>!</strong> 👇 </summary>
 
 <!-- Start poem -->
-# 💮 Answer to----'s Professions of Affection by *George Gordon, Lord Byron*
+# 💮 Fragment: 'I Would Not Be a King' by *Percy Bysshe Shelley*
 
 <p>
-    IN hearts like thine ne'er may I hold a place<br/>Till I renounce all sense, all shame, all grace--<br/>That seat,--like seats, the bane of Freedom's realm,<br/>But dear to those presiding at the helm--<br/>Is basely purchased, not with gold alone;<br/>Add Conscience, too, this bargain is your own--<br/>'T is thine to offer with corrupting art<br/>The _rotten borough_ of the human heart.
+    I would not be a king--enough<br/>Of woe it is to love;<br/>The path to power is steep and rough,<br/>And tempests reign above.<br/>I would not climb the imperial throne;<br/>'Tis built on ice which fortune's sun<br/>Thaws in the height of noon.<br/>Then farewell, king, yet were I one,<br/>Care would not come so soon.<br/>Would he and I were far away<br/>Keeping flocks on Himalay!
 </p>
 
 ***
