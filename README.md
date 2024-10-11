@@ -38,8 +38,8 @@
 | CloverGit/CloverGit|https://github.com/CloverGit/CloverGit|7||
 | TatevKaren/TatevKaren-data-science-portfolio|https://github.com/TatevKaren/TatevKaren-data-science-portfolio|60|Data Science Portfolio of Tatev Karen Aslanyan including Case Studies and Research Projects that I have completed that solve business problems or introduce new products. Case Study papers, codes, and additional resources are all included.|
 | PiotrRut/elonmusk-twitter-notifier|https://github.com/PiotrRut/elonmusk-twitter-notifier|60|AI driven e-mail notifier for tweets mentioning stock from Elon Musk 📈|
-| Vendicated/Vencord|https://github.com/Vendicated/Vencord|8793|The cutest Discord client mod|
-| yeoman/yo|https://github.com/yeoman/yo|3839|CLI tool for running Yeoman generators|
+| Vendicated/Vencord|https://github.com/Vendicated/Vencord|8801|The cutest Discord client mod|
+| yeoman/yo|https://github.com/yeoman/yo|3840|CLI tool for running Yeoman generators|
 | matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|3083|zkSync era|
 | 0age/create2crunch|https://github.com/0age/create2crunch|474|A Rust program for finding salts that create gas-efficient Ethereum addresses via CREATE2.|
 
@@ -51,10 +51,10 @@
   <summary>📚 <strong>A random poem from <em>https://poetrydb.org/random</em>!</strong> 👇 </summary>
 
 <!-- Start poem -->
-# 💮 Fragment: 'I Would Not Be a King' by *Percy Bysshe Shelley*
+# 💮 The Farewell by *John Greenleaf Whittier*
 
 <p>
-    I would not be a king--enough<br/>Of woe it is to love;<br/>The path to power is steep and rough,<br/>And tempests reign above.<br/>I would not climb the imperial throne;<br/>'Tis built on ice which fortune's sun<br/>Thaws in the height of noon.<br/>Then farewell, king, yet were I one,<br/>Care would not come so soon.<br/>Would he and I were far away<br/>Keeping flocks on Himalay!
+    Of A Virginia Slave Mother To Her Daughters Sold Into Southern Bondage<br/><br/>Gone, gone, -- sold and gone<br/>To the rice-swamp dank and lone.<br/>Where the slave-whip ceaseless swings<br/>Where the noisome insect stings<br/>Where the fever demon strews<br/>Poison with the falling dews<br/>Where the sickly sunbeams glare<br/>Through the hot and misty air;<br/>Gone, gone, -- sold and gone,<br/>To the rice-swamp dank and lone,<br/>From Virginia's hills and waters;<br/>Woe is me, my stolen daughters!<br/><br/>Gone, gone, -- sold and gone<br/>To the rice-swamp dank and lone<br/>There no mother's eye is near them,<br/>There no mother's ear can hear them;<br/>Never, when the torturing lash<br/>Seams their back with many a gash<br/>Shall a mother's kindness bless them<br/>Or a mother's arms caress them.<br/>Gone, gone, -- sold and gone,<br/>To the rice-swamp dank and lone,<br/>From Virginia's hills and waters;<br/>Woe is me, my stolen daughters!<br/><br/>Gone, gone, -- sold and gone,<br/>To the rice-swamp dank and lone,<br/>Oh, when weary, sad, and slow,<br/>From the fields at night they go<br/>Faint with toil, and racked with pain<br/>To their cheerless homes again,<br/>There no brother's voice shall greet them<br/>There no father's welcome meet them.<br/>Gone, gone, -- sold and gone,<br/>To the rice-swamp dank and lone,<br/>From Virginia's hills and waters;<br/>Woe is me, my stolen daughters!<br/><br/>Gone, gone, -- sold and gone,<br/>To the rice-swamp dank and lone<br/>From the tree whose shadow lay<br/>On their childhood's place of play;<br/>From the cool sprmg where they drank;<br/>Rock, and hill, and rivulet bank;<br/>From the solemn house of prayer,<br/>And the holy counsels there;<br/>Gone, gone, -- sold and gone,<br/>To the rice-swamp dank and lone,<br/>From Virginia's hills and waters;<br/>Woe is me, my stolen daughters!<br/><br/>Gone, gone, -- sold and gone,<br/>To the rice-swamp dank and lone;<br/>Toiling through the weary day,<br/>And at night the spoiler's prey.<br/>Oh, that they had earlier died,<br/>Sleeping calmly, side by side,<br/>Where the tyrant's power is o'er<br/>And the fetter galls no more!<br/>Gone, gone, -- sold and gone,<br/>To the rice-swamp dank and lone;<br/>From Virginia's hills and waters<br/>Woe is me, my stolen daughters!<br/><br/>Gone, gone, -- sold and gone,<br/>To the rice-swamp dank and lone;<br/>By the holy love He beareth;<br/>By the bruised reed He spareth;<br/>Oh, may He, to whom alone<br/>All their cruel wrongs are known,<br/>Still their hope and refuge prove,<br/>With a more than mother's love.<br/>Gone, gone, -- sold and gone,<br/>To the rice-swamp dank and lone,<br/>From Virginia's hills and waters;<br/>Woe is me, my stolen daughters!
 </p>
 
 ***
