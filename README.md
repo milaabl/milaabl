@@ -13,7 +13,7 @@
 | Name | Url | Stars | Description |
 | --- | --- |  --- |  --- |
 | regolith-labs/ore-cli|https://github.com/regolith-labs/ore-cli|1462|Command line interface for ORE miners.|
-| phoboslab/high_impact|https://github.com/phoboslab/high_impact|1036|A 2d game engine written in C|
+| phoboslab/high_impact|https://github.com/phoboslab/high_impact|1037|A 2d game engine written in C|
 | Xe/praise-me|https://github.com/Xe/praise-me|142|Praise my GitHub profile!|
 | OfficialCodeVoyage/GitHub_Follower_Bot_Automated|https://github.com/OfficialCodeVoyage/GitHub_Follower_Bot_Automated|41|Automated GitHub Follower Bot - You Follow Me ---> My Bot Follows you Back! Let's growth! Learn how you can set it up also!|
 | OfficialCodeVoyage/leetcode|https://github.com/OfficialCodeVoyage/leetcode|12|LeetCode practice|
@@ -38,8 +38,8 @@
 | CloverGit/CloverGit|https://github.com/CloverGit/CloverGit|7||
 | TatevKaren/TatevKaren-data-science-portfolio|https://github.com/TatevKaren/TatevKaren-data-science-portfolio|60|Data Science Portfolio of Tatev Karen Aslanyan including Case Studies and Research Projects that I have completed that solve business problems or introduce new products. Case Study papers, codes, and additional resources are all included.|
 | PiotrRut/elonmusk-twitter-notifier|https://github.com/PiotrRut/elonmusk-twitter-notifier|60|AI driven e-mail notifier for tweets mentioning stock from Elon Musk 📈|
-| Vendicated/Vencord|https://github.com/Vendicated/Vencord|8803|The cutest Discord client mod|
-| yeoman/yo|https://github.com/yeoman/yo|3840|CLI tool for running Yeoman generators|
+| Vendicated/Vencord|https://github.com/Vendicated/Vencord|8808|The cutest Discord client mod|
+| yeoman/yo|https://github.com/yeoman/yo|3841|CLI tool for running Yeoman generators|
 | matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|3086|zkSync era|
 | 0age/create2crunch|https://github.com/0age/create2crunch|475|A Rust program for finding salts that create gas-efficient Ethereum addresses via CREATE2.|
 
@@ -51,10 +51,10 @@
   <summary>📚 <strong>A random poem from <em>https://poetrydb.org/random</em>!</strong> 👇 </summary>
 
 <!-- Start poem -->
-# 💮 Time's Revenges by *Robert Browning*
+# 💮 Happy the Lab'rer by *Jane Austen*
 
 <p>
-    I've a Friend, over the sea;<br/>I like him, but he loves me.<br/>It all grew out of the books I write;<br/>They find such favour in his sight<br/>That he slaughters you with savage looks<br/>Because you don't admire my books.<br/>He does himself though,--and if some vein<br/>Were to snap tonight in this heavy brain,<br/>To-morrow month, if I lived to try,<br/>Round should I just turn quietly,<br/>Or out of the bedclothes stretch my hand<br/>Till I found him, come from his foreign land<br/>To be my nurse in this poor place,<br/>And make my broth and wash my face<br/>And light my fire and, all the while,<br/>Bear with his old good-humoured smile<br/>That I told him "Better have kept away<br/>Than come and kill me, night and day,<br/>With, worse than fever throbs and shoots,<br/>The creaking of his clumsy boots."<br/>I am as sure that this he would do,<br/>As that Saint Paul's is striking two.<br/>And I think I rather... woe is me!<br/>--Yes, rather would see him than not see,<br/>If lifting a hand could seat him there<br/>Before me in the empty chair<br/>To-night, when my head aches indeed,<br/>And I can neither think nor read<br/>Nor make these purple fingers hold<br/>The pen; this garret's freezing cold!<br/><br/>And I've a Lady--there he wakes,<br/>The laughing fiend and prince of snakes<br/>Within me, at her name, to pray<br/>Fate send some creature in the way<br/>Of my love for her, to be down-torn,<br/>Upthrust and outward-borne,<br/>So I might prove myself that sea<br/>Of passion which I needs must be!<br/>Call my thoughts false and my fancies quaint<br/>And my style infirm and its figures faint,<br/>All the critics say, and more blame yet,<br/>And not one angry word you get.<br/>But, please you, wonder I would put<br/>My cheek beneath that lady's foot<br/>Rather than trample under mine<br/>That laurels of the Florentine,<br/>And you shall see how the devil spends<br/>A fire God gave for other ends!<br/>I tell you, I stride up and down<br/>This garret, crowned with love's best crown,<br/>And feasted with love's perfect feast,<br/>To think I kill for her, at least,<br/>Body and soul and peace and fame,<br/>Alike youth's end and manhood's aim,<br/>--So is my spirit, as flesh with sin,<br/>Filled full, eaten out and in<br/>With the face of her, the eyes of her,<br/>The lips, the little chin, the stir<br/>Of shadow round her mouth; and she<br/>--I'll tell you,--calmly would decree<br/>That I should roast at a slow fire,<br/><br/>If that would compass her desire<br/>And make her one whom they invite<br/>To the famous ball to-morrow night.<br/><br/>There may be heaven; there must be hell;<br/>Meantime, there is our earth here--well!
+    Happy the lab'rer in his Sunday clothes!<br/>In light-drab coat, smart waistcoat, well-darn'd hose,<br/>Andhat upon his head, to church he goes;<br/>As oft, with conscious pride, he downward throws<br/>A glance upon the ample cabbage rose<br/>That, stuck in button-hole, regales his nose,<br/>He envies not the gayest London beaux.<br/>In church he takes his seat among the rows,<br/>Pays to the place the reverence he owes,<br/>Likes best the prayers whose meaning least he knows,<br/>Lists to the sermon in a softening doze,<br/>And rouses joyous at the welcome close.
 </p>
 
 ***
