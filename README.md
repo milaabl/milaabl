@@ -12,11 +12,11 @@
 <!-- Starred repos start -->
 | Name | Url | Stars | Description |
 | --- | --- |  --- |  --- |
-| regolith-labs/ore-cli|https://github.com/regolith-labs/ore-cli|1462|Command line interface for ORE miners.|
-| phoboslab/high_impact|https://github.com/phoboslab/high_impact|1037|A 2d game engine written in C|
+| regolith-labs/ore-cli|https://github.com/regolith-labs/ore-cli|1461|Command line interface for ORE miners.|
+| phoboslab/high_impact|https://github.com/phoboslab/high_impact|1043|A 2d game engine written in C|
 | Xe/praise-me|https://github.com/Xe/praise-me|142|Praise my GitHub profile!|
 | OfficialCodeVoyage/GitHub_Follower_Bot_Automated|https://github.com/OfficialCodeVoyage/GitHub_Follower_Bot_Automated|41|Automated GitHub Follower Bot - You Follow Me ---> My Bot Follows you Back! Let's growth! Learn how you can set it up also!|
-| OfficialCodeVoyage/leetcode|https://github.com/OfficialCodeVoyage/leetcode|12|LeetCode practice|
+| OfficialCodeVoyage/leetcode|https://github.com/OfficialCodeVoyage/leetcode|13|LeetCode practice|
 | MatthiasGN/SnAkE-gAmE|https://github.com/MatthiasGN/SnAkE-gAmE|4|Classic snake game built in Python|
 | EnsoFinance/temper|https://github.com/EnsoFinance/temper|348|Temper your expectations - Ethereum Transaction Simulator |
 | the-coder-o/a-bd.me|https://github.com/the-coder-o/a-bd.me|8|My personal website made with Next.js 14 (App Router). Features blog posts, gear list, dark theme and more. Tailwind CSS,  Radix, Framer Motion, and Vercel.|
@@ -38,8 +38,8 @@
 | CloverGit/CloverGit|https://github.com/CloverGit/CloverGit|7||
 | TatevKaren/TatevKaren-data-science-portfolio|https://github.com/TatevKaren/TatevKaren-data-science-portfolio|60|Data Science Portfolio of Tatev Karen Aslanyan including Case Studies and Research Projects that I have completed that solve business problems or introduce new products. Case Study papers, codes, and additional resources are all included.|
 | PiotrRut/elonmusk-twitter-notifier|https://github.com/PiotrRut/elonmusk-twitter-notifier|60|AI driven e-mail notifier for tweets mentioning stock from Elon Musk 📈|
-| Vendicated/Vencord|https://github.com/Vendicated/Vencord|8808|The cutest Discord client mod|
-| yeoman/yo|https://github.com/yeoman/yo|3841|CLI tool for running Yeoman generators|
+| Vendicated/Vencord|https://github.com/Vendicated/Vencord|8817|The cutest Discord client mod|
+| yeoman/yo|https://github.com/yeoman/yo|3842|CLI tool for running Yeoman generators|
 | matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|3086|zkSync era|
 | 0age/create2crunch|https://github.com/0age/create2crunch|475|A Rust program for finding salts that create gas-efficient Ethereum addresses via CREATE2.|
 
@@ -51,10 +51,10 @@
   <summary>📚 <strong>A random poem from <em>https://poetrydb.org/random</em>!</strong> 👇 </summary>
 
 <!-- Start poem -->
-# 💮 Happy the Lab'rer by *Jane Austen*
+# 💮 Spring by *William Blake*
 
 <p>
-    Happy the lab'rer in his Sunday clothes!<br/>In light-drab coat, smart waistcoat, well-darn'd hose,<br/>Andhat upon his head, to church he goes;<br/>As oft, with conscious pride, he downward throws<br/>A glance upon the ample cabbage rose<br/>That, stuck in button-hole, regales his nose,<br/>He envies not the gayest London beaux.<br/>In church he takes his seat among the rows,<br/>Pays to the place the reverence he owes,<br/>Likes best the prayers whose meaning least he knows,<br/>Lists to the sermon in a softening doze,<br/>And rouses joyous at the welcome close.
+         Sound the flute!<br/>     Now it's mute!<br/>     Bird's delight,<br/>     Day and night,<br/>     Nightingale,<br/>     In the dale,<br/>     Lark in sky,--<br/>     Merrily,<br/>Merrily merrily, to welcome in the year.<br/><br/>     Little boy,<br/>     Full of joy;<br/>     Little girl,<br/>     Sweet and small;<br/>     Cock does crow,<br/>     So do you;<br/>     Merry voice,<br/>     Infant noise;<br/>Merrily, merrily, to welcome in the year.<br/><br/>     Little lamb,<br/>     Here I am;<br/>     Come and lick<br/>     My white neck;<br/>     Let me pull<br/>     Your soft wool;<br/>     Let me kiss<br/>     Your soft face;<br/>Merrily, merrily, to welcome in the year.
 </p>
 
 ***
