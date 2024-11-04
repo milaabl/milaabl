@@ -38,10 +38,10 @@
 | CloverGit/CloverGit|https://github.com/CloverGit/CloverGit|8||
 | TatevKaren/TatevKaren-data-science-portfolio|https://github.com/TatevKaren/TatevKaren-data-science-portfolio|60|Data Science Portfolio of Tatev Karen Aslanyan including Case Studies and Research Projects that I have completed that solve business problems or introduce new products. Case Study papers, codes, and additional resources are all included.|
 | PiotrRut/elonmusk-twitter-notifier|https://github.com/PiotrRut/elonmusk-twitter-notifier|60|AI driven e-mail notifier for tweets mentioning stock from Elon Musk 📈|
-| Vendicated/Vencord|https://github.com/Vendicated/Vencord|9021|The cutest Discord client mod|
-| yeoman/yo|https://github.com/yeoman/yo|3843|CLI tool for running Yeoman generators|
-| matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|3091|zkSync era|
-| 0age/create2crunch|https://github.com/0age/create2crunch|482|A Rust program for finding salts that create gas-efficient Ethereum addresses via CREATE2.|
+| Vendicated/Vencord|https://github.com/Vendicated/Vencord|9032|The cutest Discord client mod|
+| yeoman/yo|https://github.com/yeoman/yo|3844|CLI tool for running Yeoman generators|
+| matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|3092|zkSync era|
+| 0age/create2crunch|https://github.com/0age/create2crunch|484|A Rust program for finding salts that create gas-efficient Ethereum addresses via CREATE2.|
 
 <!-- Starred repos end -->
 
@@ -51,10 +51,10 @@
   <summary>📚 <strong>A random poem from <em>https://poetrydb.org/random</em>!</strong> 👇 </summary>
 
 <!-- Start poem -->
-# 💮 I Saw Thee Weep by *George Gordon, Lord Byron*
+# 💮 Song of Saul Before His Last Battle by *George Gordon, Lord Byron*
 
 <p>
-    I saw thee weep--the big bright tear<br/>  Came o'er that eye of blue;<br/>And then methought it did appear<br/>  A violet dropping dew:<br/>I saw thee smile--the sapphire's blaze<br/>  Beside thee ceased to shine;<br/>It could not match the living rays<br/>  That filled that glance of thine.<br/><br/>As clouds from yonder sun receive<br/>  A deep and mellow dye,<br/>Which scarce the shade of coming eve<br/>  Can banish from the sky,<br/>Those smiles unto the moodiest mind<br/>  Their own pure joy impart;<br/>Their sunshine leaves a glow behind<br/>  That lightens o'er the heart.
+    Warriors and chiefs! should the shaft or the sword<br/>Pierce me in leading the host of the Lord,<br/>Heed not the corse, though a King's, in your path:<br/>Bury your steel in the bosoms of Gath!<br/><br/>Thou who art bearing my buckler and bow,<br/>Should the soldiers of Saul look away from the foe,<br/>Stretch me that moment in blood at thy feet!<br/>Mine be the doom which they dared not to meet.<br/><br/>Farewell to others, but never we part,<br/>Heir to my Royalty--Son of my heart!<br/>Bright is the diadem, boundless the sway,<br/>Or kingly the death, which awaits us to-day!
 </p>
 
 ***
