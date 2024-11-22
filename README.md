@@ -14,7 +14,7 @@
 | --- | --- |  --- |  --- |
 | regolith-labs/ore-cli|https://github.com/regolith-labs/ore-cli|1466|Command line interface for ORE cryptocurrency mining.|
 | phoboslab/high_impact|https://github.com/phoboslab/high_impact|1068|A 2d game engine written in C|
-| Xe/praise-me|https://github.com/Xe/praise-me|142|Praise my GitHub profile!|
+| Xe/praise-me|https://github.com/Xe/praise-me|141|Praise my GitHub profile!|
 | OfficialCodeVoyage/GitHub_Follower_Bot_Automated|https://github.com/OfficialCodeVoyage/GitHub_Follower_Bot_Automated|44| You Follow Me ---> My Bot Follows you Back! Let's growth! Learn how you can set it up also!|
 | OfficialCodeVoyage/leetcode|https://github.com/OfficialCodeVoyage/leetcode|13|LeetCode practice|
 | MatthiasGN/SnAkE-gAmE|https://github.com/MatthiasGN/SnAkE-gAmE|4|Classic snake game built in Python|
@@ -36,12 +36,12 @@
 | BogdanMFometescu/resume-builder|https://github.com/BogdanMFometescu/resume-builder|12|Django-based web application that allows users to create, update, and export professional resumes.|
 | 0xMimir/Advance-CNN-LSTM-Model-for-Cryptocurrency-Forecasting|https://github.com/0xMimir/Advance-CNN-LSTM-Model-for-Cryptocurrency-Forecasting|8|CNN LSTM model used for predicting cryptocurrencies|
 | CloverGit/CloverGit|https://github.com/CloverGit/CloverGit|8||
-| TatevKaren/TatevKaren-data-science-portfolio|https://github.com/TatevKaren/TatevKaren-data-science-portfolio|61|Data Science Portfolio of Tatev Karen Aslanyan including Case Studies and Research Projects that I have completed that solve business problems or introduce new products. Case Study papers, codes, and additional resources are all included.|
+| TatevKaren/TatevKaren-data-science-portfolio|https://github.com/TatevKaren/TatevKaren-data-science-portfolio|62|Data Science Portfolio of Tatev Karen Aslanyan including Case Studies and Research Projects that I have completed that solve business problems or introduce new products. Case Study papers, codes, and additional resources are all included.|
 | PiotrRut/elonmusk-twitter-notifier|https://github.com/PiotrRut/elonmusk-twitter-notifier|60|AI driven e-mail notifier for tweets mentioning stock from Elon Musk 📈|
-| Vendicated/Vencord|https://github.com/Vendicated/Vencord|9210|The cutest Discord client mod|
-| yeoman/yo|https://github.com/yeoman/yo|3850|CLI tool for running Yeoman generators|
+| Vendicated/Vencord|https://github.com/Vendicated/Vencord|9220|The cutest Discord client mod|
+| yeoman/yo|https://github.com/yeoman/yo|3849|CLI tool for running Yeoman generators|
 | matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|3106|zkSync era|
-| 0age/create2crunch|https://github.com/0age/create2crunch|496|A Rust program for finding salts that create gas-efficient Ethereum addresses via CREATE2.|
+| 0age/create2crunch|https://github.com/0age/create2crunch|499|A Rust program for finding salts that create gas-efficient Ethereum addresses via CREATE2.|
 
 <!-- Starred repos end -->
 
@@ -51,10 +51,10 @@
   <summary>📚 <strong>A random poem from <em>https://poetrydb.org/random</em>!</strong> 👇 </summary>
 
 <!-- Start poem -->
-# 💮 A Version of Ossian's Address to the Sun.  From the Poem "Carthon." by *George Gordon, Lord Byron*
+# 💮 Sonnet 132: Thine eyes I love, and they, as pitying me by *William Shakespeare*
 
 <p>
-    O THOU! who rollest in yon azure field,<br/>Round as the orb of my forefather's shield,<br/>Whence are thy beams? From what eternal store<br/>Dost thou, O Sun! thy vast effulgence pour?<br/>In awful grandeur, when thou movest on high,<br/>The stars start back and hide them in the sky;<br/>The pale Moon sickens in thy brightening blaze,<br/>And in the western wave avoids thy gaze.<br/>Alone thou shinest forth--for who can rise<br/>Companion of thy splendour in the skies!<br/>The mountain oaks are seen to fall away--<br/>Mountains themselves by length of years decay--<br/>With ebbs and flows is the rough Ocean tost;<br/>In heaven the Moon is for a season lost,<br/>But thou, amidst the fullness of thy joy,<br/>The same art ever, blazing in the sky!<br/>When tempests wrap the world from pole to pole,<br/>When vivid lightnings flash and thunders roll,<br/>Thou far above their utmost fury borne,<br/>Look'st forth in beauty, laughing them to scorn.<br/>But vainly now on me thy beauties blaze--<br/>Ossian no longer can enraptured gaze!<br/>Whether at morn, in lucid lustre gay,<br/>On eastern clouds thy yellow tresses play,<br/>Or else at eve, in radiant glory drest,<br/>Thou tremblest at the portals of the west,<br/>I see no more! But thou mayest fail at length,<br/>Like Ossian lose thy beauty and thy strength,<br/>Like him--but for a season--in thy sphere<br/>To shine with splendour, then to disappear!<br/>Thy years shall have an end, and thou no more<br/>Bright through the world enlivening radiance pour,<br/>But sleep within thy clouds, and fail to rise,<br/>Heedless when Morning calls thee to the skies!<br/>Then now exult, O Sun! and gaily shine,<br/>While Youth and Strength and Beauty all are thine.<br/>For Age is dark, unlovely, as the light<br/>Shed by the Moon when clouds deform the night,<br/>Glimmering uncertain as they hurry past.<br/>Loud o'er the plain is heard the northern blast,<br/>Mists shroud the hills, and 'neath the growing gloom,<br/>The weary traveller shrinks and sighs for home.
+    Thine eyes I love, and they, as pitying me,<br/>Knowing thy heart torment me with disdain,<br/>Have put on black and loving mourners be,<br/>Looking with pretty ruth upon my pain.<br/>And truly not the morning sun of heaven<br/>Better becomes the grey cheeks of the east,<br/>Nor that full star that ushers in the even,<br/>Doth half that glory to the sober west,<br/>As those two mourning eyes become thy face:<br/>O! let it then as well beseem thy heart<br/>To mourn for me since mourning doth thee grace,<br/>And suit thy pity like in every part.<br/>  Then will I swear beauty herself is black,<br/>  And all they foul that thy complexion lack.
 </p>
 
 ***
