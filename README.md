@@ -13,7 +13,7 @@
 | Name | Url | Stars | Description |
 | --- | --- |  --- |  --- |
 | regolith-labs/ore-cli|https://github.com/regolith-labs/ore-cli|1466|Command line interface for ORE cryptocurrency mining.|
-| phoboslab/high_impact|https://github.com/phoboslab/high_impact|1068|A 2d game engine written in C|
+| phoboslab/high_impact|https://github.com/phoboslab/high_impact|1069|A 2d game engine written in C|
 | Xe/praise-me|https://github.com/Xe/praise-me|141|Praise my GitHub profile!|
 | OfficialCodeVoyage/GitHub_Follower_Bot_Automated|https://github.com/OfficialCodeVoyage/GitHub_Follower_Bot_Automated|44| You Follow Me ---> My Bot Follows you Back! Let's growth! Learn how you can set it up also!|
 | OfficialCodeVoyage/leetcode|https://github.com/OfficialCodeVoyage/leetcode|13|LeetCode practice|
@@ -38,9 +38,9 @@
 | CloverGit/CloverGit|https://github.com/CloverGit/CloverGit|8||
 | TatevKaren/TatevKaren-data-science-portfolio|https://github.com/TatevKaren/TatevKaren-data-science-portfolio|62|Data Science Portfolio of Tatev Karen Aslanyan including Case Studies and Research Projects that I have completed that solve business problems or introduce new products. Case Study papers, codes, and additional resources are all included.|
 | PiotrRut/elonmusk-twitter-notifier|https://github.com/PiotrRut/elonmusk-twitter-notifier|60|AI driven e-mail notifier for tweets mentioning stock from Elon Musk 📈|
-| Vendicated/Vencord|https://github.com/Vendicated/Vencord|9248|The cutest Discord client mod|
+| Vendicated/Vencord|https://github.com/Vendicated/Vencord|9256|The cutest Discord client mod|
 | yeoman/yo|https://github.com/yeoman/yo|3848|CLI tool for running Yeoman generators|
-| matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|3107|zkSync era|
+| matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|3108|zkSync era|
 | 0age/create2crunch|https://github.com/0age/create2crunch|500|A Rust program for finding salts that create gas-efficient Ethereum addresses via CREATE2.|
 
 <!-- Starred repos end -->
@@ -51,10 +51,10 @@
   <summary>📚 <strong>A random poem from <em>https://poetrydb.org/random</em>!</strong> 👇 </summary>
 
 <!-- Start poem -->
-# 💮 To--- by *George Gordon, Lord Byron*
+# 💮 Locations and Times. by *Walt Whitman*
 
 <p>
-    Oh! well I know your subtle Sex,<br/>  Frail daughters of the wanton Eve,--<br/>While jealous pangs our Souls perplex,<br/>No passion prompts you to relieve.<br/><br/>From Love, or Pity ne'er you fall,<br/>By _you_, no mutual Flame is felt,<br/>"Tis Vanity, which rules you all,<br/>Desire alone which makes you melt.<br/><br/>I will not say no _souls_ are yours,<br/>Aye, ye have Souls, and dark ones too,<br/>Souls to contrive those smiling lures,<br/>To snare our simple hearts for you.<br/><br/>Yet shall you never bind me fast,<br/>Long to adore such brittle toys,<br/>I'll rove along, from first to last,<br/>And change whene'er my fancy cloys.<br/><br/>Oh! I should be a _baby_ fool,<br/>To sigh the dupe of female art--<br/>Woman! perhaps thou hast a _Soul_,<br/>But where have _Demons_ hid thy _Heart_?
+    LOCATIONS and times—what is it in me that meets them all, whenever and wherever, and<br/>    makes<br/>  me at home?<br/>Forms, colors, densities, odors—what is it in me that corresponds with them?
 </p>
 
 ***
