@@ -38,10 +38,10 @@
 | CloverGit/CloverGit|https://github.com/CloverGit/CloverGit|8||
 | TatevKaren/TatevKaren-data-science-portfolio|https://github.com/TatevKaren/TatevKaren-data-science-portfolio|62|Data Science Portfolio of Tatev Karen Aslanyan including Case Studies and Research Projects that I have completed that solve business problems or introduce new products. Case Study papers, codes, and additional resources are all included.|
 | PiotrRut/elonmusk-twitter-notifier|https://github.com/PiotrRut/elonmusk-twitter-notifier|60|AI driven e-mail notifier for tweets mentioning stock from Elon Musk 📈|
-| Vendicated/Vencord|https://github.com/Vendicated/Vencord|9256|The cutest Discord client mod|
+| Vendicated/Vencord|https://github.com/Vendicated/Vencord|9271|The cutest Discord client mod|
 | yeoman/yo|https://github.com/yeoman/yo|3848|CLI tool for running Yeoman generators|
 | matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|3108|zkSync era|
-| 0age/create2crunch|https://github.com/0age/create2crunch|500|A Rust program for finding salts that create gas-efficient Ethereum addresses via CREATE2.|
+| 0age/create2crunch|https://github.com/0age/create2crunch|501|A Rust program for finding salts that create gas-efficient Ethereum addresses via CREATE2.|
 
 <!-- Starred repos end -->
 
@@ -51,10 +51,10 @@
   <summary>📚 <strong>A random poem from <em>https://poetrydb.org/random</em>!</strong> 👇 </summary>
 
 <!-- Start poem -->
-# 💮 Locations and Times. by *Walt Whitman*
+# 💮 The Two Spirits: An Allegory by *Percy Bysshe Shelley*
 
 <p>
-    LOCATIONS and times—what is it in me that meets them all, whenever and wherever, and<br/>    makes<br/>  me at home?<br/>Forms, colors, densities, odors—what is it in me that corresponds with them?
+    FIRST SPIRIT:<br/>O thou, who plumed with strong desire<br/>Wouldst float above the earth, beware!<br/>A Shadow tracks thy flight of fire--<br/>Night is coming!<br/>Bright are the regions of the air,<br/>And among the winds and beams<br/>It were delight to wander there--<br/>Night is coming!<br/><br/>SECOND SPIRIT:<br/>The deathless stars are bright above;<br/>If I would cross the shade of night,<br/>Within my heart is the lamp of love,<br/>And that is day!<br/>And the moon will smile with gentle light<br/>On my golden plumes where'er they move;<br/>The meteors will linger round my flight,<br/>And make night day.<br/><br/>FIRST SPIRIT:<br/>But if the whirlwinds of darkness waken<br/>Hail, and lightning, and stormy rain;<br/>See, the bounds of the air are shaken--<br/>Night is coming!<br/>The red swift clouds of the hurricane<br/>Yon declining sun have overtaken,<br/>The clash of the hail sweeps over the plain--<br/>Night is coming!<br/><br/>SECOND SPIRIT:<br/>I see the light, and I hear the sound;<br/>I'll sail on the flood of the tempest dark<br/>With the calm within and the light around<br/>Which makes night day:<br/>And thou, when the gloom is deep and stark,<br/>Look from thy dull earth, slumber-bound,<br/>My moon-like flight thou then mayst mark<br/>On high, far away.<br/><br/>...<br/><br/>Some say there is a precipice<br/>Where one vast pine is frozen to ruin<br/>O'er piles of snow and chasms of ice<br/>Mid Alpine mountains;<br/>And that the languid storm pursuing<br/>That winged shape, for ever flies<br/>Round those hoar branches, aye renewing<br/>Its aery fountains.<br/><br/>Some say when nights are dry and clear,<br/>And the death-dews sleep on the morass,<br/>Sweet whispers are heard by the traveller,<br/>Which make night day:<br/>And a silver shape like his early love doth pass<br/>Upborne by her wild and glittering hair,<br/>And when he awakes on the fragrant grass,<br/>He finds night day.
 </p>
 
 ***
