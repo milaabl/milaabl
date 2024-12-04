@@ -13,12 +13,12 @@
 | Name | Url | Stars | Description |
 | --- | --- |  --- |  --- |
 | regolith-labs/ore-cli|https://github.com/regolith-labs/ore-cli|1466|Command line interface for ORE cryptocurrency mining.|
-| phoboslab/high_impact|https://github.com/phoboslab/high_impact|1070|A 2d game engine written in C|
+| phoboslab/high_impact|https://github.com/phoboslab/high_impact|1073|A 2d game engine written in C|
 | Xe/praise-me|https://github.com/Xe/praise-me|141|Praise my GitHub profile!|
 | OfficialCodeVoyage/GitHub_Follower_Bot_Automated|https://github.com/OfficialCodeVoyage/GitHub_Follower_Bot_Automated|44| You Follow Me ---> My Bot Follows you Back! Let's growth! Learn how you can set it up also!|
 | OfficialCodeVoyage/leetcode|https://github.com/OfficialCodeVoyage/leetcode|13|LeetCode practice|
 | MatthiasGN/SnAkE-gAmE|https://github.com/MatthiasGN/SnAkE-gAmE|4|Classic snake game built in Python|
-| EnsoFinance/temper|https://github.com/EnsoFinance/temper|354|Temper your expectations - Ethereum Transaction Simulator |
+| EnsoFinance/temper|https://github.com/EnsoFinance/temper|355|Temper your expectations - Ethereum Transaction Simulator |
 | the-coder-o/a-bd.me|https://github.com/the-coder-o/a-bd.me|8|My personal website made with Next.js 14 (App Router). Features blog posts, gear list, dark theme and more. Tailwind CSS,  Radix, Framer Motion, and Vercel.|
 | Xunzhuo/Xunzhuo|https://github.com/Xunzhuo/Xunzhuo|46|About me|
 | zcaceres/interview-prep|https://github.com/zcaceres/interview-prep|1|algos, data structures etc.|
@@ -38,10 +38,10 @@
 | CloverGit/CloverGit|https://github.com/CloverGit/CloverGit|8||
 | TatevKaren/TatevKaren-data-science-portfolio|https://github.com/TatevKaren/TatevKaren-data-science-portfolio|62|Data Science Portfolio of Tatev Karen Aslanyan including Case Studies and Research Projects that I have completed that solve business problems or introduce new products. Case Study papers, codes, and additional resources are all included.|
 | PiotrRut/elonmusk-twitter-notifier|https://github.com/PiotrRut/elonmusk-twitter-notifier|61|AI driven e-mail notifier for tweets mentioning stock from Elon Musk 📈|
-| Vendicated/Vencord|https://github.com/Vendicated/Vencord|9320|The cutest Discord client mod|
+| Vendicated/Vencord|https://github.com/Vendicated/Vencord|9329|The cutest Discord client mod|
 | yeoman/yo|https://github.com/yeoman/yo|3851|CLI tool for running Yeoman generators|
 | matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|3111|zkSync era|
-| 0age/create2crunch|https://github.com/0age/create2crunch|503|A Rust program for finding salts that create gas-efficient Ethereum addresses via CREATE2.|
+| 0age/create2crunch|https://github.com/0age/create2crunch|504|A Rust program for finding salts that create gas-efficient Ethereum addresses via CREATE2.|
 
 <!-- Starred repos end -->
 
@@ -51,10 +51,10 @@
   <summary>📚 <strong>A random poem from <em>https://poetrydb.org/random</em>!</strong> 👇 </summary>
 
 <!-- Start poem -->
-# 💮 An Exile's Farewell by *Adam Lindsay Gordon*
+# 💮 On Leaving London for Wales by *Percy Bysshe Shelley*
 
 <p>
-    The ocean heaves around us still<br/>With long and measured swell,<br/>The autumn gales our canvas fill,<br/>Our ship rides smooth and well.<br/>The broad Atlantic's bed of foam<br/>Still breaks against our prow;<br/>I shed no tears at quitting home,<br/>Nor will I shed them now!<br/><br/>Against the bulwarks on the poop<br/>I lean, and watch the sun<br/>Behind the red horizon stoop —<br/>His race is nearly run.<br/>Those waves will never quench his light,<br/>O'er which they seem to close,<br/>To-morrow he will rise as bright<br/>As he this morning rose.<br/><br/>How brightly gleams the orb of day<br/>Across the trackless sea!<br/>How lightly dance the waves that play<br/>Like dolphins in our lee!<br/>The restless waters seem to say,<br/>In smothered tones to me,<br/>How many thousand miles away<br/>My native land must be!<br/><br/>Speak, Ocean! is my Home the same<br/>Now all is new to me? —<br/>The tropic sky's resplendent flame,<br/>The vast expanse of sea?<br/>Does all around her, yet unchanged,<br/>The well-known aspect wear?<br/>Oh! can the leagues that I have ranged<br/>Have made no difference there?<br/><br/>How vivid Recollection's hand<br/>Recalls the scene once more!<br/>I see the same tall poplars stand<br/>Beside the garden door;<br/>I see the bird-cage hanging still;<br/>And where my sister set<br/>The flowers in the window-sill —<br/>Can they be living yet?<br/><br/>Let woman's nature cherish grief,<br/>I rarely heave a sigh<br/>Before emotion takes relief<br/>In listless apathy;<br/>While from my pipe the vapours curl<br/>Towards the evening sky,<br/>And 'neath my feet the billows whirl<br/>In dull monotony!<br/><br/>The sky still wears the crimson streak<br/>Of Sol's departing ray,<br/>Some briny drops are on my cheek,<br/>'Tis but the salt sea spray!<br/>Then let our barque the ocean roam,<br/>Our keel the billows plough;<br/>I shed no tears at quitting home,<br/>Nor will I shed them now!
+    Hail to thee, Cambria! for the unfettered wind<br/>Which from thy wilds even now methinks I feel,<br/>Chasing the clouds that roll in wrath behind,<br/>And tightening the soul's laxest nerves to steel;<br/>True mountain Liberty alone may heal<br/>The pain which Custom's obduracies bring,<br/>And he who dares in fancy even to steal<br/>One draught from Snowdon's ever sacred spring<br/>Blots out the unholiest rede of worldly witnessing.<br/><br/>And shall that soul, to selfish peace resigned,<br/>So soon forget the woe its fellows share?<br/>Can Snowdon's Lethe from the free-born mind<br/>So soon the page of injured penury tear?<br/>Does this fine mass of human passion dare<br/>To sleep, unhonouring the patriot's fall,<br/>Or life's sweet load in quietude to bear<br/>While millions famish even in Luxury's hall,<br/>And Tyranny, high raised, stern lowers on all?<br/><br/>No, Cambria! never may thy matchless vales<br/>A heart so false to hope and virtue shield;<br/>Nor ever may thy spirit-breathing gales<br/>Waft freshness to the slaves who dare to yield.<br/>For me!...the weapon that I burn to wield<br/>I seek amid thy rocks to ruin hurled,<br/>That Reason's flag may over Freedom's field,<br/>Symbol of bloodless victory, wave unfurled,<br/>A meteor-sign of love effulgent o'er the world.<br/><br/>...<br/><br/>Do thou, wild Cambria, calm each struggling thought;<br/>Cast thy sweet veil of rocks and woods between,<br/>That by the soul to indignation wrought<br/>Mountains and dells be mingled with the scene;<br/>Let me forever be what I have been,<br/>But not forever at my needy door<br/>Let Misery linger speechless, pale and lean;<br/>I am the friend of the unfriended poor,--<br/>Let me not madly stain their righteous cause in gore.
 </p>
 
 ***
