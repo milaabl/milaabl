@@ -13,7 +13,7 @@
 | Name | Url | Stars | Description |
 | --- | --- |  --- |  --- |
 | regolith-labs/ore-cli|https://github.com/regolith-labs/ore-cli|1466|Command line interface for ORE cryptocurrency mining.|
-| phoboslab/high_impact|https://github.com/phoboslab/high_impact|1074|A 2d game engine written in C|
+| phoboslab/high_impact|https://github.com/phoboslab/high_impact|1073|A 2d game engine written in C|
 | Xe/praise-me|https://github.com/Xe/praise-me|141|Praise my GitHub profile!|
 | OfficialCodeVoyage/GitHub_Follower_Bot_Automated|https://github.com/OfficialCodeVoyage/GitHub_Follower_Bot_Automated|44| You Follow Me ---> My Bot Follows you Back! Let's growth! Learn how you can set it up also!|
 | OfficialCodeVoyage/leetcode|https://github.com/OfficialCodeVoyage/leetcode|13|LeetCode practice|
@@ -38,7 +38,7 @@
 | CloverGit/CloverGit|https://github.com/CloverGit/CloverGit|8||
 | TatevKaren/TatevKaren-data-science-portfolio|https://github.com/TatevKaren/TatevKaren-data-science-portfolio|62|Data Science Portfolio of Tatev Karen Aslanyan including Case Studies and Research Projects that I have completed that solve business problems or introduce new products. Case Study papers, codes, and additional resources are all included.|
 | PiotrRut/elonmusk-twitter-notifier|https://github.com/PiotrRut/elonmusk-twitter-notifier|61|AI driven e-mail notifier for tweets mentioning stock from Elon Musk 📈|
-| Vendicated/Vencord|https://github.com/Vendicated/Vencord|9357|The cutest Discord client mod|
+| Vendicated/Vencord|https://github.com/Vendicated/Vencord|9365|The cutest Discord client mod|
 | yeoman/yo|https://github.com/yeoman/yo|3853|CLI tool for running Yeoman generators|
 | matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|3114|zkSync era|
 | 0age/create2crunch|https://github.com/0age/create2crunch|505|A Rust program for finding salts that create gas-efficient Ethereum addresses via CREATE2.|
@@ -51,10 +51,10 @@
   <summary>📚 <strong>A random poem from <em>https://poetrydb.org/random</em>!</strong> 👇 </summary>
 
 <!-- Start poem -->
-# 💮 Christmas Holidays by *Thomas Hood*
+# 💮 Written After Swimming From Sestos to Abydos by *George Gordon, Lord Byron*
 
 <p>
-    Along the Woodford road there comes a noise<br/>Of wheels, and Mr. Rounding's neat post-chaise<br/>Struggles along, drawn by a pair of bays,<br/>With Reverend Mr. Crow and six small boys,<br/>Who ever and anon declare their joys<br/>With trumping horns and juvenile huzzas,<br/>At going home to spend their Christmas days,<br/>And changing learning's pains for pleasure's toys.<br/>Six weeks elapse, and down the Woodford way<br/>A heavy coach drags six more heavy souls,<br/>But no glad urchins shout, no trumpets bray,<br/>The carriage makes a halt, the gate-bell tolls,<br/>And little boys walk in as dull and mum<br/>As six new scholars to the Deaf and Dumb!
+    If, in the month of dark December,<br/>  Leander, who was nightly wont<br/>(What maid will not the tale remember?)<br/>  To cross thy stream, broad Hellespont!<br/><br/>If, when the wintry tempest roared,<br/>  He sped to Hero, nothing loth,<br/>And thus of old thy current poured,<br/>  Fair Venus! how I pity both!<br/><br/>For _me_, degenerate modern wretch,<br/>  Though in the genial month of May,<br/>My dripping limbs I faintly stretch,<br/>  And think I've done a feat to-day.<br/><br/>But since he crossed the rapid tide,<br/>  According to the doubtful story,<br/>To woo,--and--Lord knows what beside,<br/>  And swam for Love, as I for Glory;<br/><br/>'Twere hard to say who fared the best:<br/>  Sad mortals! thus the Gods still plague you!<br/>He lost his labour, I my jest:<br/>  For he was drowned, and I've the ague.
 </p>
 
 ***
