@@ -13,9 +13,9 @@
 | Name | Url | Stars | Description |
 | --- | --- |  --- |  --- |
 | regolith-labs/ore-cli|https://github.com/regolith-labs/ore-cli|1467|Command line interface for ORE cryptocurrency mining.|
-| phoboslab/high_impact|https://github.com/phoboslab/high_impact|1073|A 2d game engine written in C|
+| phoboslab/high_impact|https://github.com/phoboslab/high_impact|1074|A 2d game engine written in C|
 | Xe/praise-me|https://github.com/Xe/praise-me|141|Praise my GitHub profile!|
-| OfficialCodeVoyage/GitHub_Follower_Bot_Automated|https://github.com/OfficialCodeVoyage/GitHub_Follower_Bot_Automated|45| You Follow Me ---> My Bot Follows you Back! Let's growth! Learn how you can set it up also!|
+| OfficialCodeVoyage/GitHub_Follower_Bot_Automated|https://github.com/OfficialCodeVoyage/GitHub_Follower_Bot_Automated|46| You Follow Me ---> My Bot Follows you Back! Let's growth! Learn how you can set it up also!|
 | OfficialCodeVoyage/leetcode|https://github.com/OfficialCodeVoyage/leetcode|13|LeetCode practice|
 | MatthiasGN/SnAkE-gAmE|https://github.com/MatthiasGN/SnAkE-gAmE|4|Classic snake game built in Python|
 | EnsoFinance/temper|https://github.com/EnsoFinance/temper|357|Temper your expectations - Ethereum Transaction Simulator |
@@ -38,9 +38,9 @@
 | CloverGit/CloverGit|https://github.com/CloverGit/CloverGit|8||
 | TatevKaren/TatevKaren-data-science-portfolio|https://github.com/TatevKaren/TatevKaren-data-science-portfolio|62|Data Science Portfolio of Tatev Karen Aslanyan including Case Studies and Research Projects that I have completed that solve business problems or introduce new products. Case Study papers, codes, and additional resources are all included.|
 | PiotrRut/elonmusk-twitter-notifier|https://github.com/PiotrRut/elonmusk-twitter-notifier|61|AI driven e-mail notifier for tweets mentioning stock from Elon Musk 📈|
-| Vendicated/Vencord|https://github.com/Vendicated/Vencord|9415|The cutest Discord client mod|
-| yeoman/yo|https://github.com/yeoman/yo|3853|CLI tool for running Yeoman generators|
-| matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|3118|zkSync era|
+| Vendicated/Vencord|https://github.com/Vendicated/Vencord|9424|The cutest Discord client mod|
+| yeoman/yo|https://github.com/yeoman/yo|3852|CLI tool for running Yeoman generators|
+| matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|3119|zkSync era|
 | 0age/create2crunch|https://github.com/0age/create2crunch|507|A Rust program for finding salts that create gas-efficient Ethereum addresses via CREATE2.|
 
 <!-- Starred repos end -->
@@ -51,10 +51,10 @@
   <summary>📚 <strong>A random poem from <em>https://poetrydb.org/random</em>!</strong> 👇 </summary>
 
 <!-- Start poem -->
-# 💮 The Flower by *George Herbert*
+# 💮 Inscription on the Monument of a Newfoundland Dog by *George Gordon, Lord Byron*
 
 <p>
-    How fresh, O Lord, how sweet and clean<br/>Are thy returns! ev'n as the flowers in spring;<br/>To which, besides their own demean,<br/>The late-past frosts tributes of pleasure bring.<br/>Grief melts away<br/>Like snows in May,<br/>As if there were no such cold thing.<br/><br/>Who would have thought my shrivelled heart<br/>Could have recovered greenness? It was gone<br/>Quite under ground; as flowers depart<br/>To see their mother-root, when they have blown;<br/>Where they together<br/>All the hard weather,<br/>Dead to the world, keep house unknown.<br/><br/>These are thy wonders, Lord of power,<br/>Killing and quick'ning, bringing down to hell<br/>And up to heaven in an hour;<br/>Making a chiming of a passing-bell.<br/>We say amiss,<br/>This or that is:<br/>Thy word is all, if we could spell.<br/><br/>O that I once past changing were,<br/>Fast in thy Paradise, where no flower can wither!<br/>Many a spring I shoot up fair,<br/>Off'ring at heav'n, growing and groaning thither:<br/>Nor doth my flower<br/>Want a spring shower,<br/>My sins and I joining together.<br/><br/>But while I grow in a straight line,<br/>Still upwards bent, as if heav'n were mine own,<br/>Thy anger comes, and I decline:<br/>What frost to that? What pole is not the zone,<br/>Where all things burn,<br/>When thou dost turn,<br/>And the least frown of thine is shown?<br/><br/>And now in age I bud again,<br/>After so many deaths I live and write;<br/>I once more smell the dew and rain,<br/>And relish versing: O my only light,<br/>It cannot be<br/>That I am he<br/>On whom thy tempests fell all night.<br/><br/>These are thy wonders, Lord of love,<br/>To make us see we are but flowers that glide;<br/>Which when we once can find and prove,<br/>Thou hast a garden for us, where to bide.<br/>Who would be more,<br/>Swelling through store,<br/>Forfeit their Paradise by their pride.
+    When some proud son of man returns to earth,<br/>Unknown to glory, but upheld by birth,<br/>The sculptor's art exhausts the pomp of woe<br/>And storied urns record who rest below:<br/>When all is done, upon the tomb is seen,<br/>Not what he was, but what he should have been:<br/>But the poor dog, in life the firmest friend,<br/>The first to welcome, foremost to defend,<br/>Whose honest heart is still his master's own,<br/>Who labours, fights, lives, breathes for him alone,<br/>Unhonour'd falls, unnoticed all his worth--<br/>Denied in heaven the soul he held on earth:<br/>While Man, vain insect! hopes to be forgiven,<br/>And claims himself a sole exclusive Heaven.<br/>Oh Man! thou feeble tenant of an hour,<br/>Debased by slavery, or corrupt by power,<br/>Who knows thee well must quit thee with disgust,<br/>Degraded mass of animated dust!<br/>Thy love is lust, thy friendship all a cheat,<br/>Thy smiles hypocrisy, thy words deceit!<br/>By nature vile, ennobled but by name,<br/>Each kindred brute might bid thee blush for shame.<br/>Ye! who perchance behold this simple urn,<br/>Pass on--it honours none you wish to mourn:<br/>To mark a Friend's remains these stones arise;<br/>I never knew but one,--and here he lies.
 </p>
 
 ***
