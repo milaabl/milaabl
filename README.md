@@ -33,14 +33,14 @@
 | przemek890/Gender_prediction|https://github.com/przemek890/Gender_prediction|4|An application that utilizes camera input to predict a person's gender using a convolutional layer in PyTorch.|
 | pieralukasz/pixel-recruitment-task|https://github.com/pieralukasz/pixel-recruitment-task|1|Zadanie rekrutacyjne Pixel Technology|
 | SaraRasoulian/oop-solid-patterns|https://github.com/SaraRasoulian/oop-solid-patterns|17|💎  An educational repository for OOP, SOLID and Design Patterns|
-| BogdanMFometescu/resume-builder|https://github.com/BogdanMFometescu/resume-builder|12|Django-based web application that allows users to create, update, and export professional resumes.|
+| BogdanMFometescu/resume-builder|https://github.com/BogdanMFometescu/resume-builder|13|Django-based web application that allows users to create, update, and export professional resumes.|
 | 0xMimir/Advance-CNN-LSTM-Model-for-Cryptocurrency-Forecasting|https://github.com/0xMimir/Advance-CNN-LSTM-Model-for-Cryptocurrency-Forecasting|11|CNN LSTM model used for predicting cryptocurrencies|
 | CloverGit/CloverGit|https://github.com/CloverGit/CloverGit|8||
 | TatevKaren/TatevKaren-data-science-portfolio|https://github.com/TatevKaren/TatevKaren-data-science-portfolio|62|Data Science Portfolio of Tatev Karen Aslanyan including Case Studies and Research Projects that I have completed that solve business problems or introduce new products. Case Study papers, codes, and additional resources are all included.|
 | PiotrRut/elonmusk-twitter-notifier|https://github.com/PiotrRut/elonmusk-twitter-notifier|61|AI driven e-mail notifier for tweets mentioning stock from Elon Musk 📈|
-| Vendicated/Vencord|https://github.com/Vendicated/Vencord|9486|The cutest Discord client mod|
+| Vendicated/Vencord|https://github.com/Vendicated/Vencord|9490|The cutest Discord client mod|
 | yeoman/yo|https://github.com/yeoman/yo|3857|CLI tool for running Yeoman generators|
-| matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|3122|zkSync era|
+| matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|3124|zkSync era|
 | 0age/create2crunch|https://github.com/0age/create2crunch|507|A Rust program for finding salts that create gas-efficient Ethereum addresses via CREATE2.|
 
 <!-- Starred repos end -->
@@ -51,10 +51,10 @@
   <summary>📚 <strong>A random poem from <em>https://poetrydb.org/random</em>!</strong> 👇 </summary>
 
 <!-- Start poem -->
-# 💮 Prologue to Mr Addison's Tragedy of Cato. by *Alexander Pope*
+# 💮 Ode on Solitude. by *Alexander Pope*
 
 <p>
-    To wake the soul by tender strokes of art,<br/>To raise the genius, and to mend the heart;<br/>To make mankind, in conscious virtue bold,<br/>Live o'er each scene, and be what they behold:<br/>For this the tragic Muse first trod the stage,<br/>Commanding tears to stream through every age;<br/>Tyrants no more their savage nature kept,<br/>And foes to virtue wonder'd how they wept.<br/>Our author shuns by vulgar springs to move<br/>The hero's glory, or the virgin's love;<br/>In pitying love, we but our weakness show,<br/>And wild ambition well deserves its woe.<br/>Here tears shall flow from a more generous cause,<br/>Such tears as patriots shed for dying laws:<br/>He bids your breasts with ancient ardour rise,<br/>And calls forth Roman drops from British eyes.<br/>Virtue confess'd in human shape he draws,<br/>What Plato thought, and godlike Cato was:<br/>No common object to your sight displays,<br/>But what with pleasure Heaven itself surveys,<br/>A brave man struggling in the storms of fate,<br/>And greatly falling with a falling state.<br/>While Cato gives his little senate laws,<br/>What bosom beats not in his country's cause?<br/>Who sees him act, but envies every deed?<br/>Who hears him groan, and does not wish to bleed?<br/>Even when proud Caesar, 'midst triumphal cars,<br/>The spoils of nations, and the pomp of wars,<br/>Ignobly vain and impotently great,<br/>Show'd Rome her Cato's figure drawn in state;<br/>As her dead father's reverend image pass'd,<br/>The pomp was darken'd and the day o'ercast;<br/>The triumph ceased, tears gush'd from every eye;<br/>The world's great victor pass'd unheeded by;<br/>Her last good man dejected Rome adored,<br/>And honour'd Caesar's less than Cato's sword.<br/><br/>Britons, attend: be worth like this approved,<br/>And show you have the virtue to be moved.<br/>With honest scorn the first famed Cato view'd<br/>Rome learning arts from Greece, whom she subdued;<br/>Your scene precariously subsists too long<br/>On French translation, and Italian song.<br/>Dare to have sense yourselves; assert the stage,<br/>Be justly warm'd with your own native rage;<br/>Such plays alone should win a British ear,<br/>As Cato's self had not disdain'd to hear.
+      Happy the man, whose wish and care<br/>    A few paternal acres bound,<br/>  Content to breathe his native air<br/>                In his own ground.<br/><br/>  Whose herds with milk, whose fields with bread,<br/>    Whose flocks supply him with attire,<br/>  Whose trees in summer yield him shade,<br/>                In winter fire.<br/><br/>  Blest, who can unconcern'dly find<br/>    Hours, days, and years slide soft away,<br/>  In health of body, peace of mind,<br/>                Quiet by day;<br/><br/>  Sound sleep by night; study and ease,<br/>    Together mix'd; sweet recreation;<br/>  And innocence, which most does please,<br/>                With meditation.<br/><br/>  Thus let me live, unseen, unknown,<br/>    Thus unlamented let me die,<br/>  Steal from the world, and not a stone<br/>                Tell where I lie.
 </p>
 
 ***
