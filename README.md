@@ -12,13 +12,13 @@
 <!-- Starred repos start -->
 | Name | Url | Stars | Description |
 | --- | --- |  --- |  --- |
-| regolith-labs/ore-cli|https://github.com/regolith-labs/ore-cli|1471|Command line interface for ORE cryptocurrency mining.|
-| phoboslab/high_impact|https://github.com/phoboslab/high_impact|1077|A 2d game engine written in C|
+| regolith-labs/ore-cli|https://github.com/regolith-labs/ore-cli|1470|Command line interface for ORE cryptocurrency mining.|
+| phoboslab/high_impact|https://github.com/phoboslab/high_impact|1079|A 2d game engine written in C|
 | Xe/praise-me|https://github.com/Xe/praise-me|141|Praise my GitHub profile!|
 | OfficialCodeVoyage/GitHub_Follower_Bot_Automated|https://github.com/OfficialCodeVoyage/GitHub_Follower_Bot_Automated|49| You Follow Me ---> My Bot Follows you Back! Let's growth! Learn how you can set it up also!|
-| OfficialCodeVoyage/leetcode|https://github.com/OfficialCodeVoyage/leetcode|15|LeetCode practice|
+| OfficialCodeVoyage/leetcode|https://github.com/OfficialCodeVoyage/leetcode|16|LeetCode practice|
 | MatthiasGN/SnAkE-gAmE|https://github.com/MatthiasGN/SnAkE-gAmE|4|Classic snake game built in Python|
-| EnsoFinance/temper|https://github.com/EnsoFinance/temper|357|Temper your expectations - Ethereum Transaction Simulator |
+| EnsoFinance/temper|https://github.com/EnsoFinance/temper|358|Temper your expectations - Ethereum Transaction Simulator |
 | the-coder-o/a-bd.me|https://github.com/the-coder-o/a-bd.me|8|My personal website made with Next.js 14 (App Router). Features blog posts, gear list, dark theme and more. Tailwind CSS,  Radix, Framer Motion, and Vercel.|
 | Xunzhuo/Xunzhuo|https://github.com/Xunzhuo/Xunzhuo|46|About me|
 | zcaceres/interview-prep|https://github.com/zcaceres/interview-prep|1|algos, data structures etc.|
@@ -38,9 +38,9 @@
 | CloverGit/CloverGit|https://github.com/CloverGit/CloverGit|8||
 | TatevKaren/TatevKaren-data-science-portfolio|https://github.com/TatevKaren/TatevKaren-data-science-portfolio|62|Data Science Portfolio of Tatev Karen Aslanyan including Case Studies and Research Projects that I have completed that solve business problems or introduce new products. Case Study papers, codes, and additional resources are all included.|
 | PiotrRut/elonmusk-twitter-notifier|https://github.com/PiotrRut/elonmusk-twitter-notifier|61|AI driven e-mail notifier for tweets mentioning stock from Elon Musk 📈|
-| Vendicated/Vencord|https://github.com/Vendicated/Vencord|9493|The cutest Discord client mod|
-| yeoman/yo|https://github.com/yeoman/yo|3857|CLI tool for running Yeoman generators|
-| matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|3124|zkSync era|
+| Vendicated/Vencord|https://github.com/Vendicated/Vencord|9495|The cutest Discord client mod|
+| yeoman/yo|https://github.com/yeoman/yo|3858|CLI tool for running Yeoman generators|
+| matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|3125|zkSync era|
 | 0age/create2crunch|https://github.com/0age/create2crunch|507|A Rust program for finding salts that create gas-efficient Ethereum addresses via CREATE2.|
 
 <!-- Starred repos end -->
@@ -51,10 +51,10 @@
   <summary>📚 <strong>A random poem from <em>https://poetrydb.org/random</em>!</strong> 👇 </summary>
 
 <!-- Start poem -->
-# 💮 Song of Fairies Robbing an Orchard by *James Henry Leigh Hunt*
+# 💮 To the Lord Chancellor by *Percy Bysshe Shelley*
 
 <p>
-    We, the Fairies, blithe and antic,<br/>Of dimensions not gigantic,<br/>Though the moonshine mostly keep us,<br/>Oft in orchards frisk and peep us.<br/><br/>Stolen sweets are always sweeter,<br/>Stolen kisses much completer,<br/>Stolen looks are nice in chapels,<br/>Stolen, stolen, be your apples.<br/><br/>When to bed the world are bobbing,<br/>Then's the time for orchard-robbing;<br/>Yet the fruit were scarce worth peeling,<br/>Were it not for stealing, stealing.
+    Thy country's curse is on thee, darkest crest<br/>Of that foul, knotted, many-headed worm<br/>Which rends our Mother's bosom--Priestly Pest!<br/>Masked Resurrection of a buried Form!<br/><br/>Thy country's curse is on thee! Justice sold,<br/>Truth trampled, Nature's landmarks overthrown,<br/>And heaps of fraud-accumulated gold,<br/>Plead, loud as thunder, at Destruction's throne.<br/><br/>And whilst that sure slow Angel which aye stands<br/>Watching the beck of Mutability<br/>Delays to execute her high commands,<br/>And, though a nation weeps, spares thine and thee,<br/><br/>Oh, let a father's curse be on thy soul,<br/>And let a daughter's hope be on thy tomb;<br/>Be both, on thy gray head, a leaden cowl<br/>To weigh thee down to thine approaching doom.<br/><br/>I curse thee by a parent's outraged love,<br/>By hopes long cherished and too lately lost,<br/>By gentle feelings thou couldst never prove,<br/>By griefs which thy stern nature never crossed;<br/><br/>By those infantine smiles of happy light,<br/>Which were a fire within a stranger's hearth,<br/>Quenched even when kindled, in untimely night<br/>Hiding the promise of a lovely birth:<br/><br/>By those unpractised accents of young speech,<br/>Which he who is a father thought to frame<br/>To gentlest lore, such as the wisest teach--<br/>THOU strike the lyre of mind!--oh, grief and shame!<br/><br/>By all the happy see in children's growth--<br/>That undeveloped flower of budding years--<br/>Sweetness and sadness interwoven both,<br/>Source of the sweetest hopes and saddest fears-<br/><br/>By all the days, under an hireling's care,<br/>Of dull constraint and bitter heaviness,--<br/>O wretched ye if ever any were,--<br/>Sadder than orphans, yet not fatherless!<br/><br/>By the false cant which on their innocent lips<br/>Must hang like poison on an opening bloom,<br/>By the dark creeds which cover with eclipse<br/>Their pathway from the cradle to the tomb--<br/><br/>By thy most impious Hell, and all its terror;<br/>By all the grief, the madness, and the guilt<br/>Of thine impostures, which must be their error--<br/>That sand on which thy crumbling power is built--<br/><br/>By thy complicity with lust and hate--<br/>Thy thirst for tears--thy hunger after gold--<br/>The ready frauds which ever on thee wait--<br/>The servile arts in which thou hast grown old--<br/><br/>By thy most killing sneer, and by thy smile--<br/>By all the arts and snares of thy black den,<br/>And--for thou canst outweep the crocodile--<br/>By thy false tears--those millstones braining men--<br/><br/>By all the hate which checks a father's love--<br/>By all the scorn which kills a father's care--<br/>By those most impious hands which dared remove<br/>Nature's high bounds--by thee--and by despair--<br/><br/>Yes, the despair which bids a father groan,<br/>And cry, 'My children are no longer mine--<br/>The blood within those veins may be mine own,<br/>But--Tyrant--their polluted souls are thine;--<br/><br/>I curse thee--though I hate thee not.--O slave!<br/>If thou couldst quench the earth-consuming Hell<br/>Of which thou art a daemon, on thy grave<br/>This curse should be a blessing. Fare thee well!
 </p>
 
 ***
