@@ -12,8 +12,8 @@
 <!-- Starred repos start -->
 | Name | Url | Stars | Description |
 | --- | --- |  --- |  --- |
-| regolith-labs/ore-cli|https://github.com/regolith-labs/ore-cli|1469|Command line interface for ORE cryptocurrency mining.|
-| phoboslab/high_impact|https://github.com/phoboslab/high_impact|1081|A 2d game engine written in C|
+| regolith-labs/ore-cli|https://github.com/regolith-labs/ore-cli|1470|Command line interface for ORE cryptocurrency mining.|
+| phoboslab/high_impact|https://github.com/phoboslab/high_impact|1082|A 2d game engine written in C|
 | Xe/praise-me|https://github.com/Xe/praise-me|141|Praise my GitHub profile!|
 | OfficialCodeVoyage/GitHub_Follower_Bot_Automated|https://github.com/OfficialCodeVoyage/GitHub_Follower_Bot_Automated|50| You Follow Me ---> My Bot Follows you Back! Let's growth! Learn how you can set it up also!|
 | OfficialCodeVoyage/leetcode|https://github.com/OfficialCodeVoyage/leetcode|16|LeetCode practice|
@@ -38,8 +38,8 @@
 | CloverGit/CloverGit|https://github.com/CloverGit/CloverGit|8||
 | TatevKaren/TatevKaren-data-science-portfolio|https://github.com/TatevKaren/TatevKaren-data-science-portfolio|62|Data Science Portfolio of Tatev Karen Aslanyan including Case Studies and Research Projects that I have completed that solve business problems or introduce new products. Case Study papers, codes, and additional resources are all included.|
 | PiotrRut/elonmusk-twitter-notifier|https://github.com/PiotrRut/elonmusk-twitter-notifier|61|AI driven e-mail notifier for tweets mentioning stock from Elon Musk 📈|
-| Vendicated/Vencord|https://github.com/Vendicated/Vencord|9503|The cutest Discord client mod|
-| yeoman/yo|https://github.com/yeoman/yo|3859|CLI tool for running Yeoman generators|
+| Vendicated/Vencord|https://github.com/Vendicated/Vencord|9512|The cutest Discord client mod|
+| yeoman/yo|https://github.com/yeoman/yo|3858|CLI tool for running Yeoman generators|
 | matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|3125|zkSync era|
 | 0age/create2crunch|https://github.com/0age/create2crunch|507|A Rust program for finding salts that create gas-efficient Ethereum addresses via CREATE2.|
 
@@ -51,10 +51,10 @@
   <summary>📚 <strong>A random poem from <em>https://poetrydb.org/random</em>!</strong> 👇 </summary>
 
 <!-- Start poem -->
-# 💮 Farewell Address at the Argyle Hall by *William Topaz McGonagall*
+# 💮 Stanzas to a Hindoo Air by *George Gordon, Lord Byron*
 
 <p>
-    Fellow Citizens of Dundee.<br/>I now must bid farewell to ye.<br/>For I am going to London far away.<br/>But when I will return again I cannot say.<br/><br/>Farewell! Farewell! to the bonnie banks o' the Silvery Tay.<br/>Also the beautiful Hill o' Balgay.<br/>And the ill fated Bridge o' the Silvery Tay.<br/>Which I will remember when I am far away.<br/><br/>Farewell! to my friends and, patrons all.<br/>That rallied around me in the Music Hall.<br/>And those that has rallied around me to night,<br/>I shall not forget when out of sight.<br/><br/>And, if I ever return to Dundee again,<br/>I hope it will be with the laurels of fame.<br/>Plac'd on my brow by dame fortune that fickle Jade.<br/>And, to Court her favour I am not afraid.<br/><br/>Farewell! to every one in the Argyle Hall.<br/>That has Come to hear McGonagall.<br/>Recite, and sing, his Songs to night.<br/>Which I hope will long be rernember'd when I'm out of sight.<br/><br/>Adieu to all my enemies that want to mock me when passing by.<br/>But I excuse them for their ignorance and leave them to the most high.<br/>And, once again, my friends, and enemies. I bid ye all good bye.<br/>And when I am gone ye will for me heave a sigh :-<br/><br/>I return my thanks to my Chairman and my Committee,<br/>For the Kindness they have always shown to me.<br/>I hope the Lord! will protect them when I am far away.<br/>And prosper them in all their undertakings by night and by day.
+      Oh! my lonely--lonely--lonely--Pillow!<br/>Where is my lover? where is my lover?<br/>Is it his bark which my dreary dreams discover?<br/>  Far--far away! and alone along the billow?<br/><br/>  Oh! my lonely--lonely--lonely--Pillow!<br/>Why must my head ache where his gentle brow lay?<br/>How the long night flags lovelessly and slowly,<br/>  And my head droops over thee like the willow!<br/><br/>  Oh! thou, my sad and solitary Pillow!<br/>Send me kind dreams to keep my heart from breaking,<br/>In return for the tears I shed upon thee waking;<br/>  Let me not die till he comes back o'er the billow.<br/><br/>  Then if thou wilt--no more my _lonely_ Pillow,<br/>In one embrace let these arms again enfold him,<br/>And then expire of the joy--but to behold him!<br/>  Oh! my lone bosom!--oh! my lonely Pillow!
 </p>
 
 ***
