@@ -18,7 +18,7 @@
 | OfficialCodeVoyage/GitHub_Follower_Bot_Automated|https://github.com/OfficialCodeVoyage/GitHub_Follower_Bot_Automated|50| You Follow Me ---> My Bot Follows you Back! Let's growth! Learn how you can set it up also!|
 | OfficialCodeVoyage/leetcode|https://github.com/OfficialCodeVoyage/leetcode|16|LeetCode practice|
 | MatthiasGN/SnAkE-gAmE|https://github.com/MatthiasGN/SnAkE-gAmE|4|Classic snake game built in Python|
-| EnsoFinance/temper|https://github.com/EnsoFinance/temper|358|Temper your expectations - Ethereum Transaction Simulator |
+| EnsoFinance/temper|https://github.com/EnsoFinance/temper|359|Temper your expectations - Ethereum Transaction Simulator |
 | the-coder-o/a-bd.me|https://github.com/the-coder-o/a-bd.me|8|My personal website made with Next.js 14 (App Router). Features blog posts, gear list, dark theme and more. Tailwind CSS,  Radix, Framer Motion, and Vercel.|
 | Xunzhuo/Xunzhuo|https://github.com/Xunzhuo/Xunzhuo|46|About me|
 | zcaceres/interview-prep|https://github.com/zcaceres/interview-prep|1|algos, data structures etc.|
@@ -38,10 +38,10 @@
 | CloverGit/CloverGit|https://github.com/CloverGit/CloverGit|8||
 | TatevKaren/TatevKaren-data-science-portfolio|https://github.com/TatevKaren/TatevKaren-data-science-portfolio|62|Data Science Portfolio of Tatev Karen Aslanyan including Case Studies and Research Projects that I have completed that solve business problems or introduce new products. Case Study papers, codes, and additional resources are all included.|
 | PiotrRut/elonmusk-twitter-notifier|https://github.com/PiotrRut/elonmusk-twitter-notifier|61|AI driven e-mail notifier for tweets mentioning stock from Elon Musk 📈|
-| Vendicated/Vencord|https://github.com/Vendicated/Vencord|9512|The cutest Discord client mod|
+| Vendicated/Vencord|https://github.com/Vendicated/Vencord|9518|The cutest Discord client mod|
 | yeoman/yo|https://github.com/yeoman/yo|3858|CLI tool for running Yeoman generators|
 | matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|3125|zkSync era|
-| 0age/create2crunch|https://github.com/0age/create2crunch|507|A Rust program for finding salts that create gas-efficient Ethereum addresses via CREATE2.|
+| 0age/create2crunch|https://github.com/0age/create2crunch|508|A Rust program for finding salts that create gas-efficient Ethereum addresses via CREATE2.|
 
 <!-- Starred repos end -->
 
@@ -51,10 +51,10 @@
   <summary>📚 <strong>A random poem from <em>https://poetrydb.org/random</em>!</strong> 👇 </summary>
 
 <!-- Start poem -->
-# 💮 Stanzas to a Hindoo Air by *George Gordon, Lord Byron*
+# 💮 The Alley. by *Alexander Pope*
 
 <p>
-      Oh! my lonely--lonely--lonely--Pillow!<br/>Where is my lover? where is my lover?<br/>Is it his bark which my dreary dreams discover?<br/>  Far--far away! and alone along the billow?<br/><br/>  Oh! my lonely--lonely--lonely--Pillow!<br/>Why must my head ache where his gentle brow lay?<br/>How the long night flags lovelessly and slowly,<br/>  And my head droops over thee like the willow!<br/><br/>  Oh! thou, my sad and solitary Pillow!<br/>Send me kind dreams to keep my heart from breaking,<br/>In return for the tears I shed upon thee waking;<br/>  Let me not die till he comes back o'er the billow.<br/><br/>  Then if thou wilt--no more my _lonely_ Pillow,<br/>In one embrace let these arms again enfold him,<br/>And then expire of the joy--but to behold him!<br/>  Oh! my lone bosom!--oh! my lonely Pillow!
+    IMITATIONS OF ENGLISH POETS. SPENSER.<br/><br/>  In every town, where Thamis rolls his tyde,<br/>    A narrow pass there is, with houses low;<br/>  Where ever and anon the stream is eyed,<br/>    And many a boat soft sliding to and fro.<br/>    There oft are heard the notes of infant woe,<br/>  The short thick sob, loud scream, and shriller squall:<br/>    How can ye, mothers, vex your children so?<br/>  Some play, some eat, some cack against the wall,<br/>  And as they crouchen low, for bread and butter call.<br/><br/>  And on the broken pavement, here and there,<br/>    Doth many a stinking sprat and herring lie;<br/>  A brandy and tobacco shop is near,<br/>    And hens, and dogs, and hogs are feeding by;<br/>    And here a sailor's jacket hangs to dry.<br/>  At every door are sunburnt matrons seen,<br/>    Mending old nets to catch the scaly fry;<br/>  Now singing shrill, and scolding oft between;<br/>  Scolds answer foul-mouth'd scolds; bad neighbourhood, I ween.<br/><br/>  The snappish cur (the passenger's annoy)<br/>    Close at my heel with yelping treble flies;<br/>  The whimpering girl, and hoarser-screaming boy,<br/>    Join to the yelping treble shrilling cries;<br/>    The scolding quean to louder notes doth rise,<br/>  And her full pipes those shrilling cries confound;<br/>    To her full pipes the grunting hog replies;<br/>  The grunting hogs alarm the neighbours round,<br/>  And curs, girls, boys, and scolds, in the deep base are drown'd.<br/><br/>  Hard by a sty, beneath a roof of thatch,<br/>    Dwelt Obloquy, who in her early days<br/>  Baskets of fish at Billingsgate did watch,<br/>    Cod, whiting, oyster, mack'rel, sprat, or plaice:<br/>    There learn'd she speech from tongues that never cease.<br/>  Slander beside her, like a magpie, chatters,<br/>    With Envy (spitting cat!), dread foe to peace;<br/>  Like a cursed cur, Malice before her clatters,<br/>  And vexing every wight, tears clothes and all to tatters.<br/><br/>  Her dugs were mark'd by every collier's hand,<br/>    Her mouth was black as bull-dog's at the stall:<br/>  She scratchèd, bit, and spared ne lace ne band,<br/>    And 'bitch' and 'rogue' her answer was to all;<br/>    Nay, even the parts of shame by name would call:<br/>  Yea, when she passèd by or lane or nook,<br/>    Would greet the man who turn'd him to the wall,<br/>  And by his hand obscene the porter took,<br/>  Nor ever did askance like modest virgin look.<br/><br/>  Such place hath Deptford, navy-building town,<br/>    Woolwich and Wapping, smelling strong of pitch;<br/>  Such Lambeth, envy of each band and gown,<br/>    And Twick'nam such, which fairer scenes enrich,<br/>    Grots, stutues, urns, and Jo--n's dog and bitch,<br/>  Ne village is without, on either side,<br/>    All up the silver Thames, or all adown;<br/>  Ne Richmond's self, from whose tall front are eyed<br/>  Vales, spires, meandering streams, and Windsor's towery pride.
 </p>
 
 ***
