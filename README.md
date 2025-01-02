@@ -15,7 +15,7 @@
 | regolith-labs/ore-cli|https://github.com/regolith-labs/ore-cli|1469|Command line interface for ORE cryptocurrency mining.|
 | phoboslab/high_impact|https://github.com/phoboslab/high_impact|1082|A 2d game engine written in C|
 | Xe/praise-me|https://github.com/Xe/praise-me|141|Praise my GitHub profile!|
-| OfficialCodeVoyage/GitHub_Follower_Bot_Automated|https://github.com/OfficialCodeVoyage/GitHub_Follower_Bot_Automated|51| You Follow Me ---> My Bot Follows you Back! Let's growth! Learn how you can set it up also!|
+| OfficialCodeVoyage/GitHub_Follower_Bot_Automated|https://github.com/OfficialCodeVoyage/GitHub_Follower_Bot_Automated|50| You Follow Me ---> My Bot Follows you Back! Let's growth! Learn how you can set it up also!|
 | OfficialCodeVoyage/leetcode|https://github.com/OfficialCodeVoyage/leetcode|16|LeetCode practice|
 | MatthiasGN/SnAkE-gAmE|https://github.com/MatthiasGN/SnAkE-gAmE|4|Classic snake game built in Python|
 | EnsoFinance/temper|https://github.com/EnsoFinance/temper|359|Temper your expectations - Ethereum Transaction Simulator |
@@ -38,7 +38,7 @@
 | CloverGit/CloverGit|https://github.com/CloverGit/CloverGit|8||
 | TatevKaren/TatevKaren-data-science-portfolio|https://github.com/TatevKaren/TatevKaren-data-science-portfolio|62|Data Science Portfolio of Tatev Karen Aslanyan including Case Studies and Research Projects that I have completed that solve business problems or introduce new products. Case Study papers, codes, and additional resources are all included.|
 | PiotrRut/elonmusk-twitter-notifier|https://github.com/PiotrRut/elonmusk-twitter-notifier|61|AI driven e-mail notifier for tweets mentioning stock from Elon Musk 📈|
-| Vendicated/Vencord|https://github.com/Vendicated/Vencord|9533|The cutest Discord client mod|
+| Vendicated/Vencord|https://github.com/Vendicated/Vencord|9539|The cutest Discord client mod|
 | yeoman/yo|https://github.com/yeoman/yo|3859|CLI tool for running Yeoman generators|
 | matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|3125|zkSync era|
 | 0age/create2crunch|https://github.com/0age/create2crunch|508|A Rust program for finding salts that create gas-efficient Ethereum addresses via CREATE2.|
@@ -51,10 +51,10 @@
   <summary>📚 <strong>A random poem from <em>https://poetrydb.org/random</em>!</strong> 👇 </summary>
 
 <!-- Start poem -->
-# 💮 Music: An Ode by *Algernon Charles Swinburne*
+# 💮 On the Religious Memory of Mrs. Catherine Thomson, my Christian Friend, Deceased Dec. 16, 1646 by *John Milton*
 
 <p>
-    WAS it light that spake from the darkness,<br/>or music that shone from the word,<br/>When the night was enkindled with sound<br/>of the sun or the first-born bird?<br/>Souls enthralled and entrammelled in bondage<br/>of seasons that fall and rise,<br/>Bound fast round with the fetters of flesh,<br/>and blinded with light that dies,<br/>Lived not surely till music spake,<br/>and the spirit of life was heard.<br/><br/>Music, sister of sunrise, and herald of life to be,<br/>Smiled as dawn on the spirit of man,<br/>and the thrall was free.<br/>Slave of nature and serf of time,<br/>the bondman of life and death,<br/>Dumb with passionless patience that breathed<br/>but forlorn and reluctant breath,<br/>Heard, beheld, and his soul made answer,<br/>and communed aloud with the sea.<br/><br/>Morning spake, and he heard:<br/>and the passionate silent noon<br/>Kept for him not silence:<br/>and soft from the mounting moon<br/>Fell the sound of her splendour,<br/>heard as dawn's in the breathless night,<br/>Not of men but of birds whose note<br/>bade man's soul quicken and leap to light:<br/>And the song of it spake, and the light and the darkness<br/>of earth were as chords in tune.
+    When Faith and Love, which parted from thee never,<br/>Had ripened thy just soul to dwell with God,<br/>Meekly thou didst resign this earthly load<br/>Of death, called life, which us from life doth sever.<br/>Thy works, and alms, and all thy good endeavour,<br/>Stayed not behind, nor in the grave were trod;<br/>But, as Faith pointed with her golden rod,<br/>Followed thee up to joy and bliss for ever.<br/>Love led them on; and Faith, who knew them best<br/>Thy handmaids, clad them o’er with purple beams<br/>And azure wings, that up they flew so drest,<br/>And speak the truth of thee on glorious themes<br/>Before the Judge; who henceforth bid thee rest,<br/>And drink thy fill of pure immortal streams.
 </p>
 
 ***
