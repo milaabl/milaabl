@@ -12,15 +12,15 @@
 <!-- Starred repos start -->
 | Name | Url | Stars | Description |
 | --- | --- |  --- |  --- |
-| regolith-labs/ore-cli|https://github.com/regolith-labs/ore-cli|1463|Command line interface for ORE cryptocurrency mining.|
-| phoboslab/high_impact|https://github.com/phoboslab/high_impact|1085|A 2d game engine written in C|
+| regolith-labs/ore-cli|https://github.com/regolith-labs/ore-cli|1464|Command line interface for ORE cryptocurrency mining.|
+| phoboslab/high_impact|https://github.com/phoboslab/high_impact|1090|A 2d game engine written in C|
 | Xe/praise-me|https://github.com/Xe/praise-me|141|Praise my GitHub profile!|
 | OfficialCodeVoyage/GitHub_Follower_Bot_Automated|https://github.com/OfficialCodeVoyage/GitHub_Follower_Bot_Automated|50| You Follow Me ---> My Bot Follows you Back! Let's growth! Learn how you can set it up also!|
 | OfficialCodeVoyage/leetcode|https://github.com/OfficialCodeVoyage/leetcode|16|LeetCode practice|
 | MatthiasGN/SnAkE-gAmE|https://github.com/MatthiasGN/SnAkE-gAmE|4|Classic snake game built in Python|
-| EnsoFinance/temper|https://github.com/EnsoFinance/temper|358|Temper your expectations - Ethereum Transaction Simulator |
-| the-coder-o/a-bd.me|https://github.com/the-coder-o/a-bd.me|8|My personal website made with Next.js 14 (App Router). Features blog posts, gear list, dark theme and more. Tailwind CSS,  Radix, Framer Motion, and Vercel.|
-| Xunzhuo/Xunzhuo|https://github.com/Xunzhuo/Xunzhuo|46|About me|
+| EnsoFinance/temper|https://github.com/EnsoFinance/temper|359|Temper your expectations - Ethereum Transaction Simulator |
+| the-coder-o/a-bd.me|https://github.com/the-coder-o/a-bd.me|9|My personal website made with Next.js 14 (App Router). Features blog posts, gear list, dark theme and more. Tailwind CSS,  Radix, Framer Motion, and Vercel.|
+| Xunzhuo/Xunzhuo|https://github.com/Xunzhuo/Xunzhuo|48|About me|
 | zcaceres/interview-prep|https://github.com/zcaceres/interview-prep|1|algos, data structures etc.|
 | zcaceres/snoop|https://github.com/zcaceres/snoop|3|Like grep or ack... for the DOM|
 | zcaceres/zcaceres|https://github.com/zcaceres/zcaceres|2|Super secret Github profile README thing|
@@ -38,9 +38,9 @@
 | CloverGit/CloverGit|https://github.com/CloverGit/CloverGit|8||
 | TatevKaren/TatevKaren-data-science-portfolio|https://github.com/TatevKaren/TatevKaren-data-science-portfolio|62|Data Science Portfolio of Tatev Karen Aslanyan including Case Studies and Research Projects that I have completed that solve business problems or introduce new products. Case Study papers, codes, and additional resources are all included.|
 | PiotrRut/elonmusk-twitter-notifier|https://github.com/PiotrRut/elonmusk-twitter-notifier|61|AI driven e-mail notifier for tweets mentioning stock from Elon Musk 📈|
-| Vendicated/Vencord|https://github.com/Vendicated/Vencord|9582|The cutest Discord client mod|
-| yeoman/yo|https://github.com/yeoman/yo|3860|CLI tool for running Yeoman generators|
-| matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|3130|zkSync era|
+| Vendicated/Vencord|https://github.com/Vendicated/Vencord|9589|The cutest Discord client mod|
+| yeoman/yo|https://github.com/yeoman/yo|3861|CLI tool for running Yeoman generators|
+| matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|3131|zkSync era|
 | 0age/create2crunch|https://github.com/0age/create2crunch|507|A Rust program for finding salts that create gas-efficient Ethereum addresses via CREATE2.|
 
 <!-- Starred repos end -->
@@ -51,10 +51,10 @@
   <summary>📚 <strong>A random poem from <em>https://poetrydb.org/random</em>!</strong> 👇 </summary>
 
 <!-- Start poem -->
-# 💮 Rearrange a "Wife's" affection! by *Emily Dickinson*
+# 💮 Children by *Henry Wadsworth Longfellow*
 
 <p>
-    Rearrange a "Wife's" affection!<br/>When they dislocate my Brain!<br/>Amputate my freckled Bosom!<br/>Make me bearded like a man!<br/><br/>Blush, my spirit, in thy Fastness --<br/>Blush, my unacknowledged clay --<br/>Seven years of troth have taught thee<br/>More than Wifehood every may!<br/><br/>Love that never leaped its socket --<br/>Trust entrenched in narrow pain --<br/>Constancy thro' fire -- awarded --<br/>Anguish -- bare of anodyne!<br/><br/>Burden -- borne so far triumphant --<br/>None suspect me of the crown,<br/>For I wear the "Thorns" till Sunset --<br/>Then -- my Diadem put on.<br/><br/>Big my Secret but it's bandaged --<br/>It will never get away<br/>Till the Day its Weary Keeper<br/>Leads it through the Grave to thee.
+    Come to me, O ye children!<br/>For I hear you at your play,<br/>And the questions that perplexed me<br/>Have vanished quite away.<br/><br/>Ye open the eastern windows,<br/>That look towards the sun,<br/>Where thoughts are singing swallows<br/>And the brooks of morning run.<br/><br/>In your hearts are the birds and the sunshine,<br/>In your thoughts the brooklet's flow,<br/>But in mine is the wind of Autumn<br/>And the first fall of the snow.<br/><br/>Ah! what would the world be to us<br/>If the children were no more?<br/>We should dread the desert behind us<br/>Worse than the dark before.<br/><br/>What the leaves are to the forest,<br/>With light and air for food,<br/>Ere their sweet and tender juices<br/>Have been hardened into wood, --<br/><br/>That to the world are children;<br/>Through them it feels the glow<br/>Of a brighter and sunnier climate<br/>Than reaches the trunks below.<br/><br/>Come to me, O ye children!<br/>And whisper in my ear<br/>What the birds and the winds are singing<br/>In your sunny atmosphere.<br/><br/>For what are all our contrivings,<br/>And the wisdom of our books,<br/>When compared with your caresses,<br/>And the gladness of your looks?<br/><br/>Ye are better than all the ballads<br/>That ever were sung or said;<br/>For ye are living poems,<br/>And all the rest are dead.
 </p>
 
 ***
