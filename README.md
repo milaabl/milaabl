@@ -13,13 +13,13 @@
 | Name | Url | Stars | Description |
 | --- | --- |  --- |  --- |
 | milaabl/GitHub_Follower_Bot_Automated|https://github.com/milaabl/GitHub_Follower_Bot_Automated|6|Automated GitHub Follower Bot - You Follow Me ---> My Bot Follows you Back! Let's growth! Learn how you can set it up also!|
-| regolith-labs/ore-cli|https://github.com/regolith-labs/ore-cli|1466|Command line interface for ORE cryptocurrency mining.|
+| regolith-labs/ore-cli|https://github.com/regolith-labs/ore-cli|1465|Command line interface for ORE cryptocurrency mining.|
 | phoboslab/high_impact|https://github.com/phoboslab/high_impact|1091|A 2d game engine written in C|
 | Xe/praise-me|https://github.com/Xe/praise-me|141|Praise my GitHub profile!|
 | OfficialCodeVoyage/GitHub_Follower_Bot_Automated|https://github.com/OfficialCodeVoyage/GitHub_Follower_Bot_Automated|52| You Follow Me ---> My Bot Follows you Back! Let's growth! Learn how you can set it up also!|
 | OfficialCodeVoyage/leetcode|https://github.com/OfficialCodeVoyage/leetcode|18|LeetCode practice|
 | MatthiasGN/SnAkE-gAmE|https://github.com/MatthiasGN/SnAkE-gAmE|4|Classic snake game built in Python|
-| EnsoFinance/temper|https://github.com/EnsoFinance/temper|360|Temper your expectations - Ethereum Transaction Simulator |
+| EnsoFinance/temper|https://github.com/EnsoFinance/temper|361|Temper your expectations - Ethereum Transaction Simulator |
 | the-coder-o/a-bd.me|https://github.com/the-coder-o/a-bd.me|8|My personal website made with Next.js 14 (App Router). Features blog posts, gear list, dark theme and more. Tailwind CSS,  Radix, Framer Motion, and Vercel.|
 | Xunzhuo/Xunzhuo|https://github.com/Xunzhuo/Xunzhuo|49|About me|
 | zcaceres/interview-prep|https://github.com/zcaceres/interview-prep|1|algos, data structures etc.|
@@ -39,7 +39,7 @@
 | CloverGit/CloverGit|https://github.com/CloverGit/CloverGit|8||
 | TatevKaren/TatevKaren-data-science-portfolio|https://github.com/TatevKaren/TatevKaren-data-science-portfolio|62|Data Science Portfolio of Tatev Karen Aslanyan including Case Studies and Research Projects that I have completed that solve business problems or introduce new products. Case Study papers, codes, and additional resources are all included.|
 | PiotrRut/elonmusk-twitter-notifier|https://github.com/PiotrRut/elonmusk-twitter-notifier|61|AI driven e-mail notifier for tweets mentioning stock from Elon Musk 📈|
-| Vendicated/Vencord|https://github.com/Vendicated/Vencord|9640|The cutest Discord client mod|
+| Vendicated/Vencord|https://github.com/Vendicated/Vencord|9652|The cutest Discord client mod|
 | yeoman/yo|https://github.com/yeoman/yo|3864|CLI tool for running Yeoman generators|
 | matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|3138|zkSync era|
 
@@ -51,10 +51,10 @@
   <summary>📚 <strong>A random poem from <em>https://poetrydb.org/random</em>!</strong> 👇 </summary>
 
 <!-- Start poem -->
-# 💮 Farewell to the Court by *Sir Walter Raleigh*
+# 💮 Sonnet XXIX: Farewell, Ye Tow'ring Cedars by *Robinson*
 
 <p>
-    Like truthless dreams, so are my joys expir'd,<br/>And past return are all my dandled days;<br/>My love misled, and fancy quite retir'd--<br/>Of all which pass'd the sorrow only stays.<br/><br/>My lost delights, now clean from sight of land,<br/>Have left me all alone in unknown ways;<br/>My mind to woe, my life in fortune's hand--<br/>Of all which pass'd the sorrow only stays.<br/><br/>As in a country strange, without companion,<br/>I only wail the wrong of death's delays,<br/>Whose sweet spring spent, whose summer well-nigh done--<br/>Of all which pass'd only the sorrow stays.<br/><br/>Whom care forewarns, ere age and winter cold,<br/>To haste me hence to find my fortune's fold.
+    Farewell, ye tow'ring Cedars, in whose shade,<br/>Lull'd by the Nightingale, I sunk to rest,<br/>While spicy breezes hover'd o'er my breast<br/>To fan my cheek, in deep'ning tints array'd;<br/>While am'rous insects, humming round me, play'd,<br/>Each flow'r forsook, of prouder sweets in quest;<br/>Of glowing lips, in humid fragrance drest,<br/>That mock'd the Sunny Hybla's vaunted aid!<br/>Farewell, ye limpid rivers! Oh! farewell!<br/>No more shall Sappho to your grots repair;<br/>No more your white waves to her bosom swell,<br/>Or your dank weeds, entwine her floating hair;<br/>As erst, when Venus in her sparry cell<br/>Wept, to behold a brighter goddess there!
 </p>
 
 ***
