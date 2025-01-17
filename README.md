@@ -39,9 +39,9 @@
 | CloverGit/CloverGit|https://github.com/CloverGit/CloverGit|8||
 | TatevKaren/TatevKaren-data-science-portfolio|https://github.com/TatevKaren/TatevKaren-data-science-portfolio|62|Data Science Portfolio of Tatev Karen Aslanyan including Case Studies and Research Projects that I have completed that solve business problems or introduce new products. Case Study papers, codes, and additional resources are all included.|
 | PiotrRut/elonmusk-twitter-notifier|https://github.com/PiotrRut/elonmusk-twitter-notifier|61|AI driven e-mail notifier for tweets mentioning stock from Elon Musk 📈|
-| Vendicated/Vencord|https://github.com/Vendicated/Vencord|9652|The cutest Discord client mod|
+| Vendicated/Vencord|https://github.com/Vendicated/Vencord|9658|The cutest Discord client mod|
 | yeoman/yo|https://github.com/yeoman/yo|3864|CLI tool for running Yeoman generators|
-| matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|3138|zkSync era|
+| matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|3139|zkSync era|
 
 <!-- Starred repos end -->
 
@@ -51,10 +51,10 @@
   <summary>📚 <strong>A random poem from <em>https://poetrydb.org/random</em>!</strong> 👇 </summary>
 
 <!-- Start poem -->
-# 💮 Sonnet XXIX: Farewell, Ye Tow'ring Cedars by *Robinson*
+# 💮 To an Oak at Newstead by *George Gordon, Lord Byron*
 
 <p>
-    Farewell, ye tow'ring Cedars, in whose shade,<br/>Lull'd by the Nightingale, I sunk to rest,<br/>While spicy breezes hover'd o'er my breast<br/>To fan my cheek, in deep'ning tints array'd;<br/>While am'rous insects, humming round me, play'd,<br/>Each flow'r forsook, of prouder sweets in quest;<br/>Of glowing lips, in humid fragrance drest,<br/>That mock'd the Sunny Hybla's vaunted aid!<br/>Farewell, ye limpid rivers! Oh! farewell!<br/>No more shall Sappho to your grots repair;<br/>No more your white waves to her bosom swell,<br/>Or your dank weeds, entwine her floating hair;<br/>As erst, when Venus in her sparry cell<br/>Wept, to behold a brighter goddess there!
+    Young Oak! when I planted thee deep in the ground,<br/>  I hoped that thy days would be longer than mine;<br/>That thy dark-waving branches would flourish around,<br/>  And ivy thy trunk with its mantle entwine.<br/><br/>Such, such was my hope, when in Infancy's years,<br/>  On the land of my Fathers I rear'd thee with pride;<br/>They are past, and I water thy stem with my tears,--<br/>  Thy decay, not the _weeds_ that surround thee can hide.<br/><br/>I left thee, my Oak, and, since that fatal hour,<br/>  A stranger has dwelt in the hall of my Sire;<br/>Till Manhood shall crown me, not mine is the power,<br/>  But his, whose neglect may have bade thee expire.<br/><br/>Oh! hardy thou wert--even now little care<br/>  Might revive thy young head, and thy wounds gently<br/>    heal:<br/>But thou wert not fated affection to share--<br/>  For who could suppose that a Stranger would feel?<br/><br/>Ah, droop not, my Oak! lift thy head for a while;<br/>  Ere twice round yon Glory this planet shall run,<br/>The hand of thy Master will teach thee to smile,<br/>  When Infancy's years of probation are done.<br/><br/>Oh, live then, my Oak! tow'r aloft from the weeds,<br/>  That clog thy young growth, and assist thy decay,<br/>For still in thy bosom are Life's early seeds,<br/>  And still may thy branches their beauty display.<br/><br/>Oh! yet, if Maturity's years may be thine,<br/>  Though _I_ shall lie low in the cavern of Death,<br/>On thy leaves yet the day-beam of ages may shine,<br/>  Uninjured by Time, or the rude Winter's breath.<br/><br/>For centuries still may thy boughs lightly wave<br/>  O'er the corse of thy Lord in thy canopy laid;<br/>While the branches thus gratefully shelter his grave,<br/>  The Chief who survives may recline in thy shade.<br/><br/>And as he, with his boys, shall revisit this spot,<br/>  He will tell them in whispers more softly to tread.<br/>Oh! surely, by these I shall ne'er be forgot;<br/>  Remembrance still hallows the dust of the dead.<br/><br/>And here, will they say, when in Life's glowing prime,<br/>  Perhaps he has pour'd forth his young simple lay,<br/>And here must he sleep, till the moments of Time<br/>  Are lost in the hours of Eternity's day.
 </p>
 
 ***
