@@ -14,13 +14,13 @@
 | --- | --- |  --- |  --- |
 | AntoineLemaire/BlacklistBundle|https://github.com/AntoineLemaire/BlacklistBundle|3|Provides a Blacklist system for Symfony using Annotations with Sonata admin integration|
 | milaabl/GitHub_Follower_Bot_Automated|https://github.com/milaabl/GitHub_Follower_Bot_Automated|6|Automated GitHub Follower Bot - You Follow Me ---> My Bot Follows you Back! Let's growth! Learn how you can set it up also!|
-| regolith-labs/ore-cli|https://github.com/regolith-labs/ore-cli|1464|Command line interface for ORE cryptocurrency mining.|
+| regolith-labs/ore-cli|https://github.com/regolith-labs/ore-cli|1466|Command line interface for ORE cryptocurrency mining.|
 | phoboslab/high_impact|https://github.com/phoboslab/high_impact|1090|A 2d game engine written in C|
 | Xe/praise-me|https://github.com/Xe/praise-me|140|Praise my GitHub profile!|
 | OfficialCodeVoyage/GitHub_Follower_Bot_Automated|https://github.com/OfficialCodeVoyage/GitHub_Follower_Bot_Automated|53| You Follow Me ---> My Bot Follows you Back! Let's growth! Learn how you can set it up also!|
-| OfficialCodeVoyage/leetcode|https://github.com/OfficialCodeVoyage/leetcode|18|LeetCode practice|
+| OfficialCodeVoyage/leetcode|https://github.com/OfficialCodeVoyage/leetcode|19|LeetCode practice|
 | MatthiasGN/SnAkE-gAmE|https://github.com/MatthiasGN/SnAkE-gAmE|4|Classic snake game built in Python|
-| EnsoFinance/temper|https://github.com/EnsoFinance/temper|361|Temper your expectations - Ethereum Transaction Simulator |
+| EnsoBuild/temper|https://github.com/EnsoBuild/temper|361|Temper your expectations - Ethereum Transaction Simulator |
 | the-coder-o/a-bd.me|https://github.com/the-coder-o/a-bd.me|8|My personal website made with Next.js 14 (App Router). Features blog posts, gear list, dark theme and more. Tailwind CSS,  Radix, Framer Motion, and Vercel.|
 | Xunzhuo/Xunzhuo|https://github.com/Xunzhuo/Xunzhuo|49|About me|
 | zcaceres/snoop|https://github.com/zcaceres/snoop|3|Like grep or ack... for the DOM|
@@ -35,13 +35,13 @@
 | pieralukasz/pixel-recruitment-task|https://github.com/pieralukasz/pixel-recruitment-task|1|Zadanie rekrutacyjne Pixel Technology|
 | SaraRasoulian/oop-solid-patterns|https://github.com/SaraRasoulian/oop-solid-patterns|17|💎  An educational repository for OOP, SOLID and Design Patterns|
 | BogdanMFometescu/resume-builder|https://github.com/BogdanMFometescu/resume-builder|12|Django-based web application that allows users to create, update, and export professional resumes.|
-| 0xMimir/Advance-CNN-LSTM-Model-for-Cryptocurrency-Forecasting|https://github.com/0xMimir/Advance-CNN-LSTM-Model-for-Cryptocurrency-Forecasting|11|CNN LSTM model used for predicting cryptocurrencies|
+| 0xMimir/Advance-CNN-LSTM-Model-for-Cryptocurrency-Forecasting|https://github.com/0xMimir/Advance-CNN-LSTM-Model-for-Cryptocurrency-Forecasting|12|CNN LSTM model used for predicting cryptocurrencies|
 | CloverGit/CloverGit|https://github.com/CloverGit/CloverGit|8||
 | TatevKaren/TatevKaren-data-science-portfolio|https://github.com/TatevKaren/TatevKaren-data-science-portfolio|62|Data Science Portfolio of Tatev Karen Aslanyan including Case Studies and Research Projects that I have completed that solve business problems or introduce new products. Case Study papers, codes, and additional resources are all included.|
 | PiotrRut/elonmusk-twitter-notifier|https://github.com/PiotrRut/elonmusk-twitter-notifier|61|AI driven e-mail notifier for tweets mentioning stock from Elon Musk 📈|
-| Vendicated/Vencord|https://github.com/Vendicated/Vencord|9697|The cutest Discord client mod|
-| yeoman/yo|https://github.com/yeoman/yo|3866|CLI tool for running Yeoman generators|
-| matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|3142|zkSync era|
+| Vendicated/Vencord|https://github.com/Vendicated/Vencord|9711|The cutest Discord client mod|
+| yeoman/yo|https://github.com/yeoman/yo|3867|CLI tool for running Yeoman generators|
+| matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|3143|zkSync era|
 
 <!-- Starred repos end -->
 
@@ -51,10 +51,10 @@
   <summary>📚 <strong>A random poem from <em>https://poetrydb.org/random</em>!</strong> 👇 </summary>
 
 <!-- Start poem -->
-# 💮 Written After Swimming From Sestos to Abydos by *George Gordon, Lord Byron*
+# 💮 Moonlight by *Henry Wadsworth Longfellow*
 
 <p>
-    If, in the month of dark December,<br/>  Leander, who was nightly wont<br/>(What maid will not the tale remember?)<br/>  To cross thy stream, broad Hellespont!<br/><br/>If, when the wintry tempest roared,<br/>  He sped to Hero, nothing loth,<br/>And thus of old thy current poured,<br/>  Fair Venus! how I pity both!<br/><br/>For _me_, degenerate modern wretch,<br/>  Though in the genial month of May,<br/>My dripping limbs I faintly stretch,<br/>  And think I've done a feat to-day.<br/><br/>But since he crossed the rapid tide,<br/>  According to the doubtful story,<br/>To woo,--and--Lord knows what beside,<br/>  And swam for Love, as I for Glory;<br/><br/>'Twere hard to say who fared the best:<br/>  Sad mortals! thus the Gods still plague you!<br/>He lost his labour, I my jest:<br/>  For he was drowned, and I've the ague.
+    As a pale phantom with a lamp<br/>Ascends some ruin's haunted stair,<br/>So glides the moon along the damp<br/>Mysterious chambers of the air.<br/><br/>Now hidden in cloud, and now revealed,<br/>As if this phantom, full of pain,<br/>Were by the crumbling walls concealed,<br/>And at the windows seen again.<br/><br/>Until at last, serene and proud<br/>In all the splendor of her light,<br/>She walks the terraces of cloud,<br/>Supreme as Empress of the Night.<br/><br/>I look, but recognize no more<br/>Objects familiar to my view;<br/>The very pathway to my door<br/>Is an enchanted avenue.<br/><br/>All things are changed. One mass of shade,<br/>The elm-trees drop their curtains down;<br/>By palace, park, and colonnade<br/>I walk as in a foreign town.<br/><br/>The very ground beneath my feet<br/>Is clothed with a diviner air;<br/>While marble paves the silent street<br/>And glimmers in the empty square.<br/><br/>Illusion! Underneath there lies<br/>The common life of every day;<br/>Only the spirit glorifies<br/>With its own tints the sober gray.<br/><br/>In vain we look, in vain uplift<br/>Our eyes to heaven, if we are blind;<br/>We see but what we have the gift<br/>Of seeing; what we bring we find.
 </p>
 
 ***
