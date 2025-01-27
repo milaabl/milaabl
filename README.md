@@ -14,10 +14,10 @@
 | --- | --- |  --- |  --- |
 | AntoineLemaire/BlacklistBundle|https://github.com/AntoineLemaire/BlacklistBundle|3|Provides a Blacklist system for Symfony using Annotations with Sonata admin integration|
 | milaabl/GitHub_Follower_Bot_Automated|https://github.com/milaabl/GitHub_Follower_Bot_Automated|6|Automated GitHub Follower Bot - You Follow Me ---> My Bot Follows you Back! Let's growth! Learn how you can set it up also!|
-| regolith-labs/ore-cli|https://github.com/regolith-labs/ore-cli|1466|Command line interface for ORE cryptocurrency mining.|
+| regolith-labs/ore-cli|https://github.com/regolith-labs/ore-cli|1467|Command line interface for ORE cryptocurrency mining.|
 | phoboslab/high_impact|https://github.com/phoboslab/high_impact|1089|A 2d game engine written in C|
 | Xe/praise-me|https://github.com/Xe/praise-me|140|Praise my GitHub profile!|
-| OfficialCodeVoyage/GitHub_Follower_Bot_Automated|https://github.com/OfficialCodeVoyage/GitHub_Follower_Bot_Automated|53| You Follow Me ---> My Bot Follows you Back! Let's growth! Learn how you can set it up also!|
+| OfficialCodeVoyage/GitHub_Follower_Bot_Automated|https://github.com/OfficialCodeVoyage/GitHub_Follower_Bot_Automated|54| You Follow Me ---> My Bot Follows you Back! Let's growth! Learn how you can set it up also!|
 | OfficialCodeVoyage/leetcode|https://github.com/OfficialCodeVoyage/leetcode|19|LeetCode practice|
 | MatthiasGN/SnAkE-gAmE|https://github.com/MatthiasGN/SnAkE-gAmE|4|Classic snake game built in Python|
 | EnsoBuild/temper|https://github.com/EnsoBuild/temper|362|Temper your expectations - Ethereum Transaction Simulator |
@@ -39,7 +39,7 @@
 | CloverGit/CloverGit|https://github.com/CloverGit/CloverGit|8||
 | TatevKaren/TatevKaren-data-science-portfolio|https://github.com/TatevKaren/TatevKaren-data-science-portfolio|62|Data Science Portfolio of Tatev Karen Aslanyan including Case Studies and Research Projects that I have completed that solve business problems or introduce new products. Case Study papers, codes, and additional resources are all included.|
 | PiotrRut/elonmusk-twitter-notifier|https://github.com/PiotrRut/elonmusk-twitter-notifier|61|AI driven e-mail notifier for tweets mentioning stock from Elon Musk 📈|
-| Vendicated/Vencord|https://github.com/Vendicated/Vencord|9739|The cutest Discord client mod|
+| Vendicated/Vencord|https://github.com/Vendicated/Vencord|9748|The cutest Discord client mod|
 | yeoman/yo|https://github.com/yeoman/yo|3869|CLI tool for running Yeoman generators|
 | matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|3143|zkSync era|
 
@@ -51,10 +51,10 @@
   <summary>📚 <strong>A random poem from <em>https://poetrydb.org/random</em>!</strong> 👇 </summary>
 
 <!-- Start poem -->
-# 💮 The Flower by *Lord Alfred Tennyson*
+# 💮 Fragment: 'O Thou Immortal Deity' by *Percy Bysshe Shelley*
 
 <p>
-    Once in a golden hour<br/>I cast to earth a seed.<br/>Up there came a flower,<br/>The people said, a weed.<br/><br/>To and fro they went<br/>Thro' my garden bower,<br/>And muttering discontent<br/>Cursed me and my flower.<br/><br/>Then it grew so tall<br/>It wore a crown of light,<br/>But thieves from o'er the wall<br/>Stole the seed by night.<br/><br/>Sow'd it far and wide<br/>By every town and tower,<br/>Till all the people cried,<br/>"Splendid is the flower!"<br/><br/>Read my little fable:<br/>He that runs may read.<br/>Most can raise the flowers now,<br/>For all have got the seed.<br/><br/>And some are pretty enough,<br/>And some are poor indeed;<br/>And now again the people<br/>Call it but a weed.
+    O thou immortal deity<br/>Whose throne is in the depth of human thought,<br/>I do adjure thy power and thee<br/>By all that man may be, by all that he is not,<br/>By all that he has been and yet must be!
 </p>
 
 ***
