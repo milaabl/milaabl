@@ -14,11 +14,11 @@
 | --- | --- |  --- |  --- |
 | AntoineLemaire/BlacklistBundle|https://github.com/AntoineLemaire/BlacklistBundle|3|Provides a Blacklist system for Symfony using Annotations with Sonata admin integration|
 | milaabl/GitHub_Follower_Bot_Automated|https://github.com/milaabl/GitHub_Follower_Bot_Automated|6|Automated GitHub Follower Bot - You Follow Me ---> My Bot Follows you Back! Let's growth! Learn how you can set it up also!|
-| regolith-labs/ore-cli|https://github.com/regolith-labs/ore-cli|1469|Command line interface for ORE cryptocurrency mining.|
+| regolith-labs/ore-cli|https://github.com/regolith-labs/ore-cli|1468|Command line interface for ORE cryptocurrency mining.|
 | phoboslab/high_impact|https://github.com/phoboslab/high_impact|1093|A 2d game engine written in C|
 | Xe/praise-me|https://github.com/Xe/praise-me|141|Praise my GitHub profile!|
 | OfficialCodeVoyage/GitHub_Follower_Bot_Automated|https://github.com/OfficialCodeVoyage/GitHub_Follower_Bot_Automated|56| You Follow Me ---> My Bot Follows you Back! Let's growth! Learn how you can set it up also!|
-| OfficialCodeVoyage/leetcode|https://github.com/OfficialCodeVoyage/leetcode|19|LeetCode practice|
+| OfficialCodeVoyage/leetcode|https://github.com/OfficialCodeVoyage/leetcode|20|LeetCode practice|
 | MatthiasGN/SnAkE-gAmE|https://github.com/MatthiasGN/SnAkE-gAmE|4|Classic snake game built in Python|
 | EnsoBuild/temper|https://github.com/EnsoBuild/temper|362|Temper your expectations - Ethereum Transaction Simulator |
 | the-coder-o/a-bd.me|https://github.com/the-coder-o/a-bd.me|8|My personal website made with Next.js 14 (App Router). Features blog posts, gear list, dark theme and more. Tailwind CSS,  Radix, Framer Motion, and Vercel.|
@@ -39,9 +39,9 @@
 | CloverGit/CloverGit|https://github.com/CloverGit/CloverGit|8||
 | TatevKaren/TatevKaren-data-science-portfolio|https://github.com/TatevKaren/TatevKaren-data-science-portfolio|62|Data Science Portfolio of Tatev Karen Aslanyan including Case Studies and Research Projects that I have completed that solve business problems or introduce new products. Case Study papers, codes, and additional resources are all included.|
 | PiotrRut/elonmusk-twitter-notifier|https://github.com/PiotrRut/elonmusk-twitter-notifier|61|AI driven e-mail notifier for tweets mentioning stock from Elon Musk 📈|
-| Vendicated/Vencord|https://github.com/Vendicated/Vencord|9816|The cutest Discord client mod|
+| Vendicated/Vencord|https://github.com/Vendicated/Vencord|9833|The cutest Discord client mod|
 | yeoman/yo|https://github.com/yeoman/yo|3869|CLI tool for running Yeoman generators|
-| matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|3145|zkSync era|
+| matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|3144|zkSync era|
 
 <!-- Starred repos end -->
 
@@ -51,10 +51,10 @@
   <summary>📚 <strong>A random poem from <em>https://poetrydb.org/random</em>!</strong> 👇 </summary>
 
 <!-- Start poem -->
-# 💮 I tend my flowers for thee by *Emily Dickinson*
+# 💮 Sonnet 94: They that have power to hurt, and will do none by *William Shakespeare*
 
 <p>
-    I tend my flowers for thee --<br/>Bright Absentee!<br/>My Fuchsia's Coral Seams<br/>Rip -- while the Sower -- dreams --<br/><br/>Geraniums -- tint -- and spot --<br/>Low Daisies -- dot --<br/>My Cactus -- splits her Beard<br/>To show her throat --<br/><br/>Carnations -- tip their spice --<br/>And Bees -- pick up --<br/>A Hyacinth -- I hid --<br/>Puts out a Ruffled Head --<br/>And odors fall<br/>From flasks -- so small --<br/>You marvel how they held --<br/><br/>Globe Roses -- break their satin glake --<br/>Upon my Garden floor --<br/>Yet -- thou -- not there --<br/>I had as lief they bore<br/>No Crimson -- more --<br/><br/>Thy flower -- be gay --<br/>Her Lord -- away!<br/>It ill becometh me --<br/>I'll dwell in Calyx -- Gray --<br/>How modestly -- alway --<br/>Thy Daisy --<br/>Draped for thee!
+    They that have power to hurt, and will do none,<br/>That do not do the thing they most do show,<br/>Who, moving others, are themselves as stone,<br/>Unmoved, cold, and to temptation slow;<br/>They rightly do inherit heaven's graces,<br/>And husband nature's riches from expense;<br/>They are the lords and owners of their faces,<br/>Others, but stewards of their excellence.<br/>The summer's flower is to the summer sweet,<br/>Though to itself, it only live and die,<br/>But if that flower with base infection meet,<br/>The basest weed outbraves his dignity:<br/>  For sweetest things turn sourest by their deeds;<br/>  Lilies that fester, smell far worse than weeds.
 </p>
 
 ***
