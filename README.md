@@ -15,7 +15,7 @@
 | AntoineLemaire/BlacklistBundle|https://github.com/AntoineLemaire/BlacklistBundle|3|Provides a Blacklist system for Symfony using Annotations with Sonata admin integration|
 | milaabl/GitHub_Follower_Bot_Automated|https://github.com/milaabl/GitHub_Follower_Bot_Automated|5|Automated GitHub Follower Bot - You Follow Me ---> My Bot Follows you Back! Let's growth! Learn how you can set it up also!|
 | regolith-labs/ore-cli|https://github.com/regolith-labs/ore-cli|1471|Command line interface for ORE cryptocurrency mining.|
-| phoboslab/high_impact|https://github.com/phoboslab/high_impact|1096|A 2d game engine written in C|
+| phoboslab/high_impact|https://github.com/phoboslab/high_impact|1097|A 2d game engine written in C|
 | Xe/praise-me|https://github.com/Xe/praise-me|141|Praise my GitHub profile!|
 | OfficialCodeVoyage/GitHub_Follower_Bot_Automated|https://github.com/OfficialCodeVoyage/GitHub_Follower_Bot_Automated|56| You Follow Me ---> My Bot Follows you Back! Let's growth! Learn how you can set it up also!|
 | OfficialCodeVoyage/leetcode|https://github.com/OfficialCodeVoyage/leetcode|20|LeetCode practice|
@@ -39,7 +39,7 @@
 | CloverGit/CloverGit|https://github.com/CloverGit/CloverGit|8||
 | TatevKaren/TatevKaren-data-science-portfolio|https://github.com/TatevKaren/TatevKaren-data-science-portfolio|62|Data Science Portfolio of Tatev Karen Aslanyan including Case Studies and Research Projects that I have completed that solve business problems or introduce new products. Case Study papers, codes, and additional resources are all included.|
 | PiotrRut/elonmusk-twitter-notifier|https://github.com/PiotrRut/elonmusk-twitter-notifier|61|AI driven e-mail notifier for tweets mentioning stock from Elon Musk 📈|
-| Vendicated/Vencord|https://github.com/Vendicated/Vencord|9880|The cutest Discord client mod|
+| Vendicated/Vencord|https://github.com/Vendicated/Vencord|9884|The cutest Discord client mod|
 | yeoman/yo|https://github.com/yeoman/yo|3870|CLI tool for running Yeoman generators|
 | matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|3148|zkSync era|
 
@@ -51,10 +51,10 @@
   <summary>📚 <strong>A random poem from <em>https://poetrydb.org/random</em>!</strong> 👇 </summary>
 
 <!-- Start poem -->
-# 💮 Aristomenes by *George Gordon, Lord Byron*
+# 💮 To Mr Thomas Southern, on His Birthday, 1742. by *Alexander Pope*
 
 <p>
-                               Canto First.<br/><br/>The Gods of old are silent on the shore.<br/>Since the great Pan expired, and through the roar<br/>Of the Ionian waters broke a dread<br/>Voice which proclaimed "the Mighty Pan is dead."<br/>How much died with him! false or true--the dream<br/>Was beautiful which peopled every stream<br/>With more than finny tenants, and adorned<br/>The woods and waters with coy nymphs that scorned<br/>Pursuing Deities, or in the embrace<br/>Of gods brought forth the high heroic race<br/>Whose names are on the hills and o'er the seas.
+    Resign'd to live, prepared to die,<br/>With not one sin, but poetry,<br/>This day Tom's fair account has run<br/>(Without a blot) to eighty-one.<br/>Kind Boyle, before his poet lays<br/>A table, with a cloth of bays;<br/>And Ireland, mother of sweet singers,<br/>Presents her harp still to his fingers.<br/>The feast, his towering genius marks<br/>In yonder wild goose and the larks;<br/>The mushrooms show his wit was sudden;<br/>And for his judgment, lo, a pudden!<br/>Roast beef, though old, proclaims him stout,<br/>And grace, although a bard, devout.<br/>May Tom, whom Heaven sent down to raise<br/>The price of prologues and of plays,<br/>Be every birthday more a winner,<br/>Digest his thirty-thousandth dinner;<br/>Walk to his grave without reproach,<br/>And scorn a rascal and a coach.
 </p>
 
 ***
