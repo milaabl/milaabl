@@ -14,7 +14,7 @@
 | --- | --- |  --- |  --- |
 | AntoineLemaire/BlacklistBundle|https://github.com/AntoineLemaire/BlacklistBundle|3|Provides a Blacklist system for Symfony using Annotations with Sonata admin integration|
 | milaabl/GitHub_Follower_Bot_Automated|https://github.com/milaabl/GitHub_Follower_Bot_Automated|5|Automated GitHub Follower Bot - You Follow Me ---> My Bot Follows you Back! Let's growth! Learn how you can set it up also!|
-| regolith-labs/ore-cli|https://github.com/regolith-labs/ore-cli|1471|Command line interface for ORE cryptocurrency mining.|
+| regolith-labs/ore-cli|https://github.com/regolith-labs/ore-cli|1472|Command line interface for ORE cryptocurrency mining.|
 | phoboslab/high_impact|https://github.com/phoboslab/high_impact|1096|A 2d game engine written in C|
 | Xe/praise-me|https://github.com/Xe/praise-me|141|Praise my GitHub profile!|
 | OfficialCodeVoyage/GitHub_Follower_Bot_Automated|https://github.com/OfficialCodeVoyage/GitHub_Follower_Bot_Automated|56| You Follow Me ---> My Bot Follows you Back! Let's growth! Learn how you can set it up also!|
@@ -39,9 +39,9 @@
 | CloverGit/CloverGit|https://github.com/CloverGit/CloverGit|8||
 | TatevKaren/TatevKaren-data-science-portfolio|https://github.com/TatevKaren/TatevKaren-data-science-portfolio|62|Data Science Portfolio of Tatev Karen Aslanyan including Case Studies and Research Projects that I have completed that solve business problems or introduce new products. Case Study papers, codes, and additional resources are all included.|
 | PiotrRut/elonmusk-twitter-notifier|https://github.com/PiotrRut/elonmusk-twitter-notifier|61|AI driven e-mail notifier for tweets mentioning stock from Elon Musk 📈|
-| Vendicated/Vencord|https://github.com/Vendicated/Vencord|9925|The cutest Discord client mod|
+| Vendicated/Vencord|https://github.com/Vendicated/Vencord|9936|The cutest Discord client mod|
 | yeoman/yo|https://github.com/yeoman/yo|3873|CLI tool for running Yeoman generators|
-| matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|3149|zkSync era|
+| matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|3150|zkSync era|
 
 <!-- Starred repos end -->
 
@@ -51,10 +51,10 @@
   <summary>📚 <strong>A random poem from <em>https://poetrydb.org/random</em>!</strong> 👇 </summary>
 
 <!-- Start poem -->
-# 💮 The Little Black Boy by *William Blake*
+# 💮 To Mary Wollstonecraft Godwin by *Percy Bysshe Shelley*
 
 <p>
-    My mother bore me in the southern wild,<br/>  And I  am black, but oh my soul is white!<br/>White as an angel is the English child,<br/>  But I am black, as if bereaved of light.<br/><br/>My mother taught me underneath a tree,<br/>  And, sitting down before the heat of day,<br/>She took me on her lap and kissed me,<br/>  And, pointed to the east, began to say:<br/><br/>"Look on the rising sun: there God does live,<br/>  And gives His light, and gives His heat away,<br/>And flowers and trees and beasts and men receive<br/>  Comfort in morning, joy in the noonday.<br/><br/>"And we are put on earth a little space,<br/>  That we may learn to bear the beams of love<br/>And these black bodies and this sunburnt face<br/>  Is but a cloud, and like a shady grove.<br/><br/>"For when our souls have learn'd the heat to bear,<br/>  The cloud will vanish, we shall hear His voice,<br/>Saying, 'Come out from the grove, my love and care<br/>  And round my golden tent like lambs rejoice',"<br/><br/>Thus did my mother say, and kissed me;<br/>And thus I say to little English boy.<br/>When I from black and he from white cloud free,<br/>And round the tent of God like lambs we joy<br/><br/>I'll shade him from the heat till he can bear<br/>To lean in joy upon our Father's knee;<br/>And then I'll stand and stroke his silver hair,<br/>And be like him, and he will then love me.
+    Mine eyes were dim with tears unshed;<br/>Yes, I was firm--thus wert not thou;--<br/>My baffled looks did fear yet dread<br/>To meet thy looks--I could not know<br/>How anxiously they sought to shine<br/>With soothing pity upon mine.<br/><br/>To sit and curb the soul's mute rage<br/>Which preys upon itself alone;<br/>To curse the life which is the cage<br/>Of fettered grief that dares not groan,<br/>Hiding from many a careless eye<br/>The scorned load of agony.<br/><br/>Whilst thou alone, then not regarded,<br/>The ... thou alone should be,<br/>To spend years thus, and be rewarded,<br/>As thou, sweet love, requited me<br/>When none were near--Oh! I did wake<br/>From torture for that moment's sake.<br/><br/>Upon my heart thy accents sweet<br/>Of peace and pity fell like dew<br/>On flowers half dead;--thy lips did meet<br/>Mine tremblingly; thy dark eyes threw<br/>Their soft persuasion on my brain,<br/>Charming away its dream of pain.<br/><br/>We are not happy, sweet! our state<br/>Is strange and full of doubt and fear;<br/>More need of words that ills abate;--<br/>Reserve or censure come not near<br/>Our sacred friendship, lest there be<br/>No solace left for thee and me.<br/><br/>Gentle and good and mild thou art,<br/>Nor can I live if thou appear<br/>Aught but thyself, or turn thine heart<br/>Away from me, or stoop to wear<br/>The mask of scorn, although it be<br/>To hide the love thou feel'st for me.
 </p>
 
 ***
