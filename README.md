@@ -17,7 +17,7 @@
 | regolith-labs/ore-cli|https://github.com/regolith-labs/ore-cli|1472|Command line interface for ORE cryptocurrency mining.|
 | phoboslab/high_impact|https://github.com/phoboslab/high_impact|1096|A 2d game engine written in C|
 | Xe/praise-me|https://github.com/Xe/praise-me|141|Praise my GitHub profile!|
-| OfficialCodeVoyage/GitHub_Follower_Bot_Automated|https://github.com/OfficialCodeVoyage/GitHub_Follower_Bot_Automated|56| You Follow Me ---> My Bot Follows you Back! Let's growth! Learn how you can set it up also!|
+| OfficialCodeVoyage/GitHub_Follower_Bot_Automated|https://github.com/OfficialCodeVoyage/GitHub_Follower_Bot_Automated|57| You Follow Me ---> My Bot Follows you Back! Let's growth! Learn how you can set it up also!|
 | OfficialCodeVoyage/leetcode|https://github.com/OfficialCodeVoyage/leetcode|20|LeetCode practice|
 | MatthiasGN/SnAkE-gAmE|https://github.com/MatthiasGN/SnAkE-gAmE|4|Classic snake game built in Python|
 | EnsoBuild/temper|https://github.com/EnsoBuild/temper|362|Temper your expectations - Ethereum Transaction Simulator |
@@ -39,7 +39,7 @@
 | CloverGit/CloverGit|https://github.com/CloverGit/CloverGit|8||
 | TatevKaren/TatevKaren-data-science-portfolio|https://github.com/TatevKaren/TatevKaren-data-science-portfolio|62|Data Science Portfolio of Tatev Karen Aslanyan including Case Studies and Research Projects that I have completed that solve business problems or introduce new products. Case Study papers, codes, and additional resources are all included.|
 | PiotrRut/elonmusk-twitter-notifier|https://github.com/PiotrRut/elonmusk-twitter-notifier|61|AI driven e-mail notifier for tweets mentioning stock from Elon Musk 📈|
-| Vendicated/Vencord|https://github.com/Vendicated/Vencord|9936|The cutest Discord client mod|
+| Vendicated/Vencord|https://github.com/Vendicated/Vencord|9947|The cutest Discord client mod|
 | yeoman/yo|https://github.com/yeoman/yo|3873|CLI tool for running Yeoman generators|
 | matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|3150|zkSync era|
 
@@ -51,10 +51,10 @@
   <summary>📚 <strong>A random poem from <em>https://poetrydb.org/random</em>!</strong> 👇 </summary>
 
 <!-- Start poem -->
-# 💮 To Mary Wollstonecraft Godwin by *Percy Bysshe Shelley*
+# 💮 The Mill-Water by *Edward Thomas*
 
 <p>
-    Mine eyes were dim with tears unshed;<br/>Yes, I was firm--thus wert not thou;--<br/>My baffled looks did fear yet dread<br/>To meet thy looks--I could not know<br/>How anxiously they sought to shine<br/>With soothing pity upon mine.<br/><br/>To sit and curb the soul's mute rage<br/>Which preys upon itself alone;<br/>To curse the life which is the cage<br/>Of fettered grief that dares not groan,<br/>Hiding from many a careless eye<br/>The scorned load of agony.<br/><br/>Whilst thou alone, then not regarded,<br/>The ... thou alone should be,<br/>To spend years thus, and be rewarded,<br/>As thou, sweet love, requited me<br/>When none were near--Oh! I did wake<br/>From torture for that moment's sake.<br/><br/>Upon my heart thy accents sweet<br/>Of peace and pity fell like dew<br/>On flowers half dead;--thy lips did meet<br/>Mine tremblingly; thy dark eyes threw<br/>Their soft persuasion on my brain,<br/>Charming away its dream of pain.<br/><br/>We are not happy, sweet! our state<br/>Is strange and full of doubt and fear;<br/>More need of words that ills abate;--<br/>Reserve or censure come not near<br/>Our sacred friendship, lest there be<br/>No solace left for thee and me.<br/><br/>Gentle and good and mild thou art,<br/>Nor can I live if thou appear<br/>Aught but thyself, or turn thine heart<br/>Away from me, or stoop to wear<br/>The mask of scorn, although it be<br/>To hide the love thou feel'st for me.
+    ONLY the sound remains<br/>Of the old mill;<br/>Gone is the wheel;<br/>On the prone roof and walls the nettle reigns.<br/><br/>Water that toils no more<br/>Dangles white locks<br/>And, falling, mocks<br/>The music of the mill-wheel's busy roar.<br/><br/>Pretty to see, by day<br/>Its sound is naught<br/>Compared with thought<br/>And talk and noise of labour and of play.<br/><br/>Night makes the difference.<br/>In calm moonlight,<br/>Gloom infinite,<br/>The sound comes surging in upon the sense:<br/><br/>Solitude, company,--<br/>When it is night,--<br/>Grief or delight<br/>By it must haunted or concluded be.<br/><br/>Often the silentness<br/>Has but this one<br/>Companion;<br/>Wherever one creeps in the other is:<br/><br/>Sometimes a thought is drowned<br/>By it, sometimes<br/>Out of it climbs;<br/>All thoughts begin or end upon this sound,<br/><br/>Only the idle foam<br/>Of water falling<br/>Changelessly calling,<br/>Where once men had a work-place and a home.
 </p>
 
 ***
