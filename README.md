@@ -39,9 +39,9 @@
 | CloverGit/CloverGit|https://github.com/CloverGit/CloverGit|8||
 | TatevKaren/TatevKaren-data-science-portfolio|https://github.com/TatevKaren/TatevKaren-data-science-portfolio|62|Data Science Portfolio of Tatev Karen Aslanyan including Case Studies and Research Projects that I have completed that solve business problems or introduce new products. Case Study papers, codes, and additional resources are all included.|
 | PiotrRut/elonmusk-twitter-notifier|https://github.com/PiotrRut/elonmusk-twitter-notifier|61|AI driven e-mail notifier for tweets mentioning stock from Elon Musk 📈|
-| Vendicated/Vencord|https://github.com/Vendicated/Vencord|9990|The cutest Discord client mod|
+| Vendicated/Vencord|https://github.com/Vendicated/Vencord|10000|The cutest Discord client mod|
 | yeoman/yo|https://github.com/yeoman/yo|3873|CLI tool for running Yeoman generators|
-| matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|3150|zkSync era|
+| matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|3151|zkSync era|
 
 <!-- Starred repos end -->
 
@@ -51,10 +51,10 @@
   <summary>📚 <strong>A random poem from <em>https://poetrydb.org/random</em>!</strong> 👇 </summary>
 
 <!-- Start poem -->
-# 💮 To Emma by *George Gordon, Lord Byron*
+# 💮 To A Friend Who Sent Me Some Roses by *John Keats*
 
 <p>
-    Since now the hour is come at last,<br/>  When you must quit your anxious lover;<br/>Since now, our dream of bliss is past,<br/>  One pang, my girl, and all is over.<br/><br/>Alas! that pang will be severe,<br/>  Which bids us part to meet no more;<br/>Which tears me far from _one_ so dear,<br/>  _Departing_ for a distant shore.<br/><br/>Well! we have pass'd some happy hours,<br/>  And joy will mingle with our tears;<br/>When thinking on these ancient towers,<br/>  The shelter of our infant years;<br/><br/>Where from this Gothic casement's height,<br/>  We view'd the lake, the park, the dell,<br/>And still, though tears obstruct our sight,<br/>  We lingering look a last farewell,<br/><br/>O'er fields through which we us'd to run,<br/>  And spend the hours in childish play;<br/>O'er shades where, when our race was done,<br/>  Reposing on my breast you lay;<br/><br/>Whilst I, admiring, too remiss,<br/>  Forgot to scare the hovering flies,<br/>Yet envied every fly the kiss,<br/>  It dar'd to give your slumbering eyes:<br/><br/>See still the little painted _bark_,<br/>  In which I row'd you o'er the lake;<br/>See there, high waving o'er the park,<br/>  The _elm_ I clamber'd for your sake.<br/><br/>These times are past, our joys are gone,<br/>  You leave me, leave this happy vale;<br/>These scenes, I must retrace alone;<br/>  Without thee, what will they avail?<br/><br/>Who can conceive, who has not prov'd,<br/>  The anguish of a last embrace?<br/>When, torn from all you fondly lov'd,<br/>  You bid a long adieu to peace.<br/><br/>_This_ is the deepest of our woes,<br/>  For _this_ these tears our cheeks bedew;<br/>This is of love the final close,<br/>  Oh, God! the fondest, _last_ adieu!
+    As late I rambled in the happy fields,<br/>What time the skylark shakes the tremulous dew<br/>From his lush clover covert;—when anew<br/>Adventurous knights take up their dinted shields;<br/>I saw the sweetest flower wild nature yields,<br/>A fresh-blown musk-rose; 'twas the first that threw<br/>Its sweets upon the summer: graceful it grew<br/>As is the wand that Queen Titania wields.<br/>And, as I feasted on its fragrancy,<br/>I thought the garden-rose it far excelled;<br/>But when, O Wells! thy roses came to me,<br/>My sense with their deliciousness was spelled:<br/>Soft voices had they, that with tender plea<br/>Whispered of peace, and truth, and friendliness unquelled.
 </p>
 
 ***
