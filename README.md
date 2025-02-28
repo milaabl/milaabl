@@ -18,7 +18,7 @@
 | phoboslab/high_impact|https://github.com/phoboslab/high_impact|1094|A 2d game engine written in C|
 | Xe/praise-me|https://github.com/Xe/praise-me|141|Praise my GitHub profile!|
 | OfficialCodeVoyage/GitHub_Follower_Bot_Automated|https://github.com/OfficialCodeVoyage/GitHub_Follower_Bot_Automated|57| You Follow Me ---> My Bot Follows you Back! Let's growth! Learn how you can set it up also!|
-| OfficialCodeVoyage/leetcode|https://github.com/OfficialCodeVoyage/leetcode|21|LeetCode practice|
+| OfficialCodeVoyage/leetcode|https://github.com/OfficialCodeVoyage/leetcode|22|LeetCode practice|
 | MatthiasGN/SnAkE-gAmE|https://github.com/MatthiasGN/SnAkE-gAmE|4|Classic snake game built in Python|
 | EnsoBuild/temper|https://github.com/EnsoBuild/temper|367|Temper your expectations - Ethereum Transaction Simulator |
 | the-coder-o/a-bd.me|https://github.com/the-coder-o/a-bd.me|8|My personal website made with Next.js 14 (App Router). Features blog posts, gear list, dark theme and more. Tailwind CSS,  Radix, Framer Motion, and Vercel.|
@@ -39,9 +39,9 @@
 | CloverGit/CloverGit|https://github.com/CloverGit/CloverGit|8||
 | TatevKaren/TatevKaren-data-science-portfolio|https://github.com/TatevKaren/TatevKaren-data-science-portfolio|62|Data Science Portfolio of Tatev Karen Aslanyan including Case Studies and Research Projects that I have completed that solve business problems or introduce new products. Case Study papers, codes, and additional resources are all included.|
 | PiotrRut/elonmusk-twitter-notifier|https://github.com/PiotrRut/elonmusk-twitter-notifier|61|AI driven e-mail notifier for tweets mentioning stock from Elon Musk 📈|
-| Vendicated/Vencord|https://github.com/Vendicated/Vencord|10054|The cutest Discord client mod|
+| Vendicated/Vencord|https://github.com/Vendicated/Vencord|10060|The cutest Discord client mod|
 | yeoman/yo|https://github.com/yeoman/yo|3874|CLI tool for running Yeoman generators|
-| matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|3155|zkSync era|
+| matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|3156|zkSync era|
 
 <!-- Starred repos end -->
 
@@ -51,10 +51,10 @@
   <summary>📚 <strong>A random poem from <em>https://poetrydb.org/random</em>!</strong> 👇 </summary>
 
 <!-- Start poem -->
-# 💮 Fragment: The False Laurel and the True by *Percy Bysshe Shelley*
+# 💮 A Dialogue by *Percy Bysshe Shelley*
 
 <p>
-    'What art thou, Presumptuous, who profanest<br/>The wreath to mighty poets only due,<br/>Even whilst like a forgotten moon thou wanest?<br/>Touch not those leaves which for the eternal few<br/>Who wander o'er the Paradise of fame,<br/>In sacred dedication ever grew:<br/>One of the crowd thou art without a name.'<br/>'Ah, friend, 'tis the false laurel that I wear;<br/>Bright though it seem, it is not the same<br/>As that which bound Milton's immortal hair;<br/>Its dew is poison; and the hopes that quicken<br/>Under its chilling shade, though seeming fair,<br/>Are flowers which die almost before they sicken.'
+    DEATH:<br/>For my dagger is bathed in the blood of the brave,<br/>I come, care-worn tenant of life, from the grave,<br/>Where Innocence sleeps 'neath the peace-giving sod,<br/>And the good cease to tremble at Tyranny's nod;<br/>I offer a calm habitation to thee,--<br/>Say, victim of grief, wilt thou slumber with me?<br/>My mansion is damp, cold silence is there,<br/>But it lulls in oblivion the fiends of despair;<br/>Not a groan of regret, not a sigh, not a breath,<br/>Dares dispute with grim Silence the empire of Death.<br/>I offer a calm habitation to thee,--<br/>Say, victim of grief, wilt thou slumber with me?<br/><br/>MORTAL:<br/>Mine eyelids are heavy; my soul seeks repose,<br/>It longs in thy cells to embosom its woes,<br/>It longs in thy cells to deposit its load,<br/>Where no longer the scorpions of Perfidy goad,--<br/>Where the phantoms of Prejudice vanish away,<br/>And Bigotry's bloodhounds lose scent of their prey.<br/>Yet tell me, dark Death, when thine empire is o'er,<br/>What awaits on Futurity's mist-covered shore?<br/><br/>DEATH:<br/>Cease, cease, wayward Mortal! I dare not unveil<br/>The shadows that float o'er Eternity's vale;<br/>Nought waits for the good but a spirit of Love,<br/>That will hail their blest advent to regions above.<br/>For Love, Mortal, gleams through the gloom of my sway,<br/>And the shades which surround me fly fast at its ray.<br/>Hast thou loved?--Then depart from these regions of hate,<br/>And in slumber with me blunt the arrows of fate.<br/>I offer a calm habitation to thee.--<br/>Say, victim of grief, wilt thou slumber with me?<br/><br/>MORTAL:<br/>Oh! sweet is thy slumber! oh! sweet is the ray<br/>Which after thy night introduces the day;<br/>How concealed, how persuasive, self-interest's breath,<br/>Though it floats to mine ear from the bosom of Death!<br/>I hoped that I quite was forgotten by all,<br/>Yet a lingering friend might be grieved at my fall,<br/>And duty forbids, though I languish to die,<br/>When departure might heave Virtue's breast with a sigh.<br/>O Death! O my friend! snatch this form to thy shrine,<br/>And I fear, dear destroyer, I shall not repine.
 </p>
 
 ***
