@@ -14,7 +14,7 @@
 | --- | --- |  --- |  --- |
 | AntoineLemaire/BlacklistBundle|https://github.com/AntoineLemaire/BlacklistBundle|3|Provides a Blacklist system for Symfony using Annotations with Sonata admin integration|
 | milaabl/GitHub_Follower_Bot_Automated|https://github.com/milaabl/GitHub_Follower_Bot_Automated|5|Automated GitHub Follower Bot - You Follow Me ---> My Bot Follows you Back! Let's growth! Learn how you can set it up also!|
-| regolith-labs/ore-cli|https://github.com/regolith-labs/ore-cli|1478|Command line interface for ORE cryptocurrency mining.|
+| regolith-labs/ore-cli|https://github.com/regolith-labs/ore-cli|1479|Command line interface for ORE cryptocurrency mining.|
 | phoboslab/high_impact|https://github.com/phoboslab/high_impact|1095|A 2d game engine written in C|
 | Xe/praise-me|https://github.com/Xe/praise-me|141|Praise my GitHub profile!|
 | OfficialCodeVoyage/GitHub_Follower_Bot_Automated|https://github.com/OfficialCodeVoyage/GitHub_Follower_Bot_Automated|57| You Follow Me ---> My Bot Follows you Back! Let's growth! Learn how you can set it up also!|
@@ -39,9 +39,9 @@
 | CloverGit/CloverGit|https://github.com/CloverGit/CloverGit|8||
 | TatevKaren/TatevKaren-data-science-portfolio|https://github.com/TatevKaren/TatevKaren-data-science-portfolio|62|Data Science Portfolio of Tatev Karen Aslanyan including Case Studies and Research Projects that I have completed that solve business problems or introduce new products. Case Study papers, codes, and additional resources are all included.|
 | PiotrRut/elonmusk-twitter-notifier|https://github.com/PiotrRut/elonmusk-twitter-notifier|61|AI driven e-mail notifier for tweets mentioning stock from Elon Musk 📈|
-| Vendicated/Vencord|https://github.com/Vendicated/Vencord|10081|The cutest Discord client mod|
-| yeoman/yo|https://github.com/yeoman/yo|3877|CLI tool for running Yeoman generators|
-| matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|3159|zkSync era|
+| Vendicated/Vencord|https://github.com/Vendicated/Vencord|10089|The cutest Discord client mod|
+| yeoman/yo|https://github.com/yeoman/yo|3878|CLI tool for running Yeoman generators|
+| matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|3158|zkSync era|
 
 <!-- Starred repos end -->
 
@@ -51,10 +51,10 @@
   <summary>📚 <strong>A random poem from <em>https://poetrydb.org/random</em>!</strong> 👇 </summary>
 
 <!-- Start poem -->
-# 💮 The Blossom by *William Blake*
+# 💮 Ode to a Lady Whose Lover Was Killed by a Ball, Which at the Same Time Shivered a Portrait Next His Heart by *George Gordon, Lord Byron*
 
 <p>
-    Merry, merry sparrow!<br/>Under leaves so green<br/>A happy blossom<br/>Sees you, swift as arrow,<br/>Seek your cradle narrow,<br/>Near my bosom.<br/>Pretty, pretty robin!<br/>Under leaves so green<br/>A happy blossom<br/>Hears you sobbing, sobbing,<br/>Pretty, pretty robin,<br/>Near my bosom.
+     _On peut trouver des femmes qui n'ont jamais eu de galanterie, mais<br/> il est rare d'en trouver qui n'en aient jamais eu<br/> qu'une_.--[_Réflexions_ ... du Duc de la Rochefoucauld, No.<br/> lxxiii.<br/><br/>  Lady! in whose heroic port<br/>And Beauty, Victor even of Time,<br/>  And haughty lineaments, appear<br/>  Much that is awful, more that's dear--<br/>  Wherever human hearts resort<br/>  _There_ must have been for thee a Court,<br/>  And Thou by acclamation Queen,<br/>  Where never Sovereign yet had been.<br/>That eye so soft, and yet severe,<br/>  Perchance might look on Love as Crime;<br/>And yet--regarding thee more near--<br/>The traces of an unshed tear<br/>  Compressed back to the heart,<br/>And mellowed Sadness in thine air,<br/>Which shows that Love hath once been there,<br/>To those who watch thee will disclose<br/>More than ten thousand tomes of woes<br/>  Wrung from the vain Romancer's art.<br/>With thee how proudly Love hath dwelt!<br/>His full Divinity was felt,<br/>Maddening the heart he could not melt,<br/>  Till Guilt became Sublime;<br/>But never yet did Beauty's Zone<br/>For him surround a lovelier throne,<br/>Than in that bosom once his own:<br/>  And he the Sun and Thou the Clime<br/>Together must have made a Heaven<br/>For which the Future would be given.<br/><br/>And thou hast loved--Oh! not in vain!<br/>  And not as common Mortals love.<br/>    The Fruit of Fire is Ashes,<br/>    The Ocean's tempest dashes<br/>Wrecks and the dead upon the rocky shore:<br/>True Passion must the all-searching changes prove,<br/>  The Agony of Pleasure and of Pain,<br/>  Till Nothing but the Bitterness remain;<br/>  And the Heart's Spectre flitting through the brain<br/>Scoffs at the Exorcism which would remove.<br/><br/>And where is He thou lovedst? in the tomb,<br/>  Where should the happy Lover be!<br/>For him could Time unfold a brighter doom,<br/>  Or offer aught like thee?<br/>He in the thickest battle died,<br/>  Where Death is Pride;<br/>And _Thou_ his widow--not his bride,<br/>  Wer't not more free--<br/>_Here_ where all love, till Love is made<br/>  A bondage or a trade,<br/>_Here_--thou so redolent of Beauty,<br/>In whom Caprice had seemed a duty,<br/>_Thou_, who could'st trample and despise<br/>The holiest chain of human ties<br/>For him, the dear One in thine eyes,<br/>  Broke it no more.<br/>Thy heart was withered to it's Core,<br/>It's hopes, it's fears, it's feelings o'er:<br/>Thy Blood grew Ice when _his_ was shed,<br/>And Thou the Vestal of the Dead.<br/><br/>Thy Lover died, as All<br/>  Who truly love should die;<br/>For such are worthy in the fight to fall<br/>  Triumphantly.<br/>No Cuirass o'er that glowing heart<br/>The deadly bullet turned apart:<br/>Love had bestowed a richer Mail,<br/>  Like Thetis on her Son;<br/>But hers at last was vain, and thine could fail--<br/>  The hero's and the lover's race was run.<br/>Thy worshipped portrait, thy sweet face,<br/>_Without_ that bosom kept it's place<br/>  As Thou _within_.<br/>Oh! enviously destined Ball!<br/>Shivering thine imaged charms and all<br/>  Those Charms would win:<br/>Together pierced, the fatal Stroke hath gored<br/>Votary and Shrine, the adoring and the adored.<br/>  That Heart's last throb was thine, that blood<br/>  Baptized thine Image in it's flood,<br/>  And gushing from the fount of Faith<br/>  O'erflowed with Passion even in Death,<br/>Constant to thee as in it's hour<br/>Of rapture in the secret bower.<br/>Thou too hast kept thy plight full well,<br/>As many a baffled Heart can tell.
 </p>
 
 ***
