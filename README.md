@@ -14,7 +14,7 @@
 | --- | --- |  --- |  --- |
 | AntoineLemaire/BlacklistBundle|https://github.com/AntoineLemaire/BlacklistBundle|3|Provides a Blacklist system for Symfony using Annotations with Sonata admin integration|
 | milaabl/GitHub_Follower_Bot_Automated|https://github.com/milaabl/GitHub_Follower_Bot_Automated|5|Automated GitHub Follower Bot - You Follow Me ---> My Bot Follows you Back! Let's growth! Learn how you can set it up also!|
-| regolith-labs/ore-cli|https://github.com/regolith-labs/ore-cli|1478|Command line interface for ORE cryptocurrency mining.|
+| regolith-labs/ore-cli|https://github.com/regolith-labs/ore-cli|1477|Command line interface for ORE cryptocurrency mining.|
 | phoboslab/high_impact|https://github.com/phoboslab/high_impact|1096|A 2d game engine written in C|
 | Xe/praise-me|https://github.com/Xe/praise-me|141|Praise my GitHub profile!|
 | OfficialCodeVoyage/GitHub_Follower_Bot_Automated|https://github.com/OfficialCodeVoyage/GitHub_Follower_Bot_Automated|58| You Follow Me ---> My Bot Follows you Back! Let's growth! Learn how you can set it up also!|
@@ -39,8 +39,8 @@
 | CloverGit/CloverGit|https://github.com/CloverGit/CloverGit|8||
 | TatevKaren/TatevKaren-data-science-portfolio|https://github.com/TatevKaren/TatevKaren-data-science-portfolio|62|Data Science Portfolio of Tatev Karen Aslanyan including Case Studies and Research Projects that I have completed that solve business problems or introduce new products. Case Study papers, codes, and additional resources are all included.|
 | PiotrRut/elonmusk-twitter-notifier|https://github.com/PiotrRut/elonmusk-twitter-notifier|61|AI driven e-mail notifier for tweets mentioning stock from Elon Musk 📈|
-| Vendicated/Vencord|https://github.com/Vendicated/Vencord|10106|The cutest Discord client mod|
-| yeoman/yo|https://github.com/yeoman/yo|3878|CLI tool for running Yeoman generators|
+| Vendicated/Vencord|https://github.com/Vendicated/Vencord|10112|The cutest Discord client mod|
+| yeoman/yo|https://github.com/yeoman/yo|3880|CLI tool for running Yeoman generators|
 | matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|3159|zkSync era|
 
 <!-- Starred repos end -->
@@ -51,10 +51,10 @@
   <summary>📚 <strong>A random poem from <em>https://poetrydb.org/random</em>!</strong> 👇 </summary>
 
 <!-- Start poem -->
-# 💮 In Memoriam A. H. H.: 7. Dark house, by which once more I s by *Lord Alfred Tennyson*
+# 💮 To Ianthe by *Percy Bysshe Shelley*
 
 <p>
-    Dark house, by which once more I stand<br/>Here in the long unlovely street,<br/>Doors, where my heart was used to beat<br/>So quickly, waiting for a hand,<br/>A hand that can be clasp'd no more--<br/>Behold me, for I cannot sleep,<br/>And like a guilty thing I creep<br/>At earliest morning to the door.<br/>He is not here; but far away<br/>The noise of life begins again,<br/>And ghastly thro' the drizzling rain<br/>On the bald street breaks the blank day.
+    I love thee, Baby! for thine own sweet sake;<br/>Those azure eyes, that faintly dimpled cheek,<br/>Thy tender frame, so eloquently weak,<br/>Love in the sternest heart of hate might wake;<br/>But more when o'er thy fitful slumber bending<br/>Thy mother folds thee to her wakeful heart,<br/>Whilst love and pity, in her glances blending,<br/>All that thy passive eyes can feel impart:<br/>More, when some feeble lineaments of her,<br/>Who bore thy weight beneath her spotless bosom,<br/>As with deep love I read thy face, recur,--<br/>More dear art thou, O fair and fragile blossom;<br/>Dearest when most thy tender traits express<br/>The image of thy mother's loveliness.
 </p>
 
 ***
