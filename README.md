@@ -37,10 +37,10 @@
 | CloverGit/CloverGit|https://github.com/CloverGit/CloverGit|8||
 | TatevKaren/TatevKaren-data-science-portfolio|https://github.com/TatevKaren/TatevKaren-data-science-portfolio|63|Data Science Portfolio of Tatev Karen Aslanyan including Case Studies and Research Projects that I have completed that solve business problems or introduce new products. Case Study papers, codes, and additional resources are all included.|
 | PiotrRut/elonmusk-twitter-notifier|https://github.com/PiotrRut/elonmusk-twitter-notifier|61|AI driven e-mail notifier for tweets mentioning stock from Elon Musk 📈|
-| Vendicated/Vencord|https://github.com/Vendicated/Vencord|10200|The cutest Discord client mod|
-| yeoman/yo|https://github.com/yeoman/yo|3880|CLI tool for running Yeoman generators|
+| Vendicated/Vencord|https://github.com/Vendicated/Vencord|10209|The cutest Discord client mod|
+| yeoman/yo|https://github.com/yeoman/yo|3881|CLI tool for running Yeoman generators|
 | matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|3159|zkSync era|
-| 0age/create2crunch|https://github.com/0age/create2crunch|512|A Rust program for finding salts that create gas-efficient Ethereum addresses via CREATE2.|
+| 0age/create2crunch|https://github.com/0age/create2crunch|514|A Rust program for finding salts that create gas-efficient Ethereum addresses via CREATE2.|
 | joshstevens19/ethereum-multicall|https://github.com/joshstevens19/ethereum-multicall|369|Ability to call many ethereum constant function calls in 1 JSONRPC request|
 
 <!-- Starred repos end -->
@@ -51,10 +51,10 @@
   <summary>📚 <strong>A random poem from <em>https://poetrydb.org/random</em>!</strong> 👇 </summary>
 
 <!-- Start poem -->
-# 💮 To Romance by *George Gordon, Lord Byron*
+# 💮 The Ants by *John Clare*
 
 <p>
-    Parent of golden dreams, Romance!<br/>  Auspicious Queen of childish joys,<br/>Who lead'st along, in airy dance,<br/>  Thy votive train of girls and boys;<br/>At length, in spells no longer bound,<br/>  I break the fetters of my youth;<br/>No more I tread thy mystic round,<br/>  But leave thy realms for those of Truth.<br/><br/>And yet 'tis hard to quit the dreams<br/>  Which haunt the unsuspicious soul,<br/>Where every nymph a goddess seems,<br/>  Whose eyes through rays immortal roll;<br/>While Fancy holds her boundless reign,<br/>  And all assume a varied hue;<br/>When Virgins seem no longer vain,<br/>  And even Woman's smiles are true.<br/><br/>And must we own thee, but a name,<br/>  And from thy hall of clouds descend?<br/>Nor find a Sylph in every dame,<br/>  A Pylades in every friend?<br/>But leave, at once, thy realms of air<br/>  To mingling bands of fairy elves;<br/>Confess that woman's false as fair,<br/>  And friends have feeling for--themselves?<br/><br/>With shame, I own, I've felt thy sway;<br/>  Repentant, now thy reign is o'er;<br/>No more thy precepts I obey,<br/>  No more on fancied pinions soar;<br/>Fond fool! to love a sparkling eye,<br/>  And think that eye to truth was dear;<br/>To trust a passing wanton's sigh,<br/>And melt beneath a wanton's tear!<br/><br/>Romance! disgusted with deceit,<br/>  Far from thy motley court I fly,<br/>Where Affectation holds her seat,<br/>  And sickly Sensibility;<br/>Whose silly tears can never flow<br/>  For any pangs excepting thine;<br/>Who turns aside from real woe,<br/>  To steep in dew thy gaudy shrine.<br/><br/>Now join with sable Sympathy,<br/>  With cypress crown'd, array'd in weeds,<br/>Who heaves with thee her simple sigh,<br/>  Whose breast for every bosom bleeds;<br/>And call thy sylvan female choir,<br/>  To mourn a Swain for ever gone,<br/>Who once could glow with equal fire,<br/>  But bends not now before thy throne.<br/><br/>Ye genial Nymphs, whose ready tears<br/>  On all occasions swiftly flow;<br/>Whose bosoms heave with fancied fears,<br/>  With fancied flames and phrenzy glow<br/>Say, will you mourn my absent name,<br/>  Apostate from your gentle train?<br/>An infant Bard, at least, may claim<br/>  From you a sympathetic strain.<br/><br/>Adieu, fond race! a long adieu!<br/>  The hour of fate is hovering nigh;<br/>E'en now the gulf appears in view,<br/>  Where unlamented you must lie:<br/>Oblivion's blackening lake is seen,<br/>  Convuls'd by gales you cannot weather,<br/>Where you, and eke your gentle queen,<br/>  Alas! must perish altogether.
+    What wonder strikes the curious, while he views<br/>  The black ant's city, by a rotten tree,<br/>Or woodland bank! In ignorance we muse:<br/>  Pausing, annoyed,--we know not what we see,<br/>  Such government and thought there seem to be;<br/>Some looking on, and urging some to toil,<br/>  Dragging their loads of bent-stalks slavishly:<br/>And what's more wonderful, when big loads foil<br/>  One ant or two to carry, quickly then<br/>A swarm flock round to help their fellow-men.<br/>  Surely they speak a language whisperingly,<br/>Too fine for us to hear; and sure their ways<br/>  Prove they have kings and laws, and that they be<br/>Deformed remnants of the Fairy-days.
 </p>
 
 ***
