@@ -37,8 +37,8 @@
 | CloverGit/CloverGit|https://github.com/CloverGit/CloverGit|8||
 | TatevKaren/TatevKaren-data-science-portfolio|https://github.com/TatevKaren/TatevKaren-data-science-portfolio|63|Data Science Portfolio of Tatev Karen Aslanyan including Case Studies and Research Projects that I have completed that solve business problems or introduce new products. Case Study papers, codes, and additional resources are all included.|
 | PiotrRut/elonmusk-twitter-notifier|https://github.com/PiotrRut/elonmusk-twitter-notifier|61|AI driven e-mail notifier for tweets mentioning stock from Elon Musk 📈|
-| Vendicated/Vencord|https://github.com/Vendicated/Vencord|10209|The cutest Discord client mod|
-| yeoman/yo|https://github.com/yeoman/yo|3881|CLI tool for running Yeoman generators|
+| Vendicated/Vencord|https://github.com/Vendicated/Vencord|10214|The cutest Discord client mod|
+| yeoman/yo|https://github.com/yeoman/yo|3882|CLI tool for running Yeoman generators|
 | matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|3159|zkSync era|
 | 0age/create2crunch|https://github.com/0age/create2crunch|514|A Rust program for finding salts that create gas-efficient Ethereum addresses via CREATE2.|
 | joshstevens19/ethereum-multicall|https://github.com/joshstevens19/ethereum-multicall|369|Ability to call many ethereum constant function calls in 1 JSONRPC request|
@@ -51,10 +51,10 @@
   <summary>📚 <strong>A random poem from <em>https://poetrydb.org/random</em>!</strong> 👇 </summary>
 
 <!-- Start poem -->
-# 💮 The Ants by *John Clare*
+# 💮 Autumn: A Dirge by *Percy Bysshe Shelley*
 
 <p>
-    What wonder strikes the curious, while he views<br/>  The black ant's city, by a rotten tree,<br/>Or woodland bank! In ignorance we muse:<br/>  Pausing, annoyed,--we know not what we see,<br/>  Such government and thought there seem to be;<br/>Some looking on, and urging some to toil,<br/>  Dragging their loads of bent-stalks slavishly:<br/>And what's more wonderful, when big loads foil<br/>  One ant or two to carry, quickly then<br/>A swarm flock round to help their fellow-men.<br/>  Surely they speak a language whisperingly,<br/>Too fine for us to hear; and sure their ways<br/>  Prove they have kings and laws, and that they be<br/>Deformed remnants of the Fairy-days.
+    The warm sun is failing, the bleak wind is wailing,<br/>The bare boughs are sighing, the pale flowers are dying,<br/>And the Year<br/>On the earth her death-bed, in a shroud of leaves dead,<br/>Is lying.<br/>Come, Months, come away,<br/>From November to May,<br/>In your saddest array;<br/>Follow the bier<br/>Of the dead cold Year,<br/>And like dim shadows watch by her sepulchre.<br/><br/>The chill rain is falling, the nipped worm is crawling,<br/>The rivers are swelling, the thunder is knelling<br/>For the Year;<br/>The blithe swallows are flown, and the lizards each gone<br/>To his dwelling;<br/>Come, Months, come away;<br/>Put on white, black, and gray;<br/>Let your light sisters play--<br/>Ye, follow the bier<br/>Of the dead cold Year,<br/>And make her grave green with tear on tear.
 </p>
 
 ***
