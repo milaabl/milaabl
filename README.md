@@ -32,14 +32,14 @@
 | przemek890/Gender_prediction|https://github.com/przemek890/Gender_prediction|3|An application that utilizes camera input to predict a person's gender using a convolutional layer in PyTorch.|
 | pieralukasz/pixel-recruitment-task|https://github.com/pieralukasz/pixel-recruitment-task|1|Zadanie rekrutacyjne Pixel Technology|
 | SaraRasoulian/oop-solid-patterns|https://github.com/SaraRasoulian/oop-solid-patterns|19|💎  An educational repository for OOP, SOLID and Design Patterns|
-| BogdanMFometescu/resume-builder|https://github.com/BogdanMFometescu/resume-builder|15|Django-based web application that allows users to create, update, and export professional resumes.|
+| BogdanMFometescu/resume-builder|https://github.com/BogdanMFometescu/resume-builder|16|Django-based web application that allows users to create, update, and export professional resumes.|
 | 0xMimir/Advance-CNN-LSTM-Model-for-Cryptocurrency-Forecasting|https://github.com/0xMimir/Advance-CNN-LSTM-Model-for-Cryptocurrency-Forecasting|11|CNN LSTM model used for predicting cryptocurrencies|
 | CloverGit/CloverGit|https://github.com/CloverGit/CloverGit|8||
 | TatevKaren/TatevKaren-data-science-portfolio|https://github.com/TatevKaren/TatevKaren-data-science-portfolio|63|Data Science Portfolio of Tatev Karen Aslanyan including Case Studies and Research Projects that I have completed that solve business problems or introduce new products. Case Study papers, codes, and additional resources are all included.|
 | PiotrRut/elonmusk-twitter-notifier|https://github.com/PiotrRut/elonmusk-twitter-notifier|61|AI driven e-mail notifier for tweets mentioning stock from Elon Musk 📈|
-| Vendicated/Vencord|https://github.com/Vendicated/Vencord|10220|The cutest Discord client mod|
+| Vendicated/Vencord|https://github.com/Vendicated/Vencord|10227|The cutest Discord client mod|
 | yeoman/yo|https://github.com/yeoman/yo|3884|CLI tool for running Yeoman generators|
-| matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|3159|zkSync era|
+| matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|3160|zkSync era|
 | 0age/create2crunch|https://github.com/0age/create2crunch|514|A Rust program for finding salts that create gas-efficient Ethereum addresses via CREATE2.|
 | joshstevens19/ethereum-multicall|https://github.com/joshstevens19/ethereum-multicall|369|Ability to call many ethereum constant function calls in 1 JSONRPC request|
 
@@ -51,10 +51,10 @@
   <summary>📚 <strong>A random poem from <em>https://poetrydb.org/random</em>!</strong> 👇 </summary>
 
 <!-- Start poem -->
-# 💮 Translation of the Nurse's Dole in the _Medea_ of Euripides by *George Gordon, Lord Byron*
+# 💮 Lines Inscribed upon a Cup Formed From a Skull by *George Gordon, Lord Byron*
 
 <p>
-    OH how I wish that an embargo<br/>Had kept in port the good ship Argo!<br/>Who, still unlaunched from Grecian docks,<br/>Had never passed the Azure rocks;<br/>But now I fear her trip will be a<br/>Damn'd business for my Miss Medea, etc., etc.
+    Start not--nor deem my spirit fled:<br/>  In me behold the only skull,<br/>From which, unlike a living head,<br/>  Whatever flows is never dull.<br/><br/>I lived, I loved, I quaff'd, like thee:<br/>  I died: let earth my bones resign;<br/>Fill up--thou canst not injure me;<br/>  The worm hath fouler lips than thine.<br/><br/>Better to hold the sparkling grape,<br/>  Than nurse the earth-worm's slimy brood;<br/>And circle in the goblet's shape<br/>  The drink of Gods, than reptile's food.<br/><br/>Where once my wit, perchance, hath shone,<br/>  In aid of others' let me shine;<br/>And when, alas! our brains are gone,<br/>  What nobler substitute than wine?<br/><br/>Quaff while thou canst: another race,<br/>  When thou and thine, like me, are sped,<br/>May rescue thee from earth's embrace,<br/>  And rhyme and revel with the dead.<br/><br/>Why not? since through life's little day<br/>  Our heads such sad effects produce;<br/>Redeem'd from worms and wasting clay,<br/>  This chance is theirs, to be of use.
 </p>
 
 ***
