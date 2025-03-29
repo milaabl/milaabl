@@ -15,7 +15,7 @@
 | AntoineLemaire/BlacklistBundle|https://github.com/AntoineLemaire/BlacklistBundle|3|Provides a Blacklist system for Symfony using Annotations with Sonata admin integration|
 | milaabl/GitHub_Follower_Bot_Automated|https://github.com/milaabl/GitHub_Follower_Bot_Automated|5|Automated GitHub Follower Bot - You Follow Me ---> My Bot Follows you Back! Let's growth! Learn how you can set it up also!|
 | regolith-labs/ore-cli|https://github.com/regolith-labs/ore-cli|1482|Command line interface for ORE cryptocurrency mining.|
-| phoboslab/high_impact|https://github.com/phoboslab/high_impact|1095|A 2d game engine written in C|
+| phoboslab/high_impact|https://github.com/phoboslab/high_impact|1094|A 2d game engine written in C|
 | Xe/praise-me|https://github.com/Xe/praise-me|141|Praise my GitHub profile!|
 | OfficialCodeVoyage/GitHub_Follower_Bot_Automated|https://github.com/OfficialCodeVoyage/GitHub_Follower_Bot_Automated|60| You Follow Me ---> My Bot Follows you Back! Let's growth! Learn how you can set it up also!|
 | OfficialCodeVoyage/leetcode|https://github.com/OfficialCodeVoyage/leetcode|22|LeetCode practice|
@@ -37,9 +37,9 @@
 | CloverGit/CloverGit|https://github.com/CloverGit/CloverGit|8||
 | TatevKaren/TatevKaren-data-science-portfolio|https://github.com/TatevKaren/TatevKaren-data-science-portfolio|63|Data Science Portfolio of Tatev Karen Aslanyan including Case Studies and Research Projects that I have completed that solve business problems or introduce new products. Case Study papers, codes, and additional resources are all included.|
 | PiotrRut/elonmusk-twitter-notifier|https://github.com/PiotrRut/elonmusk-twitter-notifier|61|AI driven e-mail notifier for tweets mentioning stock from Elon Musk 📈|
-| Vendicated/Vencord|https://github.com/Vendicated/Vencord|10320|The cutest Discord client mod|
+| Vendicated/Vencord|https://github.com/Vendicated/Vencord|10335|The cutest Discord client mod|
 | yeoman/yo|https://github.com/yeoman/yo|3885|CLI tool for running Yeoman generators|
-| matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|3161|zkSync era|
+| matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|3163|zkSync era|
 | 0age/create2crunch|https://github.com/0age/create2crunch|514|A Rust program for finding salts that create gas-efficient Ethereum addresses via CREATE2.|
 | joshstevens19/ethereum-multicall|https://github.com/joshstevens19/ethereum-multicall|369|Ability to call many ethereum constant function calls in 1 JSONRPC request|
 
@@ -51,10 +51,10 @@
   <summary>📚 <strong>A random poem from <em>https://poetrydb.org/random</em>!</strong> 👇 </summary>
 
 <!-- Start poem -->
-# 💮 The Spell Is Broke, the Charm Is Flown! by *George Gordon, Lord Byron*
+# 💮 The Lost Pilot by *Edward Taylor*
 
 <p>
-    The spell is broke, the charm is flown!<br/>  Thus is it with Life's fitful fever:<br/>We madly smile when we should groan;<br/>  Delirium is our best deceiver.<br/>Each lucid interval of thought<br/>  Recalls the woes of Nature's charter;<br/>And _He_ that acts as _wise men ought_,<br/>  But _lives_--as Saints have died--a martyr.
+    for my father, 1922-1944<br/><br/>Your face did not rot<br/>like the others--the co-pilot,<br/>for example, I saw him<br/><br/>yesterday. His face is corn-<br/>mush: his wife and daughter,<br/>the poor ignorant people, stare<br/><br/>as if he will compose soon.<br/>He was more wronged than Job.<br/>But your face did not rot<br/><br/>like the others--it grew dark,<br/>and hard like ebony;<br/>the features progressed in their<br/><br/>distinction. If I could cajole<br/>you to come back for an evening,<br/>down from your compulsive<br/><br/>orbiting, I would touch you,<br/>read your face as Dallas,<br/>your hoodlum gunner, now,<br/><br/>with the blistered eyes, reads<br/>his braille editions. I would<br/>touch your face as a disinterested<br/><br/>scholar touches an original page.<br/>However frightening, I would<br/>discover you, and I would not<br/><br/>turn you in; I would not make<br/>you face your wife, or Dallas,<br/>or the co-pilot, Jim. You<br/><br/>could return to your crazy<br/>orbiting, and I would not try<br/>to fully understand what<br/><br/>it means to you. All I know<br/>is this: when I see you,<br/>as I have seen you at least<br/><br/>once every year of my life,<br/>spin across the wilds of the sky<br/>like a tiny, African god,<br/><br/>I feel dead. I feel as if I were<br/>the residue of a stranger's life,<br/>that I should pursue you.<br/><br/>My head cocked toward the sky,<br/>I cannot get off the ground,<br/>and, you, passing over again,<br/><br/>fast, perfect, and unwilling<br/>to tell me that you are doing<br/>well, or that it was mistake<br/><br/>that placed you in that world,<br/>and me in this; or that misfortune<br/>placed these worlds in us.
 </p>
 
 ***
