@@ -15,7 +15,7 @@
 | AntoineLemaire/BlacklistBundle|https://github.com/AntoineLemaire/BlacklistBundle|3|Provides a Blacklist system for Symfony using Annotations with Sonata admin integration|
 | milaabl/GitHub_Follower_Bot_Automated|https://github.com/milaabl/GitHub_Follower_Bot_Automated|5|Automated GitHub Follower Bot - You Follow Me ---> My Bot Follows you Back! Let's growth! Learn how you can set it up also!|
 | regolith-labs/ore-cli|https://github.com/regolith-labs/ore-cli|1482|Command line interface for ORE cryptocurrency mining.|
-| phoboslab/high_impact|https://github.com/phoboslab/high_impact|1095|A 2d game engine written in C|
+| phoboslab/high_impact|https://github.com/phoboslab/high_impact|1094|A 2d game engine written in C|
 | Xe/praise-me|https://github.com/Xe/praise-me|141|Praise my GitHub profile!|
 | OfficialCodeVoyage/GitHub_Follower_Bot_Automated|https://github.com/OfficialCodeVoyage/GitHub_Follower_Bot_Automated|61| You Follow Me ---> My Bot Follows you Back! Let's growth! Learn how you can set it up also!|
 | OfficialCodeVoyage/leetcode|https://github.com/OfficialCodeVoyage/leetcode|22|LeetCode practice|
@@ -37,11 +37,11 @@
 | CloverGit/CloverGit|https://github.com/CloverGit/CloverGit|8||
 | TatevKaren/TatevKaren-data-science-portfolio|https://github.com/TatevKaren/TatevKaren-data-science-portfolio|63|Data Science Portfolio of Tatev Karen Aslanyan including Case Studies and Research Projects that I have completed that solve business problems or introduce new products. Case Study papers, codes, and additional resources are all included.|
 | PiotrRut/elonmusk-twitter-notifier|https://github.com/PiotrRut/elonmusk-twitter-notifier|61|AI driven e-mail notifier for tweets mentioning stock from Elon Musk 📈|
-| Vendicated/Vencord|https://github.com/Vendicated/Vencord|10416|The cutest Discord client mod|
-| yeoman/yo|https://github.com/yeoman/yo|3880|CLI tool for running Yeoman generators|
-| matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|3162|zkSync era|
+| Vendicated/Vencord|https://github.com/Vendicated/Vencord|10426|The cutest Discord client mod|
+| yeoman/yo|https://github.com/yeoman/yo|3881|CLI tool for running Yeoman generators|
+| matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|3163|zkSync era|
 | 0age/create2crunch|https://github.com/0age/create2crunch|515|A Rust program for finding salts that create gas-efficient Ethereum addresses via CREATE2.|
-| joshstevens19/ethereum-multicall|https://github.com/joshstevens19/ethereum-multicall|369|Ability to call many ethereum constant function calls in 1 JSONRPC request|
+| joshstevens19/ethereum-multicall|https://github.com/joshstevens19/ethereum-multicall|370|Ability to call many ethereum constant function calls in 1 JSONRPC request|
 
 <!-- Starred repos end -->
 
@@ -51,10 +51,10 @@
   <summary>📚 <strong>A random poem from <em>https://poetrydb.org/random</em>!</strong> 👇 </summary>
 
 <!-- Start poem -->
-# 💮 Hymn of Apollo by *Percy Bysshe Shelley*
+# 💮 Women's Rights by *Annie Louisa Walker*
 
 <p>
-    The sleepless Hours who watch me as I lie,<br/>Curtained with star-inwoven tapestries<br/>From the broad moonlight of the sky,<br/>Fanning the busy dreams from my dim eyes,--<br/>Waken me when their Mother, the gray Dawn,<br/>Tells them that dreams and that the moon is gone.<br/><br/>Then I arise, and climbing Heaven's blue dome,<br/>I walk over the mountains and the waves,<br/>Leaving my robe upon the ocean foam;<br/>My footsteps pave the clouds with fire; the caves<br/>Are filled with my bright presence, and the air<br/>Leaves the green Earth to my embraces bare.<br/><br/>The sunbeams are my shafts, with which I kill<br/>Deceit, that loves the night and fears the day;<br/>All men who do or even imagine ill<br/>Fly me, and from the glory of my ray<br/>Good minds and open actions take new might,<br/>Until diminished by the reign of Night.<br/><br/>I feed the clouds, the rainbows and the flowers<br/>With their aethereal colours; the moon's globe<br/>And the pure stars in their eternal bowers<br/>Are cinctured with my power as with a robe;<br/>Whatever lamps on Earth or Heaven may shine<br/>Are portions of one power, which is mine.<br/><br/>I stand at noon upon the peak of Heaven,<br/>Then with unwilling steps I wander down<br/>Into the clouds of the Atlantic even;<br/>For grief that I depart they weep and frown:<br/>What look is more delightful than the smile<br/>With which I soothe them from the western isle?<br/><br/>I am the eye with which the Universe<br/>Beholds itself and knows itself divine;<br/>All harmony of instrument or verse,<br/>All prophecy, all medicine is mine,<br/>All light of art or nature;--to my song<br/>Victory and praise in its own right belong.
+    You cannot rob us of the rights we cherish,<br/>Nor turn our thoughts away<br/>From the bright picture of a "Woman's Mission"<br/>Our hearts portray.<br/><br/>We claim to dwell, in quiet and seclusion,<br/>Beneath the household roof,--<br/>From the great world's harsh strife, and jarring voices,<br/>To stand aloof;--<br/><br/>Not in a dreamy and inane abstraction<br/>To sleep our life away,<br/>But, gathering up the brightness of home sunshine,<br/>To deck our way.<br/><br/>As humble plants by country hedgerows growing,<br/>That treasure up the rain,<br/>And yield in odours, ere the day's declining,<br/>The gift again;<br/><br/>So let us, unobtrusive and unnoticed,<br/>But happy none the less,<br/>Be privileged to fill the air around us<br/>With happiness;<br/><br/>To live, unknown beyond the cherished circle,<br/>Which we can bless and aid;<br/>To die, and not a heart that does not love us<br/>Know where we're laid.
 </p>
 
 ***
