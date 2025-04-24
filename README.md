@@ -37,9 +37,9 @@
 | CloverGit/CloverGit|https://github.com/CloverGit/CloverGit|8||
 | TatevKaren/TatevKaren-data-science-portfolio|https://github.com/TatevKaren/TatevKaren-data-science-portfolio|63|Data Science Portfolio of Tatev Karen Aslanyan including Case Studies and Research Projects that I have completed that solve business problems or introduce new products. Case Study papers, codes, and additional resources are all included.|
 | PiotrRut/elonmusk-twitter-notifier|https://github.com/PiotrRut/elonmusk-twitter-notifier|61|AI driven e-mail notifier for tweets mentioning stock from Elon Musk 📈|
-| Vendicated/Vencord|https://github.com/Vendicated/Vencord|10590|The cutest Discord client mod|
+| Vendicated/Vencord|https://github.com/Vendicated/Vencord|10598|The cutest Discord client mod|
 | yeoman/yo|https://github.com/yeoman/yo|3883|CLI tool for running Yeoman generators|
-| matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|3166|zkSync era|
+| matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|3168|zkSync era|
 | 0age/create2crunch|https://github.com/0age/create2crunch|516|A Rust program for finding salts that create gas-efficient Ethereum addresses via CREATE2.|
 | joshstevens19/ethereum-multicall|https://github.com/joshstevens19/ethereum-multicall|372|Ability to call many ethereum constant function calls in 1 JSONRPC request|
 
@@ -51,10 +51,10 @@
   <summary>📚 <strong>A random poem from <em>https://poetrydb.org/random</em>!</strong> 👇 </summary>
 
 <!-- Start poem -->
-# 💮 Stella's Birthday March 13, 1719 by *Jonathan Swift*
+# 💮 Sonnet by *Percy Bysshe Shelley*
 
 <p>
-    Stella this day is thirty-four,<br/>(We shan't dispute a year or more:)<br/>However, Stella, be not troubled,<br/>Although thy size and years are doubled,<br/>Since first I saw thee at sixteen,<br/>The brightest virgin on the green;<br/>So little is thy form declin'd;<br/>Made up so largely in thy mind.<br/><br/>Oh, would it please the gods to split<br/>Thy beauty, size, and years, and wit;<br/>No age could furnish out a pair<br/>Of nymphs so graceful, wise, and fair;<br/>With half the lustre of your eyes,<br/>With half your wit, your years, and size.<br/>And then, before it grew too late,<br/>How should I beg of gentle Fate,<br/>(That either nymph might have her swain,)<br/>To split my worship too in twain.
+    FROM THE ITALIAN OF DANTE.<br/><br/>DANTE ALIGHIERI TO GUIDO CAVALCANTI:<br/><br/>Guido, I would that Lapo, thou, and I,<br/>Led by some strong enchantment, might ascend<br/>A magic ship, whose charmed sails should fly<br/>With winds at will where'er our thoughts might wend,<br/>So that no change, nor any evil chance<br/>Should mar our joyous voyage; but it might be,<br/>That even satiety should still enhance<br/>Between our hearts their strict community:<br/>And that the bounteous wizard then would place<br/>Vanna and Bice and my gentle love,<br/>Companions of our wandering, and would grace<br/>With passionate talk, wherever we might rove,<br/>Our time, and each were as content and free<br/>As I believe that thou and I should be.
 </p>
 
 ***
