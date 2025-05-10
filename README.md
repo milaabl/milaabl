@@ -15,7 +15,7 @@
 | AntoineLemaire/BlacklistBundle|https://github.com/AntoineLemaire/BlacklistBundle|3|Provides a Blacklist system for Symfony using Annotations with Sonata admin integration|
 | milaabl/GitHub_Follower_Bot_Automated|https://github.com/milaabl/GitHub_Follower_Bot_Automated|6|Automated GitHub Follower Bot - You Follow Me ---> My Bot Follows you Back! Let's growth! Learn how you can set it up also!|
 | regolith-labs/ore-cli|https://github.com/regolith-labs/ore-cli|1484|Command line interface for ORE cryptocurrency mining.|
-| phoboslab/high_impact|https://github.com/phoboslab/high_impact|1095|A 2d game engine written in C|
+| phoboslab/high_impact|https://github.com/phoboslab/high_impact|1093|A 2d game engine written in C|
 | Xe/praise-me|https://github.com/Xe/praise-me|141|Praise my GitHub profile!|
 | OfficialCodeVoyage/GitHub_Follower_Bot_Automated|https://github.com/OfficialCodeVoyage/GitHub_Follower_Bot_Automated|67| You Follow Me ---> My Bot Follows you Back! Let's growth! Learn how you can set it up also!|
 | OfficialCodeVoyage/leetcode|https://github.com/OfficialCodeVoyage/leetcode|23|LeetCode practice|
@@ -37,9 +37,9 @@
 | CloverGit/CloverGit|https://github.com/CloverGit/CloverGit|8||
 | TatevKaren/TatevKaren-data-science-portfolio|https://github.com/TatevKaren/TatevKaren-data-science-portfolio|63|Data Science Portfolio of Tatev Karen Aslanyan including Case Studies and Research Projects that I have completed that solve business problems or introduce new products. Case Study papers, codes, and additional resources are all included.|
 | PiotrRut/elonmusk-twitter-notifier|https://github.com/PiotrRut/elonmusk-twitter-notifier|61|AI driven e-mail notifier for tweets mentioning stock from Elon Musk 📈|
-| Vendicated/Vencord|https://github.com/Vendicated/Vencord|10694|The cutest Discord client mod|
+| Vendicated/Vencord|https://github.com/Vendicated/Vencord|10699|The cutest Discord client mod|
 | yeoman/yo|https://github.com/yeoman/yo|3887|CLI tool for running Yeoman generators|
-| matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|3167|zkSync era|
+| matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|3168|zkSync era|
 | 0age/create2crunch|https://github.com/0age/create2crunch|516|A Rust program for finding salts that create gas-efficient Ethereum addresses via CREATE2.|
 | joshstevens19/ethereum-multicall|https://github.com/joshstevens19/ethereum-multicall|373|Ability to call many ethereum constant function calls in 1 JSONRPC request|
 
@@ -51,10 +51,10 @@
   <summary>📚 <strong>A random poem from <em>https://poetrydb.org/random</em>!</strong> 👇 </summary>
 
 <!-- Start poem -->
-# 💮 To Harriet by *Percy Bysshe Shelley*
+# 💮 To My Mother by *Edgar Allan Poe*
 
 <p>
-    Ever as now with Love and Virtue's glow<br/>May thy unwithering soul not cease to burn,<br/>Still may thine heart with those pure thoughts o'erflow<br/>Which force from mine such quick and warm return.
+    Because I feel that, in the Heavens above,<br/>  The angels, whispering to one another,<br/>Can find, among their burning terms of love,<br/>  None so devotional as that of "Mother,"<br/>Therefore by that dear name I long have called you--<br/>  You who are more than mother unto me,<br/>And fill my heart of hearts, where Death installed you,<br/>  In setting my Virginia's spirit free.<br/>My mother--my own mother, who died early,<br/>  Was but the mother of myself; but you<br/>Are mother to the one I loved so dearly,<br/>  And thus are dearer than the mother I knew<br/>By that infinity with which my wife<br/>  Was dearer to my soul than its soul-life.
 </p>
 
 ***
