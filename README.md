@@ -37,9 +37,9 @@
 | CloverGit/CloverGit|https://github.com/CloverGit/CloverGit|8||
 | TatevKaren/TatevKaren-data-science-portfolio|https://github.com/TatevKaren/TatevKaren-data-science-portfolio|63|Data Science Portfolio of Tatev Karen Aslanyan including Case Studies and Research Projects that I have completed that solve business problems or introduce new products. Case Study papers, codes, and additional resources are all included.|
 | PiotrRut/elonmusk-twitter-notifier|https://github.com/PiotrRut/elonmusk-twitter-notifier|61|AI driven e-mail notifier for tweets mentioning stock from Elon Musk 📈|
-| Vendicated/Vencord|https://github.com/Vendicated/Vencord|10699|The cutest Discord client mod|
+| Vendicated/Vencord|https://github.com/Vendicated/Vencord|10706|The cutest Discord client mod|
 | yeoman/yo|https://github.com/yeoman/yo|3887|CLI tool for running Yeoman generators|
-| matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|3168|zkSync era|
+| matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|3167|zkSync era|
 | 0age/create2crunch|https://github.com/0age/create2crunch|516|A Rust program for finding salts that create gas-efficient Ethereum addresses via CREATE2.|
 | joshstevens19/ethereum-multicall|https://github.com/joshstevens19/ethereum-multicall|373|Ability to call many ethereum constant function calls in 1 JSONRPC request|
 
@@ -51,10 +51,10 @@
   <summary>📚 <strong>A random poem from <em>https://poetrydb.org/random</em>!</strong> 👇 </summary>
 
 <!-- Start poem -->
-# 💮 To My Mother by *Edgar Allan Poe*
+# 💮 On Napoleon's Escape From Elba by *George Gordon, Lord Byron*
 
 <p>
-    Because I feel that, in the Heavens above,<br/>  The angels, whispering to one another,<br/>Can find, among their burning terms of love,<br/>  None so devotional as that of "Mother,"<br/>Therefore by that dear name I long have called you--<br/>  You who are more than mother unto me,<br/>And fill my heart of hearts, where Death installed you,<br/>  In setting my Virginia's spirit free.<br/>My mother--my own mother, who died early,<br/>  Was but the mother of myself; but you<br/>Are mother to the one I loved so dearly,<br/>  And thus are dearer than the mother I knew<br/>By that infinity with which my wife<br/>  Was dearer to my soul than its soul-life.
+    ONCE fairly set out on his party of pleasure,<br/>Taking towns at his liking, and crowns at his leisure,<br/>From Elba to Lyons and Paris he goes,<br/>Making _balls for_ the ladies, and _bows to_ his foes.
 </p>
 
 ***
