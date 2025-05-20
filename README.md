@@ -14,7 +14,7 @@
 | --- | --- |  --- |  --- |
 | AntoineLemaire/BlacklistBundle|https://github.com/AntoineLemaire/BlacklistBundle|3|Provides a Blacklist system for Symfony using Annotations with Sonata admin integration|
 | milaabl/GitHub_Follower_Bot_Automated|https://github.com/milaabl/GitHub_Follower_Bot_Automated|5|Automated GitHub Follower Bot - You Follow Me ---> My Bot Follows you Back! Let's growth! Learn how you can set it up also!|
-| regolith-labs/ore-cli|https://github.com/regolith-labs/ore-cli|1488|Command line interface for ORE cryptocurrency mining.|
+| regolith-labs/ore-cli|https://github.com/regolith-labs/ore-cli|1490|Command line interface for ORE cryptocurrency mining.|
 | phoboslab/high_impact|https://github.com/phoboslab/high_impact|1094|A 2d game engine written in C|
 | Xe/praise-me|https://github.com/Xe/praise-me|141|Praise my GitHub profile!|
 | OfficialCodeVoyage/GitHub_Follower_Bot_Automated|https://github.com/OfficialCodeVoyage/GitHub_Follower_Bot_Automated|66| You Follow Me ---> My Bot Follows you Back! Let's growth! Learn how you can set it up also!|
@@ -37,9 +37,9 @@
 | CloverGit/CloverGit|https://github.com/CloverGit/CloverGit|8||
 | TatevKaren/TatevKaren-data-science-portfolio|https://github.com/TatevKaren/TatevKaren-data-science-portfolio|63|Data Science Portfolio of Tatev Karen Aslanyan including Case Studies and Research Projects that I have completed that solve business problems or introduce new products. Case Study papers, codes, and additional resources are all included.|
 | PiotrRut/elonmusk-twitter-notifier|https://github.com/PiotrRut/elonmusk-twitter-notifier|61|AI driven e-mail notifier for tweets mentioning stock from Elon Musk 📈|
-| Vendicated/Vencord|https://github.com/Vendicated/Vencord|10779|The cutest Discord client mod|
-| yeoman/yo|https://github.com/yeoman/yo|3886|CLI tool for running Yeoman generators|
-| matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|3170|zkSync era|
+| Vendicated/Vencord|https://github.com/Vendicated/Vencord|10794|The cutest Discord client mod|
+| yeoman/yo|https://github.com/yeoman/yo|3887|CLI tool for running Yeoman generators|
+| matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|3171|zkSync era|
 | 0age/create2crunch|https://github.com/0age/create2crunch|517|A Rust program for finding salts that create gas-efficient Ethereum addresses via CREATE2.|
 | joshstevens19/ethereum-multicall|https://github.com/joshstevens19/ethereum-multicall|373|Ability to call many ethereum constant function calls in 1 JSONRPC request|
 
@@ -51,10 +51,10 @@
   <summary>📚 <strong>A random poem from <em>https://poetrydb.org/random</em>!</strong> 👇 </summary>
 
 <!-- Start poem -->
-# 💮 Sonnet 29: When in disgrace with fortune and men's eyes by *William Shakespeare*
+# 💮 Sonnet by *Percy Bysshe Shelley*
 
 <p>
-    When in disgrace with fortune and men's eyes<br/>I all alone beweep my outcast state,<br/>And trouble deaf heaven with my bootless cries,<br/>And look upon myself, and curse my fate,<br/>Wishing me like to one more rich in hope,<br/>Featur'd like him, like him with friends possess'd,<br/>Desiring this man's art, and that man's scope,<br/>With what I most enjoy contented least;<br/>Yet in these thoughts my self almost despising,<br/>Haply I think on thee,-- and then my state,<br/>Like to the lark at break of day arising<br/>From sullen earth, sings hymns at heaven's gate;<br/>  For thy sweet love remember'd such wealth brings<br/>  That then I scorn to change my state with kings.
+    FROM THE ITALIAN OF DANTE.<br/><br/>DANTE ALIGHIERI TO GUIDO CAVALCANTI:<br/><br/>Guido, I would that Lapo, thou, and I,<br/>Led by some strong enchantment, might ascend<br/>A magic ship, whose charmed sails should fly<br/>With winds at will where'er our thoughts might wend,<br/>So that no change, nor any evil chance<br/>Should mar our joyous voyage; but it might be,<br/>That even satiety should still enhance<br/>Between our hearts their strict community:<br/>And that the bounteous wizard then would place<br/>Vanna and Bice and my gentle love,<br/>Companions of our wandering, and would grace<br/>With passionate talk, wherever we might rove,<br/>Our time, and each were as content and free<br/>As I believe that thou and I should be.
 </p>
 
 ***
