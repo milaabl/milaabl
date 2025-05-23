@@ -37,9 +37,9 @@
 | CloverGit/CloverGit|https://github.com/CloverGit/CloverGit|8||
 | TatevKaren/TatevKaren-data-science-portfolio|https://github.com/TatevKaren/TatevKaren-data-science-portfolio|63|Data Science Portfolio of Tatev Karen Aslanyan including Case Studies and Research Projects that I have completed that solve business problems or introduce new products. Case Study papers, codes, and additional resources are all included.|
 | PiotrRut/elonmusk-twitter-notifier|https://github.com/PiotrRut/elonmusk-twitter-notifier|61|AI driven e-mail notifier for tweets mentioning stock from Elon Musk 📈|
-| Vendicated/Vencord|https://github.com/Vendicated/Vencord|10808|The cutest Discord client mod|
+| Vendicated/Vencord|https://github.com/Vendicated/Vencord|10810|The cutest Discord client mod|
 | yeoman/yo|https://github.com/yeoman/yo|3889|CLI tool for running Yeoman generators|
-| matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|3171|zkSync era|
+| matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|3172|zkSync era|
 | 0age/create2crunch|https://github.com/0age/create2crunch|516|A Rust program for finding salts that create gas-efficient Ethereum addresses via CREATE2.|
 | joshstevens19/ethereum-multicall|https://github.com/joshstevens19/ethereum-multicall|373|Ability to call many ethereum constant function calls in 1 JSONRPC request|
 
@@ -51,10 +51,10 @@
   <summary>📚 <strong>A random poem from <em>https://poetrydb.org/random</em>!</strong> 👇 </summary>
 
 <!-- Start poem -->
-# 💮 Sonnet XLII: Some Men There Be by *Michael Drayton*
+# 💮 Lost in the Prairie by *William Topaz McGonagall*
 
 <p>
-    Some men there be which like my method well<br/>And much commend the strangeness of my vein;<br/>Some say I have a passing pleasing strain;<br/>Some say that im my humor I excel;<br/>Some, who not kindly relish my conceit,<br/>They say, as poets do, I use to feign,<br/>And in bare words paint out my passion's pain.<br/>Thus sundry men their sundry words repeat;<br/>I pass not, I, how men affected be,<br/>Nor who commends or discommends my verse;<br/>It pleaseth me, if I my woes rehearse,<br/>And in my lines if she my love may see.<br/>Only my comfort still consists in this,<br/>Writing her praise I cannot write amiss.
+    In one of fhe States of America, some years ago,<br/>There suddenly came on a violent storm of snow,<br/>Which was nearly the death of a party of workmen,<br/>Who had finished their day's work - nine or ten of them.<br/><br/>The distance was nearly twenty miles to their camp,<br/>And with the thick falling snow their clothes felt damp,<br/>As they set out for their camp, which was in a large grove,<br/>And to reach it, manfully against the storm they strove.<br/><br/>The wind blew very hard, and the snow was falling fast,<br/>Still, they plodded on, but felt a little downcast,<br/>And the snow fell so fast they could scarcely see,<br/>And they began to think they were lost on the wild prairie.<br/><br/>And they suddenly noticed marks of footsteps in the snow,<br/>Which they found were their own tracks, as onward they did go,<br/>Then they knew they were lost on the great prairie,<br/>And what could they do in such a fearful extremity?<br/><br/>Then their hearts began to sink with woe,<br/>In dread of having to pass the night in the snow,<br/>And they cried, "Oh, God help us to find our way,<br/>Or else we are lost on the lonely prairie."<br/><br/>And while they stood shivering with the cold,<br/>One of the party a particular horse did behold,<br/>Which was known by the name of Old Jack,<br/>So to take off his bridle they were not slack.<br/><br/>When the horse was let free he threw up his head and tail,<br/>Which seemed to say, "Follow ms, and ye will not fail.<br/>So come on, boys, and follow me,<br/>And I'll guide ye home safely."<br/><br/>And they cried, " Old Jack can show us the way,<br/>So let's follow his tracks without dismay";<br/>And with the falling snow they were chilled to the bone,<br/>But the horse seemed to say, "I'll show ye home."<br/><br/>And at last they gave a shout of delight<br/>When they saw their camp fire burning bright,<br/>Which was to them a cheerful sight,<br/>And they caressed Old Jack for guiding them home that night.<br/><br/>And they felt thankful to God for their safety,<br/>And they danced around Old Jack with their hearts full of glee,<br/>And Old Jack became a favourite from that day,<br/>Because he saved them from being lost on the wild prairie.
 </p>
 
 ***
