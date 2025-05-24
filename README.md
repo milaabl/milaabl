@@ -15,7 +15,7 @@
 | AntoineLemaire/BlacklistBundle|https://github.com/AntoineLemaire/BlacklistBundle|3|Provides a Blacklist system for Symfony using Annotations with Sonata admin integration|
 | milaabl/GitHub_Follower_Bot_Automated|https://github.com/milaabl/GitHub_Follower_Bot_Automated|5|Automated GitHub Follower Bot - You Follow Me ---> My Bot Follows you Back! Let's growth! Learn how you can set it up also!|
 | regolith-labs/ore-cli|https://github.com/regolith-labs/ore-cli|1491|Command line interface for ORE cryptocurrency mining.|
-| phoboslab/high_impact|https://github.com/phoboslab/high_impact|1095|A 2d game engine written in C|
+| phoboslab/high_impact|https://github.com/phoboslab/high_impact|1096|A 2d game engine written in C|
 | Xe/praise-me|https://github.com/Xe/praise-me|141|Praise my GitHub profile!|
 | OfficialCodeVoyage/GitHub_Follower_Bot_Automated|https://github.com/OfficialCodeVoyage/GitHub_Follower_Bot_Automated|66| You Follow Me ---> My Bot Follows you Back! Let's growth! Learn how you can set it up also!|
 | OfficialCodeVoyage/leetcode|https://github.com/OfficialCodeVoyage/leetcode|23|LeetCode practice|
@@ -34,12 +34,12 @@
 | SaraRasoulian/oop-solid-patterns|https://github.com/SaraRasoulian/oop-solid-patterns|19|💎  An educational repository for OOP, SOLID and Design Patterns|
 | BogdanMFometescu/resume-builder|https://github.com/BogdanMFometescu/resume-builder|14|Django-based web application that allows users to create, update, and export professional resumes.|
 | 0xMimir/Advance-CNN-LSTM-Model-for-Cryptocurrency-Forecasting|https://github.com/0xMimir/Advance-CNN-LSTM-Model-for-Cryptocurrency-Forecasting|12|CNN LSTM model used for predicting cryptocurrencies|
-| CloverGit/CloverGit|https://github.com/CloverGit/CloverGit|8||
+| CloverGit/CloverGit|https://github.com/CloverGit/CloverGit|9||
 | TatevKaren/TatevKaren-data-science-portfolio|https://github.com/TatevKaren/TatevKaren-data-science-portfolio|63|Data Science Portfolio of Tatev Karen Aslanyan including Case Studies and Research Projects that I have completed that solve business problems or introduce new products. Case Study papers, codes, and additional resources are all included.|
 | PiotrRut/elonmusk-twitter-notifier|https://github.com/PiotrRut/elonmusk-twitter-notifier|61|AI driven e-mail notifier for tweets mentioning stock from Elon Musk 📈|
-| Vendicated/Vencord|https://github.com/Vendicated/Vencord|10810|The cutest Discord client mod|
+| Vendicated/Vencord|https://github.com/Vendicated/Vencord|10819|The cutest Discord client mod|
 | yeoman/yo|https://github.com/yeoman/yo|3889|CLI tool for running Yeoman generators|
-| matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|3172|zkSync era|
+| matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|3173|zkSync era|
 | 0age/create2crunch|https://github.com/0age/create2crunch|516|A Rust program for finding salts that create gas-efficient Ethereum addresses via CREATE2.|
 | joshstevens19/ethereum-multicall|https://github.com/joshstevens19/ethereum-multicall|373|Ability to call many ethereum constant function calls in 1 JSONRPC request|
 
@@ -51,10 +51,10 @@
   <summary>📚 <strong>A random poem from <em>https://poetrydb.org/random</em>!</strong> 👇 </summary>
 
 <!-- Start poem -->
-# 💮 Lost in the Prairie by *William Topaz McGonagall*
+# 💮 A Song of Pitcairn's Island by *William Cullen Bryant*
 
 <p>
-    In one of fhe States of America, some years ago,<br/>There suddenly came on a violent storm of snow,<br/>Which was nearly the death of a party of workmen,<br/>Who had finished their day's work - nine or ten of them.<br/><br/>The distance was nearly twenty miles to their camp,<br/>And with the thick falling snow their clothes felt damp,<br/>As they set out for their camp, which was in a large grove,<br/>And to reach it, manfully against the storm they strove.<br/><br/>The wind blew very hard, and the snow was falling fast,<br/>Still, they plodded on, but felt a little downcast,<br/>And the snow fell so fast they could scarcely see,<br/>And they began to think they were lost on the wild prairie.<br/><br/>And they suddenly noticed marks of footsteps in the snow,<br/>Which they found were their own tracks, as onward they did go,<br/>Then they knew they were lost on the great prairie,<br/>And what could they do in such a fearful extremity?<br/><br/>Then their hearts began to sink with woe,<br/>In dread of having to pass the night in the snow,<br/>And they cried, "Oh, God help us to find our way,<br/>Or else we are lost on the lonely prairie."<br/><br/>And while they stood shivering with the cold,<br/>One of the party a particular horse did behold,<br/>Which was known by the name of Old Jack,<br/>So to take off his bridle they were not slack.<br/><br/>When the horse was let free he threw up his head and tail,<br/>Which seemed to say, "Follow ms, and ye will not fail.<br/>So come on, boys, and follow me,<br/>And I'll guide ye home safely."<br/><br/>And they cried, " Old Jack can show us the way,<br/>So let's follow his tracks without dismay";<br/>And with the falling snow they were chilled to the bone,<br/>But the horse seemed to say, "I'll show ye home."<br/><br/>And at last they gave a shout of delight<br/>When they saw their camp fire burning bright,<br/>Which was to them a cheerful sight,<br/>And they caressed Old Jack for guiding them home that night.<br/><br/>And they felt thankful to God for their safety,<br/>And they danced around Old Jack with their hearts full of glee,<br/>And Old Jack became a favourite from that day,<br/>Because he saved them from being lost on the wild prairie.
+    Come, take our boy, and we will go<br/>Before our cabin door;<br/>The winds shall bring us, as they blow,<br/>The murmurs of the shore;<br/>And we will kiss his young blue eyes,<br/>And I will sing him, as he lies,<br/>Songs that were made of yore:<br/>I'll sing, in his delighted ear,<br/>The island lays thou lov'st to hear.<br/><br/>And thou, while stammering I repeat,<br/>Thy country's tongue shalt teach;<br/>'Tis not so soft, but far more sweet,<br/>Than my own native speech:<br/>For thou no other tongue didst know,<br/>When, scarcely twenty moons ago,<br/>Upon Tahete's beach,<br/>Thou cam'st to woo me to be thine,<br/>With many a speaking look and sign.<br/><br/>I knew thy meaning--thou didst praise<br/>My eyes, my locks of jet;<br/>Ah! well for me they won thy gaze,--<br/>But thine were fairer yet!<br/><br/>I'm glad to see my infant wear<br/>Thy soft blue eyes and sunny hair,<br/>And when my sight is met<br/>By his white brow and blooming cheek,<br/>I feel a joy I cannot speak.<br/><br/>Come talk of Europe's maids with me,<br/>Whose necks and cheeks, they tell,<br/>Outshine the beauty of the sea,<br/>White foam and crimson shell.<br/>I'll shape like theirs my simple dress,<br/>And bind like them each jetty tress.<br/>A sight to please thee well:<br/>And for my dusky brow will braid<br/>A bonnet like an English maid.<br/><br/>Come, for the soft low sunlight calls,<br/>We lose the pleasant hours;<br/>'Tis lovelier than these cottage walls,--<br/>That seat among the flowers.<br/>And I will learn of thee a prayer,<br/>To Him, who gave a home so fair,<br/>A lot so blessed as ours--<br/>The God who made, for thee and me,<br/>This sweet lone isle amid the sea.
 </p>
 
 ***
