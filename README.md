@@ -37,10 +37,10 @@
 | CloverGit/CloverGit|https://github.com/CloverGit/CloverGit|9||
 | TatevKaren/TatevKaren-data-science-portfolio|https://github.com/TatevKaren/TatevKaren-data-science-portfolio|63|Data Science Portfolio of Tatev Karen Aslanyan including Case Studies and Research Projects that I have completed that solve business problems or introduce new products. Case Study papers, codes, and additional resources are all included.|
 | PiotrRut/elonmusk-twitter-notifier|https://github.com/PiotrRut/elonmusk-twitter-notifier|61|AI driven e-mail notifier for tweets mentioning stock from Elon Musk 📈|
-| Vendicated/Vencord|https://github.com/Vendicated/Vencord|10834|The cutest Discord client mod|
+| Vendicated/Vencord|https://github.com/Vendicated/Vencord|10846|The cutest Discord client mod|
 | yeoman/yo|https://github.com/yeoman/yo|3890|CLI tool for running Yeoman generators|
 | matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|3173|zkSync era|
-| 0age/create2crunch|https://github.com/0age/create2crunch|516|A Rust program for finding salts that create gas-efficient Ethereum addresses via CREATE2.|
+| 0age/create2crunch|https://github.com/0age/create2crunch|517|A Rust program for finding salts that create gas-efficient Ethereum addresses via CREATE2.|
 | joshstevens19/ethereum-multicall|https://github.com/joshstevens19/ethereum-multicall|373|Ability to call many ethereum constant function calls in 1 JSONRPC request|
 
 <!-- Starred repos end -->
@@ -51,10 +51,10 @@
   <summary>📚 <strong>A random poem from <em>https://poetrydb.org/random</em>!</strong> 👇 </summary>
 
 <!-- Start poem -->
-# 💮 Faith by *George Herbert*
+# 💮 Lines Inscribed upon a Cup Formed From a Skull by *George Gordon, Lord Byron*
 
 <p>
-    Lord, how couldst thou so much appease<br/>Thy wrath for sin, as when man's sight was dim,<br/>And could see little, to regard his ease,<br/>And bring by Faith all things to him?<br/><br/>Hungry I was, and had no meat:<br/>I did conceit a most delicious feast;<br/>I had it straight, and did as truly eat,<br/>As ever did a welcome guest.<br/><br/>There is a rare outlandish root,<br/>Which when I could not get, I thought it here:<br/>That apprehension cur'd so well my foot,<br/>That I can walk to heav'n well near.<br/><br/>I owed thousands and much more.<br/>I did believe that I did nothing owe,<br/>And liv'd accordingly; my creditor<br/>Believes so too, and lets me go.<br/><br/>Faith makes me any thing, or all<br/>That I believe is in the sacred story:<br/>And where sin placeth me in Adam's fall,<br/>Faith sets me higher in his glory.<br/><br/>If I go lower in the book,<br/>What can be lower than the common manger?<br/>Faith puts me there with him, who sweetly took<br/>Our flesh and frailty, death and danger.<br/><br/>If bliss had lien in art or strength,<br/>None but the wise or strong had gained it:<br/>Where now by Faith all arms are of a length;<br/>One size doth all conditions fit.<br/><br/>A peasant may believe as much<br/>As a great Clerk, and reach the highest stature.<br/>Thus dost thou make proud knowledge bend and crouch<br/>While grace fills up uneven nature.<br/><br/>When creatures had no real light<br/>Inherent in them, thou didst make the sun<br/>Impute a lustre, and allow them bright;<br/>And in this show what Christ hath done.<br/><br/>That which before was darkned clean<br/>With bushy groves, pricking the looker's eye,<br/>Vanisht away, when Faith did change the scene:<br/>And then appear'd a glorious sky.<br/><br/>What though my body run to dust?<br/>Faith cleaves unto it, counting ev'ry grain<br/>With an exact and most particular trust,<br/>Reserving all for flesh again.
+    Start not--nor deem my spirit fled:<br/>  In me behold the only skull,<br/>From which, unlike a living head,<br/>  Whatever flows is never dull.<br/><br/>I lived, I loved, I quaff'd, like thee:<br/>  I died: let earth my bones resign;<br/>Fill up--thou canst not injure me;<br/>  The worm hath fouler lips than thine.<br/><br/>Better to hold the sparkling grape,<br/>  Than nurse the earth-worm's slimy brood;<br/>And circle in the goblet's shape<br/>  The drink of Gods, than reptile's food.<br/><br/>Where once my wit, perchance, hath shone,<br/>  In aid of others' let me shine;<br/>And when, alas! our brains are gone,<br/>  What nobler substitute than wine?<br/><br/>Quaff while thou canst: another race,<br/>  When thou and thine, like me, are sped,<br/>May rescue thee from earth's embrace,<br/>  And rhyme and revel with the dead.<br/><br/>Why not? since through life's little day<br/>  Our heads such sad effects produce;<br/>Redeem'd from worms and wasting clay,<br/>  This chance is theirs, to be of use.
 </p>
 
 ***
