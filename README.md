@@ -22,7 +22,7 @@
 | MatthiasGN/SnAkE-gAmE|https://github.com/MatthiasGN/SnAkE-gAmE|4|Classic snake game built in Python|
 | EnsoBuild/temper|https://github.com/EnsoBuild/temper|375|Temper your expectations - Ethereum Transaction Simulator |
 | the-coder-o/a-bd.me|https://github.com/the-coder-o/a-bd.me|7|My personal website made with Next.js 14 (App Router). Features blog posts, gear list, dark theme and more. Tailwind CSS,  Radix, Framer Motion, and Vercel.|
-| Xunzhuo/Xunzhuo|https://github.com/Xunzhuo/Xunzhuo|51|About me|
+| Xunzhuo/Xunzhuo|https://github.com/Xunzhuo/Xunzhuo|52|About me|
 | zcaceres/snoop|https://github.com/zcaceres/snoop|3|Like grep or ack... for the DOM|
 | zcaceres/zcaceres|https://github.com/zcaceres/zcaceres|2|Super secret Github profile README thing|
 | zcaceres/dotfiles|https://github.com/zcaceres/dotfiles|2|System setup w/dotfiles, tools, and apps automated with Ansible. Forever a WIP.|
@@ -37,7 +37,7 @@
 | CloverGit/CloverGit|https://github.com/CloverGit/CloverGit|9||
 | TatevKaren/TatevKaren-data-science-portfolio|https://github.com/TatevKaren/TatevKaren-data-science-portfolio|63|Data Science Portfolio of Tatev Karen Aslanyan including Case Studies and Research Projects that I have completed that solve business problems or introduce new products. Case Study papers, codes, and additional resources are all included.|
 | PiotrRut/elonmusk-twitter-notifier|https://github.com/PiotrRut/elonmusk-twitter-notifier|61|AI driven e-mail notifier for tweets mentioning stock from Elon Musk 📈|
-| Vendicated/Vencord|https://github.com/Vendicated/Vencord|10846|The cutest Discord client mod|
+| Vendicated/Vencord|https://github.com/Vendicated/Vencord|10852|The cutest Discord client mod|
 | yeoman/yo|https://github.com/yeoman/yo|3890|CLI tool for running Yeoman generators|
 | matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|3173|zkSync era|
 | 0age/create2crunch|https://github.com/0age/create2crunch|517|A Rust program for finding salts that create gas-efficient Ethereum addresses via CREATE2.|
@@ -51,10 +51,10 @@
   <summary>📚 <strong>A random poem from <em>https://poetrydb.org/random</em>!</strong> 👇 </summary>
 
 <!-- Start poem -->
-# 💮 Lines Inscribed upon a Cup Formed From a Skull by *George Gordon, Lord Byron*
+# 💮 The Glory by *Edward Thomas*
 
 <p>
-    Start not--nor deem my spirit fled:<br/>  In me behold the only skull,<br/>From which, unlike a living head,<br/>  Whatever flows is never dull.<br/><br/>I lived, I loved, I quaff'd, like thee:<br/>  I died: let earth my bones resign;<br/>Fill up--thou canst not injure me;<br/>  The worm hath fouler lips than thine.<br/><br/>Better to hold the sparkling grape,<br/>  Than nurse the earth-worm's slimy brood;<br/>And circle in the goblet's shape<br/>  The drink of Gods, than reptile's food.<br/><br/>Where once my wit, perchance, hath shone,<br/>  In aid of others' let me shine;<br/>And when, alas! our brains are gone,<br/>  What nobler substitute than wine?<br/><br/>Quaff while thou canst: another race,<br/>  When thou and thine, like me, are sped,<br/>May rescue thee from earth's embrace,<br/>  And rhyme and revel with the dead.<br/><br/>Why not? since through life's little day<br/>  Our heads such sad effects produce;<br/>Redeem'd from worms and wasting clay,<br/>  This chance is theirs, to be of use.
+    THE glory of the beauty of the morning,--<br/>The cuckoo crying over the untouched dew;<br/>The blackbird that has found it, and the dove<br/>That tempts me on to something sweeter than love;<br/>White clouds ranged even and fair as new-mown hay;<br/>The heat, the stir, the sublime vacancy<br/>Of sky and meadow and forest and my own heart:--<br/>The glory invites me, yet it leaves me scorning<br/>All I can ever do, all I can be,<br/>Beside the lovely of motion, shape, and hue,<br/>The happiness I fancy fit to dwell<br/>In beauty's presence. Shall I now this day<br/>Begin to seek as far as heaven, as hell,<br/>Wisdom or strength to match this beauty, start<br/>And tread the pale dust pitted with small dark drops,<br/>In hope to find whatever it is I seek,<br/>Hearkening to short-lived happy-seeming things<br/>That we know naught of, in the hazel copse?<br/>Or must I be content with discontent<br/>As larks and swallows are perhaps with wings?<br/>And shall I ask at the day's end once more<br/>What beauty is, and what I can have meant<br/>By happiness? And shall I let all go,<br/>Glad, weary, or both? Or shall I perhaps know<br/>That I was happy oft and oft before,<br/>Awhile forgetting how I am fast pent,<br/>How dreary-swift, with naught to travel to,<br/>Is Time? I cannot bite the day to the core.
 </p>
 
 ***
