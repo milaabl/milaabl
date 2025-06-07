@@ -37,7 +37,7 @@
 | CloverGit/CloverGit|https://github.com/CloverGit/CloverGit|9||
 | TatevKaren/TatevKaren-data-science-portfolio|https://github.com/TatevKaren/TatevKaren-data-science-portfolio|63|Data Science Portfolio of Tatev Karen Aslanyan including Case Studies and Research Projects that I have completed that solve business problems or introduce new products. Case Study papers, codes, and additional resources are all included.|
 | PiotrRut/elonmusk-twitter-notifier|https://github.com/PiotrRut/elonmusk-twitter-notifier|61|AI driven e-mail notifier for tweets mentioning stock from Elon Musk 📈|
-| Vendicated/Vencord|https://github.com/Vendicated/Vencord|10919|The cutest Discord client mod|
+| Vendicated/Vencord|https://github.com/Vendicated/Vencord|10925|The cutest Discord client mod|
 | yeoman/yo|https://github.com/yeoman/yo|3890|CLI tool for running Yeoman generators|
 | matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|3177|zkSync era|
 | 0age/create2crunch|https://github.com/0age/create2crunch|517|A Rust program for finding salts that create gas-efficient Ethereum addresses via CREATE2.|
@@ -51,10 +51,10 @@
   <summary>📚 <strong>A random poem from <em>https://poetrydb.org/random</em>!</strong> 👇 </summary>
 
 <!-- Start poem -->
-# 💮 Snow by *Edward Thomas*
+# 💮 Winter Stores by *Charlotte Bronte*
 
 <p>
-    IN the gloom of whiteness,<br/>In the great silence of snow,<br/>A child was sighing<br/>And bitterly saying: "Oh,<br/>They have killed a white bird up there on her nest,<br/>The down is fluttering from her breast."<br/>And still it fell through that dusky brightness<br/>On the child crying for the bird of the snow.
+    WE take from life one little share,<br/>And say that this shall be<br/>A space, redeemed from toil and care,<br/>From tears and sadness free.<br/><br/>And, haply, Death unstrings his bow<br/>And Sorrow stands apart,<br/>And, for a little while, we know<br/>The sunshine of the heart.<br/><br/>Existence seems a summer eve,<br/>Warm, soft, and full of peace;<br/>Our free, unfettered feelings give<br/>The soul its full release.<br/><br/>A moment, then, it takes the power,<br/>To call up thoughts that throw<br/>Around that charmed and hallowed hour,<br/>This life's divinest glow.<br/><br/>But Time, though viewlessly it flies,<br/>And slowly, will not stay;<br/>Alike, through clear and clouded skies,<br/>It cleaves its silent way.<br/><br/>Alike the bitter cup of grief,<br/>Alike the draught of bliss,<br/>Its progress leaves but moment brief<br/>For baffled lips to kiss.<br/><br/>The sparkling draught is dried away,<br/>The hour of rest is gone,<br/>And urgent voices, round us, say,<br/>' Ho, lingerer, hasten on !'<br/><br/>And has the soul, then, only gained,<br/>From this brief time of ease,<br/>A moment's rest, when overstrained,<br/>One hurried glimpse of peace ?<br/><br/>No; while the sun shone kindly o'er us,<br/>And flowers bloomed round our feet,­<br/>While many a bud of joy before us<br/>Unclosed its petals sweet,­<br/><br/>An unseen work within was plying;<br/>Like honey-seeking bee,<br/>From flower to flower, unwearied, flying,<br/>Laboured one faculty,­<br/><br/>Thoughtful for Winter's future sorrow,<br/>Its gloom and scarcity;<br/>Prescient to-day, of want to-morrow,<br/>Toiled quiet Memory.<br/><br/>'Tis she that from each transient pleasure<br/>Extracts a lasting good;<br/>'Tis she that finds, in summer, treasure<br/>To serve for winter's food.<br/><br/>And when Youth's summer day is vanished,<br/>And Age brings Winter's stress,<br/>Her stores, with hoarded sweets replenished,<br/>Life's evening hours will bless.
 </p>
 
 ***
