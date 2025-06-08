@@ -22,7 +22,7 @@
 | MatthiasGN/SnAkE-gAmE|https://github.com/MatthiasGN/SnAkE-gAmE|4|Classic snake game built in Python|
 | EnsoBuild/temper|https://github.com/EnsoBuild/temper|372|Temper your expectations - Ethereum Transaction Simulator |
 | the-coder-o/a-bd.me|https://github.com/the-coder-o/a-bd.me|7|My personal website made with Next.js 14 (App Router). Features blog posts, gear list, dark theme and more. Tailwind CSS,  Radix, Framer Motion, and Vercel.|
-| Xunzhuo/Xunzhuo|https://github.com/Xunzhuo/Xunzhuo|54|About me|
+| Xunzhuo/Xunzhuo|https://github.com/Xunzhuo/Xunzhuo|55|About me|
 | zcaceres/snoop|https://github.com/zcaceres/snoop|3|Like grep or ack... for the DOM|
 | zcaceres/zcaceres|https://github.com/zcaceres/zcaceres|2|Super secret Github profile README thing|
 | zcaceres/dotfiles|https://github.com/zcaceres/dotfiles|2|System setup w/dotfiles, tools, and apps automated with Ansible. Forever a WIP.|
@@ -37,11 +37,11 @@
 | CloverGit/CloverGit|https://github.com/CloverGit/CloverGit|9||
 | TatevKaren/TatevKaren-data-science-portfolio|https://github.com/TatevKaren/TatevKaren-data-science-portfolio|63|Data Science Portfolio of Tatev Karen Aslanyan including Case Studies and Research Projects that I have completed that solve business problems or introduce new products. Case Study papers, codes, and additional resources are all included.|
 | PiotrRut/elonmusk-twitter-notifier|https://github.com/PiotrRut/elonmusk-twitter-notifier|61|AI driven e-mail notifier for tweets mentioning stock from Elon Musk 📈|
-| Vendicated/Vencord|https://github.com/Vendicated/Vencord|10925|The cutest Discord client mod|
+| Vendicated/Vencord|https://github.com/Vendicated/Vencord|10935|The cutest Discord client mod|
 | yeoman/yo|https://github.com/yeoman/yo|3890|CLI tool for running Yeoman generators|
-| matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|3177|zkSync era|
+| matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|3178|zkSync era|
 | 0age/create2crunch|https://github.com/0age/create2crunch|517|A Rust program for finding salts that create gas-efficient Ethereum addresses via CREATE2.|
-| joshstevens19/ethereum-multicall|https://github.com/joshstevens19/ethereum-multicall|373|Ability to call many ethereum constant function calls in 1 JSONRPC request|
+| joshstevens19/ethereum-multicall|https://github.com/joshstevens19/ethereum-multicall|374|Ability to call many ethereum constant function calls in 1 JSONRPC request|
 
 <!-- Starred repos end -->
 
@@ -51,10 +51,10 @@
   <summary>📚 <strong>A random poem from <em>https://poetrydb.org/random</em>!</strong> 👇 </summary>
 
 <!-- Start poem -->
-# 💮 Winter Stores by *Charlotte Bronte*
+# 💮 Homer's Hymn to the Moon by *Percy Bysshe Shelley*
 
 <p>
-    WE take from life one little share,<br/>And say that this shall be<br/>A space, redeemed from toil and care,<br/>From tears and sadness free.<br/><br/>And, haply, Death unstrings his bow<br/>And Sorrow stands apart,<br/>And, for a little while, we know<br/>The sunshine of the heart.<br/><br/>Existence seems a summer eve,<br/>Warm, soft, and full of peace;<br/>Our free, unfettered feelings give<br/>The soul its full release.<br/><br/>A moment, then, it takes the power,<br/>To call up thoughts that throw<br/>Around that charmed and hallowed hour,<br/>This life's divinest glow.<br/><br/>But Time, though viewlessly it flies,<br/>And slowly, will not stay;<br/>Alike, through clear and clouded skies,<br/>It cleaves its silent way.<br/><br/>Alike the bitter cup of grief,<br/>Alike the draught of bliss,<br/>Its progress leaves but moment brief<br/>For baffled lips to kiss.<br/><br/>The sparkling draught is dried away,<br/>The hour of rest is gone,<br/>And urgent voices, round us, say,<br/>' Ho, lingerer, hasten on !'<br/><br/>And has the soul, then, only gained,<br/>From this brief time of ease,<br/>A moment's rest, when overstrained,<br/>One hurried glimpse of peace ?<br/><br/>No; while the sun shone kindly o'er us,<br/>And flowers bloomed round our feet,­<br/>While many a bud of joy before us<br/>Unclosed its petals sweet,­<br/><br/>An unseen work within was plying;<br/>Like honey-seeking bee,<br/>From flower to flower, unwearied, flying,<br/>Laboured one faculty,­<br/><br/>Thoughtful for Winter's future sorrow,<br/>Its gloom and scarcity;<br/>Prescient to-day, of want to-morrow,<br/>Toiled quiet Memory.<br/><br/>'Tis she that from each transient pleasure<br/>Extracts a lasting good;<br/>'Tis she that finds, in summer, treasure<br/>To serve for winter's food.<br/><br/>And when Youth's summer day is vanished,<br/>And Age brings Winter's stress,<br/>Her stores, with hoarded sweets replenished,<br/>Life's evening hours will bless.
+    Daughters of Jove, whose voice is melody,<br/>Muses, who know and rule all minstrelsy<br/>Sing the wide-winged Moon! Around the earth,<br/>From her immortal head in Heaven shot forth,<br/>Far light is scattered--boundless glory springs;<br/>Where'er she spreads her many-beaming wings<br/>The lampless air glows round her golden crown.<br/><br/>But when the Moon divine from Heaven is gone<br/>Under the sea, her beams within abide,<br/>Till, bathing her bright limbs in Ocean's tide,<br/>Clothing her form in garments glittering far,<br/>And having yoked to her immortal car<br/>The beam-invested steeds whose necks on high<br/>Curve back, she drives to a remoter sky<br/>A western Crescent, borne impetuously.<br/>Then is made full the circle of her light,<br/>And as she grows, her beams more bright and bright<br/>Are poured from Heaven, where she is hovering then,<br/>A wonder and a sign to mortal men.<br/><br/>The Son of Saturn with this glorious Power<br/>Mingled in love and sleep--to whom she bore<br/>Pandeia, a bright maid of beauty rare<br/>Among the Gods, whose lives eternal are.<br/><br/>Hail Queen, great Moon, white-armed Divinity,<br/>Fair-haired and favourable! thus with thee<br/>My song beginning, by its music sweet<br/>Shall make immortal many a glorious feat<br/>Of demigods, with lovely lips, so well<br/>Which minstrels, servants of the Muses, tell.
 </p>
 
 ***
