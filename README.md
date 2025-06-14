@@ -17,12 +17,12 @@
 | regolith-labs/ore-cli|https://github.com/regolith-labs/ore-cli|1492|Command line interface for ORE cryptocurrency mining.|
 | phoboslab/high_impact|https://github.com/phoboslab/high_impact|1098|A 2d game engine written in C|
 | Xe/praise-me|https://github.com/Xe/praise-me|141|Praise my GitHub profile!|
-| OfficialCodeVoyage/GitHub_Follower_Bot_Automated|https://github.com/OfficialCodeVoyage/GitHub_Follower_Bot_Automated|69| You Follow Me ---> My Bot Follows you Back! Let's growth! Learn how you can set it up also!|
+| OfficialCodeVoyage/GitHub_Follower_Bot_Automated|https://github.com/OfficialCodeVoyage/GitHub_Follower_Bot_Automated|70| You Follow Me ---> My Bot Follows you Back! Let's growth! Learn how you can set it up also!|
 | OfficialCodeVoyage/leetcode|https://github.com/OfficialCodeVoyage/leetcode|23|LeetCode practice|
 | MatthiasGN/SnAkE-gAmE|https://github.com/MatthiasGN/SnAkE-gAmE|4|Classic snake game built in Python|
 | EnsoBuild/temper|https://github.com/EnsoBuild/temper|372|Temper your expectations - Ethereum Transaction Simulator |
 | the-coder-o/a-bd.me|https://github.com/the-coder-o/a-bd.me|7|My personal website made with Next.js 14 (App Router). Features blog posts, gear list, dark theme and more. Tailwind CSS,  Radix, Framer Motion, and Vercel.|
-| Xunzhuo/Xunzhuo|https://github.com/Xunzhuo/Xunzhuo|56|About me|
+| Xunzhuo/Xunzhuo|https://github.com/Xunzhuo/Xunzhuo|57|About me|
 | zcaceres/snoop|https://github.com/zcaceres/snoop|3|Like grep or ack... for the DOM|
 | zcaceres/zcaceres|https://github.com/zcaceres/zcaceres|2|Super secret Github profile README thing|
 | zcaceres/dotfiles|https://github.com/zcaceres/dotfiles|2|System setup w/dotfiles, tools, and apps automated with Ansible. Forever a WIP.|
@@ -37,8 +37,8 @@
 | CloverGit/CloverGit|https://github.com/CloverGit/CloverGit|9||
 | TatevKaren/TatevKaren-data-science-portfolio|https://github.com/TatevKaren/TatevKaren-data-science-portfolio|63|Data Science Portfolio of Tatev Karen Aslanyan including Case Studies and Research Projects that I have completed that solve business problems or introduce new products. Case Study papers, codes, and additional resources are all included.|
 | PiotrRut/elonmusk-twitter-notifier|https://github.com/PiotrRut/elonmusk-twitter-notifier|61|AI driven e-mail notifier for tweets mentioning stock from Elon Musk 📈|
-| Vendicated/Vencord|https://github.com/Vendicated/Vencord|10980|The cutest Discord client mod|
-| yeoman/yo|https://github.com/yeoman/yo|3891|CLI tool for running Yeoman generators|
+| Vendicated/Vencord|https://github.com/Vendicated/Vencord|10986|The cutest Discord client mod|
+| yeoman/yo|https://github.com/yeoman/yo|3890|CLI tool for running Yeoman generators|
 | matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|3178|zkSync era|
 | 0age/create2crunch|https://github.com/0age/create2crunch|517|A Rust program for finding salts that create gas-efficient Ethereum addresses via CREATE2.|
 | joshstevens19/ethereum-multicall|https://github.com/joshstevens19/ethereum-multicall|374|Ability to call many ethereum constant function calls in 1 JSONRPC request|
@@ -51,10 +51,10 @@
   <summary>📚 <strong>A random poem from <em>https://poetrydb.org/random</em>!</strong> 👇 </summary>
 
 <!-- Start poem -->
-# 💮 Epigram by *George Gordon, Lord Byron*
+# 💮 Great Streets of silence led away by *Emily Dickinson*
 
 <p>
-    The world is a bundle of hay,<br/>  Mankind are the asses who pull;<br/>Each tugs it a different way,--<br/>  And the greatest of all is John Bull!
+    Great Streets of silence led away<br/>To Neighborhoods of Pause --<br/>Here was no Notice -- no Dissent<br/>No Universe -- no laws --<br/><br/>By Clocks, 'twas Morning, and for Night<br/>The Bells at Distance called --<br/>But Epoch had no basis here<br/>For Period exhaled.
 </p>
 
 ***
