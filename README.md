@@ -37,7 +37,7 @@
 | CloverGit/CloverGit|https://github.com/CloverGit/CloverGit|9||
 | TatevKaren/TatevKaren-data-science-portfolio|https://github.com/TatevKaren/TatevKaren-data-science-portfolio|63|Data Science Portfolio of Tatev Karen Aslanyan including Case Studies and Research Projects that I have completed that solve business problems or introduce new products. Case Study papers, codes, and additional resources are all included.|
 | PiotrRut/elonmusk-twitter-notifier|https://github.com/PiotrRut/elonmusk-twitter-notifier|61|AI driven e-mail notifier for tweets mentioning stock from Elon Musk 📈|
-| Vendicated/Vencord|https://github.com/Vendicated/Vencord|10986|The cutest Discord client mod|
+| Vendicated/Vencord|https://github.com/Vendicated/Vencord|10994|The cutest Discord client mod|
 | yeoman/yo|https://github.com/yeoman/yo|3890|CLI tool for running Yeoman generators|
 | matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|3178|zkSync era|
 | 0age/create2crunch|https://github.com/0age/create2crunch|517|A Rust program for finding salts that create gas-efficient Ethereum addresses via CREATE2.|
@@ -51,10 +51,10 @@
   <summary>📚 <strong>A random poem from <em>https://poetrydb.org/random</em>!</strong> 👇 </summary>
 
 <!-- Start poem -->
-# 💮 Great Streets of silence led away by *Emily Dickinson*
+# 💮 From Sunset to Star Rise by *Christina Rossetti*
 
 <p>
-    Great Streets of silence led away<br/>To Neighborhoods of Pause --<br/>Here was no Notice -- no Dissent<br/>No Universe -- no laws --<br/><br/>By Clocks, 'twas Morning, and for Night<br/>The Bells at Distance called --<br/>But Epoch had no basis here<br/>For Period exhaled.
+    Go from me, summer friends, and tarry not:<br/>I am no summer friend, but wintry cold,<br/>A silly sheep benighted from the fold,<br/>A sluggard with a thorn-choked garden plot.<br/>Take counsel, sever from my lot your lot,<br/>Dwell in your pleasant places, hoard your gold;<br/>Lest you with me should shiver on the wold,<br/>Athirst and hungering on a barren spot.<br/>For I have hedged me with a thorny hedge,<br/>I live alone, I look to die alone:<br/>Yet sometimes, when a wind sighs through the sedge,<br/>Ghosts of my buried years, and friends come back,<br/>My heart goes sighing after swallows flown<br/>On sometime summer's unreturning track.
 </p>
 
 ***
