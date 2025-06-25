@@ -14,8 +14,8 @@
 | --- | --- |  --- |  --- |
 | AntoineLemaire/BlacklistBundle|https://github.com/AntoineLemaire/BlacklistBundle|3|Provides a Blacklist system for Symfony using Annotations with Sonata admin integration|
 | milaabl/GitHub_Follower_Bot_Automated|https://github.com/milaabl/GitHub_Follower_Bot_Automated|5|Automated GitHub Follower Bot - You Follow Me ---> My Bot Follows you Back! Let's growth! Learn how you can set it up also!|
-| regolith-labs/ore-cli|https://github.com/regolith-labs/ore-cli|1493|Command line interface for ORE cryptocurrency mining.|
-| phoboslab/high_impact|https://github.com/phoboslab/high_impact|1098|A 2d game engine written in C|
+| regolith-labs/ore-cli|https://github.com/regolith-labs/ore-cli|1492|Command line interface for ORE cryptocurrency mining.|
+| phoboslab/high_impact|https://github.com/phoboslab/high_impact|1099|A 2d game engine written in C|
 | Xe/praise-me|https://github.com/Xe/praise-me|141|Praise my GitHub profile!|
 | OfficialCodeVoyage/GitHub_Follower_Bot_Automated|https://github.com/OfficialCodeVoyage/GitHub_Follower_Bot_Automated|76| You Follow Me ---> My Bot Follows you Back! Let's growth! Learn how you can set it up also!|
 | OfficialCodeVoyage/leetcode|https://github.com/OfficialCodeVoyage/leetcode|23|LeetCode practice|
@@ -37,7 +37,7 @@
 | CloverGit/CloverGit|https://github.com/CloverGit/CloverGit|9||
 | TatevKaren/TatevKaren-data-science-portfolio|https://github.com/TatevKaren/TatevKaren-data-science-portfolio|64|Data Science Portfolio of Tatev Karen Aslanyan including Case Studies and Research Projects that I have completed that solve business problems or introduce new products. Case Study papers, codes, and additional resources are all included.|
 | PiotrRut/elonmusk-twitter-notifier|https://github.com/PiotrRut/elonmusk-twitter-notifier|61|AI driven e-mail notifier for tweets mentioning stock from Elon Musk 📈|
-| Vendicated/Vencord|https://github.com/Vendicated/Vencord|11065|The cutest Discord client mod|
+| Vendicated/Vencord|https://github.com/Vendicated/Vencord|11073|The cutest Discord client mod|
 | yeoman/yo|https://github.com/yeoman/yo|3891|CLI tool for running Yeoman generators|
 | matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|3178|zkSync era|
 | 0age/create2crunch|https://github.com/0age/create2crunch|517|A Rust program for finding salts that create gas-efficient Ethereum addresses via CREATE2.|
@@ -51,10 +51,10 @@
   <summary>📚 <strong>A random poem from <em>https://poetrydb.org/random</em>!</strong> 👇 </summary>
 
 <!-- Start poem -->
-# 💮 As Winds That Blow Against A Star by *Joyce Kilmer*
+# 💮 Vision of Belshazzar by *George Gordon, Lord Byron*
 
 <p>
-    (For Aline)<br/><br/>Now by what whim of wanton chance<br/>Do radiant eyes know sombre days?<br/>And feet that shod in light should dance<br/>Walk weary and laborious ways?<br/>But rays from Heaven, white and whole,<br/>May penetrate the gloom of earth;<br/>And tears but nourish, in your soul,<br/>The glory of celestial mirth.<br/>The darts of toil and sorrow, sent<br/>Against your peaceful beauty, are<br/>As foolish and as impotent<br/>As winds that blow against a star.
+    The King was on his throne,<br/>  The Satraps thronged the hall:<br/>A thousand bright lamps shone<br/>  O'er that high festival.<br/>A thousand cups of gold,<br/>  In Judah deemed divine--<br/>Jehovah's vessels hold<br/>  The godless Heathen's wine!<br/><br/>In that same hour and hall,<br/>  The fingers of a hand<br/>Came forth against the wall,<br/>  And wrote as if on sand:<br/>The fingers of a man;--<br/>  A solitary hand<br/>Along the letters ran,<br/>  And traced them like a wand.<br/><br/>The monarch saw, and shook,<br/>  And bade no more rejoice;<br/>All bloodless waxed his look,<br/>  And tremulous his voice.<br/>"Let the men of lore appear,<br/>  The wisest of the earth,<br/>And expound the words of fear,<br/>  Which mar our royal mirth."<br/><br/>Chaldea's seers are good,<br/>  But here they have no skill;<br/>And the unknown letters stood<br/>  Untold and awful still.<br/>And Babel's men of age<br/>  Are wise and deep in lore;<br/>But now they were not sage,<br/>  They saw--but knew no more.<br/><br/>A captive in the land,<br/>  A stranger and a youth,<br/>He heard the King's command,<br/>  He saw that writing's truth.<br/>The lamps around were bright,<br/>  The prophecy in view;<br/>He read it on that night,--<br/>  The morrow proved it true.<br/><br/>"Belshazzar's grave is made,<br/>  His kingdom passed away.<br/>He, in the balance weighed,<br/>  Is light and worthless clay;<br/>The shroud, his robe of state,<br/>  His canopy the stone;<br/>The Mede is at his gate!<br/>  The Persian on his throne!"
 </p>
 
 ***
