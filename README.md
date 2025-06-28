@@ -15,7 +15,7 @@
 | AntoineLemaire/BlacklistBundle|https://github.com/AntoineLemaire/BlacklistBundle|3|Provides a Blacklist system for Symfony using Annotations with Sonata admin integration|
 | milaabl/GitHub_Follower_Bot_Automated|https://github.com/milaabl/GitHub_Follower_Bot_Automated|5|Automated GitHub Follower Bot - You Follow Me ---> My Bot Follows you Back! Let's growth! Learn how you can set it up also!|
 | regolith-labs/ore-cli|https://github.com/regolith-labs/ore-cli|1492|Command line interface for ORE cryptocurrency mining.|
-| phoboslab/high_impact|https://github.com/phoboslab/high_impact|1099|A 2d game engine written in C|
+| phoboslab/high_impact|https://github.com/phoboslab/high_impact|1101|A 2d game engine written in C|
 | Xe/praise-me|https://github.com/Xe/praise-me|141|Praise my GitHub profile!|
 | OfficialCodeVoyage/GitHub_Follower_Bot_Automated|https://github.com/OfficialCodeVoyage/GitHub_Follower_Bot_Automated|76| You Follow Me ---> My Bot Follows you Back! Let's growth! Learn how you can set it up also!|
 | OfficialCodeVoyage/leetcode|https://github.com/OfficialCodeVoyage/leetcode|23|LeetCode practice|
@@ -37,8 +37,8 @@
 | CloverGit/CloverGit|https://github.com/CloverGit/CloverGit|9||
 | TatevKaren/TatevKaren-data-science-portfolio|https://github.com/TatevKaren/TatevKaren-data-science-portfolio|64|Data Science Portfolio of Tatev Karen Aslanyan including Case Studies and Research Projects that I have completed that solve business problems or introduce new products. Case Study papers, codes, and additional resources are all included.|
 | PiotrRut/elonmusk-twitter-notifier|https://github.com/PiotrRut/elonmusk-twitter-notifier|61|AI driven e-mail notifier for tweets mentioning stock from Elon Musk 📈|
-| Vendicated/Vencord|https://github.com/Vendicated/Vencord|11084|The cutest Discord client mod|
-| yeoman/yo|https://github.com/yeoman/yo|3891|CLI tool for running Yeoman generators|
+| Vendicated/Vencord|https://github.com/Vendicated/Vencord|11093|The cutest Discord client mod|
+| yeoman/yo|https://github.com/yeoman/yo|3893|CLI tool for running Yeoman generators|
 | matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|3179|zkSync era|
 | 0age/create2crunch|https://github.com/0age/create2crunch|517|A Rust program for finding salts that create gas-efficient Ethereum addresses via CREATE2.|
 | joshstevens19/ethereum-multicall|https://github.com/joshstevens19/ethereum-multicall|374|Ability to call many ethereum constant function calls in 1 JSONRPC request|
@@ -51,10 +51,10 @@
   <summary>📚 <strong>A random poem from <em>https://poetrydb.org/random</em>!</strong> 👇 </summary>
 
 <!-- Start poem -->
-# 💮 Of Old Sat Freedom on the Heights by *Lord Alfred Tennyson*
+# 💮 From the French by *George Gordon, Lord Byron*
 
 <p>
-    Of old sat Freedom on the heights,<br/>The thunders breaking at her feet:<br/>Above her shook the starry lights:<br/>She heard the torrents meet.<br/>There in her place she did rejoice,<br/>Self-gather'd in her prophet-mind,<br/>But fragments of her mighty voice<br/>Came rolling on the wind.<br/>Then stept she down thro' town and field<br/>To mingle with the human race,<br/>And part by part to men reveal'd<br/>The fulness of her face--<br/><br/>Grave mother of majestic works,<br/>From her isle-altar gazing down,<br/>Who, God-like, grasps the triple forks,<br/>And, King-like, wears the crown:<br/><br/>Her open eyes desire the truth.<br/>The wisdom of a thousand years<br/>Is in them. May perpetual youth<br/>Keep dry their light from tears;<br/><br/>That her fair form may stand and shine,<br/>Make bright our days and light our dreams,<br/>Turning to scorn with lips divine<br/>The falsehood of extremes!
+    Must thou go, my glorious Chief,<br/>  Severed from thy faithful few?<br/>Who can tell thy warrior's grief,<br/>  Maddening o'er that long adieu?<br/>Woman's love, and Friendship's zeal,<br/>  Dear as both have been to me--<br/>What are they to all I feel,<br/>  With a soldier's faith for thee?<br/><br/>Idol of the soldier's soul!<br/>  First in fight, but mightiest now;<br/>Many could a world control;<br/>  Thee alone no doom can bow.<br/>By thy side for years I dared<br/>  Death; and envied those who fell,<br/>When their dying shout was heard,<br/>  Blessing him they served so well.<br/><br/>Would that I were cold with those,<br/>  Since this hour I live to see;<br/>When the doubts of coward foes<br/>  Scarce dare trust a man with thee,<br/>Dreading each should set thee free!<br/>  Oh! although in dungeons pent,<br/>All their chains were light to me,<br/>  Gazing on thy soul unbent.<br/><br/>Would the sycophants of him<br/>  Now so deaf to duty's prayer,<br/>Were his borrowed glories dim,<br/>  In his native darkness share?<br/>Were that world this hour his own,<br/>  All thou calmly dost resign,<br/>Could he purchase with that throne<br/>  Hearts like those which still are thine?<br/><br/>My Chief, my King, my Friend, adieu!<br/>  Never did I droop before;<br/>Never to my Sovereign sue,<br/>  As his foes I now implore:<br/>All I ask is to divide<br/>  Every peril he must brave;<br/>Sharing by the hero's side<br/>  His fall--his exile--and his grave.
 </p>
 
 ***
