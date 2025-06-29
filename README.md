@@ -37,7 +37,7 @@
 | CloverGit/CloverGit|https://github.com/CloverGit/CloverGit|9||
 | TatevKaren/TatevKaren-data-science-portfolio|https://github.com/TatevKaren/TatevKaren-data-science-portfolio|64|Data Science Portfolio of Tatev Karen Aslanyan including Case Studies and Research Projects that I have completed that solve business problems or introduce new products. Case Study papers, codes, and additional resources are all included.|
 | PiotrRut/elonmusk-twitter-notifier|https://github.com/PiotrRut/elonmusk-twitter-notifier|61|AI driven e-mail notifier for tweets mentioning stock from Elon Musk 📈|
-| Vendicated/Vencord|https://github.com/Vendicated/Vencord|11093|The cutest Discord client mod|
+| Vendicated/Vencord|https://github.com/Vendicated/Vencord|11097|The cutest Discord client mod|
 | yeoman/yo|https://github.com/yeoman/yo|3893|CLI tool for running Yeoman generators|
 | matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|3179|zkSync era|
 | 0age/create2crunch|https://github.com/0age/create2crunch|517|A Rust program for finding salts that create gas-efficient Ethereum addresses via CREATE2.|
@@ -51,10 +51,10 @@
   <summary>📚 <strong>A random poem from <em>https://poetrydb.org/random</em>!</strong> 👇 </summary>
 
 <!-- Start poem -->
-# 💮 From the French by *George Gordon, Lord Byron*
+# 💮 Lines Written During the Castlereagh Administration by *Percy Bysshe Shelley*
 
 <p>
-    Must thou go, my glorious Chief,<br/>  Severed from thy faithful few?<br/>Who can tell thy warrior's grief,<br/>  Maddening o'er that long adieu?<br/>Woman's love, and Friendship's zeal,<br/>  Dear as both have been to me--<br/>What are they to all I feel,<br/>  With a soldier's faith for thee?<br/><br/>Idol of the soldier's soul!<br/>  First in fight, but mightiest now;<br/>Many could a world control;<br/>  Thee alone no doom can bow.<br/>By thy side for years I dared<br/>  Death; and envied those who fell,<br/>When their dying shout was heard,<br/>  Blessing him they served so well.<br/><br/>Would that I were cold with those,<br/>  Since this hour I live to see;<br/>When the doubts of coward foes<br/>  Scarce dare trust a man with thee,<br/>Dreading each should set thee free!<br/>  Oh! although in dungeons pent,<br/>All their chains were light to me,<br/>  Gazing on thy soul unbent.<br/><br/>Would the sycophants of him<br/>  Now so deaf to duty's prayer,<br/>Were his borrowed glories dim,<br/>  In his native darkness share?<br/>Were that world this hour his own,<br/>  All thou calmly dost resign,<br/>Could he purchase with that throne<br/>  Hearts like those which still are thine?<br/><br/>My Chief, my King, my Friend, adieu!<br/>  Never did I droop before;<br/>Never to my Sovereign sue,<br/>  As his foes I now implore:<br/>All I ask is to divide<br/>  Every peril he must brave;<br/>Sharing by the hero's side<br/>  His fall--his exile--and his grave.
+    Corpses are cold in the tomb;<br/>Stones on the pavement are dumb;<br/>Abortions are dead in the womb,<br/>And their mothers look pale--like the death-white shore<br/>Of Albion, free no more.<br/><br/>Her sons are as stones in the way--<br/>They are masses of senseless clay--<br/>They are trodden, and move not away,--<br/>The abortion with which SHE travaileth<br/>Is Liberty, smitten to death.<br/><br/>Then trample and dance, thou Oppressor!<br/>For thy victim is no redresser;<br/>Thou art sole lord and possessor<br/>Of her corpses, and clods, and abortions--they pave<br/>Thy path to the grave.<br/><br/>Hearest thou the festival din<br/>Of Death, and Destruction, and Sin,<br/>And Wealth crying "Havoc!" within?<br/>'Tis the bacchanal triumph that makes Truth dumb,<br/>Thine Epithalamium.<br/><br/>Ay, marry thy ghastly wife!<br/>Let Fear and Disquiet and Strife<br/>Spread thy couch in the chamber of Life!<br/>Marry Ruin, thou Tyrant! and Hell be thy guide<br/>To the bed of the bride!
 </p>
 
 ***
