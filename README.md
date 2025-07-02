@@ -37,8 +37,8 @@
 | CloverGit/CloverGit|https://github.com/CloverGit/CloverGit|9||
 | TatevKaren/TatevKaren-data-science-portfolio|https://github.com/TatevKaren/TatevKaren-data-science-portfolio|64|Data Science Portfolio of Tatev Karen Aslanyan including Case Studies and Research Projects that I have completed that solve business problems or introduce new products. Case Study papers, codes, and additional resources are all included.|
 | PiotrRut/elonmusk-twitter-notifier|https://github.com/PiotrRut/elonmusk-twitter-notifier|61|AI driven e-mail notifier for tweets mentioning stock from Elon Musk 📈|
-| Vendicated/Vencord|https://github.com/Vendicated/Vencord|11117|The cutest Discord client mod|
-| yeoman/yo|https://github.com/yeoman/yo|3895|CLI tool for running Yeoman generators|
+| Vendicated/Vencord|https://github.com/Vendicated/Vencord|11124|The cutest Discord client mod|
+| yeoman/yo|https://github.com/yeoman/yo|3896|CLI tool for running Yeoman generators|
 | matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|3179|zkSync era|
 | 0age/create2crunch|https://github.com/0age/create2crunch|517|A Rust program for finding salts that create gas-efficient Ethereum addresses via CREATE2.|
 | joshstevens19/ethereum-multicall|https://github.com/joshstevens19/ethereum-multicall|374|Ability to call many ethereum constant function calls in 1 JSONRPC request|
@@ -51,10 +51,10 @@
   <summary>📚 <strong>A random poem from <em>https://poetrydb.org/random</em>!</strong> 👇 </summary>
 
 <!-- Start poem -->
-# 💮 A Red, Red Rose by *Robert Burns*
+# 💮 Mutability by *Percy Bysshe Shelley*
 
 <p>
-    O my Luve's like a red, red rose<br/>That's newly sprung in June;<br/>O my Luve's like the melodie<br/>That's sweetly played in tune.<br/><br/>As fair art thou, my bonnie lass,<br/>So deep in luve am I;<br/>And I will luve thee still, my dear,<br/>Till a' the seas gang dry:<br/><br/>Till a' the seas gang dry, my dear,<br/>And the rocks melt wi' the sun;<br/>I will luve thee still, my dear,<br/>While the sands o' life shall run.<br/><br/>And fare thee weel, my only Luve,<br/>And fare thee weel awhile!<br/>And I will come again, my Luve,<br/>Tho' it ware ten thousand mile.
+    We are as clouds that veil the midnight moon;<br/>How restlessly they speed, and gleam, and quiver,<br/>Streaking the darkness radiantly!--yet soon<br/>Night closes round, and they are lost for ever:<br/><br/>Or like forgotten lyres, whose dissonant strings<br/>Give various response to each varying blast,<br/>To whose frail frame no second motion brings<br/>One mood or modulation like the last.<br/><br/>We rest.--A dream has power to poison sleep;<br/>We rise.--One wandering thought pollutes the day;<br/>We feel, conceive or reason, laugh or weep;<br/>Embrace fond woe, or cast our cares away:<br/><br/>It is the same!--For, be it joy or sorrow,<br/>The path of its departure still is free:<br/>Man's yesterday may ne'er be like his morrow;<br/>Nought may endure but Mutability.
 </p>
 
 ***
