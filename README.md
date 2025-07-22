@@ -14,10 +14,10 @@
 | --- | --- |  --- |  --- |
 | AntoineLemaire/BlacklistBundle|https://github.com/AntoineLemaire/BlacklistBundle|3|Provides a Blacklist system for Symfony using Annotations with Sonata admin integration|
 | milaabl/GitHub_Follower_Bot_Automated|https://github.com/milaabl/GitHub_Follower_Bot_Automated|5|Automated GitHub Follower Bot - You Follow Me ---> My Bot Follows you Back! Let's growth! Learn how you can set it up also!|
-| regolith-labs/ore-cli|https://github.com/regolith-labs/ore-cli|1492|Command line interface for ORE cryptocurrency mining.|
-| phoboslab/high_impact|https://github.com/phoboslab/high_impact|1103|A 2d game engine written in C|
+| regolith-labs/ore-cli|https://github.com/regolith-labs/ore-cli|1493|Command line interface for ORE cryptocurrency mining.|
+| phoboslab/high_impact|https://github.com/phoboslab/high_impact|1101|A 2d game engine written in C|
 | Xe/praise-me|https://github.com/Xe/praise-me|140|Praise my GitHub profile!|
-| OfficialCodeVoyage/GitHub_Follower_Bot_Automated|https://github.com/OfficialCodeVoyage/GitHub_Follower_Bot_Automated|77| You Follow Me ---> My Bot Follows you Back! Let's growth! Learn how you can set it up also!|
+| OfficialCodeVoyage/GitHub_Follower_Bot_Automated|https://github.com/OfficialCodeVoyage/GitHub_Follower_Bot_Automated|78| You Follow Me ---> My Bot Follows you Back! Let's growth! Learn how you can set it up also!|
 | OfficialCodeVoyage/leetcode|https://github.com/OfficialCodeVoyage/leetcode|23|LeetCode practice|
 | MatthiasGN/SnAkE-gAmE|https://github.com/MatthiasGN/SnAkE-gAmE|4|Classic snake game built in Python|
 | EnsoBuild/temper|https://github.com/EnsoBuild/temper|372|Temper your expectations - Ethereum Transaction Simulator |
@@ -37,10 +37,10 @@
 | CloverGit/CloverGit|https://github.com/CloverGit/CloverGit|9||
 | TatevKaren/TatevKaren-data-science-portfolio|https://github.com/TatevKaren/TatevKaren-data-science-portfolio|64|Data Science Portfolio of Tatev Karen Aslanyan including Case Studies and Research Projects that I have completed that solve business problems or introduce new products. Case Study papers, codes, and additional resources are all included.|
 | PiotrRut/elonmusk-twitter-notifier|https://github.com/PiotrRut/elonmusk-twitter-notifier|62|AI driven e-mail notifier for tweets mentioning stock from Elon Musk 📈|
-| Vendicated/Vencord|https://github.com/Vendicated/Vencord|11238|The cutest Discord client mod|
-| yeoman/yo|https://github.com/yeoman/yo|3902|CLI tool for running Yeoman generators|
-| matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|3181|zkSync era|
-| 0age/create2crunch|https://github.com/0age/create2crunch|519|A Rust program for finding salts that create gas-efficient Ethereum addresses via CREATE2.|
+| Vendicated/Vencord|https://github.com/Vendicated/Vencord|11252|The cutest Discord client mod|
+| yeoman/yo|https://github.com/yeoman/yo|3903|CLI tool for running Yeoman generators|
+| matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|3183|zkSync era|
+| 0age/create2crunch|https://github.com/0age/create2crunch|520|A Rust program for finding salts that create gas-efficient Ethereum addresses via CREATE2.|
 | joshstevens19/ethereum-multicall|https://github.com/joshstevens19/ethereum-multicall|373|Ability to call many ethereum constant function calls in 1 JSONRPC request|
 
 <!-- Starred repos end -->
@@ -51,10 +51,10 @@
   <summary>📚 <strong>A random poem from <em>https://poetrydb.org/random</em>!</strong> 👇 </summary>
 
 <!-- Start poem -->
-# 💮 From The Short Story A Christmas Dream, And How It Came True by *Louisa May Alcott*
+# 💮 The Marriage of Heaven and Hell: The Argument by *William Blake*
 
 <p>
-    From our happy home<br/>Through the world we roam<br/>One week in all the year,<br/>Making winter spring<br/>With the joy we bring<br/>For Christmas-tide is here.<br/><br/>Now the eastern star<br/>Shines from afar<br/>To light the poorest home;<br/>Hearts warmer grow,<br/>Gifts freely flow,<br/>For Christmas-tide has come.<br/><br/>Now gay trees rise<br/>Before young eyes,<br/>Abloom with tempting cheer;<br/>Blithe voices sing,<br/>And blithe bells ring,<br/>For Christmas-tide is here.<br/><br/>Oh, happy chime,<br/>Oh, blessed time,<br/>That draws us all so near!<br/>"Welcome, dear day,"<br/>All creatures say,<br/>For Christmas-tide is here.
+    Rintrah roars and shakes his fires in the burden'd air,<br/>Hungry clouds swag on the deep.<br/><br/>Once meek, and in a perilous path<br/>The just man kept his course along<br/>The Vale of Death.<br/>Roses are planted where thorns grow,<br/>And on the barren heath<br/>Sing the honey bees.<br/><br/>Then the perilous path was planted,<br/>And a river and a spring<br/>On every cliff and tomb;<br/>And on the bleached bones<br/>Red clay brought forth:<br/>Till the villain left the paths of ease<br/>To walk in perilous paths, and drive<br/>The just man into barren climes.<br/><br/>Now the sneaking serpent walks<br/>In mild humility;<br/>And the just man rages in the wilds<br/>Where lions roam.<br/><br/>Rintrah roars and shakes his fires in the burden'd air,<br/>Hungry clouds swag on the deep.
 </p>
 
 ***
