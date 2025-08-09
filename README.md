@@ -37,7 +37,7 @@
 | CloverGit/CloverGit|https://github.com/CloverGit/CloverGit|9||
 | TatevKaren/TatevKaren-data-science-portfolio|https://github.com/TatevKaren/TatevKaren-data-science-portfolio|64|Data Science Portfolio of Tatev Karen Aslanyan including Case Studies and Research Projects that I have completed that solve business problems or introduce new products. Case Study papers, codes, and additional resources are all included.|
 | PiotrRut/elonmusk-twitter-notifier|https://github.com/PiotrRut/elonmusk-twitter-notifier|62|AI driven e-mail notifier for tweets mentioning stock from Elon Musk 📈|
-| Vendicated/Vencord|https://github.com/Vendicated/Vencord|11348|The cutest Discord client mod|
+| Vendicated/Vencord|https://github.com/Vendicated/Vencord|11354|The cutest Discord client mod|
 | yeoman/yo|https://github.com/yeoman/yo|3911|CLI tool for running Yeoman generators|
 | matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|3185|zkSync era|
 | 0age/create2crunch|https://github.com/0age/create2crunch|522|A Rust program for finding salts that create gas-efficient Ethereum addresses via CREATE2.|
@@ -51,10 +51,10 @@
   <summary>📚 <strong>A random poem from <em>https://poetrydb.org/random</em>!</strong> 👇 </summary>
 
 <!-- Start poem -->
-# 💮 The Old Man Dreams by *Oliver Wendell Holmes*
+# 💮 The Path by *Edward Thomas*
 
 <p>
-    OH for one hour of youthful joy!<br/>Give back my twentieth spring!<br/>I'd rather laugh, a bright-haired boy,<br/>Than reign, a gray-beard king.<br/><br/>Off with the spoils of wrinkled age!<br/>Away with Learning's crown!<br/>Tear out life's Wisdom-written page,<br/>And dash its trophies down!<br/><br/>One moment let my life-blood stream<br/>From boyhood's fount of flame!<br/>Give me one giddy, reeling dream<br/>Of life all love and fame!<br/><br/>. . . . .<br/><br/>My listening angel heard the prayer,<br/>And, calmly smiling, said,<br/>"If I but touch thy silvered hair<br/>Thy hasty wish hath sped.<br/><br/>"But is there nothing in thy track,<br/>To bid thee fondly stay,<br/>While the swift seasons hurry back<br/>To find the wished-for day?"<br/><br/>"Ah, truest soul of womankind!<br/>Without thee what were life ?<br/>One bliss I cannot leave behind:<br/>I'll take-- my-- precious-- wife!"<br/><br/>The angel took a sapphire pen<br/>And wrote in rainbow dew,<br/>The man would be a boy again,<br/>And be a husband too!<br/><br/>"And is there nothing yet unsaid,<br/>Before the change appears?<br/>Remember, all their gifts have fled<br/>With those dissolving years."<br/><br/>"Why, yes;" for memory would recall<br/>My fond paternal joys;<br/>"I could not bear to leave them all--<br/>I'll take-- my-- girl-- and-- boys."<br/><br/>The smiling angel dropped his pen,--<br/>"Why, this will never do;<br/>The man would be a boy again,<br/>And be a father too!"<br/><br/>. . . . .<br/><br/>And so I laughed,-- my laughter woke<br/>The household with its noise,--<br/>And wrote my dream, when morning broke,<br/>To please the gray-haired boys.
+    RUNNING along a bank, a parapet<br/>That saves from the precipitous wood below<br/>The level road, there is a path. It serves<br/>Children for looking down the long smooth steep,<br/>Between the legs of beech and yew, to where<br/>A fallen tree checks the sight: while men and women<br/>Content themselves with the road and what they see<br/>Over the bank, and what the children tell.<br/>The path, winding like silver, trickles on,<br/>Bordered and even invaded by thinnest moss<br/>That tries to cover roots and crumbling chalk<br/>With gold, olive, and emerald, but in vain.<br/>The children wear it. They have flattened the bank<br/>On top, and silvered it between the moss<br/>With the current of their feet, year after year.<br/>But the road is houseless, and leads not to school.<br/>To see a child is rare there, and the eye<br/>Has but the road, the wood that overhangs<br/>And underyawns it, and the path that looks<br/>As if it led on to some legendary<br/>Or fancied place where men have wished to go<br/>And stay; till, sudden, it ends where the wood ends.
 </p>
 
 ***
