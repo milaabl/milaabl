@@ -22,7 +22,7 @@
 | MatthiasGN/SnAkE-gAmE|https://github.com/MatthiasGN/SnAkE-gAmE|4|Classic snake game built in Python|
 | EnsoBuild/temper|https://github.com/EnsoBuild/temper|373|Temper your expectations - Ethereum Transaction Simulator |
 | the-coder-o/a-bd.me|https://github.com/the-coder-o/a-bd.me|7|My personal website made with Next.js 14 (App Router). Features blog posts, gear list, dark theme and more. Tailwind CSS,  Radix, Framer Motion, and Vercel.|
-| Xunzhuo/Xunzhuo|https://github.com/Xunzhuo/Xunzhuo|64|About me|
+| Xunzhuo/Xunzhuo|https://github.com/Xunzhuo/Xunzhuo|65|About me|
 | zcaceres/snoop|https://github.com/zcaceres/snoop|4|Like grep or ack... for the DOM|
 | zcaceres/zcaceres|https://github.com/zcaceres/zcaceres|2|Super secret Github profile README thing|
 | zcaceres/dotfiles|https://github.com/zcaceres/dotfiles|3|System setup w/dotfiles, tools, and apps automated with Ansible. Forever a WIP.|
@@ -37,7 +37,7 @@
 | CloverGit/CloverGit|https://github.com/CloverGit/CloverGit|9||
 | TatevKaren/TatevKaren-data-science-portfolio|https://github.com/TatevKaren/TatevKaren-data-science-portfolio|64|Data Science Portfolio of Tatev Karen Aslanyan including Case Studies and Research Projects that I have completed that solve business problems or introduce new products. Case Study papers, codes, and additional resources are all included.|
 | PiotrRut/elonmusk-twitter-notifier|https://github.com/PiotrRut/elonmusk-twitter-notifier|62|AI driven e-mail notifier for tweets mentioning stock from Elon Musk 📈|
-| Vendicated/Vencord|https://github.com/Vendicated/Vencord|11370|The cutest Discord client mod|
+| Vendicated/Vencord|https://github.com/Vendicated/Vencord|11375|The cutest Discord client mod|
 | yeoman/yo|https://github.com/yeoman/yo|3911|CLI tool for running Yeoman generators|
 | matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|3184|zkSync era|
 | 0age/create2crunch|https://github.com/0age/create2crunch|522|A Rust program for finding salts that create gas-efficient Ethereum addresses via CREATE2.|
@@ -51,10 +51,10 @@
   <summary>📚 <strong>A random poem from <em>https://poetrydb.org/random</em>!</strong> 👇 </summary>
 
 <!-- Start poem -->
-# 💮 The Flower by *Lord Alfred Tennyson*
+# 💮 Homer's Hymn to Venus by *Percy Bysshe Shelley*
 
 <p>
-    Once in a golden hour<br/>I cast to earth a seed.<br/>Up there came a flower,<br/>The people said, a weed.<br/><br/>To and fro they went<br/>Thro' my garden bower,<br/>And muttering discontent<br/>Cursed me and my flower.<br/><br/>Then it grew so tall<br/>It wore a crown of light,<br/>But thieves from o'er the wall<br/>Stole the seed by night.<br/><br/>Sow'd it far and wide<br/>By every town and tower,<br/>Till all the people cried,<br/>"Splendid is the flower!"<br/><br/>Read my little fable:<br/>He that runs may read.<br/>Most can raise the flowers now,<br/>For all have got the seed.<br/><br/>And some are pretty enough,<br/>And some are poor indeed;<br/>And now again the people<br/>Call it but a weed.
+    [VERSES 1-55, WITH SOME OMISSIONS.]<br/><br/>Muse, sing the deeds of golden Aphrodite,<br/>Who wakens with her smile the lulled delight<br/>Of sweet desire, taming the eternal kings<br/>Of Heaven, and men, and all the living things<br/>That fleet along the air, or whom the sea,<br/>Or earth, with her maternal ministry,<br/>Nourish innumerable, thy delight<br/>All seek ... O crowned Aphrodite!<br/>Three spirits canst thou not deceive or quell:--<br/>Minerva, child of Jove, who loves too well<br/>Fierce war and mingling combat, and the fame<br/>Of glorious deeds, to heed thy gentle flame.<br/>Diana ... golden-shafted queen,<br/>Is tamed not by thy smiles; the shadows green<br/>Of the wild woods, the bow, the...<br/>And piercing cries amid the swift pursuit<br/>Of beasts among waste mountains,--such delight<br/>Is hers, and men who know and do the right.<br/>Nor Saturn's first-born daughter, Vesta chaste,<br/>Whom Neptune and Apollo wooed the last,<br/>Such was the will of aegis-bearing Jove;<br/>But sternly she refused the ills of Love,<br/>And by her mighty Father's head she swore<br/>An oath not unperformed, that evermore<br/>A virgin she would live mid deities<br/>Divine: her father, for such gentle ties<br/>Renounced, gave glorious gifts--thus in his hall<br/>She sits and feeds luxuriously. O'er all<br/>In every fane, her honours first arise<br/>From men--the eldest of Divinities.<br/><br/>These spirits she persuades not, nor deceives,<br/>But none beside escape, so well she weaves<br/>Her unseen toils; nor mortal men, nor gods<br/>Who live secure in their unseen abodes.<br/>She won the soul of him whose fierce delight<br/>Is thunder--first in glory and in might.<br/>And, as she willed, his mighty mind deceiving,<br/>With mortal limbs his deathless limbs inweaving,<br/>Concealed him from his spouse and sister fair,<br/>Whom to wise Saturn ancient Rhea bare.<br/>but in return,<br/>In Venus Jove did soft desire awaken,<br/>That by her own enchantments overtaken,<br/>She might, no more from human union free,<br/>Burn for a nursling of mortality.<br/>For once amid the assembled Deities,<br/>The laughter-loving Venus from her eyes<br/><br/>Shot forth the light of a soft starlight smile,<br/>And boasting said, that she, secure the while,<br/>Could bring at Will to the assembled Gods<br/>The mortal tenants of earth's dark abodes,<br/>And mortal offspring from a deathless stem<br/>She could produce in scorn and spite of them.<br/>Therefore he poured desire into her breast<br/>Of young Anchises,<br/>Feeding his herds among the mossy fountains<br/>Of the wide Ida's many-folded mountains,--<br/>Whom Venus saw, and loved, and the love clung<br/>Like wasting fire her senses wild among.
 </p>
 
 ***
