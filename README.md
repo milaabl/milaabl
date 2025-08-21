@@ -37,9 +37,9 @@
 | CloverGit/CloverGit|https://github.com/CloverGit/CloverGit|9||
 | TatevKaren/TatevKaren-data-science-portfolio|https://github.com/TatevKaren/TatevKaren-data-science-portfolio|64|Data Science Portfolio of Tatev Karen Aslanyan including Case Studies and Research Projects that I have completed that solve business problems or introduce new products. Case Study papers, codes, and additional resources are all included.|
 | PiotrRut/elonmusk-twitter-notifier|https://github.com/PiotrRut/elonmusk-twitter-notifier|62|AI driven e-mail notifier for tweets mentioning stock from Elon Musk 📈|
-| Vendicated/Vencord|https://github.com/Vendicated/Vencord|11430|The cutest Discord client mod|
-| yeoman/yo|https://github.com/yeoman/yo|3916|CLI tool for running Yeoman generators|
-| matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|3190|zkSync era|
+| Vendicated/Vencord|https://github.com/Vendicated/Vencord|11437|The cutest Discord client mod|
+| yeoman/yo|https://github.com/yeoman/yo|3917|CLI tool for running Yeoman generators|
+| matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|3192|zkSync era|
 | 0age/create2crunch|https://github.com/0age/create2crunch|522|A Rust program for finding salts that create gas-efficient Ethereum addresses via CREATE2.|
 | joshstevens19/ethereum-multicall|https://github.com/joshstevens19/ethereum-multicall|373|Ability to call many ethereum constant function calls in 1 JSONRPC request|
 
@@ -51,10 +51,10 @@
   <summary>📚 <strong>A random poem from <em>https://poetrydb.org/random</em>!</strong> 👇 </summary>
 
 <!-- Start poem -->
-# 💮 Song On May Morning by *John Milton*
+# 💮 Stanzas by *George Gordon, Lord Byron*
 
 <p>
-    Now the bright morning Star, Dayes harbinger,<br/>Comes dancing from the East, and leads with her<br/>The Flowry May, who from her green lap throws<br/>The yellow Cowslip, and the pale Primrose.<br/>Hail bounteous May that dost inspire<br/>Mirth and youth, and warm desire,<br/>Woods and Groves, are of thy dressing,<br/>Hill and Dale, doth boast thy blessing.<br/>Thus we salute thee with our early Song,<br/>And welcom thee, and wish thee long.
+        Could Love for ever<br/>    Run like a river,<br/>    And Time's endeavour<br/>      Be tried in vain--<br/>    No other pleasure<br/>    With this could measure;<br/>    And like a treasure<br/>      We'd hug the chain.<br/>    But since our sighing<br/>    Ends not in dying,<br/>    And, formed for flying,<br/>      Love plumes his wing;<br/>    Then for this reason<br/>    Let's love a season;<br/>But let that season be only Spring.<br/><br/>    When lovers parted<br/>    Feel broken-hearted,<br/>    And, all hopes thwarted,<br/>      Expect to die;<br/>    A few years older,<br/>    Ah! how much colder<br/>    They might behold her<br/>      For whom they sigh!<br/>    When linked together,<br/>    In every weather,<br/>    They pluck Love's feather<br/>      From out his wing--<br/>    He'll stay for ever,<br/>    But sadly shiver<br/>Without his plumage, when past the Spring.<br/><br/>    Like Chiefs of Faction,<br/>    His life is action--<br/>    A formal paction<br/>      That curbs his reign,<br/>    Obscures his glory,<br/>    Despot no more, he<br/>    Such territory<br/>      Quits with disdain.<br/>    Still, still advancing,<br/>    With banners glancing,<br/>    His power enhancing,<br/>      He must move on--<br/>    Repose but cloys him,<br/>    Retreat destroys him,<br/>Love brooks not a degraded throne.<br/><br/>    Wait not, fond lover!<br/>    Till years are over,<br/>    And then recover<br/>      As from a dream.<br/>    While each bewailing<br/>    The other's failing.<br/>    With wrath and railing,<br/>      All hideous seem--<br/>    While first decreasing,<br/>    Yet not quite ceasing,<br/>    Wait not till teasing,<br/>      All passion blight:<br/>    If once diminished<br/>    Love's reign is finished--<br/>Then part in friendship,--and bid good-night.<br/><br/>    So shall Affection<br/>    To recollection<br/>    The dear connection<br/>      Bring back with joy:<br/>    You had not waited<br/>    Till, tired or hated,<br/>    Your passions sated<br/>      Began to cloy.<br/>    Your last embraces<br/>    Leave no cold traces--<br/>    The same fond faces<br/>      As through the past:<br/>    And eyes, the mirrors<br/>    Of your sweet errors,<br/>Reflect but rapture--not least though last.<br/><br/>    True, separations<br/>    Ask more than patience;<br/>    What desperations<br/>      From such have risen!<br/>    But yet remaining,<br/>    What is't but chaining<br/>    Hearts which, once waning,<br/>      Beat 'gainst their prison?<br/>    Time can but cloy love,<br/>    And use destroy love:<br/>    The wingéd boy, Love,<br/>      Is but for boys--<br/>    You'll find it torture<br/>    Though sharper, shorter,<br/>To wean, and not wear out your joys.
 </p>
 
 ***
