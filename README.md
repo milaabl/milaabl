@@ -39,8 +39,8 @@
 | PiotrRut/elonmusk-twitter-notifier|https://github.com/PiotrRut/elonmusk-twitter-notifier|63|AI driven e-mail notifier for tweets mentioning stock from Elon Musk 📈|
 | Vendicated/Vencord|https://github.com/Vendicated/Vencord|11523|The cutest Discord client mod|
 | yeoman/yo|https://github.com/yeoman/yo|3919|CLI tool for running Yeoman generators|
-| matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|3197|zkSync era|
-| 0age/create2crunch|https://github.com/0age/create2crunch|524|A Rust program for finding salts that create gas-efficient Ethereum addresses via CREATE2.|
+| matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|3198|zkSync era|
+| 0age/create2crunch|https://github.com/0age/create2crunch|525|A Rust program for finding salts that create gas-efficient Ethereum addresses via CREATE2.|
 | joshstevens19/ethereum-multicall|https://github.com/joshstevens19/ethereum-multicall|373|Ability to call many ethereum constant function calls in 1 JSONRPC request|
 
 <!-- Starred repos end -->
@@ -51,10 +51,10 @@
   <summary>📚 <strong>A random poem from <em>https://poetrydb.org/random</em>!</strong> 👇 </summary>
 
 <!-- Start poem -->
-# 💮 Astrophel and Stella VII: WhenNature Made her Chief Work by *Sir Philip Sidney*
+# 💮 Love by *Percy Bysshe Shelley*
 
 <p>
-    When Nature made her chief work, Stella's eyes,<br/>In colour black why wrapt she beams so bright?<br/>Would she in beamy black, like painter wise,<br/>Frame daintiest lustre, mix'd of shades and light?<br/>Or did she else that sober hue devise,<br/>In object best to knit and strength our sight;<br/>Lest, if no veil these brave gleams did disguise,<br/>They, sunlike, should more dazzle than delight?<br/>Or would she her miraculous power show,<br/>That, whereas black seems beauty's contrary,<br/>She even in black doth make all beauties flow?<br/>Both so, and thus,--she, minding Love should be<br/>Plac'd ever there, gave him this mourning weed<br/>To honour all their deaths who for her bleed.
+    Why is it said thou canst not live<br/>In a youthful breast and fair,<br/>Since thou eternal life canst give,<br/>Canst bloom for ever there?<br/>Since withering pain no power possessed,<br/>Nor age, to blanch thy vermeil hue,<br/>Nor time's dread victor, death, confessed,<br/>Though bathed with his poison dew,<br/>Still thou retain'st unchanging bloom,<br/>Fixed tranquil, even in the tomb.<br/>And oh! when on the blest, reviving,<br/>The day-star dawns of love,<br/>Each energy of soul surviving<br/>More vivid, soars above,<br/>Hast thou ne'er felt a rapturous thrill,<br/>Like June's warm breath, athwart thee fly,<br/>O'er each idea then to steal,<br/>When other passions die?<br/>Felt it in some wild noonday dream,<br/>When sitting by the lonely stream,<br/>Where Silence says, 'Mine is the dell';<br/>And not a murmur from the plain,<br/>And not an echo from the fell,<br/>Disputes her silent reign.
 </p>
 
 ***
