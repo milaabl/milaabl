@@ -14,7 +14,7 @@
 | --- | --- |  --- |  --- |
 | AntoineLemaire/BlacklistBundle|https://github.com/AntoineLemaire/BlacklistBundle|3|Provides a Blacklist system for Symfony using Annotations with Sonata admin integration|
 | milaabl/GitHub_Follower_Bot_Automated|https://github.com/milaabl/GitHub_Follower_Bot_Automated|5|Automated GitHub Follower Bot - You Follow Me ---> My Bot Follows you Back! Let's growth! Learn how you can set it up also!|
-| regolith-labs/ore-cli|https://github.com/regolith-labs/ore-cli|1496|Command line interface for ORE cryptocurrency mining.|
+| regolith-labs/ore-cli|https://github.com/regolith-labs/ore-cli|1494|Command line interface for ORE cryptocurrency mining.|
 | phoboslab/high_impact|https://github.com/phoboslab/high_impact|1099|A 2d game engine written in C|
 | Xe/praise-me|https://github.com/Xe/praise-me|139|Praise my GitHub profile!|
 | OfficialCodeVoyage/GitHub_Follower_Bot_Automated|https://github.com/OfficialCodeVoyage/GitHub_Follower_Bot_Automated|82| You Follow Me ---> My Bot Follows you Back! Let's growth! Learn how you can set it up also!|
@@ -22,7 +22,7 @@
 | MatthiasGN/SnAkE-gAmE|https://github.com/MatthiasGN/SnAkE-gAmE|4|Classic snake game built in Python|
 | EnsoBuild/temper|https://github.com/EnsoBuild/temper|374|Temper your expectations - Ethereum Transaction Simulator |
 | the-coder-o/a-bd.me|https://github.com/the-coder-o/a-bd.me|7|My personal website made with Next.js 14 (App Router). Features blog posts, gear list, dark theme and more. Tailwind CSS,  Radix, Framer Motion, and Vercel.|
-| Xunzhuo/Xunzhuo|https://github.com/Xunzhuo/Xunzhuo|68|About me|
+| Xunzhuo/Xunzhuo|https://github.com/Xunzhuo/Xunzhuo|70|About me|
 | zcaceres/snoop|https://github.com/zcaceres/snoop|4|Like grep or ack... for the DOM|
 | zcaceres/zcaceres|https://github.com/zcaceres/zcaceres|2|Super secret Github profile README thing|
 | zcaceres/dotfiles|https://github.com/zcaceres/dotfiles|3|System setup w/dotfiles, tools, and apps automated with Ansible. Forever a WIP.|
@@ -37,7 +37,7 @@
 | CloverGit/CloverGit|https://github.com/CloverGit/CloverGit|9||
 | TatevKaren/TatevKaren-data-science-portfolio|https://github.com/TatevKaren/TatevKaren-data-science-portfolio|64|Data Science Portfolio of Tatev Karen Aslanyan including Case Studies and Research Projects that I have completed that solve business problems or introduce new products. Case Study papers, codes, and additional resources are all included.|
 | PiotrRut/elonmusk-twitter-notifier|https://github.com/PiotrRut/elonmusk-twitter-notifier|63|AI driven e-mail notifier for tweets mentioning stock from Elon Musk 📈|
-| Vendicated/Vencord|https://github.com/Vendicated/Vencord|11523|The cutest Discord client mod|
+| Vendicated/Vencord|https://github.com/Vendicated/Vencord|11528|The cutest Discord client mod|
 | yeoman/yo|https://github.com/yeoman/yo|3919|CLI tool for running Yeoman generators|
 | matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|3198|zkSync era|
 | 0age/create2crunch|https://github.com/0age/create2crunch|525|A Rust program for finding salts that create gas-efficient Ethereum addresses via CREATE2.|
@@ -51,10 +51,10 @@
   <summary>📚 <strong>A random poem from <em>https://poetrydb.org/random</em>!</strong> 👇 </summary>
 
 <!-- Start poem -->
-# 💮 Love by *Percy Bysshe Shelley*
+# 💮 Sonnet 151: Love is too young to know what conscience is by *William Shakespeare*
 
 <p>
-    Why is it said thou canst not live<br/>In a youthful breast and fair,<br/>Since thou eternal life canst give,<br/>Canst bloom for ever there?<br/>Since withering pain no power possessed,<br/>Nor age, to blanch thy vermeil hue,<br/>Nor time's dread victor, death, confessed,<br/>Though bathed with his poison dew,<br/>Still thou retain'st unchanging bloom,<br/>Fixed tranquil, even in the tomb.<br/>And oh! when on the blest, reviving,<br/>The day-star dawns of love,<br/>Each energy of soul surviving<br/>More vivid, soars above,<br/>Hast thou ne'er felt a rapturous thrill,<br/>Like June's warm breath, athwart thee fly,<br/>O'er each idea then to steal,<br/>When other passions die?<br/>Felt it in some wild noonday dream,<br/>When sitting by the lonely stream,<br/>Where Silence says, 'Mine is the dell';<br/>And not a murmur from the plain,<br/>And not an echo from the fell,<br/>Disputes her silent reign.
+    Love is too young to know what conscience is,<br/>Yet who knows not conscience is born of love?<br/>Then, gentle cheater, urge not my amiss,<br/>Lest guilty of my faults thy sweet self prove:<br/>For, thou betraying me, I do betray<br/>My nobler part to my gross body's treason;<br/>My soul doth tell my body that he may<br/>Triumph in love; flesh stays no farther reason,<br/>But rising at thy name doth point out thee,<br/>As his triumphant prize. Proud of this pride,<br/>He is contented thy poor drudge to be,<br/>To stand in thy affairs, fall by thy side.<br/>  No want of conscience hold it that I call<br/>  Her 'love,' for whose dear love I rise and fall.
 </p>
 
 ***
