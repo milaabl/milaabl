@@ -37,8 +37,8 @@
 | CloverGit/CloverGit|https://github.com/CloverGit/CloverGit|9||
 | TatevKaren/TatevKaren-data-science-portfolio|https://github.com/TatevKaren/TatevKaren-data-science-portfolio|64|Data Science Portfolio of Tatev Karen Aslanyan including Case Studies and Research Projects that I have completed that solve business problems or introduce new products. Case Study papers, codes, and additional resources are all included.|
 | PiotrRut/elonmusk-twitter-notifier|https://github.com/PiotrRut/elonmusk-twitter-notifier|63|AI driven e-mail notifier for tweets mentioning stock from Elon Musk 📈|
-| Vendicated/Vencord|https://github.com/Vendicated/Vencord|11528|The cutest Discord client mod|
-| yeoman/yo|https://github.com/yeoman/yo|3919|CLI tool for running Yeoman generators|
+| Vendicated/Vencord|https://github.com/Vendicated/Vencord|11533|The cutest Discord client mod|
+| yeoman/yo|https://github.com/yeoman/yo|3920|CLI tool for running Yeoman generators|
 | matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|3198|zkSync era|
 | 0age/create2crunch|https://github.com/0age/create2crunch|525|A Rust program for finding salts that create gas-efficient Ethereum addresses via CREATE2.|
 | joshstevens19/ethereum-multicall|https://github.com/joshstevens19/ethereum-multicall|373|Ability to call many ethereum constant function calls in 1 JSONRPC request|
@@ -51,10 +51,10 @@
   <summary>📚 <strong>A random poem from <em>https://poetrydb.org/random</em>!</strong> 👇 </summary>
 
 <!-- Start poem -->
-# 💮 Sonnet 151: Love is too young to know what conscience is by *William Shakespeare*
+# 💮 To My Mother by *Edgar Allan Poe*
 
 <p>
-    Love is too young to know what conscience is,<br/>Yet who knows not conscience is born of love?<br/>Then, gentle cheater, urge not my amiss,<br/>Lest guilty of my faults thy sweet self prove:<br/>For, thou betraying me, I do betray<br/>My nobler part to my gross body's treason;<br/>My soul doth tell my body that he may<br/>Triumph in love; flesh stays no farther reason,<br/>But rising at thy name doth point out thee,<br/>As his triumphant prize. Proud of this pride,<br/>He is contented thy poor drudge to be,<br/>To stand in thy affairs, fall by thy side.<br/>  No want of conscience hold it that I call<br/>  Her 'love,' for whose dear love I rise and fall.
+    Because I feel that, in the Heavens above,<br/>  The angels, whispering to one another,<br/>Can find, among their burning terms of love,<br/>  None so devotional as that of "Mother,"<br/>Therefore by that dear name I long have called you--<br/>  You who are more than mother unto me,<br/>And fill my heart of hearts, where Death installed you,<br/>  In setting my Virginia's spirit free.<br/>My mother--my own mother, who died early,<br/>  Was but the mother of myself; but you<br/>Are mother to the one I loved so dearly,<br/>  And thus are dearer than the mother I knew<br/>By that infinity with which my wife<br/>  Was dearer to my soul than its soul-life.
 </p>
 
 ***
