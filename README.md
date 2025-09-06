@@ -20,7 +20,7 @@
 | OfficialCodeVoyage/GitHub_Follower_Bot_Automated|https://github.com/OfficialCodeVoyage/GitHub_Follower_Bot_Automated|82| You Follow Me ---> My Bot Follows you Back! Let's growth! Learn how you can set it up also!|
 | OfficialCodeVoyage/leetcode|https://github.com/OfficialCodeVoyage/leetcode|23|LeetCode practice|
 | MatthiasGN/SnAkE-gAmE|https://github.com/MatthiasGN/SnAkE-gAmE|4|Classic snake game built in Python|
-| EnsoBuild/temper|https://github.com/EnsoBuild/temper|373|Temper your expectations - Ethereum Transaction Simulator |
+| EnsoBuild/temper|https://github.com/EnsoBuild/temper|374|Temper your expectations - Ethereum Transaction Simulator |
 | the-coder-o/a-bd.me|https://github.com/the-coder-o/a-bd.me|7|My personal website made with Next.js 14 (App Router). Features blog posts, gear list, dark theme and more. Tailwind CSS,  Radix, Framer Motion, and Vercel.|
 | Xunzhuo/Xunzhuo|https://github.com/Xunzhuo/Xunzhuo|70|About me|
 | zcaceres/snoop|https://github.com/zcaceres/snoop|4|Like grep or ack... for the DOM|
@@ -37,7 +37,7 @@
 | CloverGit/CloverGit|https://github.com/CloverGit/CloverGit|9||
 | TatevKaren/TatevKaren-data-science-portfolio|https://github.com/TatevKaren/TatevKaren-data-science-portfolio|64|Data Science Portfolio of Tatev Karen Aslanyan including Case Studies and Research Projects that I have completed that solve business problems or introduce new products. Case Study papers, codes, and additional resources are all included.|
 | PiotrRut/elonmusk-twitter-notifier|https://github.com/PiotrRut/elonmusk-twitter-notifier|63|AI driven e-mail notifier for tweets mentioning stock from Elon Musk 📈|
-| Vendicated/Vencord|https://github.com/Vendicated/Vencord|11549|The cutest Discord modification|
+| Vendicated/Vencord|https://github.com/Vendicated/Vencord|11564|The cutest Discord modification|
 | yeoman/yo|https://github.com/yeoman/yo|3920|CLI tool for running Yeoman generators|
 | matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|3198|zkSync era|
 | 0age/create2crunch|https://github.com/0age/create2crunch|525|A Rust program for finding salts that create gas-efficient Ethereum addresses via CREATE2.|
@@ -51,10 +51,10 @@
   <summary>📚 <strong>A random poem from <em>https://poetrydb.org/random</em>!</strong> 👇 </summary>
 
 <!-- Start poem -->
-# 💮 309. Verses on Captain Grose by *Robert Burns*
+# 💮 Herod's Lament for Mariamne by *George Gordon, Lord Byron*
 
 <p>
-    KEN ye aught o’ Captain Grose?—Igo, and ago,<br/>If he’s amang his friends or foes?—Iram, coram, dago.<br/><br/><br/>Is he to Abra’m’s bosom gane?—Igo, and ago,<br/>Or haudin Sarah by the wame?—Iram, coram dago.<br/><br/><br/>Is he south or is he north?—Igo, and ago,<br/>Or drowned in the river Forth?—Iram, coram dago.<br/><br/><br/>Is he slain by Hielan’ bodies?—Igo, and ago,<br/>And eaten like a wether haggis?—Iram, coram, dago.<br/><br/><br/>Where’er he be, the Lord be near him!—Igo, and ago,<br/>As for the deil, he daur na steer him.—Iram, coram, dago.<br/><br/><br/>But please transmit th’ enclosed letter,—Igo, and ago,<br/>Which will oblige your humble debtor.—Iram, coram, dago.<br/><br/><br/>So may ye hae auld stanes in store,—Igo, and ago,<br/>The very stanes that Adam bore.—Iram, coram, dago,<br/><br/><br/>So may ye get in glad possession,—Igo, and ago,<br/>The coins o’ Satan’s coronation!—Iram coram dago.
+    Oh, Mariamne! now for thee<br/>  The heart for which thou bled'st is bleeding;<br/>Revenge is lost in Agony<br/>  And wild Remorse to rage succeeding.<br/>Oh, Mariamne! where art thou?<br/>  Thou canst not hear my bitter pleading:<br/>Ah! could'st thou--thou would'st pardon now,<br/>  Though Heaven were to my prayer unheeding.<br/><br/>And is she dead?--and did they dare<br/>  Obey my Frenzy's jealous raving?<br/>My Wrath but doomed my own despair:<br/>  The sword that smote her 's o'er me waving.--<br/>But thou art cold, my murdered Love!<br/>  And this dark heart is vainly craving<br/>For he who soars alone above,<br/>  And leaves my soul unworthy saving.<br/><br/>She's gone, who shared my diadem;<br/>  She sunk, with her my joys entombing;<br/>I swept that flower from Judah's stem,<br/>  Whose leaves for me alone were blooming;<br/>And mine's the guilt, and mine the hell,<br/>  This bosom's desolation dooming;<br/>And I have earned those tortures well,<br/>  Which unconsumed are still consuming!
 </p>
 
 ***
