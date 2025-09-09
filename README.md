@@ -22,7 +22,7 @@
 | MatthiasGN/SnAkE-gAmE|https://github.com/MatthiasGN/SnAkE-gAmE|4|Classic snake game built in Python|
 | EnsoBuild/temper|https://github.com/EnsoBuild/temper|374|Temper your expectations - Ethereum Transaction Simulator |
 | the-coder-o/a-bd.me|https://github.com/the-coder-o/a-bd.me|7|My personal website made with Next.js 14 (App Router). Features blog posts, gear list, dark theme and more. Tailwind CSS,  Radix, Framer Motion, and Vercel.|
-| Xunzhuo/Xunzhuo|https://github.com/Xunzhuo/Xunzhuo|70|About me|
+| Xunzhuo/Xunzhuo|https://github.com/Xunzhuo/Xunzhuo|71|About me|
 | zcaceres/snoop|https://github.com/zcaceres/snoop|4|Like grep or ack... for the DOM|
 | zcaceres/zcaceres|https://github.com/zcaceres/zcaceres|2|Super secret Github profile README thing|
 | zcaceres/dotfiles|https://github.com/zcaceres/dotfiles|3|System setup w/dotfiles, tools, and apps automated with Ansible. Forever a WIP.|
@@ -37,7 +37,7 @@
 | CloverGit/CloverGit|https://github.com/CloverGit/CloverGit|9||
 | TatevKaren/TatevKaren-data-science-portfolio|https://github.com/TatevKaren/TatevKaren-data-science-portfolio|64|Data Science Portfolio of Tatev Karen Aslanyan including Case Studies and Research Projects that I have completed that solve business problems or introduce new products. Case Study papers, codes, and additional resources are all included.|
 | PiotrRut/elonmusk-twitter-notifier|https://github.com/PiotrRut/elonmusk-twitter-notifier|63|AI driven e-mail notifier for tweets mentioning stock from Elon Musk 📈|
-| Vendicated/Vencord|https://github.com/Vendicated/Vencord|11580|The cutest Discord modification|
+| Vendicated/Vencord|https://github.com/Vendicated/Vencord|11584|The cutest Discord modification|
 | yeoman/yo|https://github.com/yeoman/yo|3920|CLI tool for running Yeoman generators|
 | matter-labs/zksync-era|https://github.com/matter-labs/zksync-era|3198|zkSync era|
 | 0age/create2crunch|https://github.com/0age/create2crunch|525|A Rust program for finding salts that create gas-efficient Ethereum addresses via CREATE2.|
@@ -51,10 +51,10 @@
   <summary>📚 <strong>A random poem from <em>https://poetrydb.org/random</em>!</strong> 👇 </summary>
 
 <!-- Start poem -->
-# 💮 Ugolino by *Percy Bysshe Shelley*
+# 💮 Quem Deus Vult Perdere Prius Dementat by *George Gordon, Lord Byron*
 
 <p>
-    INFERNO 33, 22-75.<br/><br/>Now had the loophole of that dungeon, still<br/>Which bears the name of Famine's Tower from me,<br/>And where 'tis fit that many another will<br/><br/>Be doomed to linger in captivity,<br/>Shown through its narrow opening in my cell<br/>'Moon after moon slow waning', when a sleep,<br/><br/>'That of the future burst the veil, in dream<br/>Visited me. It was a slumber deep<br/>And evil; for I saw, or I did seem'<br/><br/>To see, 'that' tyrant Lord his revels keep<br/>The leader of the cruel hunt to them,<br/>Chasing the wolf and wolf-cubs up the steep<br/><br/>Ascent, that from 'the Pisan is the screen'<br/>Of 'Lucca'; with him Gualandi came,<br/>Sismondi, and Lanfranchi, 'bloodhounds lean,<br/><br/>Trained to the sport and eager for the game<br/>Wide ranging in his front;' but soon were seen<br/>Though by so short a course, with 'spirits tame,'<br/><br/>The father and 'his whelps' to flag at once,<br/>And then the sharp fangs gored their bosoms deep.<br/>Ere morn I roused myself, and heard my sons,<br/><br/>For they were with me, moaning in their sleep,<br/>And begging bread. Ah, for those darling ones!<br/>Right cruel art thou, if thou dost not weep<br/><br/>In thinking of my soul's sad augury;<br/>And if thou weepest not now, weep never more!<br/>They were already waked, as wont drew nigh<br/><br/>The allotted hour for food, and in that hour<br/>Each drew a presage from his dream. When I<br/>'Heard locked beneath me of that horrible tower<br/><br/>The outlet; then into their eyes alone<br/>I looked to read myself,' without a sign<br/>Or word. I wept not--turned within to stone.<br/><br/>They wept aloud, and little Anselm mine,<br/>Said--'twas my youngest, dearest little one,--<br/>"What ails thee, father? Why look so at thine?"<br/><br/>In all that day, and all the following night,<br/>I wept not, nor replied; but when to shine<br/>Upon the world, not us, came forth the light<br/><br/>Of the new sun, and thwart my prison thrown<br/>Gleamed through its narrow chink, a doleful sight,<br/>'Three faces, each the reflex of my own,<br/><br/>Were imaged by its faint and ghastly ray;'<br/>Then I, of either hand unto the bone,<br/>Gnawed, in my agony; and thinking they<br/><br/>Twas done from sudden pangs, in their excess,<br/>All of a sudden raise themselves, and say,<br/>"Father! our woes, so great, were yet the less<br/><br/>Would you but eat of us,--twas 'you who clad<br/>Our bodies in these weeds of wretchedness;<br/>Despoil them'." Not to make their hearts more sad,<br/><br/>I 'hushed' myself. That day is at its close,--<br/>Another--still we were all mute. Oh, had<br/>The obdurate earth opened to end our woes!<br/><br/>The fourth day dawned, and when the new sun shone,<br/>Outstretched himself before me as it rose<br/>My Gaddo, saying, "Help, father! hast thou none<br/><br/>For thine own child--is there no help from thee?"<br/>He died--there at my feet--and one by one,<br/>I saw them fall, plainly as you see me.<br/><br/>Between the fifth and sixth day, ere twas dawn,<br/>I found 'myself blind-groping o'er the three.'<br/>Three days I called them after they were gone.<br/><br/>Famine of grief can get the mastery.
+    God maddens him whom't is his will to lose,<br/>And gives the choice of death or phrenzy--choose.
 </p>
 
 ***
